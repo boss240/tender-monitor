@@ -1,0 +1,53 @@
+name: УЗЕ Tender Scanner
+
+on:
+  schedule:
+    # Кожні 6 годин: 02:00, 08:00, 14:00, 20:00 UTC (05:00, 11:00, 17:00, 23:00 Київ)
+    - cron: "0 2,8,14,20 * * *"
+    # Щоденний дайджест о 06:00 UTC (09:00 Київ)
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Режим сканування"
+        required: false
+        default: "incremental"
+        type: choice
+        options: [incremental, full]
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scanner
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID:   ${{ secrets.TG_CHAT_ID }}
+          UNGM_API_KEY: ${{ secrets.UNGM_API_KEY }}
+          TED_API_KEY:  ${{ secrets.TED_API_KEY }}
+          SCAN_MODE:    ${{ github.event.inputs.mode || 'incremental' }}
+          HOURS_BACK:   "6"
+        run: python scanner.py
+
+      - name: Commit updated data
+        run: |
+          git config user.email "tender-bot@monitor.local"
+          git config user.name  "Tender Bot"
+          git add data/results.json data/seen_ids.json tender-monitor.html
+          git diff --cached --quiet || git commit -m "🔄 Update tenders $(date +'%Y-%m-%d %H:%M UTC')"
+          git push
