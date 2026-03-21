@@ -3,7 +3,7 @@ import json
 from datetime import datetime, timedelta
 import time
 
-BASE = "https://public.api.prozorro.gov.ua/api/2.5"
+BASE = "https://public-api.prozorro.gov.ua/api/2.5"
 
 CPV_CODES = {
     "31154000-0": "ДБЖ (безперебійні джерела живлення)",
