@@ -1,0 +1,40 @@
+[
+  {
+    "id": "UA-2026-03-19-014688-a",
+    "_raw_id": "0ccbe9bbfbfc4ad999d33b3ed59c26e5",
+    "title": "Акумуляторна батарея",
+    "org": "Тернопільська міська рада",
+    "source": "prozorro",
+    "type": "BESS",
+    "amount": 212280.0,
+    "currency": "UAH",
+    "deadline": "2026-03-24",
+    "cpvs": [
+      "31430000-9"
+    ],
+    "status": "active.awarded",
+    "url": "https://prozorro.gov.ua/tender/0ccbe9bbfbfc4ad999d33b3ed59c26e5",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-03-24T14:58:33.577784"
+  },
+  {
+    "id": "UA-2026-03-18-013687-a",
+    "_raw_id": "36927bc9ded943ea93091d68a0a7c6dd",
+    "title": "Інверторний генератор. ",
+    "org": "Військова частина А1815",
+    "source": "prozorro",
+    "type": "Inverter",
+    "amount": 105000.0,
+    "currency": "UAH",
+    "deadline": "2026-03-27",
+    "cpvs": [
+      "31120000-3"
+    ],
+    "status": "active.tendering",
+    "url": "https://prozorro.gov.ua/tender/36927bc9ded943ea93091d68a0a7c6dd",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-03-24T14:59:25.360457"
+  }
+]

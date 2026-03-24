@@ -438,7 +438,7 @@ canvas { border-radius: var(--radius-md); }
       <div class="table-header">
         <div>
           <div class="table-title">Останні нові тендери</div>
-          <div class="table-meta">Оновлено: 21 березня 2026, 22:10 · <span class="status-dot live pulse" style="width:6px;height:6px"></span> автооновлення активне</div>
+          <div class="table-meta">Оновлено: 24.03.2026 14:59 UTC · <span class="status-dot live pulse" style="width:6px;height:6px"></span> автооновлення активне</div>
         </div>
         <button class="btn btn-ghost btn-sm" data-page-link="tenders">Всі тендери →</button>
       </div>
@@ -788,18 +788,44 @@ const daysFrom = (dStr) => {
 };
 
 const TENDERS = [
-  { id:'UA-2026-03-18-014520-a', title:'Закупівля BESS 200 кВт·год з системою управління для ОКЛ Запоріжжя', org:'ОКЛ Запоріжська обл.', source:'prozorro', type:'BESS', amount:8400000, currency:'UAH', deadline:'2026-03-28', cpvs:['31440000-2','31154000-0'], status:'new', score:95, url:'https://prozorro.gov.ua/tender/UA-2026-03-18-014520-a' },
-  { id:'UA-2026-03-17-012890-b', title:'Постачання інверторів Deye SUN-6K-SG04LP3 (60 шт.) для критичної інфраструктури', org:'Центр управління ЖКГ Харків', source:'prozorro', type:'Inverter', amount:2160000, currency:'UAH', deadline:'2026-03-29', cpvs:['31155000-7'], status:'new', score:87, url:'https://prozorro.gov.ua' },
-  { id:'UA-2026-03-15-011243-a', title:'BESS LiFePO4 500 кВт·год + BMS + підстанція 10/0.4 кВ', org:'ДТЕК Відновлювана Енергетика', source:'dtek', type:'BESS', amount:42000000, currency:'UAH', deadline:'2026-04-05', cpvs:['31440000-2','31154000-0'], status:'active', score:98, url:'https://procurement.energo.dtek.com' },
-  { id:'GP601413-SOLAR-2026-UA', title:'Solar PV Solutions in Ukraine — 25 MW PV Installation', org:'UNDP Ukraine', source:'ungm', type:'Solar', amount:4200000, currency:'USD', deadline:'2026-04-15', cpvs:['09331200-0','09332000-5'], status:'active', score:82, url:'https://www.ungm.org' },
-  { id:'UA-2026-03-12-009876-a', title:'Акумуляторні батареї для резервного живлення лікарень (78 шт.)', org:'МОЗ України, Закупівлі', source:'prozorro', type:'BESS', amount:5850000, currency:'UAH', deadline:'2026-03-25', cpvs:['31440000-2'], status:'active', score:79, url:'https://prozorro.gov.ua' },
-  { id:'TED-2026-UA-BESS-0321', title:'Energy Storage Systems for Ukrainian Power Grid Resilience (EIB)', org:'EIB / World Bank P176114', source:'ted', type:'BESS', amount:45000000, currency:'EUR', deadline:'2026-05-01', cpvs:['31440000-2','31154000-0'], status:'new', score:90, url:'https://ted.europa.eu' },
-  { id:'UA-2026-03-10-008541-a', title:'Інвертори Must 6кВт + батареї LiFePO4 5.12кВт·год (50 комплектів)', org:'Харківська міська рада', source:'prozorro', type:'Inverter', amount:3250000, currency:'UAH', deadline:'2026-03-31', cpvs:['31155000-7','31440000-2'], status:'active', score:84, url:'https://prozorro.gov.ua' },
-  { id:'DREAM-2026-031-ESS', title:'Постачання систем ESS для критичної інфраструктури (DREAM)', org:'Мінекоенерго України', source:'dream', type:'BESS', amount:19500000, currency:'UAH', deadline:'2026-04-10', cpvs:['31440000-2','31154000-0'], status:'new', score:91, url:'https://dream.gov.ua' },
-  { id:'UA-2026-03-08-007234-a', title:'Сонячні панелі 400Вт монокристалічні (500 шт.)', org:'ОСББ «Сонячне місто» Полтава', source:'prozorro', type:'Solar', amount:1875000, currency:'UAH', deadline:'2026-04-20', cpvs:['09331200-0'], status:'active', score:62, url:'https://prozorro.gov.ua' },
-  { id:'LITB-2025-9201550', title:'Long-Term Agreement — Supply & Install Inverters & BESS (UNICEF)', org:'UNICEF Ukraine', source:'ungm', type:'BESS', amount:3800000, currency:'USD', deadline:'2026-04-08', cpvs:['31155000-7','31440000-2'], status:'active', score:85, url:'https://www.ungm.org' },
-  { id:'UA-2026-03-05-005890-a', title:'ДБЖ Poweroad 10 кВт·год для ЦНАПів (30 шт.)', org:'Дніпровська міська рада', source:'prozorro', type:'BESS', amount:1620000, currency:'UAH', deadline:'2026-03-24', cpvs:['31154000-0'], status:'active', score:73, url:'https://prozorro.gov.ua' },
-  { id:'NEFCO-UA-2026-BESS', title:'Battery Storage Pilot — Community Buildings Ukraine', org:'NEFCO / Nordic Finance', source:'dream', type:'BESS', amount:2100000, currency:'EUR', deadline:'2026-04-30', cpvs:['31440000-2'], status:'new', score:76, url:'https://nefco.int/procurements' },
+  {
+    "id": "UA-2026-03-19-014688-a",
+    "_raw_id": "0ccbe9bbfbfc4ad999d33b3ed59c26e5",
+    "title": "Акумуляторна батарея",
+    "org": "Тернопільська міська рада",
+    "source": "prozorro",
+    "type": "BESS",
+    "amount": 212280.0,
+    "currency": "UAH",
+    "deadline": "2026-03-24",
+    "cpvs": [
+      "31430000-9"
+    ],
+    "status": "active.awarded",
+    "url": "https://prozorro.gov.ua/tender/0ccbe9bbfbfc4ad999d33b3ed59c26e5",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-03-24T14:58:33.577784"
+  },
+  {
+    "id": "UA-2026-03-18-013687-a",
+    "_raw_id": "36927bc9ded943ea93091d68a0a7c6dd",
+    "title": "Інверторний генератор. ",
+    "org": "Військова частина А1815",
+    "source": "prozorro",
+    "type": "Inverter",
+    "amount": 105000.0,
+    "currency": "UAH",
+    "deadline": "2026-03-27",
+    "cpvs": [
+      "31120000-3"
+    ],
+    "status": "active.tendering",
+    "url": "https://prozorro.gov.ua/tender/36927bc9ded943ea93091d68a0a7c6dd",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-03-24T14:59:25.360457"
+  }
 ];
 
 const NOTIFICATIONS = [
