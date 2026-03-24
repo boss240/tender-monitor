@@ -32,3 +32,10 @@ jobs:
           UNGM_API_KEY: ${{ secrets.UNGM_API_KEY }}
           TED_API_KEY:  ${{ secrets.TED_API_KEY }}
         run: python scanner.py
+     - name: Commit and Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add results.json tender-monitor.html data/results.json
+          git commit -m "Auto-update tenders: $(date)" || exit 0
+          git push
