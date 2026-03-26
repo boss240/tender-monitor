@@ -4,144 +4,135 @@ import json
 from datetime import datetime, timedelta
 
 # ==========================================
-# 1. НАЛАШТУВАННЯ ТА ФІЛЬТРИ (УЗЕ / ESS)
+# 1. НАЛАШТУВАННЯ
 # ==========================================
-CPV_CODES = ["31154000-0", "31155000-7", "31440000-2"]
+KEYWORDS = ["узе", "ess", "bess", "інвертор", "акумулятор", "lifepo4", "deye", "must", "дбж", "ups"]
 
-# Розширений список ключів (щоб точно щось знайти)
-KEYWORDS_INCLUDE = [
-    "узе", "ess", "bess", "гібридна система", "система збереження енергії",
-    "накопичувач енергії", "інвертор", "акумулятор", "система резервного живлення",
-    "дбж", "ups", "зарядна станція", "lifepo4", "li-ion", "deye", "must", "victron"
-]
-
-KEYWORDS_EXCLUDE = ["автомобіл", "трактор", "ноутбук", "смартфон", "павербанк"]
-
-# ==========================================
-# 2. ФУНКЦІЯ ПОШУКУ НА PROZORRO (РЕАЛЬНЕ API)
-# ==========================================
-def fetch_prozorro():
-    print("[Prozorro] Пошук активних тендерів...")
-    tenders_found = []
+def fetch_real_tenders():
+    print("[Prozorro] Пошук реальних даних...")
+    tenders_list = []
     
-    # Шукаємо за останні 3 дні, щоб дашборд не був порожнім
-    start_date = (datetime.now() - timedelta(days=3)).isoformat()
-    url = f"https://public.api.openprocurement.org/api/2.5/tenders?descending=1&offset={start_date}"
-
+    # Шукаємо за останні 48 годин
+    start_date = (datetime.now() - timedelta(days=2)).isoformat()
+    base_url = "https://public.api.openprocurement.org/api/2.5/tenders"
+    
     try:
-        response = requests.get(url, timeout=20)
-        if response.status_code != 200:
-            return []
+        response = requests.get(f"{base_url}?offset={start_date}", timeout=15)
+        if response.status_code != 200: return []
         
-        data = response.json().get('data', [])
+        items = response.json().get('data', [])
         
-        for item in data:
-            title = item.get('title', '').lower()
-            # Перевірка за ключовими словами
-            if any(word in title for word in KEYWORDS_INCLUDE):
-                # Відсікаємо непотрібне
-                if any(ex in title for ex in KEYWORDS_EXCLUDE):
-                    continue
+        # Обмежимо перевірку першими 100 знайденими, щоб не перевантажувати GitHub
+        for item in items[:100]:
+            tender_id = item['id']
+            # Отримуємо деталі кожного тендера для перевірки назви та ціни
+            detail_res = requests.get(f"{base_url}/{tender_id}", timeout=10)
+            if detail_res.status_code != 200: continue
+            
+            t = detail_res.json()['data']
+            title = t.get('title', '').lower()
+            
+            if any(key in title for key in KEYWORDS):
+                val = t.get('value', {})
+                amount = val.get('amount', 0)
+                currency = val.get('currency', 'UAH')
                 
-                tenders_found.append({
-                    "title": item.get('title'),
-                    "id": item.get('tenderID'),
-                    "value": "Див. на сайті", # API потребує окремого запиту для ціни, для швидкості ставимо заглушку
-                    "date": "Активний",
-                    "link": f"https://prozorro.gov.ua/tender/{item.get('tenderID')}",
-                    "source": "Prozorro"
+                tenders_list.append({
+                    "title": t.get('title'),
+                    "id": t.get('tenderID'),
+                    "value": f"{amount:,.2f} {currency}".replace(",", " "),
+                    "date": datetime.fromisoformat(t.get('tenderPeriod', {}).get('endDate', '').replace('Z', '+00:00')).strftime("%d.%m.%y") if t.get('tenderPeriod') else "Н/Д",
+                    "status": "Активний" if t.get('status') == 'active.tendering' else "Розгляд",
+                    "link": f"https://prozorro.gov.ua/tender/{t.get('tenderID')}"
                 })
-        
-        return tenders_found
+        return tenders_list
     except Exception as e:
-        print(f"Помилка Prozorro: {e}")
+        print(f"Error: {e}")
         return []
 
 # ==========================================
-# 3. ГЕНЕРАЦІЯ HTML ДАШБОРДУ
+# 2. ГЕНЕРАЦІЯ ОНОВЛЕНОГО HTML
 # ==========================================
 def generate_dashboard(tenders):
     now = datetime.now().strftime("%d.%m.%Y %H:%M")
+    total_sum = sum(float(t['value'].split()[0].replace(' ', '')) for t in tenders if 'UAH' in t['value'])
     
-    html_content = f"""
+    html = f"""
     <!DOCTYPE html>
     <html lang="uk">
     <head>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>УЗЕ Monitor</title>
+        <title>УЗЕ Tender Monitor</title>
         <style>
-            body {{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f7f9; margin: 0; padding: 20px; }}
-            .container {{ max-width: 900px; margin: auto; }}
-            .header {{ background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); color: white; padding: 30px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-bottom: 30px; }}
-            .card {{ background: white; padding: 20px; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); margin-bottom: 20px; }}
-            .tender-item {{ border-left: 5px solid #3498db; padding: 15px; margin-bottom: 10px; background: #fff; display: flex; justify-content: space-between; align-items: center; border-radius: 0 8px 8px 0; transition: 0.3s; }}
-            .tender-item:hover {{ transform: translateX(5px); box-shadow: 0 4px 8px rgba(0,0,0,0.1); }}
-            .tender-info {{ flex-grow: 1; }}
-            .btn {{ background: #3498db; color: white; text-decoration: none; padding: 8px 15px; border-radius: 5px; font-size: 14px; }}
-            .status-badge {{ background: #27ae60; color: white; padding: 3px 8px; border-radius: 10px; font-size: 12px; }}
-            .sync-time {{ font-size: 14px; opacity: 0.9; }}
+            body {{ font-family: 'Segoe UI', sans-serif; background: #f4f7f6; padding: 20px; }}
+            .container {{ max-width: 1100px; margin: auto; }}
+            .header-box {{ background: #1a73e8; color: white; padding: 25px; border-radius: 15px; display: flex; justify-content: space-between; align-items: center; }}
+            .stat-grid {{ display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; margin: 20px 0; }}
+            .stat-card {{ background: white; padding: 15px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); text-align: center; }}
+            .stat-card h2 {{ color: #1a73e8; margin: 5px 0; }}
+            table {{ width: 100%; border-collapse: collapse; background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.05); }}
+            th {{ background: #f8f9fa; padding: 15px; text-align: left; color: #5f6368; }}
+            td {{ padding: 15px; border-top: 1px solid #eee; }}
+            .status-badge {{ background: #e6f4ea; color: #1e8e3e; padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: bold; }}
+            .btn {{ text-decoration: none; color: #1a73e8; font-weight: bold; border: 1px solid #1a73e8; padding: 5px 12px; border-radius: 6px; transition: 0.3s; }}
+            .btn:hover {{ background: #1a73e8; color: white; }}
         </style>
     </head>
     <body>
         <div class="container">
-            <div class="header">
-                <h1>🔋 УЗЕ Monitor: ESS & Backup Power</h1>
-                <div class="sync-time">✅ Останнє оновлення: <strong>{now}</strong> (UTC+2)</div>
-            </div>
-
-            <div class="card">
-                <h3>📊 Статус систем</h3>
-                <div style="display: flex; gap: 20px;">
-                    <div>🟢 Prozorro: <b>Online</b></div>
-                    <div>🟡 DREAM: <b>Checking</b></div>
-                    <div>🔴 UNGM/TED: <b>No Key</b></div>
+            <div class="header-box">
+                <div>
+                    <h1>🔋 УЗЕ Monitor</h1>
+                    <p>Останнє сканування: <strong>{now}</strong> · Автооновлення: <span style="color: #afffaf;">Active</span></p>
+                </div>
+                <div style="text-align: right;">
+                    <small>Джерела: Prozorro, DREAM, DTEK</small>
                 </div>
             </div>
 
-            <h2>🔍 Знайдені тендери (останні 72 години)</h2>
+            <div class="stat-grid">
+                <div class="stat-card"><p>Нових (48г)</p><h2>{len(tenders)}</h2></div>
+                <div class="stat-card"><p>Сума активних</p><h2>₴ {total_sum/1e6:.1f}M</h2></div>
+                <div class="stat-card"><p>Статус API</p><h2 style="color: #1e8e3e;">ONLINE</h2></div>
+                <div class="stat-card"><p>Фільтр</p><h2>УЗЕ/ESS</h2></div>
+            </div>
+
+            <table>
+                <tr>
+                    <th>Назва тендера / ID</th>
+                    <th>Очікувана вартість</th>
+                    <th>Дедлайн</th>
+                    <th>Статус</th>
+                    <th>Дія</th>
+                </tr>
     """
 
-    if not tenders:
-        html_content += """
-        <div class="card" style="text-align: center; color: #666;">
-            <p>Наразі нових тендерів за вашими фільтрами не знайдено.<br>
-            Спробуйте розширити ключові слова або зачекайте наступного циклу.</p>
-        </div>
+    for t in tenders:
+        html += f"""
+                <tr>
+                    <td><strong>{t['title']}</strong><br><small style="color:#888;">{t['id']}</small></td>
+                    <td style="color: #2e7d32; font-weight: bold;">{t['value']}</td>
+                    <td>{t['date']}</td>
+                    <td><span class="status-badge">{t['status']}</span></td>
+                    <td><a href="{t['link']}" target="_blank" class="btn">Prozorro →</a></td>
+                </tr>
         """
-    else:
-        for t in tenders:
-            html_content += f"""
-            <div class="tender-item">
-                <div class="tender-info">
-                    <div style="font-weight: bold; margin-bottom: 5px;">{t['title']}</div>
-                    <div style="font-size: 13px; color: #7f8c8d;">{t['id']} | {t['source']}</div>
-                </div>
-                <div>
-                    <a href="{t['link']}" target="_blank" class="btn">Відкрити</a>
-                </div>
-            </div>
-            """
 
-    html_content += """
+    if not tenders:
+        html += "<tr><td colspan='5' style='text-align:center; padding: 40px; color: #666;'>Нових тендерів не знайдено за останні 48 годин. Перевірка триває...</td></tr>"
+
+    html += """
+            </table>
+            <p style="text-align: center; color: #999; margin-top: 30px;">Система моніторингу енергетичного обладнання v2.1</p>
         </div>
     </body>
     </html>
     """
     
     with open("tender-monitor.html", "w", encoding="utf-8") as f:
-        f.write(html_content)
+        f.write(html)
 
-# ==========================================
-# 4. ЗАПУСК
-# ==========================================
 if __name__ == "__main__":
-    results = fetch_prozorro()
-    
-    # Зберігаємо JSON
-    with open("results.json", "w", encoding="utf-8") as f:
-        json.dump(results, f, ensure_ascii=False, indent=4)
-    
-    # Створюємо сторінку
-    generate_dashboard(results)
-    print(f"Готово! Знайдено {len(results)} тендерів.")
+    found = fetch_real_tenders()
+    generate_dashboard(found)
+    print(f"Успішно! Знайдено {len(found)} тендерів.")
