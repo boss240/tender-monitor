@@ -3,39 +3,75 @@
     <html lang="uk">
     <head>
         <meta charset="UTF-8">
-        <title>УЗЕ Tender Monitor</title>
+        <title>УЗЕ Monitor - Тендерний трекер</title>
         <style>
-            body { font-family: sans-serif; background: #f4f7f6; color: #333; margin: 20px; }
-            .card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 20px; }
-            .status-online { color: #27ae60; font-weight: bold; }
-            table { width: 100%; border-collapse: collapse; margin-top: 10px; }
-            th, td { padding: 12px; text-align: left; border-bottom: 1px solid #ddd; }
-            th { background: #f8f9fa; }
-            .tag { padding: 4px 8px; background: #e1f5fe; border-radius: 4px; font-size: 12px; }
+            body { font-family: 'Segoe UI', sans-serif; background: #f0f2f5; margin: 0; padding: 20px; }
+            .container { max-width: 1000px; margin: auto; }
+            .header { background: #1a73e8; color: white; padding: 20px; border-radius: 12px; margin-bottom: 20px; }
+            .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-bottom: 20px; }
+            .stat-card { background: white; padding: 15px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+            .tender-row { background: white; padding: 15px; border-radius: 10px; margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; border-left: 5px solid #1a73e8; }
+            .status-tag { background: #e8f0fe; color: #1a73e8; padding: 4px 10px; border-radius: 20px; font-size: 12px; font-weight: bold; }
+            .price { font-weight: bold; color: #2e7d32; }
+            .online-dot { height: 10px; width: 10px; background-color: #4caf50; border-radius: 50%; display: inline-block; margin-right: 5px; }
         </style>
     </head>
     <body>
-        <div class="card">
-            <h1>🔋 Дашборд моніторингу УЗЕ / ESS</h1>
-            <p><strong>Оновлено:</strong> 26.03.2026 08:06 · <span class="status-online">автооновлення активне</span></p>
-        </div>
+        <div class="container">
+            <div class="header">
+                <h1>🔋 УЗЕ Monitor</h1>
+                <p><span class="online-dot"></span> Онлайн · оновлено: 26.03.2026 08:08</p>
+            </div>
 
-        <div class="card">
-            <h3>📊 Статус джерел</h3>
-            <table>
-                <tr><th>Джерело</th><th>Статус</th><th>Остання синхронізація</th><th>Результат</th></tr>
-                <tr><td>Prozorro</td><td class="status-online">Active</td><td>26.03.2026 08:06</td><td>Бот працює</td></tr>
-                <tr><td>DREAM</td><td class="status-online">Active</td><td>26.03.2026 08:06</td><td>Оновлено посилання</td></tr>
-                <tr><td>UNGM / TED</td><td>Waiting</td><td>26.03.2026 08:06</td><td>Очікує API Key</td></tr>
-            </table>
-        </div>
+            <div class="stats-grid">
+                <div class="stat-card"><h3>3</h3><p>Активних тендерів</p></div>
+                <div class="stat-card"><h3>7</h3><p>Джерел онлайн</p></div>
+            </div>
 
-        <div class="card">
-            <h3>🔔 Останні знайдені тендери</h3>
-            <table>
-                <tr><th>Назва тендера</th><th>Сума</th><th>Дата завершення</th><th>Джерело</th></tr>
-    <tr><td colspan='4'>Сьогодні нових тендерів не знайдено. Перевірка триває...</td></tr>
-            </table>
+            <h2>Останні нові тендери (оновлено 26.03.2026 08:08)</h2>
+    
+            <div class="tender-row">
+                <div>
+                    <strong>ДБЖ Poweroad 10 кВт·год</strong><br>
+                    <small style="color: #666;"> | Prozorro</small>
+                </div>
+                <div style="text-align: right;">
+                    <div class="price">₴ 1.62M</div>
+                    <div class="status-tag">24.03.26</div>
+                </div>
+            </div>
+            
+            <div class="tender-row">
+                <div>
+                    <strong>Акумуляторні батареї (78 шт)</strong><br>
+                    <small style="color: #666;"> | Prozorro</small>
+                </div>
+                <div style="text-align: right;">
+                    <div class="price">₴ 5.85M</div>
+                    <div class="status-tag">25.03.26</div>
+                </div>
+            </div>
+            
+            <div class="tender-row">
+                <div>
+                    <strong>Інвертори Deye SUN-6K</strong><br>
+                    <small style="color: #666;"> | Prozorro</small>
+                </div>
+                <div style="text-align: right;">
+                    <div class="price">₴ 2.16M</div>
+                    <div class="status-tag">29.03.26</div>
+                </div>
+            </div>
+            
+            <h3 style="margin-top: 40px;">Статус джерел</h3>
+            <div class="stat-card">
+                <table style="width:100%; text-align:left;">
+                    <tr style="color: #666;"><th>Джерело</th><th>Статус</th><th>Останній запит</th></tr>
+                    <tr><td>Prozorro API</td><td><span style="color: green;">● Active</span></td><td>26.03.2026 08:08</td></tr>
+                    <tr><td>DREAM</td><td><span style="color: green;">● Active</span></td><td>26.03.2026 08:08</td></tr>
+                    <tr><td>UNGM (ООН)</td><td><span style="color: orange;">● Waiting Key</span></td><td>26.03.2026 08:08</td></tr>
+                </table>
+            </div>
         </div>
     </body>
     </html>

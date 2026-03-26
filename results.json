@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "title": "ДБЖ Poweroad 10 кВт·год",
+        "value": "1.62M",
+        "date": "24.03.26",
+        "source": "Prozorro"
+    },
+    {
+        "title": "Акумуляторні батареї (78 шт)",
+        "value": "5.85M",
+        "date": "25.03.26",
+        "source": "Prozorro"
+    },
+    {
+        "title": "Інвертори Deye SUN-6K",
+        "value": "2.16M",
+        "date": "29.03.26",
+        "source": "Prozorro"
+    }
+]
