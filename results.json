@@ -1,12 +1,32 @@
 [
     {
-        "title": "Зарядний хаб Autel для зарядки акумуляторів EVO Max 4T",
-        "id": "UA-2026-03-01-000395-a",
-        "value": "₴ 272 880.00 UAH",
-        "amount_raw": 272880.0,
-        "deadline": "10.03.2026",
+        "title": "Газонокосарка акумуляторна RMA453.3 PV",
+        "id": "UA-2026-03-20-003641-a",
+        "value": "₴ 37 236.00 UAH",
+        "amount_raw": 37236.0,
+        "deadline": "Не вказано",
         "status": "Інший",
-        "link": "https://prozorro.gov.ua/tender/UA-2026-03-01-000395-a",
+        "link": "https://prozorro.gov.ua/tender/UA-2026-03-20-003641-a",
+        "region": "Львівська область"
+    },
+    {
+        "title": "Послуга з заміни акумулятора в системі пожежної сигналізації",
+        "id": "UA-2026-03-20-003624-a",
+        "value": "₴ 1 050.00 UAH",
+        "amount_raw": 1050.0,
+        "deadline": "Не вказано",
+        "status": "Інший",
+        "link": "https://prozorro.gov.ua/tender/UA-2026-03-20-003624-a",
         "region": "Україна"
+    },
+    {
+        "title": "Блок безпереьійного живлення Powercom 2000VA\nБатарея для ДБЖ 12V-7H",
+        "id": "UA-2026-03-20-003586-a",
+        "value": "₴ 42 250.00 UAH",
+        "amount_raw": 42250.0,
+        "deadline": "Не вказано",
+        "status": "Інший",
+        "link": "https://prozorro.gov.ua/tender/UA-2026-03-20-003586-a",
+        "region": "Тернопільська область"
     }
 ]
