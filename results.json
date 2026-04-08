@@ -1,5 +1,26 @@
 [
   {
+    "id": "UA-2026-03-26-010121-a",
+    "_raw_id": "809c4a2a0dd94edbada96fea12d92318",
+    "title": "ДК 021:2015 - 31150000-2 - Баласти для розрядних ламп чи трубок (Гібридний інвертор та акумуляторні батареї)",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО ПОЛТАВАОБЛЕНЕРГО",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 13000000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-08",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/809c4a2a0dd94edbada96fea12d92318",
+    "is_new": true,
+    "score": 85,
+    "fetched_at": "2026-04-08T11:12:22.234210"
+  },
+  {
     "id": "UA-2026-03-20-009920-a",
     "_raw_id": "aebdb5ec5893401faea13af58d9813ae",
     "title": "ДК 021:2015 31150000-2 Баласти для розрядних ламп чи трубок (комплект: сонячний інвертор Deye SUN-20K-SG05LP3-EU-SM2, 20 кВт, 3-фазний або «еквівалент»;  акумуляторна батарея Deye SE-G5.1Pro-B LiFePO4 51,2V/100AH, 5120W*h або «еквівалент») для Лебединського закладу загальної середньої освіти І-ІІІ ступенів № 7 Лебединської міської ради Сумської області\n",
@@ -37,9 +58,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/d8e947ccd6ec4d8289537661258ae153",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-04-08T06:04:21.657988"
+  },
+  {
+    "id": "UA-2026-04-08-002340-a",
+    "_raw_id": "a5697823dd334baa9e999c85f8c2d2ad",
+    "title": "Гібридний інвертор DEYE SUN-30K-SG02HP3-EU-AM3 30kW 230V 3 MPPT Wi-Fi Трифазний (DEYE SUN-30K-SG02HP3-EU-AM3) (код ДК 021:2015: 31150000-2 - Баласти для розрядних ламп чи трубок)",
+    "org": "Відділ освіти Куяльницької сільської ради Подільського району Одеської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 155000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-13",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/a5697823dd334baa9e999c85f8c2d2ad",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-04-08T11:40:36.864625"
   },
   {
     "id": "UA-2026-03-20-006846-a",
@@ -121,9 +163,51 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/b56299d66f3e44b4bb260e69c0c789ca",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-04-08T06:08:10.419373"
+  },
+  {
+    "id": "UA-2026-03-23-004336-a",
+    "_raw_id": "8a3bead271334f8fa072b78d77d5cb22",
+    "title": "31155000-7 — Інвертори (Гібридний інвертор SUN-6K-SG05LP1-EU-AM2-P (або еквівалент) для потреб ЗСУ)",
+    "org": "Департамент оборонної роботи, забезпечення законності та правопорядку Сумської обласної державної адміністрації ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 366383.0,
+    "currency": "UAH",
+    "deadline": "2026-04-06",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/8a3bead271334f8fa072b78d77d5cb22",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-04-08T11:03:53.265084"
+  },
+  {
+    "id": "UA-2026-04-08-002370-a",
+    "_raw_id": "d3975af40bd3423c80e286639325fba2",
+    "title": "Батареї акумуляторні для джерела безперебійного живлення APC SMART UPS SRT-6000 (SRT6KRMXLI)",
+    "org": "ХАРКІВСЬКА МИТНИЦЯ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 32551.92,
+    "currency": "UAH",
+    "deadline": "2026-04-16",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/d3975af40bd3423c80e286639325fba2",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-04-08T11:30:16.383355"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -352,7 +436,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/44631e6c02754a7985c3bc3337859f11",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-08T05:51:29.656569"
   },
@@ -373,7 +457,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/93ef1c496b5c4582a56614e5535b6617",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-08T05:54:56.421084"
   },
@@ -394,7 +478,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/89c563f9c2d849a98d6aa77117ffa3d8",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-08T06:11:10.619862"
   },
@@ -415,7 +499,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/8e3e73a7e70a4128b0d0395d3d18ffb9",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-08T06:11:47.240175"
   },
@@ -436,9 +520,135 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/a825756a94e948d58db794e671516a83",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-08T06:15:34.977502"
+  },
+  {
+    "id": "UA-2026-04-08-001467-a",
+    "_raw_id": "b67d8aa344764db7bfedb680b27404a5",
+    "title": "акумулятрона батарея (ДК 021:2015: 31440000-2 акумуляторні батареї)",
+    "org": "1 ДЕРЖАВНИЙ ПОЖЕЖНО-РЯТУВАЛЬНИЙ ЗАГІН ГОЛОВНОГО УПРАВЛІННЯ ДЕРЖАВНОЇ СЛУЖБИ УКРАЇНИ З НАДЗВИЧАЙНИХ СИТУАЦІЙ У ВІННИЦЬКІЙ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 4568.4,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/b67d8aa344764db7bfedb680b27404a5",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-08T11:06:17.224411"
+  },
+  {
+    "id": "UA-2026-04-08-001885-a",
+    "_raw_id": "8a5bd2579ef44f8399a1ccde8d5f171c",
+    "title": " Гібридний інвентор Deye SUN-6K-SG05LP1-EU-AM2-P.",
+    "org": "СОЦІАЛЬНО-ГУМАНІТАРНИЙ ВІДДІЛ ОПІШНЯНСЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 46840.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/8a5bd2579ef44f8399a1ccde8d5f171c",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-08T11:18:16.527475"
+  },
+  {
+    "id": "UA-2026-04-08-002062-a",
+    "_raw_id": "c07473d7375c4ebe95884271d1c72a4c",
+    "title": "Акумуляторні батареї ",
+    "org": "Київський національний університет імені Тараса Шевченка",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 91998.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/c07473d7375c4ebe95884271d1c72a4c",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-08T11:23:10.754007"
+  },
+  {
+    "id": "UA-2026-04-08-002081-a",
+    "_raw_id": "22cd11777f7a49bca39edb52e1ce5322",
+    "title": "Акумуляторні батареї",
+    "org": "Державний навчальний заклад \"Шумське професійно-технічне училище\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 9000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/22cd11777f7a49bca39edb52e1ce5322",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-08T11:24:58.715980"
+  },
+  {
+    "id": "UA-2026-04-08-002740-a",
+    "_raw_id": "c25a9971f35a484ab29495095abc3bfa",
+    "title": "Акумуляторна батарея",
+    "org": "Державна установа \"Кагарлицька виправна колонія (№115)\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 4890.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/c25a9971f35a484ab29495095abc3bfa",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-08T11:39:54.809749"
+  },
+  {
+    "id": "UA-2026-04-08-002795-a",
+    "_raw_id": "8d0cb21176954bb6a81f9b0a92a12f56",
+    "title": "Акумулятор Forse 6CT-74. 720A EN за кодом ЄЗС ДК 021:2015 31440000-2 акумуляторні батареї.",
+    "org": "Недригайлівська селищна рада",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 3800.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/8d0cb21176954bb6a81f9b0a92a12f56",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-08T11:41:28.019680"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -604,7 +814,7 @@
     "cpv": "31155000-7",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/dfea1ac005154718b0d043ac65770ee1",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-08T05:49:46.843356"
   },
@@ -625,7 +835,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/b9961dd22e434cfd85c688161d3452bf",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-08T05:50:23.246808"
   },
@@ -646,7 +856,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/9b41c5b85da94954a1ba92a63dfcdc58",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-08T05:58:51.065051"
   },
@@ -667,7 +877,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/57483ce858ab4194b6691f35440c045f",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-08T06:00:28.972214"
   },
@@ -688,7 +898,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/a8b2801fadb64f9a8a6e8c748cf20928",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-08T06:10:06.850093"
   },
@@ -709,7 +919,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/485a0d3fa73443188e1c78820a903ee8",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-08T06:11:30.143481"
   },
@@ -730,7 +940,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/8ba7d975b7be40dd82ac74b55f006eb7",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-08T06:13:05.058790"
   },
@@ -751,9 +961,156 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/edb2fafba8f14470b88ab3d70a2fbea7",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-08T06:14:16.741083"
+  },
+  {
+    "id": "UA-2026-04-08-000369-a",
+    "_raw_id": "062a1ea4b94e471f841f0350aa3cea77",
+    "title": "Джерела безперебійного живлення (ДК 021:2015: 31154000-0-Джерела безперебійного живлення)",
+    "org": "Комунальна Установа \"Мачухівський центр культури, дозвілля та бібліотечних послуг\" Мачухівської сільської ради Полтавського району Полтавської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 3226.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/062a1ea4b94e471f841f0350aa3cea77",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-08T10:28:47.417767"
+  },
+  {
+    "id": "UA-2026-04-02-006777-a",
+    "_raw_id": "75eb85574f9c42709448ed1207deb82e",
+    "title": "Джерело безперебійного живлення для потреб зв’язку спеціального призначення",
+    "org": "Управління Державної служби спеціального зв'язку та захисту інформації України в Кіровоградській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 60000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-11",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/75eb85574f9c42709448ed1207deb82e",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-08T10:32:34.405463"
+  },
+  {
+    "id": "UA-2026-03-31-008335-a",
+    "_raw_id": "d581b4235ddd4a0c8a17817719dee031",
+    "title": "Система резервного живлення",
+    "org": "Відділ освіти Роменської міської ради Сумської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 126000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-08",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/d581b4235ddd4a0c8a17817719dee031",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-08T10:32:44.630716"
+  },
+  {
+    "id": "UA-2026-04-02-014322-a",
+    "_raw_id": "70d6c2d80cf3408da1f82190d6200e9d",
+    "title": "ДК 021:2015 - 31150000-2 - (Зарядний пристрій для «LAZERTAG» С 20)",
+    "org": "Військова частина А1890",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 72500.0,
+    "currency": "UAH",
+    "deadline": "2026-04-15",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/70d6c2d80cf3408da1f82190d6200e9d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-08T11:19:17.764493"
+  },
+  {
+    "id": "UA-2026-04-08-002311-a",
+    "_raw_id": "c17c05c0bfe344d785b3cd58b5b375fb",
+    "title": "Джерела безперебійного живлення",
+    "org": "Комунальне некомерційне підприємство “Центр первинної медико-санітарної допомоги Краснокутської селищної ради” Богодухівського району Харківської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 25200.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/c17c05c0bfe344d785b3cd58b5b375fb",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-08T11:29:04.405582"
+  },
+  {
+    "id": "UA-2026-04-08-002461-a",
+    "_raw_id": "23f6bc00d8354a07b08af33429d0943b",
+    "title": "Зарядний пристрій",
+    "org": "Державна установа \"Кагарлицька виправна колонія (№115)\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 2190.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/23f6bc00d8354a07b08af33429d0943b",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-08T11:32:17.110708"
+  },
+  {
+    "id": "UA-2026-04-08-002481-a",
+    "_raw_id": "e6bce416de654cce84228af08d1145f0",
+    "title": "Джерела безперебійного живлення",
+    "org": "ФОНД ДЕРЖАВНОГО МАЙНА УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 97510.8,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/e6bce416de654cce84228af08d1145f0",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-08T11:33:31.632134"
   },
   {
     "id": "UA-2026-03-20-008862-a",
@@ -794,7 +1151,7 @@
     "cpv": "31120000-3",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/996fb3f0e95042b99c1664057ecd62d2",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-04-08T05:48:57.187691"
   },
@@ -816,7 +1173,7 @@
     "cpv": "31120000-3",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/966d32959fcb4ec38d240d436a6fc6d1",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-04-08T06:20:58.760100"
   },
@@ -837,7 +1194,7 @@
     "cpv": "31120000-3",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/9238f618e620445f804545da9096f43b",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-04-08T06:23:42.180044"
   },
@@ -858,8 +1215,72 @@
     "cpv": "31120000-3",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/99c77f232d4540939e8da56b482c2cc5",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-04-08T06:26:02.136232"
+  },
+  {
+    "id": "UA-2026-04-02-002866-a",
+    "_raw_id": "97245ad005c24f289fa827649210308e",
+    "title": "Генератор інверторний Könner&Söhnen KS 3300i (3,3 кВт), генератор бензиновий Könner&Söhnen KS7000 (5,5 кВт)",
+    "org": "Помічнянська міська рада",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 307687.0,
+    "currency": "UAH",
+    "deadline": "2026-04-07",
+    "cpvs": [
+      "31120000-3",
+      "31120000-3"
+    ],
+    "cpv": "31120000-3",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/97245ad005c24f289fa827649210308e",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-04-08T11:04:12.109052"
+  },
+  {
+    "id": "UA-2026-04-08-002900-a",
+    "_raw_id": "61dbf1a3f6ac4a168826a5261e420baf",
+    "title": "ДК 021:2015: 31120000-3 — Генератори (Інверторний бензиновий генератор)",
+    "org": "Виконавчий комітет Путивльської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 232400.0,
+    "currency": "UAH",
+    "deadline": "2026-04-20",
+    "cpvs": [
+      "31120000-3"
+    ],
+    "cpv": "31120000-3",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/61dbf1a3f6ac4a168826a5261e420baf",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-04-08T11:45:16.896087"
+  },
+  {
+    "id": "UA-2026-03-27-011787-a",
+    "_raw_id": "65a75bc34cd64e27810ffee06072b153",
+    "title": "Генератор інверторний бензиновий Hyundai HHY 9050si",
+    "org": "Військова частина А4438",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 1295279.2,
+    "currency": "UAH",
+    "deadline": "2026-04-07",
+    "cpvs": [
+      "31120000-3"
+    ],
+    "cpv": "31120000-3",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/65a75bc34cd64e27810ffee06072b153",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-04-08T11:46:45.299472"
   }
 ]
