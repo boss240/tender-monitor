@@ -1,0 +1,55 @@
+name: УЗЕ Tender Scanner
+
+on:
+  schedule:
+    # Час UTC → Київ = UTC+2 (зима) / UTC+3 (літо)
+    # Для 07:00 Київ (літо) = 04:00 UTC
+    # Для 12:00 Київ (літо) = 09:00 UTC
+    # Для 18:00 Київ (літо) = 15:00 UTC
+    - cron: "0 4 * * *"     # 07:00 Київ
+    - cron: "0 9 * * *"     # 12:00 Київ
+    - cron: "0 15 * * *"    # 18:00 Київ
+  workflow_dispatch:          # Кнопка "Run workflow" в GitHub
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write         # Для git push results.json
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scanner
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: |
+          python scanner.py --hours 12 --digest-only
+
+      - name: Commit updated results
+        run: |
+          git config user.name "UZE Tender Bot"
+          git config user.email "bot@tender-monitor.local"
+          git add results.json data/seen_ids.json uze_tender_dashboard.html || true
+          git diff --staged --quiet || git commit -m "🔄 Tender scan $(date +'%Y-%m-%d %H:%M UTC')"
+          git push || echo "Nothing to push"
+
+      - name: Upload results artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: tender-results-${{ github.run_number }}
+          path: results.json
+          retention-days: 30
