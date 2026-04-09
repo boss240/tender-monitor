@@ -84,6 +84,48 @@
     "fetched_at": "2026-04-08T11:40:36.864625"
   },
   {
+    "id": "UA-2026-03-24-012697-a",
+    "_raw_id": "8c925efbe4654748928d555fe8116d48",
+    "title": "ДК 021:2015: 31150000-2 «Баласти для розрядних ламп чи трубок»  (гібридний інвертор SUN-20K-SG05LP3-EU-SM2 Deye WiFi (20kW, 3 фази, 2 МРРТ, LV); )  (АБО ЕКВІВАЛЕНТ),  акумуляторна батарея SE-F5 Pro-C Deye (LifePO4 51,2V 100Ah 5,12kWh) )  (АБО ЕКВІВАЛЕНТ))\n",
+    "org": "Управління освіти Конотопської міської ради Сумської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 323000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-01",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/8c925efbe4654748928d555fe8116d48",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-04-09T05:51:56.013908"
+  },
+  {
+    "id": "UA-2026-04-01-008123-a",
+    "_raw_id": "e405c8501fc24f5c9cec57b3b1545576",
+    "title": "Джерело безперебійного живлення на базі гібридного інвертора Must PV18-3524ECO, 3500 BT 24 B, в комплекті з акумуляторною батареєю Eco-Worthy LiFePO4 25,6V 100Ah, (100/100А) (або еквівалент) ,  згідно з ДК 021:2015 – 31150000-2 Баласти для розрядних ламп чи трубок",
+    "org": "ГОЛОВНЕ УПРАВЛІННЯ ДЕРЖАВНОЇ СЛУЖБИ УКРАЇНИ З НАДЗВИЧАЙНИХ СИТУАЦІЙ У ЛЬВІВСЬКІЙ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 304500.0,
+    "currency": "UAH",
+    "deadline": "2026-04-09",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/e405c8501fc24f5c9cec57b3b1545576",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-04-09T06:13:59.011624"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -224,11 +266,11 @@
       "31155000-7"
     ],
     "cpv": "31155000-7",
-    "status": "active",
+    "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/2081d6a87b5a4cc78c13301d8eb1115e",
-    "is_new": false,
+    "is_new": true,
     "score": 70,
-    "fetched_at": "2026-03-27T10:41:56.438324"
+    "fetched_at": "2026-04-09T06:02:05.940422"
   },
   {
     "id": "UA-2026-03-20-007874-a",
@@ -649,6 +691,90 @@
     "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-08T11:41:28.019680"
+  },
+  {
+    "id": "UA-2026-03-27-002201-a",
+    "_raw_id": "ab06fe024f6143cb8c9b27754699c37c",
+    "title": "Акумуляторні батареї 3S1P",
+    "org": "військова частина А5063",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 400000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-07",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/ab06fe024f6143cb8c9b27754699c37c",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-09T05:55:02.499923"
+  },
+  {
+    "id": "UA-2026-04-01-013027-a",
+    "_raw_id": "df9c23042fb24a16915b527f8bac2dab",
+    "title": "Акумуляторні батареї у рамках реалізації проєкту «Довговічні та ефективні нанотехнологічні паливні елементи (URANUS)», що виконується на основі грантової угоди (номер G6166), що фінансується міжнародною фінансовою організацією SPS NATO, код ДК 021:2015 (CPV) : 31440000-2 Акумуляторні батареї",
+    "org": "КАРПАТСЬКИЙ НАЦІОНАЛЬНИЙ УНІВЕРСИТЕТ ІМЕНІ ВАСИЛЯ СТЕФАНИКА",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 39000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-09",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/df9c23042fb24a16915b527f8bac2dab",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-09T06:01:08.005127"
+  },
+  {
+    "id": "UA-2026-03-31-003378-a",
+    "_raw_id": "5f33bb452018437e813185e97ec81d28",
+    "title": "Баласти для розрядних ламп чи трубок (номенклатурна позиція за кодом ДК 021:2015 - 31154000-0 Джерела безперебійного живлення) Джерело безперебійного живлення типу CMX EVAC-500BC (або еквівалент) в комплекті: - Акумуляторна батарея типу Full Energy FEP-1212 (або еквівалент) – 2 штуки.",
+    "org": "4 територіальний вузол урядового зв'язку Державної служби спеціального зв'язку та захисту інформації України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 735000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-09",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/5f33bb452018437e813185e97ec81d28",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-09T06:26:25.630087"
+  },
+  {
+    "id": "UA-2026-04-09-000110-a",
+    "_raw_id": "22c2c6879c274135bf0b9102652cc47f",
+    "title": "Акумуляторні батареї (акумуляторна батарея)",
+    "org": "ЧЕРКАСЬКЕ  УПРАВЛІННЯ  ЗАХИСНИХ МАСИВІВ  ДНІПРОВСЬКИХ ВОДОСХОВИЩ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1262.04,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/22c2c6879c274135bf0b9102652cc47f",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-09T06:32:20.371478"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -1113,6 +1239,195 @@
     "fetched_at": "2026-04-08T11:33:31.632134"
   },
   {
+    "id": "UA-2026-04-01-005131-a",
+    "_raw_id": "430450ef4c0647cfbd1f426569858632",
+    "title": "Пристрій безперебійного живлення APC BV1000I-GR (або еквівалент)»,  згідно з ДК 021:2015 – 31150000-2 Баласти для розрядних ламп чи трубок\n\n",
+    "org": "ГОЛОВНЕ УПРАВЛІННЯ ДЕРЖАВНОЇ СЛУЖБИ УКРАЇНИ З НАДЗВИЧАЙНИХ СИТУАЦІЙ У ЛЬВІВСЬКІЙ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 558404.0,
+    "currency": "UAH",
+    "deadline": "2026-04-09",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/430450ef4c0647cfbd1f426569858632",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-09T06:13:21.724396"
+  },
+  {
+    "id": "UA-2026-04-01-009656-a",
+    "_raw_id": "b46bd3c3b56d4a0681d9b708d5829799",
+    "title": "«Зарядні станції» за кодом ДК 021:2015 – 31150000-2 «Баласти для розрядних ламп чи трубок»\n",
+    "org": "ЗАХІДНЕ МІЖРЕГІОНАЛЬНЕ ГОЛОВНЕ УПРАВЛІННЯ ДЕРЖАВНОЇ СЛУЖБИ УКРАЇНИ З ПИТАНЬ БЕЗПЕЧНОСТІ ХАРЧОВИХ ПРОДУКТІВ ТА ЗАХИСТУ СПОЖИВАЧІВ НА ДЕРЖАВНОМУ КОРДОНІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 1540000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-09",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/b46bd3c3b56d4a0681d9b708d5829799",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-09T06:15:19.295264"
+  },
+  {
+    "id": "UA-2026-04-03-012160-a",
+    "_raw_id": "873155ddbd6c44c8b005fa7051e6ea6e",
+    "title": "Баласти для розрядних ламп чи трубок (Пусковий зарядний пристрій)",
+    "org": "Військова частина А3269",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 200000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-14",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/873155ddbd6c44c8b005fa7051e6ea6e",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-09T06:25:31.551534"
+  },
+  {
+    "id": "UA-2026-04-01-005351-a",
+    "_raw_id": "7e0b4d3c4a8b43cb949b7e0cfe4afb24",
+    "title": "Джерела безперебійного живлення згідно коду національного класифікатора України ДК 021:2015 «Єдиний закупівельний словник» – 31150000-2 «Баласти для розрядних ламп чи трубок»",
+    "org": "Головне управління Державної служби України з надзвичайних ситуацій у Полтавській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 774626.8,
+    "currency": "UAH",
+    "deadline": "2026-04-09",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/7e0b4d3c4a8b43cb949b7e0cfe4afb24",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-09T06:28:26.298709"
+  },
+  {
+    "id": "UA-2026-04-09-000064-a",
+    "_raw_id": "226c2c74430b4cb885fdcf848df57e7b",
+    "title": "запасні частини до автотранспорту",
+    "org": "Дніпропетровська дослідна станція Інституту овочівництва і баштанництва Національної академії аграрних наук України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 3991.74,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/226c2c74430b4cb885fdcf848df57e7b",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-09T06:30:22.000859"
+  },
+  {
+    "id": "UA-2026-04-09-000118-a",
+    "_raw_id": "faa32d07191e4a7f814edad079644777",
+    "title": "Блок безперебійного живлення.",
+    "org": "Комунальне некомерційне підприємство \"Глибоцька багатопрофільна лікарня\" Глибоцької селищної ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 6336.75,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/faa32d07191e4a7f814edad079644777",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-09T06:34:15.245974"
+  },
+  {
+    "id": "UA-2026-04-09-000117-a",
+    "_raw_id": "f8f2e7b195a1407485f93e48b54aae67",
+    "title": "Придбання джерел безперебійного живлення (акамулятор 105 Ap, зарядне 20А, інвентор 2,6 кВт), джерело безперебійного живлення для роутера. Закупівля проводиться на додаткові кошти",
+    "org": "Відділ освіти, молоді та спорту Грунської сільської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 47630.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/f8f2e7b195a1407485f93e48b54aae67",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-09T06:34:32.781827"
+  },
+  {
+    "id": "UA-2026-04-09-000250-a",
+    "_raw_id": "0e5c407e47e44437b098228a1cc40fd7",
+    "title": "блок живлення\n",
+    "org": "ЧЕРНІВЕЦЬКЕ МІСЬКЕ КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"МІСЬКСВІТЛО\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 21305.76,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/0e5c407e47e44437b098228a1cc40fd7",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-09T06:37:44.127253"
+  },
+  {
+    "id": "UA-2026-03-31-000589-a",
+    "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
+    "title": "Генератор інверторний Könner&Söhnen KS 4500i",
+    "org": "Військова частина А4438",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 7614445.71,
+    "currency": "UAH",
+    "deadline": "2026-04-03",
+    "cpvs": [
+      "31120000-3"
+    ],
+    "cpv": "31120000-3",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/03c8f99b32854900b7b10271b8fcd93c",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-04-09T05:52:16.681620"
+  },
+  {
     "id": "UA-2026-03-20-008862-a",
     "_raw_id": "f3d2e93123634cfa8fcb366f1763b528",
     "title": "Інверторний генератор",
@@ -1282,5 +1597,47 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-04-08T11:46:45.299472"
+  },
+  {
+    "id": "UA-2026-03-31-004191-a",
+    "_raw_id": "9cc80c1f93e34a8a9d7cc61108ecc0a9",
+    "title": "Генератор бензиновий інверторний",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 3053 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 59997.0,
+    "currency": "UAH",
+    "deadline": "2026-04-09",
+    "cpvs": [
+      "31120000-3"
+    ],
+    "cpv": "31120000-3",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/9cc80c1f93e34a8a9d7cc61108ecc0a9",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-04-09T06:03:56.968343"
+  },
+  {
+    "id": "UA-2026-04-01-001028-a",
+    "_raw_id": "f9170d6f06f14b1883608cc6394997e7",
+    "title": "ДК 021:2015 Єдиного закупівельного словника 31120000-3 – Генератори (Дизельний інверторний генератор 5-6 кВт)",
+    "org": "Військова частина А4742",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 2731740.0,
+    "currency": "UAH",
+    "deadline": "2026-04-09",
+    "cpvs": [
+      "31120000-3"
+    ],
+    "cpv": "31120000-3",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/f9170d6f06f14b1883608cc6394997e7",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-04-09T06:12:25.183347"
   }
 ]
