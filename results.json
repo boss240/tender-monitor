@@ -126,6 +126,27 @@
     "fetched_at": "2026-04-09T06:13:59.011624"
   },
   {
+    "id": "UA-2026-04-10-000115-a",
+    "_raw_id": "6666bf3b69b04875a324b62704c0ef27",
+    "title": "Гібридний інвертор Deye SUN-8K-SG05LP1-EU-AM2-P, 48 B, 8000 Вт, 1 фаза",
+    "org": "Військова частина A4779",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 55580.0,
+    "currency": "UAH",
+    "deadline": "2026-04-21",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/6666bf3b69b04875a324b62704c0ef27",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-04-10T06:34:51.465407"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -310,9 +331,30 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/a5889b03cd3a433081df8f21c0a3f0c6",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-04-09T17:30:13.667663"
+  },
+  {
+    "id": "UA-2026-04-02-000250-a",
+    "_raw_id": "b7e84eb68b3948148d9e4d8d1938ff49",
+    "title": "Система безперебійного живлення (гібридна інверторна система з акумуляторними батареями) 31154000-0 Джерела безперебійного живлення",
+    "org": "Відділ освіти, молоді та спорту Шевченківської сільської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1260000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-10",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/b7e84eb68b3948148d9e4d8d1938ff49",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-04-10T06:16:18.469357"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -1087,9 +1129,72 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/416ed4588d30473888f3dc705b0c4147",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-09T17:28:41.402137"
+  },
+  {
+    "id": "UA-2026-04-03-012713-a",
+    "_raw_id": "728c1075db054299a827c712a5c26a89",
+    "title": "Акумуляторна збірка Li-ion 14s 76 А/год (код 31440000-2 – Акумуляторні батареї за ДК 0212015 Єдиного закупівельного словника)",
+    "org": "Військова частина А4919",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 3668969.7,
+    "currency": "UAH",
+    "deadline": "2026-04-14",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/728c1075db054299a827c712a5c26a89",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-10T06:04:37.752255"
+  },
+  {
+    "id": "UA-2026-04-06-007421-a",
+    "_raw_id": "ab85a3e0828a41a38ae0c9c4745a3cc5",
+    "title": "ДБЖ АРС BV1000VA",
+    "org": "КИЇВСЬКИЙ ІНСТИТУТ НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 52532.0,
+    "currency": "UAH",
+    "deadline": "2026-04-14",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/ab85a3e0828a41a38ae0c9c4745a3cc5",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-10T06:11:43.455746"
+  },
+  {
+    "id": "UA-2026-04-02-008259-a",
+    "_raw_id": "61e445943aa049219515564220722554",
+    "title": "Акумулятори -  (ДК 021:2015:31440000-2: Акумуляторні батареї)\n",
+    "org": "ДЕРЖАВНЕ БЮРО РОЗСЛІДУВАНЬ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 130726.0,
+    "currency": "UAH",
+    "deadline": "2026-04-10",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/61e445943aa049219515564220722554",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-10T06:22:06.668404"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -1995,6 +2100,195 @@
     "fetched_at": "2026-04-09T11:29:41.560382"
   },
   {
+    "id": "UA-2026-04-09-012739-a",
+    "_raw_id": "4d5139fb41a34c44a326e48ff7d0a537",
+    "title": "Клема АКБ мідна",
+    "org": "КЗ \"Ковалівський ліцей\" Немирівської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 170.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/4d5139fb41a34c44a326e48ff7d0a537",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-10T06:02:47.723683"
+  },
+  {
+    "id": "UA-2026-04-09-011474-a",
+    "_raw_id": "22d5a4f77a37424eb58ce67145b88de9",
+    "title": "Джерела резервного живлення ",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЕНЕРГОДІМ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 960000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-17",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/22d5a4f77a37424eb58ce67145b88de9",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-10T06:07:06.859424"
+  },
+  {
+    "id": "UA-2026-04-09-011155-a",
+    "_raw_id": "5c095f00323d436cb6c91007e2737cca",
+    "title": "Джерела резервного живлення ",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЕНЕРГОДІМ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 960000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-17",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/5c095f00323d436cb6c91007e2737cca",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-10T06:07:14.397902"
+  },
+  {
+    "id": "UA-2026-04-09-002158-a",
+    "_raw_id": "c5792571f1f94d01ac4477b1463c3e7c",
+    "title": "Закупівля обладнання для генерації та акумулювання електричної енергії станції резервного\nживлення\n",
+    "org": "Комунальне підприємство  \"Ямпільводоканал\" ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 1900000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-21",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/c5792571f1f94d01ac4477b1463c3e7c",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-10T06:07:33.089113"
+  },
+  {
+    "id": "UA-2026-04-09-010580-a",
+    "_raw_id": "f3a0966ed18a4001a21409f190d99794",
+    "title": "Джерела резервного живлення ",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЕНЕРГОДІМ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 960000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-17",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/f3a0966ed18a4001a21409f190d99794",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-10T06:07:41.699579"
+  },
+  {
+    "id": "UA-2026-03-17-003721-a",
+    "_raw_id": "2e990f3ff8b84c8ca5cbfaafed327af4",
+    "title": "Елементи системи технічних засобів охорони та відеонагляду (АКБ)",
+    "org": "Військова частина А2788",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 20400.0,
+    "currency": "UAH",
+    "deadline": "2026-03-25",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/2e990f3ff8b84c8ca5cbfaafed327af4",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-10T06:11:25.579825"
+  },
+  {
+    "id": "UA-2026-03-31-010237-a",
+    "_raw_id": "a1f6c4008b16458f846f2bfaa2e30ba8",
+    "title": "Система безперебійного живлення ",
+    "org": "Мринська сільська рада Ніжинського району Чернігівської області ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 420000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-10",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/a1f6c4008b16458f846f2bfaa2e30ba8",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-10T06:33:14.830402"
+  },
+  {
+    "id": "UA-2026-04-10-000172-a",
+    "_raw_id": "b8e1b4cf705f4e01868101ff9720fd7a",
+    "title": "Пристрій безперебійного живлення",
+    "org": "ВІДДІЛ ОСВІТИ, КУЛЬТУРИ, СПОРТУ, МОЛОДІЖНОЇ ПОЛІТИКИ ТА ОХОРОНИ ЗДОРОВ'Я ІРШАНСЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 8946.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/b8e1b4cf705f4e01868101ff9720fd7a",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-10T06:37:00.896156"
+  },
+  {
+    "id": "UA-2026-04-10-000229-a",
+    "_raw_id": "e14aa16ceb0a451190898b0e66886763",
+    "title": "Баласт Vossloh-Schwabe ELXc 136/244 (T8 1 х  36W) CN",
+    "org": "ОДЕСЬКИЙ НАЦІОНАЛЬНИЙ АКАДЕМІЧНИЙ ТЕАТР ОПЕРИ ТА БАЛЕТУ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 5560.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/e14aa16ceb0a451190898b0e66886763",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-10T06:39:15.375006"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -2057,6 +2351,27 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-04-09T10:55:43.969263"
+  },
+  {
+    "id": "UA-2026-04-02-012778-a",
+    "_raw_id": "be3df1b467404ec3a2891cf0edd069e5",
+    "title": "Придбання комплекту безперебійного живлення (інвертор гібридний потужністю не менше 3кВт та батарея акумуляторна Li Fe Po4 номінальна ємкість 15кВт/год) з монтажем",
+    "org": "Відділ освіти виконкому Металургійної районної у місті ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 300000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-10",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/be3df1b467404ec3a2891cf0edd069e5",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-04-10T06:10:46.866846"
   },
   {
     "id": "UA-2026-03-20-008862-a",
@@ -2356,5 +2671,69 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-04-09T11:12:33.758643"
+  },
+  {
+    "id": "UA-2026-04-07-009662-a",
+    "_raw_id": "4b3a4f651d0e4bd3822346fb6ce0a39a",
+    "title": "Інверторний генератор",
+    "org": "ГОЛОВНЕ УПРАВЛІННЯ ПЕНСІЙНОГО ФОНДУ УКРАЇНИ В ХЕРСОНСЬКІЙ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 60000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-10",
+    "cpvs": [
+      "31120000-3"
+    ],
+    "cpv": "31120000-3",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/4b3a4f651d0e4bd3822346fb6ce0a39a",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-04-10T06:16:55.280431"
+  },
+  {
+    "id": "UA-2026-04-07-008299-a",
+    "_raw_id": "f2603c64a2cc4dd7b037f8d53d51c84b",
+    "title": "Генератори інверторні, вид палива бензин,  номінальна потужність 5-6 кВт, 1 фаза , 4х-тактний двигун; Генератор бензиновий, 9-11 кВт, 4-х-тактний двигун, обсяг паливного баку 50-60 л, портативний",
+    "org": "ВІДДІЛ ОСВІТИ, МОЛОДІ ТА СПОРТУ АНДРІЯШІВСЬКОЇ СІЛЬСЬКОЇ РАДИ РОМЕНСЬКОГО РАЙОНУ СУМСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 255389.0,
+    "currency": "UAH",
+    "deadline": "2026-04-10",
+    "cpvs": [
+      "31120000-3",
+      "31120000-3"
+    ],
+    "cpv": "31120000-3",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/f2603c64a2cc4dd7b037f8d53d51c84b",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-04-10T06:35:35.938981"
+  },
+  {
+    "id": "UA-2026-04-07-007652-a",
+    "_raw_id": "53793b8458d64f0c8087a9a62ad54d30",
+    "title": "Генератор дизельний інверторний KS 6100iDE ATSR\n",
+    "org": "Військова частина А0284",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 748600.0,
+    "currency": "UAH",
+    "deadline": "2026-04-10",
+    "cpvs": [
+      "31120000-3"
+    ],
+    "cpv": "31120000-3",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/53793b8458d64f0c8087a9a62ad54d30",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-04-10T06:40:27.509707"
   }
 ]
