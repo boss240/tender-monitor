@@ -1533,6 +1533,69 @@
     "fetched_at": "2026-04-10T11:38:48.430136"
   },
   {
+    "id": "UA-2026-02-25-003017-a",
+    "_raw_id": "7b59071d7b4244c7a1e09afaf9cbdf30",
+    "title": "Акумуляторні елементи живлення",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО ВИКОНАВЧОГО ОРГАНУ КИЇВРАДИ (КИЇВСЬКОЇ МІСЬКОЇ ДЕРЖАВНОЇ АДМІНІСТРАЦІЇ) \"КИЇВТЕПЛОЕНЕРГО\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 504210.79,
+    "currency": "UAH",
+    "deadline": "2026-03-16",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/7b59071d7b4244c7a1e09afaf9cbdf30",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-11T05:26:22.052871"
+  },
+  {
+    "id": "UA-2026-04-07-000433-a",
+    "_raw_id": "5a6634181dea4db2ac20734a5dce2c0b",
+    "title": "Акумулятор ELECTRON 126Ah бокова(+/-) (1225EN)(д282*ш269*в230) NATO AGM",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 3057 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 215199.96,
+    "currency": "UAH",
+    "deadline": "2026-04-15",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/5a6634181dea4db2ac20734a5dce2c0b",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-11T05:33:47.009744"
+  },
+  {
+    "id": "UA-2026-04-07-000443-a",
+    "_raw_id": "36a74c36554443cf95d96d6ceb330ca9",
+    "title": "Акумуляторні батареї.",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 3057 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1692287.55,
+    "currency": "UAH",
+    "deadline": "2026-04-15",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/36a74c36554443cf95d96d6ceb330ca9",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-11T05:33:49.538949"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -2746,7 +2809,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/d00364de8db84349a69f76aaadbc858f",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-10T17:30:34.690936"
   },
@@ -2767,9 +2830,72 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/f63c5f0116cd4adaa4a53d56e27b56b4",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-10T17:30:49.838578"
+  },
+  {
+    "id": "UA-2026-04-03-005411-a",
+    "_raw_id": "d703140d0d6a420a9d62f49995d45716",
+    "title": "Баласти для розрядних ламп чи трубок (Пристрій безперебійного живлення) код 31150000-2 за ДК 021:2015 Єдиного закупівельного словника",
+    "org": "РЕГІОНАЛЬНИЙ СЕРВІСНИЙ ЦЕНТР ГСЦ МВС В М. КИЄВІ (ФІЛІЯ ГСЦ МВС)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 390000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-11",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/d703140d0d6a420a9d62f49995d45716",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-11T05:33:09.443452"
+  },
+  {
+    "id": "UA-2026-04-03-008880-a",
+    "_raw_id": "50d3794137124a499a3a122b99ee3694",
+    "title": "Змінно - запасні частини електрообладнання до контейнерних перевантажувачів",
+    "org": "ДЕРЖАВНЕ ПІДПРИЄМСТВО \"МОРСЬКИЙ ТОРГОВЕЛЬНИЙ ПОРТ \"ЧОРНОМОРСЬК\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 112869.9,
+    "currency": "UAH",
+    "deadline": "2026-04-11",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/50d3794137124a499a3a122b99ee3694",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-11T05:41:37.555788"
+  },
+  {
+    "id": "UA-2026-04-03-010430-a",
+    "_raw_id": "3a106e7ea256470e8efddf6d36678688",
+    "title": "Блоки безперебійного живлення",
+    "org": "Військова частина 2144",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 53970.0,
+    "currency": "UAH",
+    "deadline": "2026-04-11",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/3a106e7ea256470e8efddf6d36678688",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-11T05:43:53.801531"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -3323,5 +3449,28 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-04-10T11:27:10.706989"
+  },
+  {
+    "id": "UA-2026-03-25-007416-a",
+    "_raw_id": "7559f09fa956477da379b35dcefed33b",
+    "title": "31680000-6 Електричне приладдя та супутні товари до електричного обладнання  Зарядний пристрій для акумуляторних батарейок (ІТ, Північне ТУОМ)",
+    "org": "ПРИВАТНЕ АКЦІОНЕРНЕ ТОВАРИСТВО \"НАЦІОНАЛЬНА ЕНЕРГЕТИЧНА КОМПАНІЯ \"УКРЕНЕРГО\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 6803.8,
+    "currency": "UAH",
+    "deadline": "2026-04-03",
+    "cpvs": [
+      "31680000-6",
+      "31680000-6",
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/7559f09fa956477da379b35dcefed33b",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-04-11T05:29:06.598356"
   }
 ]
