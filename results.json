@@ -1612,7 +1612,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/a2ebc025a11b48d5888f11c796cc8623",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-11T09:54:20.276704"
   },
@@ -1633,7 +1633,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/2069010bd54c4238a0ffa0045562e47b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-11T09:55:38.539513"
   },
@@ -2956,7 +2956,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/e4cc8380cf4c418dac0be427c7813edd",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-11T09:53:09.615235"
   },
@@ -2977,9 +2977,114 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/3b2585c432b54035957798444c0af102",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-11T09:57:53.090466"
+  },
+  {
+    "id": "UA-2026-04-07-003666-a",
+    "_raw_id": "4821317e2935497ca4b2d8e6451db028",
+    "title": "Система безперебійного живлення",
+    "org": "Макіївська сільська рада",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 420000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-16",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/4821317e2935497ca4b2d8e6451db028",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-11T15:54:00.274178"
+  },
+  {
+    "id": "UA-2026-04-07-004309-a",
+    "_raw_id": "9948e9d59a04411c8c3297f944d923c3",
+    "title": "Система безперебійного живлення",
+    "org": "Відділ освіти, молоді та спорту Вільшанської сільської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 320000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-16",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/9948e9d59a04411c8c3297f944d923c3",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-11T15:54:35.560809"
+  },
+  {
+    "id": "UA-2026-04-04-000521-a",
+    "_raw_id": "08d198ff9f924ad8898bf520062f3e62",
+    "title": "3115000-2 Баласти для розрядних ламп чи трубок (Система безперебійного живлення: ТИП 1  – 1 комплект, ТИП 2  –  3 комплекти )",
+    "org": "КЗ Науковий ліцей № 3 Полтавської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 1685609.32,
+    "currency": "UAH",
+    "deadline": "2026-04-15",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/08d198ff9f924ad8898bf520062f3e62",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-11T15:54:46.672698"
+  },
+  {
+    "id": "UA-2026-04-11-000320-a",
+    "_raw_id": "700479b34e83412bbc54970d133b438c",
+    "title": "Майно зв’язку",
+    "org": "військова частина А0501",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 88800.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/700479b34e83412bbc54970d133b438c",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-11T15:55:28.690510"
+  },
+  {
+    "id": "UA-2026-04-11-000328-a",
+    "_raw_id": "837225476e474809b1a3aae72a44798f",
+    "title": "Майно зв’язку",
+    "org": "військова частина А0501",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 56028.8,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/837225476e474809b1a3aae72a44798f",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-11T15:55:37.201223"
   },
   {
     "id": "UA-2026-03-31-000589-a",
