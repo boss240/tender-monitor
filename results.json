@@ -2998,7 +2998,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/4821317e2935497ca4b2d8e6451db028",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-11T15:54:00.274178"
   },
@@ -3019,7 +3019,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/9948e9d59a04411c8c3297f944d923c3",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-11T15:54:35.560809"
   },
@@ -3040,7 +3040,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/08d198ff9f924ad8898bf520062f3e62",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-11T15:54:46.672698"
   },
@@ -3061,7 +3061,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/700479b34e83412bbc54970d133b438c",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-11T15:55:28.690510"
   },
@@ -3082,9 +3082,51 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/837225476e474809b1a3aae72a44798f",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-11T15:55:37.201223"
+  },
+  {
+    "id": "UA-2026-03-30-003724-a",
+    "_raw_id": "f9299b8d4e3a43f99ff663af34a8cf71",
+    "title": "«Зарядні станції» за кодом ДК 021:2015 – 31150000-2 «Баласти для розрядних ламп чи трубок»\n",
+    "org": "ЗАХІДНЕ МІЖРЕГІОНАЛЬНЕ ГОЛОВНЕ УПРАВЛІННЯ ДЕРЖАВНОЇ СЛУЖБИ УКРАЇНИ З ПИТАНЬ БЕЗПЕЧНОСТІ ХАРЧОВИХ ПРОДУКТІВ ТА ЗАХИСТУ СПОЖИВАЧІВ НА ДЕРЖАВНОМУ КОРДОНІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 1720000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-08",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/f9299b8d4e3a43f99ff663af34a8cf71",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-12T05:56:40.106653"
+  },
+  {
+    "id": "UA-2026-04-03-007441-a",
+    "_raw_id": "f2df97dee52f42f7ac56ad9911daa970",
+    "title": "Баласти для розрядних ламп чи трубок",
+    "org": "Комунальне некомерційне підприємство Іванківської селищної ради \"Іванківська центральна районна лікарня\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 584670.0,
+    "currency": "UAH",
+    "deadline": "2026-04-12",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/f2df97dee52f42f7ac56ad9911daa970",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-12T05:59:33.399324"
   },
   {
     "id": "UA-2026-03-31-000589-a",
