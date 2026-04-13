@@ -1,0 +1,70 @@
+nohup: ignoring input
+=== UZE 13.04.2026 09:32 ===
+Memory: 26
+[Prozorro] Page 1: +100 (total: 100)
+[Prozorro] Page 2: +100 (total: 200)
+[Prozorro] Page 3: +100 (total: 300)
+[Prozorro] Page 4: +100 (total: 400)
+[Prozorro] Page 5: +100 (total: 500)
+[Prozorro] Page 6: +100 (total: 600)
+[Prozorro] Page 7: +100 (total: 700)
+[Prozorro] Page 8: +100 (total: 800)
+[Prozorro] Page 9: +100 (total: 900)
+[Prozorro] Page 10: +100 (total: 1000)
+[Prozorro] Page 11: +100 (total: 1100)
+[Prozorro] Page 12: +100 (total: 1200)
+[Prozorro] Page 13: +100 (total: 1300)
+[Prozorro] Page 14: +100 (total: 1400)
+[Prozorro] Page 15: +100 (total: 1500)
+[Prozorro] Page 16: +100 (total: 1600)
+[Prozorro] Page 17: +100 (total: 1700)
+[Prozorro] Page 18: +100 (total: 1800)
+[Prozorro] Page 19: +100 (total: 1900)
+[Prozorro] Page 20: +100 (total: 2000)
+[Prozorro] Page 21: +100 (total: 2100)
+[Prozorro] Page 22: +100 (total: 2200)
+[Prozorro] Page 23: +100 (total: 2300)
+[Prozorro] Page 24: +100 (total: 2400)
+[Prozorro] Page 25: +100 (total: 2500)
+[Prozorro] Page 26: +100 (total: 2600)
+[Prozorro] Page 27: +100 (total: 2700)
+[Prozorro] Page 28: +100 (total: 2800)
+[Prozorro] Page 29: +100 (total: 2900)
+[Prozorro] Page 30: +100 (total: 3000)
+[Prozorro] Page 31: +100 (total: 3100)
+[Prozorro] Page 32: +100 (total: 3200)
+[Prozorro] Page 33: +100 (total: 3300)
+[Prozorro] Page 34: +100 (total: 3400)
+[Prozorro] Page 35: +100 (total: 3500)
+[Prozorro] Page 36: +100 (total: 3600)
+[Prozorro] Page 37: +100 (total: 3700)
+[Prozorro] Page 38: +100 (total: 3800)
+[Prozorro] Page 39: +100 (total: 3900)
+[Prozorro] Page 40: +100 (total: 4000)
+[Prozorro] Page 41: +100 (total: 4100)
+[Prozorro] Page 42: +100 (total: 4200)
+[Prozorro] Page 43: +100 (total: 4300)
+[Prozorro] Page 44: +100 (total: 4400)
+[Prozorro] Page 45: +100 (total: 4500)
+[Prozorro] Page 46: +100 (total: 4600)
+[Prozorro] Page 47: +100 (total: 4700)
+[Prozorro] Page 48: +100 (total: 4800)
+[Prozorro] Page 49: +100 (total: 4900)
+[Prozorro] Page 50: +100 (total: 5000)
+[Prozorro] Total IDs: 5000, checking...
+[Prozorro] Done. Checked: 4974, Found: 1
+[Prozorro] Skipped: 39 (CPV black) | 604 (kw excl) | 4330 (no match)
+[NEFCO] Scanning...
+[NEFCO] Found: 0
+[TED] Scanning...
+[TED] Found: 0
+[Smart] Scanning...
+[Smart] Found: 0
+[UNGM] Scanning...
+[UNGM] Found: 0
+[DREAM] Scanning...
+[DREAM] Found: 0
+New: 1
+Total: 198
+  TG: [70] Акумуляторна батарея
+=== DONE 10:13:35 ===
