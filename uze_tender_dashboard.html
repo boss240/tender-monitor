@@ -3529,5 +3529,43 @@ updateScheduleDots();
 setInterval(updateScheduleDots, 60000);
 initCharts();
 </script>
+
+<script>
+document.addEventListener('click', function(e) {
+  var row = e.target.closest('tr');
+  if (!row || row.parentElement.tagName === 'THEAD') return;
+  var link = row.querySelector('a');
+  if (link) { window.open(link.href, '_blank'); return; }
+  var cells = row.querySelectorAll('td');
+  if (cells.length > 1) {
+    var txt = row.textContent;
+    var m = txt.match(/UA-[\d-]+[a-z]?/);
+    if (m) window.open('https://prozorro.gov.ua/tender/' + m[0], '_blank');
+  }
+});
+document.querySelectorAll('tbody tr').forEach(function(r){r.style.cursor='pointer'});
+
+var sortDir = 'desc';
+document.querySelectorAll('thead th').forEach(function(th, i) {
+  th.style.cursor = 'pointer';
+  th.addEventListener('click', function() {
+    var tbody = th.closest('table').querySelector('tbody');
+    if (!tbody) return;
+    var rows = Array.from(tbody.querySelectorAll('tr'));
+    rows.sort(function(a, b) {
+      var va = a.cells[i] ? a.cells[i].textContent.trim() : '';
+      var vb = b.cells[i] ? b.cells[i].textContent.trim() : '';
+      var na = parseFloat(va.replace(/[^\d.-]/g,''));
+      var nb = parseFloat(vb.replace(/[^\d.-]/g,''));
+      if (!isNaN(na) && !isNaN(nb)) return sortDir === 'asc' ? na - nb : nb - na;
+      return sortDir === 'asc' ? va.localeCompare(vb) : vb.localeCompare(va);
+    });
+    sortDir = sortDir === 'asc' ? 'desc' : 'asc';
+    rows.forEach(function(r) { tbody.appendChild(r); });
+    document.querySelectorAll('thead th').forEach(function(t){t.style.color=''});
+    th.style.color = '#00d4ff';
+  });
+});
+</script>
 </body>
 </html>
