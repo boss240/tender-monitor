@@ -2095,9 +2095,30 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/4c0f570485cd49bfb0fd9c5a0abe6047",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-14T11:20:46.458146"
+  },
+  {
+    "id": "UA-2026-04-14-002855-a",
+    "_raw_id": "7f794e8b45a24e9f9b0cf4faf1c922f6",
+    "title": "Акумуляторні батареї (код ДК 021:2015:31440000-2 – Акумуляторні батареї)",
+    "org": "ПРИВАТНЕ АКЦІОНЕРНЕ ТОВАРИСТВО ПО ГАЗОПОСТАЧАННЮ ТА ГАЗИФІКАЦІЇ \"ДОНЕЦЬКОБЛГАЗ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 99170.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/7f794e8b45a24e9f9b0cf4faf1c922f6",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-14T17:49:02.042578"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -3082,9 +3103,9 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/c5792571f1f94d01ac4477b1463c3e7c",
-    "is_new": false,
+    "is_new": true,
     "score": 65,
-    "fetched_at": "2026-04-10T06:07:33.089113"
+    "fetched_at": "2026-04-14T17:43:40.594541"
   },
   {
     "id": "UA-2026-04-09-010580-a",
@@ -3460,7 +3481,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/4821317e2935497ca4b2d8e6451db028",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-14T10:42:06.576724"
   },
@@ -3754,7 +3775,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/0afe03431dd94f109f7f8cebf88c2e7c",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-14T10:40:10.159122"
   },
@@ -3775,7 +3796,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/b4cb2e15f46b4ff885b82573e818fea0",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-14T10:54:31.679941"
   },
