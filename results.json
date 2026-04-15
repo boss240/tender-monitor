@@ -247,7 +247,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/1dcac4fece154019902296978fc9a400",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-04-15T06:06:53.486049"
   },
@@ -269,7 +269,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/1b618ab9069f4678b377a25d01c545f6",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-04-15T06:32:55.081156"
   },
@@ -479,9 +479,9 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/b7e84eb68b3948148d9e4d8d1938ff49",
-    "is_new": false,
+    "is_new": true,
     "score": 75,
-    "fetched_at": "2026-04-10T06:16:18.469357"
+    "fetched_at": "2026-04-15T10:53:36.068090"
   },
   {
     "id": "UA-2026-04-10-000688-a",
@@ -626,9 +626,30 @@
     "cpv": "31155000-7",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/19b92b145076426ca4b32f85cd5927a9",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-04-15T06:33:48.672163"
+  },
+  {
+    "id": "UA-2026-04-15-001314-a",
+    "_raw_id": "84e2a70c333a40a39d1deaaa5d562603",
+    "title": "Гібридний інвертор",
+    "org": "ПІВДЕННЕ ОДЕСЬКЕ ТЕРИТОРІАЛЬНЕ УПРАВЛІННЯ НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ (ВІЙСЬКОВА ЧАСТИНА 3003) (М.ОДЕСА)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/84e2a70c333a40a39d1deaaa5d562603",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-04-15T11:05:10.229348"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -1781,7 +1802,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/5a6634181dea4db2ac20734a5dce2c0b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-15T06:20:37.053889"
   },
@@ -1802,7 +1823,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/36a74c36554443cf95d96d6ceb330ca9",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-15T06:21:04.481727"
   },
@@ -1844,7 +1865,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/2069010bd54c4238a0ffa0045562e47b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-15T06:21:23.450600"
   },
@@ -2201,7 +2222,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/ae3e8fc57d824655baf6422cea911844",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-15T06:08:02.386395"
   },
@@ -2222,7 +2243,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/56e151950da0475ba5c83aa54227ff94",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-15T06:13:04.001033"
   },
@@ -2243,9 +2264,51 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/d0ee14a636394145bf29831eb9644a99",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-15T06:28:45.779169"
+  },
+  {
+    "id": "UA-2026-04-15-001142-a",
+    "_raw_id": "e3e2fd190c214d3ea3c2533b99916f86",
+    "title": "Акумуляторні батареї",
+    "org": "Військова частина А5011",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 42450.0,
+    "currency": "UAH",
+    "deadline": "2026-04-24",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e3e2fd190c214d3ea3c2533b99916f86",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-15T11:00:37.604660"
+  },
+  {
+    "id": "UA-2026-04-14-002299-a",
+    "_raw_id": "06ce06341cd2426abbde1632cff1e5b6",
+    "title": "Акумуляторні батареї",
+    "org": "Комунальне некомерційне товариство «Обласний центр екстреної медичної допомоги та медицини катастроф» Дніпропетровської обласної ради» ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1647590.0,
+    "currency": "UAH",
+    "deadline": "2026-04-22",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/06ce06341cd2426abbde1632cff1e5b6",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-15T11:11:53.822600"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -3545,9 +3608,9 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/3a106e7ea256470e8efddf6d36678688",
-    "is_new": false,
+    "is_new": true,
     "score": 65,
-    "fetched_at": "2026-04-11T05:43:53.801531"
+    "fetched_at": "2026-04-15T10:49:44.899113"
   },
   {
     "id": "UA-2026-04-03-006329-a",
@@ -3944,7 +4007,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/066f1ed7c9ca4a008e0a2740d5112ba7",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-15T06:06:08.143103"
   },
@@ -3965,9 +4028,51 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/2234260c3c414c858c7e9dc36f195ba2",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-15T06:39:10.181504"
+  },
+  {
+    "id": "UA-2026-03-24-000953-a",
+    "_raw_id": "5c40547ba3864095b7265fbd11982fb5",
+    "title": "Джерела живлення",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"СУМИОБЛЕНЕРГО\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 500000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-01",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/5c40547ba3864095b7265fbd11982fb5",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-15T10:45:22.231736"
+  },
+  {
+    "id": "UA-2026-03-27-003719-a",
+    "_raw_id": "e08d8a9b7c7b4d6b9968e4b000354bac",
+    "title": "Пристрій безперебійного живлення",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"МІСЬКСВІТЛО\" КРЕМЕНЧУЦЬКОЇ МІСЬКОЇ РАДИ КРЕМЕНЧУЦЬКОГО РАЙОНУ ПОЛТАВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 3724000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-04",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/e08d8a9b7c7b4d6b9968e4b000354bac",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-15T10:59:54.347713"
   },
   {
     "id": "UA-2026-03-31-000589-a",
