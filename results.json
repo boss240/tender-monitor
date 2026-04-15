@@ -479,7 +479,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/b7e84eb68b3948148d9e4d8d1938ff49",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-04-15T10:53:36.068090"
   },
@@ -647,7 +647,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/84e2a70c333a40a39d1deaaa5d562603",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-04-15T11:05:10.229348"
   },
@@ -2285,7 +2285,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/e3e2fd190c214d3ea3c2533b99916f86",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-15T11:00:37.604660"
   },
@@ -2306,7 +2306,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/06ce06341cd2426abbde1632cff1e5b6",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-15T11:11:53.822600"
   },
@@ -3608,7 +3608,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/3a106e7ea256470e8efddf6d36678688",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-15T10:49:44.899113"
   },
@@ -4049,7 +4049,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/5c40547ba3864095b7265fbd11982fb5",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-15T10:45:22.231736"
   },
@@ -4070,9 +4070,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/e08d8a9b7c7b4d6b9968e4b000354bac",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-15T10:59:54.347713"
+  },
+  {
+    "id": "UA-2026-04-09-003260-a",
+    "_raw_id": "c35af960d05543dba871127757884bde",
+    "title": "Хаби для зарядки АКБ AUTEL Evo Max 4T",
+    "org": "Військова частина А2896",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 2005734.0,
+    "currency": "UAH",
+    "deadline": "2026-04-18",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/c35af960d05543dba871127757884bde",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-15T17:31:12.044871"
   },
   {
     "id": "UA-2026-03-31-000589-a",
