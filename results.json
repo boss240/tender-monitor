@@ -231,6 +231,49 @@
     "fetched_at": "2026-04-14T06:42:26.191168"
   },
   {
+    "id": "UA-2026-04-06-014167-a",
+    "_raw_id": "1dcac4fece154019902296978fc9a400",
+    "title": "Комплект Гібридний інвертор Deye SUN-8K-SG05LP1-EU-AM2-PLUS (8 кВт, 1 фаза) або еквівалент; Акумулятори Deye SE-G5.1 Pro-B (10.24 кВт·год, LiFePO4) або еквівалент.",
+    "org": "КП \"Феодосіївські муніципальні послуги\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 160000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-14",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/1dcac4fece154019902296978fc9a400",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-04-15T06:06:53.486049"
+  },
+  {
+    "id": "UA-2026-04-09-003367-a",
+    "_raw_id": "1b618ab9069f4678b377a25d01c545f6",
+    "title": "Джерело безперебійного живлення",
+    "org": "Комунальне некомерційне підприємство \"Консультативно - діагностичний центр Дніпровського району м. Києва\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 930000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-20",
+    "cpvs": [
+      "31154000-0",
+      "31155000-7"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/1b618ab9069f4678b377a25d01c545f6",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-04-15T06:32:55.081156"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -565,6 +608,27 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-04-14T06:48:22.594504"
+  },
+  {
+    "id": "UA-2026-04-07-004917-a",
+    "_raw_id": "19b92b145076426ca4b32f85cd5927a9",
+    "title": "Інвертор (в комплекті з акумуляторною батареєю)",
+    "org": "Військова частина 2144",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1997842.0,
+    "currency": "UAH",
+    "deadline": "2026-04-15",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/19b92b145076426ca4b32f85cd5927a9",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-04-15T06:33:48.672163"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -1715,11 +1779,11 @@
       "31440000-2"
     ],
     "cpv": "31440000-2",
-    "status": "active",
+    "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/5a6634181dea4db2ac20734a5dce2c0b",
-    "is_new": false,
+    "is_new": true,
     "score": 70,
-    "fetched_at": "2026-04-11T05:33:47.009744"
+    "fetched_at": "2026-04-15T06:20:37.053889"
   },
   {
     "id": "UA-2026-04-07-000443-a",
@@ -1736,11 +1800,11 @@
       "31440000-2"
     ],
     "cpv": "31440000-2",
-    "status": "active",
+    "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/36a74c36554443cf95d96d6ceb330ca9",
-    "is_new": false,
+    "is_new": true,
     "score": 70,
-    "fetched_at": "2026-04-11T05:33:49.538949"
+    "fetched_at": "2026-04-15T06:21:04.481727"
   },
   {
     "id": "UA-2026-04-11-000069-a",
@@ -1778,11 +1842,11 @@
       "31440000-2"
     ],
     "cpv": "31440000-2",
-    "status": "active",
+    "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/2069010bd54c4238a0ffa0045562e47b",
-    "is_new": false,
+    "is_new": true,
     "score": 70,
-    "fetched_at": "2026-04-11T09:55:38.539513"
+    "fetched_at": "2026-04-15T06:21:23.450600"
   },
   {
     "id": "UA-2026-04-12-000240-a",
@@ -2116,9 +2180,72 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/7f794e8b45a24e9f9b0cf4faf1c922f6",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-14T17:49:02.042578"
+  },
+  {
+    "id": "UA-2026-04-14-012293-a",
+    "_raw_id": "ae3e8fc57d824655baf6422cea911844",
+    "title": "Акумуляторні батареї (Хустське надлісництво)",
+    "org": "ФІЛІЯ \"КАРПАТСЬКИЙ ЛІСОВИЙ ОФІС\" ДЕРЖАВНОГО СПЕЦІАЛІЗОВАНОГО ГОСПОДАРСЬКОГО ПІДПРИЄМСТВА \"ЛІСИ УКРАЇНИ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 112164.73,
+    "currency": "UAH",
+    "deadline": "2026-04-23",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/ae3e8fc57d824655baf6422cea911844",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-15T06:08:02.386395"
+  },
+  {
+    "id": "UA-2026-04-09-005372-a",
+    "_raw_id": "56e151950da0475ba5c83aa54227ff94",
+    "title": "Акумуляторні батареї ",
+    "org": "Військова частина А7047",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1230000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-20",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/56e151950da0475ba5c83aa54227ff94",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-15T06:13:04.001033"
+  },
+  {
+    "id": "UA-2026-04-06-006209-a",
+    "_raw_id": "d0ee14a636394145bf29831eb9644a99",
+    "title": "Акумуляторні батареї до Autel EVO MAX 4T/4N",
+    "org": "Військова частина 9938 Державної прикордонної служби України 3 прикордонний загін імені Героя України полковника Євгенія Пікуса",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1170000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-15",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/d0ee14a636394145bf29831eb9644a99",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-15T06:28:45.779169"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -3103,7 +3230,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/c5792571f1f94d01ac4477b1463c3e7c",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-14T17:43:40.594541"
   },
@@ -3799,6 +3926,48 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-14T10:54:31.679941"
+  },
+  {
+    "id": "UA-2026-04-14-012134-a",
+    "_raw_id": "066f1ed7c9ca4a008e0a2740d5112ba7",
+    "title": "Комплект Volt Polska ULTRA PLUS 7000 24/230V (3500/700W)",
+    "org": "КАТЕРИНІВСЬКА СІЛЬСЬКА РАДА КРОПИВНИЦЬКОГО РАЙОНУ КІРОВОГРАДСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 96438.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/066f1ed7c9ca4a008e0a2740d5112ba7",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-15T06:06:08.143103"
+  },
+  {
+    "id": "UA-2026-04-06-012199-a",
+    "_raw_id": "2234260c3c414c858c7e9dc36f195ba2",
+    "title": "Джерела безперебійного живлення",
+    "org": "Військова частина Т0920",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 362765.0,
+    "currency": "UAH",
+    "deadline": "2026-04-15",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/2234260c3c414c858c7e9dc36f195ba2",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-15T06:39:10.181504"
   },
   {
     "id": "UA-2026-03-31-000589-a",
