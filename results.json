@@ -4154,7 +4154,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/ab560ff664464f589f80cd9e69bbdf5e",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-16T10:38:47.079152"
   },
@@ -4242,6 +4242,27 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-04-10T06:10:46.866846"
+  },
+  {
+    "id": "UA-2026-04-16-003269-a",
+    "_raw_id": "03a3af4bd89d4f09b39f5564455a8b66",
+    "title": "Придбання комплекту безперебійного живлення (інвертор гібридний потужністю не менше 3кВт та батарея акумуляторна Li Fe Po4 номінальна ємкість 15кВт/год) з монтажем",
+    "org": "Відділ освіти виконкому Металургійної районної у місті ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 300000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-24",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/03a3af4bd89d4f09b39f5564455a8b66",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-04-16T17:36:21.351341"
   },
   {
     "id": "UA-2026-03-20-008862-a",
