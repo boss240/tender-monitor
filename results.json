@@ -142,9 +142,9 @@
     "cpv": "31155000-7",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6666bf3b69b04875a324b62704c0ef27",
-    "is_new": false,
+    "is_new": true,
     "score": 80,
-    "fetched_at": "2026-04-10T06:34:51.465407"
+    "fetched_at": "2026-04-16T06:44:06.940425"
   },
   {
     "id": "UA-2026-04-07-011475-a",
@@ -393,11 +393,11 @@
       "31440000-2"
     ],
     "cpv": "31440000-2",
-    "status": "active",
+    "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/d3975af40bd3423c80e286639325fba2",
-    "is_new": false,
+    "is_new": true,
     "score": 75,
-    "fetched_at": "2026-04-08T11:30:16.383355"
+    "fetched_at": "2026-04-16T06:28:35.325572"
   },
   {
     "id": "UA-2026-03-30-007483-a",
@@ -2311,6 +2311,27 @@
     "fetched_at": "2026-04-15T11:11:53.822600"
   },
   {
+    "id": "UA-2026-04-07-006589-a",
+    "_raw_id": "b875b6100f5045999e4ddb3f50697481",
+    "title": "Акумуляторні батареї (Акумулятори), код ДК 021:2015 - 31440000-2 - Акумуляторні батареї.",
+    "org": "Комунальне підприємство \"Чернівецьке тролейбусне управління\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1478091.66,
+    "currency": "UAH",
+    "deadline": "2026-04-16",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/b875b6100f5045999e4ddb3f50697481",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-16T06:26:33.373740"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -4091,9 +4112,30 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/c35af960d05543dba871127757884bde",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-15T17:31:12.044871"
+  },
+  {
+    "id": "UA-2026-04-08-014026-a",
+    "_raw_id": "2a07f4cd7aaf42d28bad781396e59492",
+    "title": "Система резервного живлення",
+    "org": "Відділ освіти Роменської міської ради Сумської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 195203.0,
+    "currency": "UAH",
+    "deadline": "2026-04-16",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/2a07f4cd7aaf42d28bad781396e59492",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-16T07:01:35.123365"
   },
   {
     "id": "UA-2026-03-31-000589-a",
