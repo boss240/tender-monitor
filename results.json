@@ -142,7 +142,7 @@
     "cpv": "31155000-7",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6666bf3b69b04875a324b62704c0ef27",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-04-16T06:44:06.940425"
   },
@@ -395,7 +395,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/d3975af40bd3423c80e286639325fba2",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-04-16T06:28:35.325572"
   },
@@ -2327,7 +2327,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/b875b6100f5045999e4ddb3f50697481",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-16T06:26:33.373740"
   },
@@ -4133,9 +4133,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/2a07f4cd7aaf42d28bad781396e59492",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-16T07:01:35.123365"
+  },
+  {
+    "id": "UA-2026-03-10-013182-a",
+    "_raw_id": "ab560ff664464f589f80cd9e69bbdf5e",
+    "title": "джерело безперебійного живлення\n",
+    "org": "ВИКОНАВЧИЙ КОМІТЕТ ІРПІНСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 326067.0,
+    "currency": "UAH",
+    "deadline": "2026-03-19",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/ab560ff664464f589f80cd9e69bbdf5e",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-16T10:38:47.079152"
   },
   {
     "id": "UA-2026-03-31-000589-a",
