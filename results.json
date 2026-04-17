@@ -668,7 +668,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/778333b67826436389ff48410a9f3b8e",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-04-17T06:20:22.582835"
   },
@@ -689,7 +689,7 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/62665c858b284280a27bf8da4e5cc454",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-04-17T06:49:21.359023"
   },
@@ -710,9 +710,30 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/7f430e552473433086f47fa789d54f93",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-04-17T07:04:53.549010"
+  },
+  {
+    "id": "UA-2026-04-17-002564-a",
+    "_raw_id": "b0c559c6893c4e81a9a9172819968850",
+    "title": "Гібридний інвертор, 1- фазний, 6 кВт, ККД не менше 97%",
+    "org": "Відділ освіти, культури, молоді та спорту Галицинівської сільської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 53500.0,
+    "currency": "UAH",
+    "deadline": "2026-04-22",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/b0c559c6893c4e81a9a9172819968850",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-04-17T11:20:30.870577"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -1382,7 +1403,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/1a9dc33c6f46410fa040c2ff6bc8d2b7",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-17T07:01:59.650841"
   },
@@ -2411,7 +2432,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/72298f2f3ff04aa0be2b33272d3e1160",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-17T06:16:27.960544"
   },
@@ -2432,7 +2453,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/8b042695ac824651a85e2def7010d77c",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-17T06:43:53.620303"
   },
@@ -2453,7 +2474,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/d082836570cb460dbca890d5a437b1ff",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-17T06:48:30.129431"
   },
@@ -2474,9 +2495,51 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/31a689e1671d4e9990bc63b021eca68d",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-17T06:49:29.230774"
+  },
+  {
+    "id": "UA-2026-04-07-008420-a",
+    "_raw_id": "1a918fb9463b433185038e702bc52f45",
+    "title": "Акумуляторні батареї",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ВЕЛИКОДОЛИНСЬКЕ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 190000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-15",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/1a918fb9463b433185038e702bc52f45",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-17T11:04:27.077625"
+  },
+  {
+    "id": "UA-2026-04-17-002240-a",
+    "_raw_id": "dee950f6a51e40b69b78ba3af872e019",
+    "title": "джерело резервного живлення UPS 1500 з АКБ 100Ah  ",
+    "org": "Виконавчий комітет Пирятинської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 33500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/dee950f6a51e40b69b78ba3af872e019",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-17T11:14:18.154505"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -3125,9 +3188,9 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/8ebf77c4180f474e82ed5dae7805b4e9",
-    "is_new": false,
+    "is_new": true,
     "score": 65,
-    "fetched_at": "2026-04-09T10:35:43.956577"
+    "fetched_at": "2026-04-17T11:26:03.302723"
   },
   {
     "id": "UA-2026-04-01-007731-a",
@@ -4322,9 +4385,51 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/5fb70118bf73454b925289611578f832",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-17T06:11:00.667995"
+  },
+  {
+    "id": "UA-2026-04-17-001118-a",
+    "_raw_id": "18887e6d42df4c78b4c6178cb14a3b34",
+    "title": "Системи резервного живлення ",
+    "org": "ВІДДІЛ ОСВІТИ, КУЛЬТУРИ, СІМ'Ї, МОЛОДІ ТА СПОРТУ КАРОЛІНО-БУГАЗЬКОЇ СІЛЬСЬКОЇ РАДИ БІЛГОРОД-ДНІСТРОВСЬКОГО РАЙОНУ ОДЕСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 302000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-25",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/18887e6d42df4c78b4c6178cb14a3b34",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-17T10:48:43.566715"
+  },
+  {
+    "id": "UA-2026-04-17-001474-a",
+    "_raw_id": "c545cce696d94943bfeea259886c9d9b",
+    "title": "Блоки живлення",
+    "org": "Державна установа \"Держгідрографія\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 45399.98,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/c545cce696d94943bfeea259886c9d9b",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-17T11:06:25.641688"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -4922,5 +5027,47 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-04-11T05:29:06.598356"
+  },
+  {
+    "id": "UA-2026-04-17-001027-a",
+    "_raw_id": "9a73a9cb262b470cb939d4061008ba82",
+    "title": "інвертор і блоки живлення",
+    "org": "Головна астрономічна обсерваторія національної академії наук України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 41600.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31156000-4"
+    ],
+    "cpv": "31156000-4",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/9a73a9cb262b470cb939d4061008ba82",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-04-17T10:52:58.461622"
+  },
+  {
+    "id": "UA-2026-04-17-002690-a",
+    "_raw_id": "aaee7e0fbb9a46f3b182935f9b801c29",
+    "title": "Система сонячної станції в комплекті, а саме: сонячні панелі з каркасом та фурнітурою для кріплення, система збереження електроенергії з акумуляторними батареями та комплектом для монтажу",
+    "org": "КП \"Рокитне водоканал\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 2500000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-25",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/aaee7e0fbb9a46f3b182935f9b801c29",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-04-17T11:23:59.822125"
   }
 ]
