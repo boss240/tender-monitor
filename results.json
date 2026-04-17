@@ -731,9 +731,30 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/b0c559c6893c4e81a9a9172819968850",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-04-17T11:20:30.870577"
+  },
+  {
+    "id": "UA-2026-04-17-003140-a",
+    "_raw_id": "d3a958bd87394918bb50fea0c2f85f14",
+    "title": "акумуляторні батареї для джерел резервного живлення  LP LiFePO4 25.6V-200 Ah (5120Wh) CAN",
+    "org": "Виконавчий комітет Пирятинської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 51100.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/d3a958bd87394918bb50fea0c2f85f14",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-04-17T17:14:56.229368"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -2516,7 +2537,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/1a918fb9463b433185038e702bc52f45",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-17T11:04:27.077625"
   },
@@ -2537,7 +2558,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/dee950f6a51e40b69b78ba3af872e019",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-17T11:14:18.154505"
   },
@@ -3188,7 +3209,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/8ebf77c4180f474e82ed5dae7805b4e9",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-17T11:26:03.302723"
   },
@@ -4406,7 +4427,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/18887e6d42df4c78b4c6178cb14a3b34",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-17T10:48:43.566715"
   },
@@ -4427,7 +4448,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/c545cce696d94943bfeea259886c9d9b",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-17T11:06:25.641688"
   },
@@ -5045,7 +5066,7 @@
     "cpv": "31156000-4",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/9a73a9cb262b470cb939d4061008ba82",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-04-17T10:52:58.461622"
   },
@@ -5066,7 +5087,7 @@
     "cpv": "09330000-1",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/aaee7e0fbb9a46f3b182935f9b801c29",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-04-17T11:23:59.822125"
   }
