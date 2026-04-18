@@ -2642,7 +2642,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/a46f73e249094d7099e3d664156cb0af",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-18T10:01:18.663376"
   },
@@ -2663,9 +2663,51 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/3f9347366dd14bd3b67912eff3528e59",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-18T10:08:18.013328"
+  },
+  {
+    "id": "UA-2026-04-09-009073-a",
+    "_raw_id": "3728269ed6d14017b51c18100f841a9f",
+    "title": "Акумуляторна батарея  CSB 12V 6.5Ah HR1227WF2",
+    "org": "ДП \"Військова частина А2166\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 52000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-18",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/3728269ed6d14017b51c18100f841a9f",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-18T15:58:45.244195"
+  },
+  {
+    "id": "UA-2026-04-14-011105-a",
+    "_raw_id": "fdb0fb8f429f4232b078b3fc0acae53e",
+    "title": "Акумулятор",
+    "org": "ДЕРЖАВНЕ ПІДПРИЄМСТВО \"ЧУГУЇВСЬКИЙ АВІАЦІЙНИЙ РЕМОНТНИЙ ЗАВОД\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 210000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-22",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/fdb0fb8f429f4232b078b3fc0acae53e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-18T16:02:31.187258"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -4595,9 +4637,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/4aa28de40bd541f5b41145f2995676a1",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-18T10:07:24.600595"
+  },
+  {
+    "id": "UA-2026-04-18-000368-a",
+    "_raw_id": "922422697f244b0bb15fc20e7476fa9d",
+    "title": "Майно зв’язку",
+    "org": "військова частина А0501",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 55200.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/922422697f244b0bb15fc20e7476fa9d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-18T15:58:14.889926"
   },
   {
     "id": "UA-2026-03-31-000589-a",
