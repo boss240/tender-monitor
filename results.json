@@ -290,7 +290,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/f00452a6159248358a9893f8d09b65ea",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-04-18T05:52:56.331543"
   },
@@ -794,7 +794,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/521388fde2454b1bab3424298b6e3576",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-04-18T05:49:48.252761"
   },
@@ -2621,9 +2621,51 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/1a802b206abc46c0ba5602d492723db1",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-18T05:53:00.977617"
+  },
+  {
+    "id": "UA-2026-04-10-009641-a",
+    "_raw_id": "a46f73e249094d7099e3d664156cb0af",
+    "title": "Код ДК 021:2015 – 31440000-2 Акумуляторні батареї (Акумулятори, акумуляторні батареї)",
+    "org": "Державна установа \"Центр обслуговування підрозділів Національної поліції України\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 2265638.0,
+    "currency": "UAH",
+    "deadline": "2026-04-18",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/a46f73e249094d7099e3d664156cb0af",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-18T10:01:18.663376"
+  },
+  {
+    "id": "UA-2026-04-10-005271-a",
+    "_raw_id": "3f9347366dd14bd3b67912eff3528e59",
+    "title": "Акумуляторні батареї Акумуляторні батареї в асортименті (31440000-2)",
+    "org": "Український науково-дослідний інститут спеціальної техніки та судових експертиз Служби безпеки України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 43800.0,
+    "currency": "UAH",
+    "deadline": "2026-04-18",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/3f9347366dd14bd3b67912eff3528e59",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-18T10:08:18.013328"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -4532,9 +4574,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/1216acb8467c46618867ef003d04e191",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-18T06:00:25.323438"
+  },
+  {
+    "id": "UA-2026-04-10-003491-a",
+    "_raw_id": "4aa28de40bd541f5b41145f2995676a1",
+    "title": "Система резервного живлення для бюветів на базі Tesla Powerwall 3 або еквівалент",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО БРОВАРСЬКОЇ МІСЬКОЇ РАДИ БРОВАРСЬКОГО РАЙОНУ КИЇВСЬКОЇ ОБЛАСТІ \"БРОВАРИТЕПЛОВОДОЕНЕРГІЯ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 2666752.8,
+    "currency": "UAH",
+    "deadline": "2026-04-18",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/4aa28de40bd541f5b41145f2995676a1",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-18T10:07:24.600595"
   },
   {
     "id": "UA-2026-03-31-000589-a",
