@@ -1781,9 +1781,9 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/3182f69fe6d040cc91f9b09532d22b86",
-    "is_new": false,
+    "is_new": true,
     "score": 70,
-    "fetched_at": "2026-04-10T11:08:56.046057"
+    "fetched_at": "2026-04-20T06:50:14.301582"
   },
   {
     "id": "UA-2026-04-10-001673-a",
@@ -2708,6 +2708,27 @@
     "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-18T16:02:31.187258"
+  },
+  {
+    "id": "UA-2026-04-19-000490-a",
+    "_raw_id": "6e78e71a10994797a3da797adee74b02",
+    "title": "Сонячний інвертор Solis S6 6kW (S6-EH1P6K-L-PLUS)",
+    "org": "Військова частина А5164",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 50000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/6e78e71a10994797a3da797adee74b02",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-20T06:17:34.355692"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -3643,16 +3664,16 @@
     "type": "Solar",
     "amount": 960000.0,
     "currency": "UAH",
-    "deadline": "2026-04-17",
+    "deadline": "2026-04-20",
     "cpvs": [
       "09332000-5"
     ],
     "cpv": "09332000-5",
-    "status": "active",
+    "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/22d5a4f77a37424eb58ce67145b88de9",
-    "is_new": false,
+    "is_new": true,
     "score": 65,
-    "fetched_at": "2026-04-10T06:07:06.859424"
+    "fetched_at": "2026-04-20T06:30:59.499659"
   },
   {
     "id": "UA-2026-04-09-011155-a",
@@ -3664,16 +3685,16 @@
     "type": "Solar",
     "amount": 960000.0,
     "currency": "UAH",
-    "deadline": "2026-04-17",
+    "deadline": "2026-04-20",
     "cpvs": [
       "09332000-5"
     ],
     "cpv": "09332000-5",
-    "status": "active",
+    "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/5c095f00323d436cb6c91007e2737cca",
-    "is_new": false,
+    "is_new": true,
     "score": 65,
-    "fetched_at": "2026-04-10T06:07:14.397902"
+    "fetched_at": "2026-04-20T06:32:36.906202"
   },
   {
     "id": "UA-2026-04-09-002158-a",
@@ -3706,16 +3727,16 @@
     "type": "Solar",
     "amount": 960000.0,
     "currency": "UAH",
-    "deadline": "2026-04-17",
+    "deadline": "2026-04-20",
     "cpvs": [
       "09332000-5"
     ],
     "cpv": "09332000-5",
-    "status": "active",
+    "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/f3a0966ed18a4001a21409f190d99794",
-    "is_new": false,
+    "is_new": true,
     "score": 65,
-    "fetched_at": "2026-04-10T06:07:41.699579"
+    "fetched_at": "2026-04-20T06:30:28.643505"
   },
   {
     "id": "UA-2026-03-17-003721-a",
@@ -4661,6 +4682,27 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-18T15:58:14.889926"
+  },
+  {
+    "id": "UA-2026-04-19-000535-a",
+    "_raw_id": "a96507c758ee4a3bbee5322189aaba53",
+    "title": "Джерела безперебійного живлення тип 3",
+    "org": "Військова частина А7382",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 608871.67,
+    "currency": "UAH",
+    "deadline": "2026-04-28",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/a96507c758ee4a3bbee5322189aaba53",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-20T06:18:33.610908"
   },
   {
     "id": "UA-2026-03-31-000589-a",
