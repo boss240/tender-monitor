@@ -862,6 +862,48 @@
     "fetched_at": "2026-04-20T11:52:43.103584"
   },
   {
+    "id": "UA-2026-04-16-008572-a",
+    "_raw_id": "d41c27fcea72463fa163cafda58de020",
+    "title": "Придбання  гібридного інвертора  Deye SUN-60K-SG02HP3-EU-EM4 для реалізації проекту ЮНІСЕФ згідно ПКМУ від 19.12.2025 р. № 1713.",
+    "org": "ВІДДІЛ ОСВІТИ, МОЛОДІ ТА СПОРТУ ВИЗИРСЬКОЇ СІЛЬСЬКОЇ РАДИ ОДЕСЬКОГО РАЙОНУ ОДЕСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 245000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-21",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/d41c27fcea72463fa163cafda58de020",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-04-21T06:30:42.742274"
+  },
+  {
+    "id": "UA-2026-04-16-009184-a",
+    "_raw_id": "23a1c70d0af148699b720f335e897343",
+    "title": "Придбання  гібридного інвертора DEYE SUN-20K-SG05LP3-EU-SM2 для реалізації проекту ЮНІСЕФ згідно ПКМУ від 19.12.2025 р. № 1713.",
+    "org": "ВІДДІЛ ОСВІТИ, МОЛОДІ ТА СПОРТУ ВИЗИРСЬКОЇ СІЛЬСЬКОЇ РАДИ ОДЕСЬКОГО РАЙОНУ ОДЕСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 254000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-21",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/23a1c70d0af148699b720f335e897343",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-04-21T06:31:06.237422"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -2831,9 +2873,30 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/4b4e361ffe784ba28c9e913b93b6c76c",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-20T17:25:11.744495"
+  },
+  {
+    "id": "UA-2026-04-21-000284-a",
+    "_raw_id": "dc6ea763c94a45de870d5f1e1efe7ba2",
+    "title": "Акумуляторний модуль KJ-51.2v",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЗАБАВА\" ГЛУХОВЕЦЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 54000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/dc6ea763c94a45de870d5f1e1efe7ba2",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-21T06:40:17.152109"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -4826,9 +4889,51 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/7eb450e18763440a87d693adb625625e",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-20T17:25:34.801844"
+  },
+  {
+    "id": "UA-2026-04-10-008199-a",
+    "_raw_id": "df3c8a25ca56451ab5f97fb213174e60",
+    "title": "Джерела безперебійного живлення",
+    "org": "Військова частина А0515",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 407452.0,
+    "currency": "UAH",
+    "deadline": "2026-04-21",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/df3c8a25ca56451ab5f97fb213174e60",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-21T06:20:11.297385"
+  },
+  {
+    "id": "UA-2026-04-13-005520-a",
+    "_raw_id": "9b780b229b874ebf96cbe8f1ba36ec3a",
+    "title": " Аккумуляторні батареї         ",
+    "org": "8 ТВУЗ Держспецзв'язку",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 95000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-21",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/9b780b229b874ebf96cbe8f1ba36ec3a",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-21T06:32:35.592509"
   },
   {
     "id": "UA-2026-03-31-000589-a",
