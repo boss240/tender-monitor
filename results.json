@@ -1030,6 +1030,27 @@
     "fetched_at": "2026-04-22T06:31:03.868340"
   },
   {
+    "id": "UA-2026-04-09-009790-a",
+    "_raw_id": "8dd70ef72651453bb5ebe651ddffca38",
+    "title": "Гібридні сонячні інвертори, акумуляторні батареї, стійки 19-дюймова для установки 12 батарей+ 1 блок керування, блоки керування високовольтною батареєю",
+    "org": "Відділ освіти Кролевецької міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 4153800.0,
+    "currency": "UAH",
+    "deadline": "2026-04-17",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/8dd70ef72651453bb5ebe651ddffca38",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-04-23T11:42:12.165009"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -3251,7 +3272,7 @@
     "cpv": "31155000-7",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/98078ae14d654b29a9b2c3db71463fc3",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-23T06:18:04.645091"
   },
@@ -3272,7 +3293,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/c3c9f9d5e8224b6f8fc9f9b5746f2a12",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-23T06:21:49.469832"
   },
@@ -3293,7 +3314,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/dcabcef8e9ed4631913acba9665275b6",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-23T06:28:58.147190"
   },
@@ -3314,9 +3335,72 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/dcb50f0d8a2d4c928001b2a024e70fd8",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-23T07:02:10.357698"
+  },
+  {
+    "id": "UA-2026-04-23-001839-a",
+    "_raw_id": "30a6a26ea28a44ea85ea42e1ae270934",
+    "title": "ДК 021:2015:31440000-2 Акумуляторні батареї  (Пристрій безперебійного живлення Vinga LED 1200VA, 720W)\n",
+    "org": "Барвінківське комунальне підприємство \"Благоустрій\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 55500.3,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/30a6a26ea28a44ea85ea42e1ae270934",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-23T11:15:19.240464"
+  },
+  {
+    "id": "UA-2026-04-23-001859-a",
+    "_raw_id": "381be403b3324f849f927ffe1d496099",
+    "title": "Акумуляторні батареї для електроштабелеру",
+    "org": "Департамент патрульної поліції",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 36438.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/381be403b3324f849f927ffe1d496099",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-23T11:16:48.036872"
+  },
+  {
+    "id": "UA-2026-04-23-002934-a",
+    "_raw_id": "2f8b43d0dfbf44dca42bf0d0e0970155",
+    "title": "Інвертор гібридний SolaX Power X3-NEO-12K-LV",
+    "org": "ХМЕЛЬНИЦЬКИЙ ЗАКЛАД ДОШКІЛЬНОЇ ОСВІТИ №2 \"СОКОЛЯТКО\" ХМЕЛЬНИЦЬКОЇ МІСЬКОЇ РАДИ ХМЕЛЬНИЦЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 97000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/2f8b43d0dfbf44dca42bf0d0e0970155",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-23T11:51:54.251721"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -5540,9 +5624,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/d3f440807c274adba61c942326065c70",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-23T07:08:32.848443"
+  },
+  {
+    "id": "UA-2026-04-21-009514-a",
+    "_raw_id": "3cdb353a20294d1fa8f353f08cf8a848",
+    "title": "Баласти електромагнітні, імпульсний запалювальний пристрій ",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО ЕЛЕКТРОМЕРЕЖ ЗОВНІШНЬОГО ОСВІТЛЕННЯ \"ЗАПОРІЖМІСЬКСВІТЛО\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 1760650.0,
+    "currency": "UAH",
+    "deadline": "2026-04-29",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/3cdb353a20294d1fa8f353f08cf8a848",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-23T11:26:05.269745"
   },
   {
     "id": "UA-2026-03-31-000589-a",
