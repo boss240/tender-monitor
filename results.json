@@ -1046,9 +1046,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/8dd70ef72651453bb5ebe651ddffca38",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-04-23T11:42:12.165009"
+  },
+  {
+    "id": "UA-2026-04-22-003376-a",
+    "_raw_id": "d18e81f8a91b49fd876b33e48b11cf4d",
+    "title": "Гібридний інвертор",
+    "org": "ВІДДІЛ ОСВІТИ, КУЛЬТУРИ, МОЛОДІ ТА СПОРТУ ОЛЕКСАНДРІВСЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 90000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-04",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/d18e81f8a91b49fd876b33e48b11cf4d",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-04-23T18:04:01.752462"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -3356,7 +3377,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/30a6a26ea28a44ea85ea42e1ae270934",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-23T11:15:19.240464"
   },
@@ -3377,7 +3398,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/381be403b3324f849f927ffe1d496099",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-23T11:16:48.036872"
   },
@@ -3398,7 +3419,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/2f8b43d0dfbf44dca42bf0d0e0970155",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-23T11:51:54.251721"
   },
@@ -5645,7 +5666,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/3cdb353a20294d1fa8f353f08cf8a848",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-23T11:26:05.269745"
   },
