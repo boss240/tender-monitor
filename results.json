@@ -3440,7 +3440,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/d99c1327af894756b3a0151bd55a6692",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-24T06:11:28.692013"
   },
@@ -3461,7 +3461,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/0b342c4176f04d6f86f232aa778000ae",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-24T06:24:16.171088"
   },
@@ -3482,9 +3482,30 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/9e4aff5f54784419a7e181dc227fb3eb",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-24T07:09:32.467827"
+  },
+  {
+    "id": "UA-2026-04-24-002380-a",
+    "_raw_id": "f89c17e610464f3180c807139d69b1c3",
+    "title": "Інвертор",
+    "org": "Військова частина 1493 (94 прикордонний загін)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 335000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-02",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/f89c17e610464f3180c807139d69b1c3",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-24T11:42:10.899175"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -5750,7 +5771,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/58b620ede8d7442e8501ea0f76bfdda9",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-24T06:24:38.816187"
   },
@@ -5771,9 +5792,51 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/6778b4f16cb84a0cb10e6b2d60ec06de",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-24T07:15:46.856073"
+  },
+  {
+    "id": "UA-2026-04-15-008803-a",
+    "_raw_id": "991515f089804e27b0a40978ce94d451",
+    "title": "Джерела безперебійного живлення",
+    "org": "Управління державної охорони України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 175000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-24",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/991515f089804e27b0a40978ce94d451",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-24T11:28:15.034469"
+  },
+  {
+    "id": "UA-2026-04-24-001045-a",
+    "_raw_id": "b1d4452a6cab4ad0bd8c79c072f89f09",
+    "title": "Пристрої безперебійного живлення в рамках реалізації  проєкту «Підтримка спроможності до реагування у випадку природних та техногенних катастроф» (акронім «Be preventive», ідентифікаційний код ROUA00432",
+    "org": "Новоселицька міська рада",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 86500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/b1d4452a6cab4ad0bd8c79c072f89f09",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-24T11:50:43.778407"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -6476,5 +6539,48 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-04-22T11:26:09.111937"
+  },
+  {
+    "id": "UA-2026-04-07-011043-a",
+    "_raw_id": "7fd27605523e4a58981e2bfe3d374aa1",
+    "title": "31680000-6 Електричне приладдя та супутні товари до електричного обладнання Блоки батарейні для ДБЖ",
+    "org": "ПРИВАТНЕ АКЦІОНЕРНЕ ТОВАРИСТВО \"НАЦІОНАЛЬНА ЕНЕРГЕТИЧНА КОМПАНІЯ \"УКРЕНЕРГО\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 2257600.0,
+    "currency": "UAH",
+    "deadline": "2026-04-16",
+    "cpvs": [
+      "31681000-3"
+    ],
+    "cpv": "31681000-3",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/7fd27605523e4a58981e2bfe3d374aa1",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-04-24T11:03:16.538858"
+  },
+  {
+    "id": "UA-2026-04-20-003875-a",
+    "_raw_id": "b6a924d5e252405fad3c26f5373365d8",
+    "title": "Акумулятори АА, ААА",
+    "org": "Управління державної охорони України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 37812.0,
+    "currency": "UAH",
+    "deadline": "2026-04-29",
+    "cpvs": [
+      "31433000-0",
+      "31433000-0"
+    ],
+    "cpv": "31433000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/b6a924d5e252405fad3c26f5373365d8",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-04-24T11:27:28.946419"
   }
 ]
