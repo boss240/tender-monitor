@@ -1067,7 +1067,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/d18e81f8a91b49fd876b33e48b11cf4d",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-04-23T18:04:01.752462"
   },
@@ -3424,6 +3424,69 @@
     "fetched_at": "2026-04-23T11:51:54.251721"
   },
   {
+    "id": "UA-2026-04-23-013222-a",
+    "_raw_id": "d99c1327af894756b3a0151bd55a6692",
+    "title": "Інвертор із комплектом резервного живлення для Єланецького ЗДО (ясла-садка) №1 «Ромашка» для реалізації проекту ЮНІСЕФ згідно ПКМУ від 19.12.2025 р. № 1713",
+    "org": "ВІДДІЛ ОСВІТИ ТА СПОРТУ ЄЛАНЕЦЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 420000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-01",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/d99c1327af894756b3a0151bd55a6692",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-24T06:11:28.692013"
+  },
+  {
+    "id": "UA-2026-04-20-011090-a",
+    "_raw_id": "0b342c4176f04d6f86f232aa778000ae",
+    "title": "Акумуляторна батарея ",
+    "org": "Центральна база підтримки системи зв'язку та спеціальних комплексів Національної гвардії України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 319680.0,
+    "currency": "UAH",
+    "deadline": "2026-04-28",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/0b342c4176f04d6f86f232aa778000ae",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-24T06:24:16.171088"
+  },
+  {
+    "id": "UA-2026-04-20-008054-a",
+    "_raw_id": "9e4aff5f54784419a7e181dc227fb3eb",
+    "title": "Гібридний сонячний інвертор (hybrid) MUST PV18-6248 ECO",
+    "org": "Військова частина А1126",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 52101.5,
+    "currency": "UAH",
+    "deadline": "2026-04-29",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/9e4aff5f54784419a7e181dc227fb3eb",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-24T07:09:32.467827"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -5669,6 +5732,48 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-23T11:26:05.269745"
+  },
+  {
+    "id": "UA-2026-04-20-012023-a",
+    "_raw_id": "58b620ede8d7442e8501ea0f76bfdda9",
+    "title": "Імпульсний блок живлення 24V 10A",
+    "org": "Центральна база підтримки системи зв'язку та спеціальних комплексів Національної гвардії України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 77361.1,
+    "currency": "UAH",
+    "deadline": "2026-04-28",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/58b620ede8d7442e8501ea0f76bfdda9",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-24T06:24:38.816187"
+  },
+  {
+    "id": "UA-2026-04-24-000647-a",
+    "_raw_id": "6778b4f16cb84a0cb10e6b2d60ec06de",
+    "title": "Джерело безперебійного живлення",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 3043 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/6778b4f16cb84a0cb10e6b2d60ec06de",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-24T07:15:46.856073"
   },
   {
     "id": "UA-2026-03-31-000589-a",
