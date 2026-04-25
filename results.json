@@ -1088,7 +1088,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/39393ec993014dfdb65c83138cdd06f6",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-04-25T06:02:59.832253"
   },
@@ -3545,9 +3545,30 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/4787f28b78bf4b849a3fb3c9ae6d069a",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-25T06:03:17.010552"
+  },
+  {
+    "id": "UA-2026-04-25-000073-a",
+    "_raw_id": "b10e08d1bf434bd4a1ba6bdb5b721439",
+    "title": "Акумуляторні батареї",
+    "org": "Військова частина A4779",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 81780.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/b10e08d1bf434bd4a1ba6bdb5b721439",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-25T10:03:36.658300"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -5879,6 +5900,48 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-24T11:50:43.778407"
+  },
+  {
+    "id": "UA-2026-04-25-000083-a",
+    "_raw_id": "c87eab8db6f0497a8b030498cc5ba2ae",
+    "title": "Джерела безперебійного живлення.",
+    "org": "Заклад фахової передвищої освіти \"Київський фаховий медичний коледж ім.П.І.Гаврося\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 74500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/c87eab8db6f0497a8b030498cc5ba2ae",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-25T10:04:10.996239"
+  },
+  {
+    "id": "UA-2026-04-16-012498-a",
+    "_raw_id": "3df6e3a3f7fe4ded862beb248ee9b081",
+    "title": "Джерела безперебійного живлення",
+    "org": "Управління державної охорони України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 800000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-25",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/3df6e3a3f7fe4ded862beb248ee9b081",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-25T10:06:00.553955"
   },
   {
     "id": "UA-2026-03-31-000589-a",
