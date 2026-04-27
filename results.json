@@ -3587,7 +3587,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/1819dece714347c888fc58819b154c7f",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-26T15:55:30.671106"
   },
@@ -4698,11 +4698,11 @@
       "31150000-2"
     ],
     "cpv": "31150000-2",
-    "status": "active",
+    "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/48475c0668d24752ace1c51c2d748d9a",
-    "is_new": false,
+    "is_new": true,
     "score": 65,
-    "fetched_at": "2026-04-10T10:39:37.750936"
+    "fetched_at": "2026-04-27T06:33:40.961673"
   },
   {
     "id": "UA-2026-04-10-000955-a",
@@ -6007,6 +6007,48 @@
     "fetched_at": "2026-04-25T16:17:33.612408"
   },
   {
+    "id": "UA-2026-04-10-009694-a",
+    "_raw_id": "8d0ce7888347428e82297b44f48fd7c3",
+    "title": "Джeрeла рeзeрвного живлeння",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЕНЕРГОДІМ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 960000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-20",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/8d0ce7888347428e82297b44f48fd7c3",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-27T06:36:38.949187"
+  },
+  {
+    "id": "UA-2026-04-10-009614-a",
+    "_raw_id": "bcb9824b20554a11bcebc3e1cc7eced1",
+    "title": "Джeрeла рeзервного живлeння",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЕНЕРГОДІМ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 960000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-20",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/bcb9824b20554a11bcebc3e1cc7eced1",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-27T06:38:06.574924"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -6044,9 +6086,9 @@
     "cpv": "09330000-1",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/fc2590fe84254828ba4cda104b2af93d",
-    "is_new": false,
+    "is_new": true,
     "score": 60,
-    "fetched_at": "2026-04-09T10:41:30.093086"
+    "fetched_at": "2026-04-27T06:33:21.526068"
   },
   {
     "id": "UA-2026-04-03-001544-a",
