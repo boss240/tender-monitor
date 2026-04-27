@@ -184,9 +184,9 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/e5e740c2c203484abea9e315985ae6aa",
-    "is_new": false,
+    "is_new": true,
     "score": 80,
-    "fetched_at": "2026-04-10T10:44:31.112995"
+    "fetched_at": "2026-04-27T12:05:30.566171"
   },
   {
     "id": "UA-2026-04-13-000812-a",
@@ -1091,6 +1091,27 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-04-25T06:02:59.832253"
+  },
+  {
+    "id": "UA-2026-04-27-002081-a",
+    "_raw_id": "b83f20b42f6a4bc7af4de1e7304839cc",
+    "title": "Батареї акумуляторні для джерела безперебійного живлення APC SMART UPS SRT-6000 (SRT6KRMXLI)",
+    "org": "ХАРКІВСЬКА МИТНИЦЯ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 32551.92,
+    "currency": "UAH",
+    "deadline": "2026-05-05",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/b83f20b42f6a4bc7af4de1e7304839cc",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-04-27T12:17:24.844037"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -3592,6 +3613,48 @@
     "fetched_at": "2026-04-26T15:55:30.671106"
   },
   {
+    "id": "UA-2026-04-27-001840-a",
+    "_raw_id": "a40713d4d9c1496f814992f17c6f368b",
+    "title": "Акумуляторні батареї згідно коду ДК 021:2015: 31440000-2 - Акумуляторні батареї. ",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ОДЕСМІСЬКЕЛЕКТРОТРАНС\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 49045.33,
+    "currency": "UAH",
+    "deadline": "2026-05-05",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/a40713d4d9c1496f814992f17c6f368b",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-27T12:16:10.989996"
+  },
+  {
+    "id": "UA-2026-04-27-002460-a",
+    "_raw_id": "da755da3f3d84d7590decec525de90c6",
+    "title": "31440000-2 - Акумуляторні батареї",
+    "org": "Львівський національний університет імені Івана Франка",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 55241.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/da755da3f3d84d7590decec525de90c6",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-27T12:27:20.998356"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -4700,7 +4763,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/48475c0668d24752ace1c51c2d748d9a",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-27T06:33:40.961673"
   },
@@ -6023,7 +6086,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/8d0ce7888347428e82297b44f48fd7c3",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-27T06:36:38.949187"
   },
@@ -6044,9 +6107,51 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/bcb9824b20554a11bcebc3e1cc7eced1",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-27T06:38:06.574924"
+  },
+  {
+    "id": "UA-2026-04-27-001696-a",
+    "_raw_id": "39b6e34543de43ac81c6a75107d84ee2",
+    "title": "Комплект резервного живлення для Ляшківського ліцею Ляшківської сільської ради",
+    "org": "ГУМАНІТАРНИЙ ВІДДІЛ ВИКОНАВЧОГО КОМІТЕТУ ЛЯШКІВСЬКОЇ СІЛЬСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 420000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-05",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/39b6e34543de43ac81c6a75107d84ee2",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-27T12:07:39.720464"
+  },
+  {
+    "id": "UA-2026-04-27-002373-a",
+    "_raw_id": "9305c749442442bebfe28ff8c70ee1f8",
+    "title": "Шафа для заряджання АКБ на 6 од. BCRL0601",
+    "org": "Військова частина А1587",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 881799.9,
+    "currency": "UAH",
+    "deadline": "2026-05-06",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/9305c749442442bebfe28ff8c70ee1f8",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-27T12:25:04.215012"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -6086,7 +6191,7 @@
     "cpv": "09330000-1",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/fc2590fe84254828ba4cda104b2af93d",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-04-27T06:33:21.526068"
   },
