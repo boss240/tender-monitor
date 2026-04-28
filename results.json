@@ -374,7 +374,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/0406dcf6f35f4bfc8bf06338ae206309",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-04-28T06:58:43.712772"
   },
@@ -1592,9 +1592,9 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/ab06fe024f6143cb8c9b27754699c37c",
-    "is_new": false,
+    "is_new": true,
     "score": 70,
-    "fetched_at": "2026-04-09T05:55:02.499923"
+    "fetched_at": "2026-04-28T12:00:34.759561"
   },
   {
     "id": "UA-2026-04-01-013027-a",
@@ -3692,7 +3692,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/fb35c90fbcd94f5fb26b6c5be0204fc4",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-28T06:32:18.157083"
   },
@@ -3713,9 +3713,30 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/7df2a4401d6b4d9a88d100956645dfb8",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-28T06:33:09.829574"
+  },
+  {
+    "id": "UA-2026-04-27-012503-a",
+    "_raw_id": "497d7757d22940228f9eca3cd5c45e60",
+    "title": "Акумуляторні батареї Njoy Gel 15012 KF 12V 150AN (BTVGCLTODHLKFCN01B)GEL",
+    "org": "Управління містобудування та архітектури Донецької обласної державної адміністрації",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 40470.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/497d7757d22940228f9eca3cd5c45e60",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-28T11:49:29.067869"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -6233,7 +6254,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/71306d993318455cb616ed3a20090150",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-28T07:20:57.247164"
   },
@@ -6254,7 +6275,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6a3b1fd0e4e645789753fa0b3394c860",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-28T07:28:21.395169"
   },
@@ -6275,7 +6296,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/4f194f050cf64567a3b6993d35d16a40",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-28T07:31:42.414698"
   },
@@ -7041,7 +7062,7 @@
     "cpv": "31410000-3",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/fbfea12bc30f4f40917d44aeacaf91f5",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-04-28T06:31:50.663985"
   }
