@@ -395,7 +395,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/69c0d75e15c54f26b54bf11251d962c1",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-04-29T06:27:39.097778"
   },
@@ -1156,6 +1156,48 @@
     "fetched_at": "2026-04-27T12:17:24.844037"
   },
   {
+    "id": "UA-2026-04-29-001667-a",
+    "_raw_id": "47a568f0e89d44b7b8ed1bffd0559bc8",
+    "title": "Джерело безперебійного живлення (сонячний інвертор Deye SUN - 12kW)",
+    "org": "РЕГІОНАЛЬНИЙ ОФІС ВОДНИХ РЕСУРСІВ У ПОЛТАВСЬКІЙ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 96799.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/47a568f0e89d44b7b8ed1bffd0559bc8",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-04-29T11:56:43.015093"
+  },
+  {
+    "id": "UA-2026-04-21-009260-a",
+    "_raw_id": "68f477962ef945568e5ed6e6d186e38e",
+    "title": "Гібридний інвертор та комплект АКБ",
+    "org": "ВІДДІЛ ОСВІТИ ТЕРНІВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 390900.0,
+    "currency": "UAH",
+    "deadline": "2026-04-29",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/68f477962ef945568e5ed6e6d186e38e",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-04-29T12:00:19.590473"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -1466,7 +1508,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/a825756a94e948d58db794e671516a83",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-29T07:22:46.507302"
   },
@@ -3776,7 +3818,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/1fdb11bf299446d5a7a6d9fedbc8df62",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-29T07:01:21.282572"
   },
@@ -3797,9 +3839,93 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/1a6d04baba224c898cbfb937a5f5970b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-04-29T07:03:59.746508"
+  },
+  {
+    "id": "UA-2026-03-18-011675-a",
+    "_raw_id": "07fd9f15e4264558a5856f65049105b1",
+    "title": "Акумуляторні батареї",
+    "org": "Департамент патрульної поліції",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 2859000.0,
+    "currency": "UAH",
+    "deadline": "2026-03-26",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/07fd9f15e4264558a5856f65049105b1",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-29T11:38:54.119279"
+  },
+  {
+    "id": "UA-2026-04-26-000391-a",
+    "_raw_id": "fa9d6937304f4f4d9ebe4411e646795a",
+    "title": "Джерела безперебійного живлення та акумулятори до них",
+    "org": "Інститут загальної та неорганічної хімії ім. В.І.Вернадського НАН України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 345550.0,
+    "currency": "UAH",
+    "deadline": "2026-05-05",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/fa9d6937304f4f4d9ebe4411e646795a",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-29T11:52:53.392385"
+  },
+  {
+    "id": "UA-2026-04-28-008945-a",
+    "_raw_id": "90deef84901e45c2846d7f202d2c238f",
+    "title": "Батарея акумуляторна",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"УКPНAФТА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 49920.0,
+    "currency": "UAH",
+    "deadline": "2026-05-12",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/90deef84901e45c2846d7f202d2c238f",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-29T12:10:17.445865"
+  },
+  {
+    "id": "UA-2026-04-29-002280-a",
+    "_raw_id": "d1af337300754737bc78f3b727ed1c4a",
+    "title": "Акумуляторні батареї",
+    "org": "ТЕРИТОРІАЛЬНЕ УПРАВЛІННЯ ДЕРЖАВНОГО БЮРО РОЗСЛІДУВАНЬ, РОЗТАШОВАНЕ У МІСТІ ПОЛТАВІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 70479.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/d1af337300754737bc78f3b727ed1c4a",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-29T12:15:43.320784"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -6380,9 +6506,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/bcf2d9ca21074480901c7b28b8267756",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-29T06:48:59.342727"
+  },
+  {
+    "id": "UA-2026-04-29-002556-a",
+    "_raw_id": "17a1de30df054ce6bb7f5122ede3232d",
+    "title": "джерело безперебійного живлення, за кодом ДК 021:2015: 311540000-0  «Джерело безперебійного живлення», ",
+    "org": "ВІДДІЛ ОСВІТИ МАГДАЛИНІВСЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 420000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-07",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/17a1de30df054ce6bb7f5122ede3232d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-29T12:22:28.275595"
   },
   {
     "id": "UA-2026-03-31-000589-a",
