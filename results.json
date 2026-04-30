@@ -400,6 +400,27 @@
     "fetched_at": "2026-04-29T06:27:39.097778"
   },
   {
+    "id": "UA-2026-04-22-015342-a",
+    "_raw_id": "fcd1ce0512844996a9cc40562c7ef89e",
+    "title": "Придбання комплекту безперебійного живлення (інвертор гібридний 15kW Deye SUN-15K-SG05LP3-EUSM2 , літієві акумуляторні батареїі Deye SE-F12-С 51.2V 230Ah, щит захисної автоматики по змінному струму 3 фазний для гібридного інвертора )  ",
+    "org": "ЛІЦЕЙ № 5 ІМЕНІ Р.К. РАПІЯ ОХТИРСЬКОЇ МІСЬКОЇ РАДИ СУМСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 420000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-30",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/fcd1ce0512844996a9cc40562c7ef89e",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-04-30T06:37:00.052766"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -1196,6 +1217,48 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-04-29T12:00:19.590473"
+  },
+  {
+    "id": "UA-2026-04-24-011652-a",
+    "_raw_id": "5297d67a5bb946838da0621fbe374f9c",
+    "title": "код ДК 021:2015: 31440000-2 - Акумуляторні батареї\n(Акумуляторні батареї)",
+    "org": "Департамент поліції особливого призначення «Об'єднана штурмова бригада Національної поліції України «Лють»",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 6266720.0,
+    "currency": "UAH",
+    "deadline": "2026-05-02",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/5297d67a5bb946838da0621fbe374f9c",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-04-30T06:39:09.896500"
+  },
+  {
+    "id": "UA-2026-04-16-010990-a",
+    "_raw_id": "4303bea8825641049aa368210d10209e",
+    "title": "Гібридний інвертор Voltsmile 16kW hybrid EU",
+    "org": "Військова частина А2896",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 2540593.4,
+    "currency": "UAH",
+    "deadline": "2026-04-21",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/4303bea8825641049aa368210d10209e",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-04-30T07:26:06.172465"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -3928,6 +3991,48 @@
     "fetched_at": "2026-04-29T12:15:43.320784"
   },
   {
+    "id": "UA-2026-04-24-010763-a",
+    "_raw_id": "bc8a3ea864a74ce2b8a77e45b075fafe",
+    "title": "Код ДК 021:2015: 31440000-2 — Акумуляторні батареї (Акумуляторна батарея)",
+    "org": "Державна установа \"Центр обслуговування підрозділів Національної поліції України\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1437400.0,
+    "currency": "UAH",
+    "deadline": "2026-05-02",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/bc8a3ea864a74ce2b8a77e45b075fafe",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-30T06:39:43.434426"
+  },
+  {
+    "id": "UA-2026-04-30-000313-a",
+    "_raw_id": "3cd63e9e99bb4da5a6c16a61eb01d017",
+    "title": "Акумулятор для Vampire 6S 66000 mAh",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 3021 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/3cd63e9e99bb4da5a6c16a61eb01d017",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-04-30T07:08:58.648563"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -6530,6 +6635,69 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-04-29T12:22:28.275595"
+  },
+  {
+    "id": "UA-2026-04-22-011226-a",
+    "_raw_id": "e730e11826bb4bcab3e7517a433285b0",
+    "title": "Джерела резервного живлення ",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЕНЕРГОДІМ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 960000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-30",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/e730e11826bb4bcab3e7517a433285b0",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-30T06:52:23.553933"
+  },
+  {
+    "id": "UA-2026-04-22-009321-a",
+    "_raw_id": "d08a8cc83dae4eccafdf61bb16126a13",
+    "title": "Джерела безперебійного живлення",
+    "org": "Комунальне підприємство виконавчого органу Київської міської ради ( Київської міської державної адміністрації ) \"Київський культурний кластер\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 118600.0,
+    "currency": "UAH",
+    "deadline": "2026-04-30",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/d08a8cc83dae4eccafdf61bb16126a13",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-30T06:53:05.131700"
+  },
+  {
+    "id": "UA-2026-04-22-011639-a",
+    "_raw_id": "f7213093f90448df9c64c1d87ee4f5bb",
+    "title": "Джерела резервного живлення ",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЕНЕРГОДІМ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 960000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-30",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/f7213093f90448df9c64c1d87ee4f5bb",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-04-30T06:53:50.730618"
   },
   {
     "id": "UA-2026-03-31-000589-a",
