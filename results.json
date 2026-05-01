@@ -442,6 +442,48 @@
     "fetched_at": "2026-04-30T11:47:34.024969"
   },
   {
+    "id": "UA-2026-04-17-005096-a",
+    "_raw_id": "6a0d2ad3d7af45df997c9afbc50a0a3f",
+    "title": "Комплект безперебійного живлення (гібридний інвертор та акумулятор)",
+    "org": "Кропивницький апеляційний суд",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 320000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-30",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/6a0d2ad3d7af45df997c9afbc50a0a3f",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-05-01T06:45:16.559199"
+  },
+  {
+    "id": "UA-2026-04-23-004006-a",
+    "_raw_id": "df02878a41eb48098fa13ca401386425",
+    "title": "Комплект автономного енергопостачання у складі Гібридний сонячний інвертор 6000VA (6000Вт) 48V 120A MPPT 60-450V в комплекті з акумуляторними батареями LiFePO4 51,2V - 100 Ah (5120Wh) та монтажем (Дніпропетровська область)",
+    "org": "Державна установа \"Центр пробації\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 100000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-01",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/df02878a41eb48098fa13ca401386425",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-05-01T06:46:26.333793"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -4159,6 +4201,90 @@
     "fetched_at": "2026-04-30T12:08:51.993188"
   },
   {
+    "id": "UA-2026-04-23-011321-a",
+    "_raw_id": "73b1be12f2df44eb9228d21aaa45c3f8",
+    "title": "Інвертор із комплектом резервного живлення для ЗЗСО Єланецький ліцей №1 Єланецької селищної ради для реалізації проекту ЮНІСЕФ згідно ПКМУ від 19.12.2025 р. № 1713",
+    "org": "ВІДДІЛ ОСВІТИ ТА СПОРТУ ЄЛАНЕЦЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 420000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-01",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/73b1be12f2df44eb9228d21aaa45c3f8",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-01T07:04:45.271418"
+  },
+  {
+    "id": "UA-2026-04-20-010528-a",
+    "_raw_id": "2e81c5bf608840278178343235b69e36",
+    "title": "Акумуляторні батареї",
+    "org": "Військова частина А5011",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 199200.0,
+    "currency": "UAH",
+    "deadline": "2026-05-01",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/2e81c5bf608840278178343235b69e36",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-01T07:05:04.254400"
+  },
+  {
+    "id": "UA-2026-05-01-000435-a",
+    "_raw_id": "435be4e9010a4a47aaf6994b4d5fbe56",
+    "title": "Акумуляторні батареї\n\n",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"РІВНЕЕЛЕКТРОАВТОТРАНС\" РІВНЕНСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 263350.0,
+    "currency": "UAH",
+    "deadline": "2026-05-09",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/435be4e9010a4a47aaf6994b4d5fbe56",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-01T07:31:44.385344"
+  },
+  {
+    "id": "UA-2026-03-31-007421-a",
+    "_raw_id": "ac602e9fd11a4e4d82070a54e01fc978",
+    "title": "Акумулятор Ni-Mh",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"УКPНAФТА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 80775.0,
+    "currency": "UAH",
+    "deadline": "2026-04-08",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/ac602e9fd11a4e4d82070a54e01fc978",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-01T07:42:08.670061"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -6826,6 +6952,69 @@
     "fetched_at": "2026-04-30T06:53:50.730618"
   },
   {
+    "id": "UA-2026-04-27-011286-a",
+    "_raw_id": "04bb89d1716b4038857e521094770617",
+    "title": "Комплекти обладнання для системи безперебійного живлення",
+    "org": "Відділ освіти,сім'ї, молоді та спорту Срібнянської селищної ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 724800.0,
+    "currency": "UAH",
+    "deadline": "2026-05-05",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/04bb89d1716b4038857e521094770617",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-01T06:42:16.640335"
+  },
+  {
+    "id": "UA-2026-04-22-012182-a",
+    "_raw_id": "26dc81e07ff64abaa3e610703589241b",
+    "title": "Джерела резервного живлення ",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЕНЕРГОДІМ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 960000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-01",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/26dc81e07ff64abaa3e610703589241b",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-01T07:01:35.682487"
+  },
+  {
+    "id": "UA-2026-04-23-007522-a",
+    "_raw_id": "9535612348f84e758de0976c2747cf50",
+    "title": "Джерело резервного живлення (Модульна система накопичення енергії)",
+    "org": "Управління освіти виконавчого комітету Покровської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 380000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-01",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/9535612348f84e758de0976c2747cf50",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-01T07:14:02.237982"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -6951,6 +7140,29 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-04-22T06:35:53.178201"
+  },
+  {
+    "id": "UA-2026-04-23-013773-a",
+    "_raw_id": "63f74140fb484f508679186cb68af0d7",
+    "title": "Установки зберігання енергії",
+    "org": "Комунальне некомерційне підприємство «Львівське територіальне медичне об’єднання «Багатопрофільна клінічна лікарня інтенсивних методів лікування та швидкої медичної допомоги»",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 19592704.0,
+    "currency": "UAH",
+    "deadline": "2026-05-01",
+    "cpvs": [
+      "31682500-5",
+      "31682500-5",
+      "31682500-5"
+    ],
+    "cpv": "31682500-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/63f74140fb484f508679186cb68af0d7",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-05-01T07:39:29.742007"
   },
   {
     "id": "UA-2026-03-20-008862-a",
