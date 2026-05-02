@@ -505,6 +505,27 @@
     "fetched_at": "2026-05-01T11:36:06.733338"
   },
   {
+    "id": "UA-2026-05-01-012012-a",
+    "_raw_id": "c10370871afc48a9a1c7c4498ce32a63",
+    "title": "Акумуляторна батарея BOS-A-Pack 7.68 Deye(High-Voltage LiFePO4 38,4 V 200 Ah 7.68k Wh)\n",
+    "org": "ВІДДІЛ КУЛЬТУРИ ТА ТУРИЗМУ ЧЕМЕРОВЕЦЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 62638.83,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/c10370871afc48a9a1c7c4498ce32a63",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-05-02T06:08:51.377934"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -4348,6 +4369,27 @@
     "fetched_at": "2026-05-01T11:12:51.446850"
   },
   {
+    "id": "UA-2026-04-27-012742-a",
+    "_raw_id": "3be38ac114684a28b41424f5af6511fb",
+    "title": "код ДК 021:2015: 31440000-2 - Акумуляторні батареї\n(Акумуляторні батареї)",
+    "org": "Департамент поліції особливого призначення «Об'єднана штурмова бригада Національної поліції України «Лють»",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 4720000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-07",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/3be38ac114684a28b41424f5af6511fb",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-02T06:15:36.281771"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -7076,6 +7118,69 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-01T07:14:02.237982"
+  },
+  {
+    "id": "UA-2026-04-24-009878-a",
+    "_raw_id": "4d21baf16519497da77bea42f0056837",
+    "title": "Комплект резервного живлення",
+    "org": "ВІДДІЛ ОСВІТИ, МОЛОДІ ТА СПОРТУ ПІЩАНСЬКОЇ СІЛЬСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 420000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-02",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/4d21baf16519497da77bea42f0056837",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-02T06:22:28.628887"
+  },
+  {
+    "id": "UA-2026-04-24-009105-a",
+    "_raw_id": "228b7f650ac8459985fc1718cbbff096",
+    "title": "Джерело резервного живлення (система безперебійного живлення)",
+    "org": "ВІДДІЛ ОСВІТИ, СІМ'Ї, МОЛОДІ ТА СПОРТУ ГУБИНИСЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 300000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-02",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/228b7f650ac8459985fc1718cbbff096",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-02T06:30:18.003367"
+  },
+  {
+    "id": "UA-2026-04-24-009585-a",
+    "_raw_id": "5149929965ec4acf97f4d39f25088c50",
+    "title": "Джерела безперебійного живлення",
+    "org": "ПІВДЕННА МИТНИЦЯ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 50000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-02",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/5149929965ec4acf97f4d39f25088c50",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-02T06:30:37.997891"
   },
   {
     "id": "UA-2026-03-31-000589-a",
