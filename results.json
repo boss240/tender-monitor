@@ -542,7 +542,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/06344a2ecf33446db8f48d44d07929af",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-05-02T10:11:43.658713"
   },
@@ -4411,6 +4411,111 @@
     "fetched_at": "2026-05-02T06:15:36.281771"
   },
   {
+    "id": "UA-2026-04-28-008464-a",
+    "_raw_id": "69d0774b77dd4a4bbc4b93d51fd48e6e",
+    "title": "Акумуляторні батареї до транспортних засобів\n",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 58850.0,
+    "currency": "UAH",
+    "deadline": "2026-05-06",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/69d0774b77dd4a4bbc4b93d51fd48e6e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-02T16:07:46.972363"
+  },
+  {
+    "id": "UA-2026-04-28-008597-a",
+    "_raw_id": "0e532df145334526a35f2899d1593c07",
+    "title": "Акумуляторні батареї до транспортних засобів\n",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 79397.0,
+    "currency": "UAH",
+    "deadline": "2026-05-07",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/0e532df145334526a35f2899d1593c07",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-02T16:07:50.849089"
+  },
+  {
+    "id": "UA-2026-04-28-009139-a",
+    "_raw_id": "1f3295b7bf1b43e498cc375050793655",
+    "title": "Акумуляторні батареї до транспортних засобів\n",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 113532.0,
+    "currency": "UAH",
+    "deadline": "2026-05-07",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/1f3295b7bf1b43e498cc375050793655",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-02T16:08:08.502132"
+  },
+  {
+    "id": "UA-2026-04-28-009393-a",
+    "_raw_id": "9b5204b3576a47d3af3c9dbecb4ac1c9",
+    "title": "Акумуляторні батареї до транспортних засобів\n",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 81444.0,
+    "currency": "UAH",
+    "deadline": "2026-05-07",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/9b5204b3576a47d3af3c9dbecb4ac1c9",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-02T16:08:31.313262"
+  },
+  {
+    "id": "UA-2026-04-28-009565-a",
+    "_raw_id": "c8530bbaba784ce2995055bbf0342c26",
+    "title": "Акумуляторні батареї до транспортних засобів\n",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 119830.0,
+    "currency": "UAH",
+    "deadline": "2026-05-07",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/c8530bbaba784ce2995055bbf0342c26",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-02T16:08:35.355250"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -7220,7 +7325,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/0027aaad3761402dbb9b8fb9b159eeae",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-02T10:12:02.090891"
   },
