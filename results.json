@@ -1408,6 +1408,27 @@
     "fetched_at": "2026-04-30T11:47:22.491492"
   },
   {
+    "id": "UA-2026-05-03-000141-a",
+    "_raw_id": "f552881868de41ac9646c8c8f780579f",
+    "title": "Акумуляторні батареї (Акумулятор LiFePO4 12V/200AH 2560W*h)",
+    "org": "Дніпропетровський регіональний центр з гідрометеорології",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 54600.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/f552881868de41ac9646c8c8f780579f",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-05-03T15:58:25.977878"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -7328,6 +7349,27 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-02T10:12:02.090891"
+  },
+  {
+    "id": "UA-2026-04-30-009271-a",
+    "_raw_id": "57316abde2024411a35811564bce0cbb",
+    "title": "Джерело безперебійного живлення серверне та плата керування",
+    "org": "КИЇВСЬКА МІСЬКА РАДА",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 300000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-08",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/57316abde2024411a35811564bce0cbb",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-03T16:00:16.630963"
   },
   {
     "id": "UA-2026-03-31-000589-a",
