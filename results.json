@@ -1466,7 +1466,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/45fe47beef424de8aa653d893188ffeb",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-05-05T06:36:49.379505"
   },
@@ -1487,7 +1487,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/37f61e614162403e8b7877c9fce78930",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-05-05T07:02:38.245970"
   },
@@ -4637,7 +4637,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/4cf442e02636477995c35579547446da",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-05T06:27:54.377057"
   },
@@ -4658,7 +4658,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/c7a676bad508428ba95fd252dfbe28dd",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-05T06:29:10.639626"
   },
@@ -4679,7 +4679,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/ee26b081dfeb4e29b9af72041c3cddfb",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-05T06:47:25.398402"
   },
@@ -4700,9 +4700,51 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/0fc87343c582489c9ad92a0a71287a76",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-05T07:15:41.194018"
+  },
+  {
+    "id": "UA-2026-05-05-002377-a",
+    "_raw_id": "7e26c6021f574a27967c7649e788fd1c",
+    "title": "Акумуляторна батарея Vipow",
+    "org": "Військова частина А1624",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 68749.02,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/7e26c6021f574a27967c7649e788fd1c",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-05T11:55:53.523570"
+  },
+  {
+    "id": "UA-2026-04-29-002831-a",
+    "_raw_id": "69ecd2af58ca4c189587bbd1ff266e16",
+    "title": "Акумуляторні батареї до транспортних засобів\n",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 86480.0,
+    "currency": "UAH",
+    "deadline": "2026-05-09",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/69ecd2af58ca4c189587bbd1ff266e16",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-05T12:01:38.892795"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -7556,7 +7598,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/49df6733d6eb483ab26084d1dfe62eb0",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-05T06:26:57.991772"
   },
@@ -7577,7 +7619,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/1225a8cdf00a4e159676d3cac381e458",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-05T06:40:12.647993"
   },
@@ -7598,7 +7640,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/b9ac70c14ef24c71ae475961e81e80ad",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-05T06:40:13.771675"
   },
@@ -7619,7 +7661,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/9de015fec19848719e5dfdd2475b4b77",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-05T06:40:26.756923"
   },
@@ -7640,7 +7682,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/614a9e20f22d4d0d838a6af1d625b4e6",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-05T06:40:28.901061"
   },
@@ -7661,7 +7703,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/6c81511a8bef41eb920f5f2423080139",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-05T06:41:48.687632"
   },
@@ -7682,9 +7724,30 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/862bb2512cfd4d13b73ccc2fc5f127f3",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-05T07:09:44.174734"
+  },
+  {
+    "id": "UA-2026-05-05-002849-a",
+    "_raw_id": "1cbf4d5232e74ba3b10acfa6337fcb00",
+    "title": "Джерело безперебійного (резервного) живлення для світлофорних об’єктів",
+    "org": "Комунальне підприємство \"Конотопське транспортне управління\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 570000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-13",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/1cbf4d5232e74ba3b10acfa6337fcb00",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-05T12:04:37.445695"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -7855,7 +7918,7 @@
     "cpv": "31680000-6",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/5b600d8c286b485786a00f24647d5b6b",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-05-05T07:14:58.252496"
   },
