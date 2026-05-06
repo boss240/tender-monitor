@@ -4763,9 +4763,72 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6f631b3194de4bbeb091c61e9e456c23",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-05T17:50:26.419088"
+  },
+  {
+    "id": "UA-2026-04-24-012431-a",
+    "_raw_id": "82aa6f0fa468479ca71e53e892425ab3",
+    "title": "Інвертор",
+    "org": "Приватне акціонерне товариство \"Київський електровагоноремонтний завод\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 113778.0,
+    "currency": "UAH",
+    "deadline": "2026-05-06",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/82aa6f0fa468479ca71e53e892425ab3",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-06T06:43:05.379656"
+  },
+  {
+    "id": "UA-2026-05-01-003638-a",
+    "_raw_id": "077282f8f14845d4834b63c5d457c154",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "Комунальна установа Сумська спеціалізована школа І-ІІІ ступенів №29, м.Суми, Сумської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 125000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-06",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/077282f8f14845d4834b63c5d457c154",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-06T06:44:55.414099"
+  },
+  {
+    "id": "UA-2026-05-06-000589-a",
+    "_raw_id": "daddfae6195d419d88303d1785985cc5",
+    "title": "Акумуляторні батареї для НРК УГЕ, за кодом ДК 021:2015:31440000-2 «Акумуляторні батареї» або еквівалент. КПКВ 2101150, КЕКВ 2260, код видатків 414 ",
+    "org": "Військова частина А4723",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 273600.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/daddfae6195d419d88303d1785985cc5",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-06T07:22:40.910923"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -7769,6 +7832,48 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-05T12:04:37.445695"
+  },
+  {
+    "id": "UA-2026-04-07-013395-a",
+    "_raw_id": "88c61aca6caa47e49f2bfccf1c161860",
+    "title": "Комплект резервного живлення, блоки безперебійного живлення 2 лоти: лот № 1 - Комплект резервного живлення; лот № 2 - Блоки безперебійного живлення\n",
+    "org": "Служба безпеки України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 330625.2,
+    "currency": "UAH",
+    "deadline": "2026-04-15",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/88c61aca6caa47e49f2bfccf1c161860",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-06T06:41:15.240026"
+  },
+  {
+    "id": "UA-2026-04-28-013071-a",
+    "_raw_id": "be04eefd25b44d25981b0cc1cfc3ba5d",
+    "title": "Джерела безперебійного живлення для мережевого обладнання",
+    "org": "Північний міжрегіональний центр з надання безоплатної правничої допомоги",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 36750.0,
+    "currency": "UAH",
+    "deadline": "2026-05-06",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/be04eefd25b44d25981b0cc1cfc3ba5d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-06T07:21:58.381390"
   },
   {
     "id": "UA-2026-03-31-000589-a",
