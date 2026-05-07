@@ -584,9 +584,30 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/a52525d6d3fe44edaa3326e6fe9a575f",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-05-07T07:19:30.634437"
+  },
+  {
+    "id": "UA-2026-05-07-001889-a",
+    "_raw_id": "6b90332948d54bf3a8f84deb73c43f87",
+    "title": "Комплект резервного живлення 6.2 кВт + 2.4 кВт. год. у складі гібридного інвертора Anern та 2 акумулятори Dyness B4850 з набором кабелів Dyness",
+    "org": "Відділ цифрової трансформації Оліївської сільської ради Житомирського району Житомирської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 64840.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/6b90332948d54bf3a8f84deb73c43f87",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-05-07T12:00:26.258757"
   },
   {
     "id": "UA-2026-03-20-006846-a",
@@ -1532,6 +1553,27 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-05-06T12:27:19.621998"
+  },
+  {
+    "id": "UA-2026-05-07-001965-a",
+    "_raw_id": "eae1dfa510924cf19bd554ef8c2a9332",
+    "title": "Акумуляторні батареї Deye або еквівалент",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \" ВОЛОЧИСЬКА БАГАТОПРОФІЛЬНА ЛІКАРНЯ \" ВОЛОЧИСЬКОЇ МІСЬКОЇ РАДИ ХМЕЛЬНИЦЬКОГО РАЙОНУ ХМЕЛЬНИЦЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 160000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-15",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/eae1dfa510924cf19bd554ef8c2a9332",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-05-07T12:01:07.676949"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -4931,7 +4973,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/9f9a008211cc4c44bce3606d03082873",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-07T06:46:07.097775"
   },
@@ -4952,7 +4994,7 @@
     "cpv": "31155000-7",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/bf3072526bcc451681d71be54151519d",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-07T06:59:37.464647"
   },
@@ -4973,7 +5015,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/49bdb946b81740d4b9c6d25061119f22",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-07T07:06:35.929467"
   },
@@ -4994,9 +5036,72 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/0629b8234a79493ba27fa387e5c50382",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-07T07:07:11.981570"
+  },
+  {
+    "id": "UA-2026-05-07-001645-a",
+    "_raw_id": "e115dddd198b4a0f8b87527a14501ed5",
+    "title": "ДБЖ APK Back UРS BV 650VA (BV650I-GR) Schuko",
+    "org": "Мобільний рятувальний центр швидкого реагування \"Львів\" Державної служби України з надзвичайних ситуацій",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 34800.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/e115dddd198b4a0f8b87527a14501ed5",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-07T11:53:13.472649"
+  },
+  {
+    "id": "UA-2026-05-01-011131-a",
+    "_raw_id": "78b1ef1a6e19499fa447bc6267832843",
+    "title": "Акумуляторна батарея",
+    "org": "УПРАВЛІННЯ ОСВІТИ ПІВДЕННІВСЬКОЇ МІСЬКОЇ РАДИ ОДЕСЬКОГО РАЙОНУ ОДЕСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 425898.0,
+    "currency": "UAH",
+    "deadline": "2026-05-09",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/78b1ef1a6e19499fa447bc6267832843",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-07T12:13:46.312483"
+  },
+  {
+    "id": "UA-2026-05-05-011050-a",
+    "_raw_id": "c6afcf14510140f598d72aa472fe7ccf",
+    "title": "Джерело безперебійного живлення",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"УКРПОШТА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 29815200.0,
+    "currency": "UAH",
+    "deadline": "2026-05-13",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/c6afcf14510140f598d72aa472fe7ccf",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-07T12:16:51.628569"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -8060,7 +8165,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/edc3b408dbcd42b58f3042ce85db7c8c",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-07T06:58:05.324947"
   },
@@ -8081,7 +8186,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/9877358b7c594d13aa09319d246a0ff7",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-07T07:01:14.930827"
   },
@@ -8102,7 +8207,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/41d864848e6846a99d214c3f9e803b7e",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-07T07:01:27.201353"
   },
@@ -8123,9 +8228,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/97b66b410c5243c79ea814c368d5acb8",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-07T07:22:19.075705"
+  },
+  {
+    "id": "UA-2026-05-07-002027-a",
+    "_raw_id": "b2f25b9ddd694b10a69cf26f402663ff",
+    "title": "Блоки живлення",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"УКPНAФТА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 494815.0,
+    "currency": "UAH",
+    "deadline": "2026-05-18",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/b2f25b9ddd694b10a69cf26f402663ff",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-07T12:02:31.146048"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -8938,5 +9064,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-04-28T06:31:50.663985"
+  },
+  {
+    "id": "UA-2026-05-07-002755-a",
+    "_raw_id": "942c096765c24865951b22c9c5c73515",
+    "title": "Сонячна панель Reolink Solar Panel 2 White або еквівалент",
+    "org": "військова частина 2197",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 39392.0,
+    "currency": "UAH",
+    "deadline": "2026-05-15",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/942c096765c24865951b22c9c5c73515",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-05-07T12:15:33.934665"
   }
 ]
