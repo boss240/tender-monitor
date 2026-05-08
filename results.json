@@ -626,7 +626,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/f877ac2b558749e8b76ecac8ad864c66",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-05-08T06:28:28.720547"
   },
@@ -647,7 +647,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/bcdc49e62ffa4a0b99b0cae386cd59f5",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-05-08T06:35:08.413037"
   },
@@ -5162,7 +5162,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/4c0ac0a39a464eb6850c1610a152c4b4",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-08T06:01:58.259699"
   },
@@ -5183,7 +5183,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/5e2ad0db025b4ffd9e9a4a38a315e72f",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-08T06:09:04.376467"
   },
@@ -5204,7 +5204,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/cecaa01d0cc344dd9bcd9c13687563e9",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-08T06:21:29.980988"
   },
@@ -5225,9 +5225,72 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/fdd064595dff4bbea614231ce9c5089e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-08T06:36:26.431817"
+  },
+  {
+    "id": "UA-2026-05-08-001565-a",
+    "_raw_id": "8fec55f0efde4666a2c464ed316a51d1",
+    "title": "Система безперебійного живлення пристроїв СЦБ",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"КИЇВСЬКИЙ МЕТРОПОЛІТЕН\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 95774140.8,
+    "currency": "UAH",
+    "deadline": "2026-05-18",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/8fec55f0efde4666a2c464ed316a51d1",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-08T11:08:37.042913"
+  },
+  {
+    "id": "UA-2026-05-05-011749-a",
+    "_raw_id": "2fe8816b15f040b2ae62b2b2852242f7",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "КОНОТОПСЬКИЙ ЛІЦЕЙ №2 КОНОТОПСЬКОЇ МІСЬКОЇ РАДИ СУМСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 120000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-08",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/2fe8816b15f040b2ae62b2b2852242f7",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-08T11:11:51.768008"
+  },
+  {
+    "id": "UA-2026-05-08-003059-a",
+    "_raw_id": "f58b5e73edef43b485affba9f38440c3",
+    "title": "Пристрій безперебійного живлення APC Smart-UPS 2200VA LCD (SMT2200IC)",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"КИЇВСЬКА МІСЬКА КЛІНІЧНА ЛІКАРНЯ № 8\" ВИКОНАВЧОГО ОРГАНУ КИЇВСЬКОЇ МІСЬКОЇ РАДИ (КИЇВСЬКОЇ МІСЬКОЇ ДЕРЖАВНОЇ АДМІНІСТРАЦІЇ)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 80376.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/f58b5e73edef43b485affba9f38440c3",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-08T11:41:46.434769"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -8396,7 +8459,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/d0b239b53468411fb34789d32ae92174",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-08T06:05:51.178868"
   },
@@ -8417,7 +8480,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/19314d8da336488a9d1644538a6d7ab4",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-08T06:07:04.778849"
   },
@@ -8438,7 +8501,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/cff8c1163b9046bca32025810392f309",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-08T06:07:14.335058"
   },
@@ -8459,7 +8522,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/16ddc71d9f3d4e4f977140b5a0fd0a19",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-08T06:07:29.028728"
   },
@@ -8480,7 +8543,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/88e8ec9394dd4b9fbfdec7784491913a",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-08T06:07:29.973315"
   },
@@ -8501,9 +8564,51 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/df4936ce5d7f47518e08849fa624693a",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-08T06:08:09.700001"
+  },
+  {
+    "id": "UA-2026-05-08-000650-a",
+    "_raw_id": "1095ac967fcb4c2584d58badac33bc10",
+    "title": "Фотоелектричні сонячні модулі",
+    "org": "КОМУНАЛЬНА УСТАНОВА \"ЦЕНТР НАДАННЯ СОЦІАЛЬНИХ ПОСЛУГ\" ВЕРХІВЦЕВСЬКОЇ МІСЬКОЇ РАДИ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 98400.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "09331200-0"
+    ],
+    "cpv": "09331200-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/1095ac967fcb4c2584d58badac33bc10",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-08T10:48:19.394473"
+  },
+  {
+    "id": "UA-2026-05-08-002984-a",
+    "_raw_id": "0cab70284e4f4e168d5440b9eb2b7704",
+    "title": "«Система безперебійного живлення»  для Червонодолинського ліцею Широківської селищної ради Миколаївської області ",
+    "org": "ВІДДІЛ ОСВІТИ ТА КУЛЬТУРИ ШИРОКІВСЬКОЇ СЕЛИЩНОЇ РАДИ МИКОЛАЇВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 417999.96,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/0cab70284e4f4e168d5440b9eb2b7704",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-08T11:40:43.946942"
   },
   {
     "id": "UA-2026-03-31-000589-a",
