@@ -652,6 +652,48 @@
     "fetched_at": "2026-05-08T06:35:08.413037"
   },
   {
+    "id": "UA-2026-05-01-007986-a",
+    "_raw_id": "e493115cb2ed4118859ca9f55e54f497",
+    "title": "Гібридний інвертор Deye SUN-50K-SG01HP3-EU-BM4",
+    "org": "Комунальне некомерційне підприємство \"Ямпільська  лікарня\" Ямпільської селищної  ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 190000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-09",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/e493115cb2ed4118859ca9f55e54f497",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-05-09T06:31:14.551423"
+  },
+  {
+    "id": "UA-2026-05-06-009431-a",
+    "_raw_id": "24f4cd5aba7b4cc18e01f0e28b1c5401",
+    "title": "Гібридний інвертор, 3х-фазний, 60 кВт, ККД не менше 97%  (Гібридний інвертор SUN-60K-SG02HP3 -EU-EM6 Deye)",
+    "org": "Одеська регіональна державна лабораторія Державної служби України з питань безпечності харчових продуктів та захисту споживачів",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 285000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-09",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/24f4cd5aba7b4cc18e01f0e28b1c5401",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-05-09T06:36:48.662113"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -5293,6 +5335,48 @@
     "fetched_at": "2026-05-08T11:41:46.434769"
   },
   {
+    "id": "UA-2026-04-27-005535-a",
+    "_raw_id": "06a3053f18314f278e56527da7cea1b9",
+    "title": "Акумуляторні батареї до транспортних засобів\n",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 53160.0,
+    "currency": "UAH",
+    "deadline": "2026-05-06",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/06a3053f18314f278e56527da7cea1b9",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-09T06:27:00.996115"
+  },
+  {
+    "id": "UA-2026-05-01-010839-a",
+    "_raw_id": "b093b50e0d044432a1d5774b3160169c",
+    "title": "Акумуляторні батареї для джерел безперебійного живлення",
+    "org": "Департамент патрульної поліції",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 332136.8,
+    "currency": "UAH",
+    "deadline": "2026-05-09",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/b093b50e0d044432a1d5774b3160169c",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-09T06:32:43.734182"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -8611,6 +8695,48 @@
     "fetched_at": "2026-05-08T11:40:43.946942"
   },
   {
+    "id": "UA-2026-05-08-013404-a",
+    "_raw_id": "ed4cd340eb344d69b10e7a760ca63d0d",
+    "title": "Комплект резервного живлення для Комунального закладу «Запорізький обласний навчально-реабілітаційний центр «Оберіг» Запорізької обласної ради",
+    "org": "Комунальний заклад «Запорізький обласний навчально-реабілітаційний центр «Оберіг» Запорізької обласної ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 420000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-16",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/ed4cd340eb344d69b10e7a760ca63d0d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-09T06:20:46.027685"
+  },
+  {
+    "id": "UA-2026-04-22-009765-a",
+    "_raw_id": "85031289b9044a84ae801a86c0d796f8",
+    "title": "Джерела резервного живлення ",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЕНЕРГОДІМ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 960000.0,
+    "currency": "UAH",
+    "deadline": "2026-04-30",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/85031289b9044a84ae801a86c0d796f8",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-09T06:23:06.601680"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -9442,5 +9568,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-05-07T12:15:33.934665"
+  },
+  {
+    "id": "UA-2026-05-09-000067-a",
+    "_raw_id": "fbe2534b02344ca8ab38faa1caf5f523",
+    "title": "Електростанція інверторна бензинова (1 Ф) - FG5500iE (4кВт) (FORTE)",
+    "org": "Військова частина А 0807",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 192756.0,
+    "currency": "UAH",
+    "deadline": "2026-05-13",
+    "cpvs": [
+      "31120000-3"
+    ],
+    "cpv": "31120000-3",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/fbe2534b02344ca8ab38faa1caf5f523",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-05-09T06:38:10.800280"
   }
 ]
