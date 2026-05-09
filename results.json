@@ -21,6 +21,28 @@
     "fetched_at": "2026-04-08T11:12:22.234210"
   },
   {
+    "id": "UA-2026-05-04-007761-a",
+    "_raw_id": "a56872c5739a432ba53461096da1e903",
+    "title": "Інвертор із комплектом резервного живлення",
+    "org": "МИРОЛЮБІВСЬКИЙ ЛІЦЕЙ РАЇВСЬКОЇ СІЛЬСЬКОЇ РАДИ СИНЕЛЬНИКІВСЬКОГО РАЙОНУ ДНІПРОПЕТРОВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 420000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-14",
+    "cpvs": [
+      "31150000-2",
+      "31155000-7"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/a56872c5739a432ba53461096da1e903",
+    "is_new": true,
+    "score": 85,
+    "fetched_at": "2026-05-09T10:20:43.452237"
+  },
+  {
     "id": "UA-2026-03-20-009920-a",
     "_raw_id": "aebdb5ec5893401faea13af58d9813ae",
     "title": "ДК 021:2015 31150000-2 Баласти для розрядних ламп чи трубок (комплект: сонячний інвертор Deye SUN-20K-SG05LP3-EU-SM2, 20 кВт, 3-фазний або «еквівалент»;  акумуляторна батарея Deye SE-G5.1Pro-B LiFePO4 51,2V/100AH, 5120W*h або «еквівалент») для Лебединського закладу загальної середньої освіти І-ІІІ ступенів № 7 Лебединської міської ради Сумської області\n",
@@ -668,7 +690,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/e493115cb2ed4118859ca9f55e54f497",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-05-09T06:31:14.551423"
   },
@@ -689,7 +711,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/24f4cd5aba7b4cc18e01f0e28b1c5401",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-05-09T06:36:48.662113"
   },
@@ -1658,6 +1680,27 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-05-07T12:01:07.676949"
+  },
+  {
+    "id": "UA-2026-05-09-000299-a",
+    "_raw_id": "8dfb1139bdf7433ab8b67980c55ca3e0",
+    "title": "Гібридний інвертор",
+    "org": "КП \"Харківські теплові мережі\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 1226101.98,
+    "currency": "UAH",
+    "deadline": "2026-05-19",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/8dfb1139bdf7433ab8b67980c55ca3e0",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-05-09T10:24:51.995303"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -5351,7 +5394,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/06a3053f18314f278e56527da7cea1b9",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-09T06:27:00.996115"
   },
@@ -5372,9 +5415,135 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/b093b50e0d044432a1d5774b3160169c",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-09T06:32:43.734182"
+  },
+  {
+    "id": "UA-2026-04-29-004555-a",
+    "_raw_id": "30155505376448779e910eaa4e3672bd",
+    "title": "Акумуляторні батареї до транспортних засобів\n",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 30700.0,
+    "currency": "UAH",
+    "deadline": "2026-05-09",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/30155505376448779e910eaa4e3672bd",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-09T10:19:47.413086"
+  },
+  {
+    "id": "UA-2026-04-29-005165-a",
+    "_raw_id": "9043b2c62ca34292ba72e568cc00a529",
+    "title": "Акумуляторні батареї до транспортних засобів\n",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 193924.0,
+    "currency": "UAH",
+    "deadline": "2026-05-09",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/9043b2c62ca34292ba72e568cc00a529",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-09T10:23:12.387468"
+  },
+  {
+    "id": "UA-2026-04-29-005275-a",
+    "_raw_id": "92cbe1d992ab40fbb2b5aaeaf23bb697",
+    "title": "Акумуляторні батареї до транспортних засобів\n",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 145312.0,
+    "currency": "UAH",
+    "deadline": "2026-05-09",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/92cbe1d992ab40fbb2b5aaeaf23bb697",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-09T10:23:31.429249"
+  },
+  {
+    "id": "UA-2026-04-27-005037-a",
+    "_raw_id": "b79d67634bee4fa4b1233abcc05852de",
+    "title": "Акумуляторні батареї до транспортних засобів\n",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 54000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-06",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/b79d67634bee4fa4b1233abcc05852de",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-09T10:23:54.126139"
+  },
+  {
+    "id": "UA-2026-04-27-005275-a",
+    "_raw_id": "0d61632a4d4d44bb8ca90f1151e6c8b7",
+    "title": "Акумуляторні батареї до транспортних засобів\n",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 50400.0,
+    "currency": "UAH",
+    "deadline": "2026-05-06",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/0d61632a4d4d44bb8ca90f1151e6c8b7",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-09T10:24:19.759639"
+  },
+  {
+    "id": "UA-2026-04-27-005655-a",
+    "_raw_id": "0037ec2813094fd3917db4bc80fc0a8c",
+    "title": "Акумуляторні батареї до транспортних засобів\n",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 55845.0,
+    "currency": "UAH",
+    "deadline": "2026-05-06",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/0037ec2813094fd3917db4bc80fc0a8c",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-09T10:24:41.012104"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -8711,7 +8880,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/ed4cd340eb344d69b10e7a760ca63d0d",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-09T06:20:46.027685"
   },
@@ -8732,9 +8901,51 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/85031289b9044a84ae801a86c0d796f8",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-09T06:23:06.601680"
+  },
+  {
+    "id": "UA-2026-05-09-000082-a",
+    "_raw_id": "c8f98d59380247ec99b0b10dd2735a2d",
+    "title": "Автономні джерела живлення",
+    "org": "Військова частина А1785",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 1690000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-19",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/c8f98d59380247ec99b0b10dd2735a2d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-09T10:14:38.168999"
+  },
+  {
+    "id": "UA-2026-05-09-000282-a",
+    "_raw_id": "1f74870866fb46b1bd9f1aee85791b2c",
+    "title": "Програмовані лабораторні блоки живлення",
+    "org": "ДЕРЖАВНИЙ НАУКОВО-ДОСЛІДНИЙ ІНСТИТУТ ТЕХНОЛОГІЙ КІБЕРБЕЗПЕКИ ТА ЗАХИСТУ ІНФОРМАЦІЇ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 282000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-21",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/1f74870866fb46b1bd9f1aee85791b2c",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-09T10:24:20.627023"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -9586,7 +9797,7 @@
     "cpv": "31120000-3",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/fbe2534b02344ca8ab38faa1caf5f523",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-05-09T06:38:10.800280"
   }
