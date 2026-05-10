@@ -732,7 +732,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/aee1814d201e4ac298d78bde166f5025",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-05-10T06:40:51.878959"
   },
@@ -753,7 +753,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/e399af1647834483bbc436420d15ab04",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-05-10T06:41:30.478614"
   },
@@ -5604,9 +5604,30 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/00e7afbc5c214c15b6f12161082d81d3",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-10T06:36:13.894344"
+  },
+  {
+    "id": "UA-2026-04-27-012788-a",
+    "_raw_id": "cce7956874994e0892b146a3d6d1dac2",
+    "title": "Акумуляторні батареї",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"УКPНAФТА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 461748.0,
+    "currency": "UAH",
+    "deadline": "2026-05-10",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/cce7956874994e0892b146a3d6d1dac2",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-10T10:21:34.466813"
   },
   {
     "id": "UA-2026-03-11-009316-a",
