@@ -716,6 +716,48 @@
     "fetched_at": "2026-05-09T06:36:48.662113"
   },
   {
+    "id": "UA-2026-05-05-014236-a",
+    "_raw_id": "aee1814d201e4ac298d78bde166f5025",
+    "title": "Системи альтернативного електроживлення (гібридний інвертор з акумуляторами)",
+    "org": "Територіальне управління Державної судової адміністрації України в Київській області ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 4700000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-13",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/aee1814d201e4ac298d78bde166f5025",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-05-10T06:40:51.878959"
+  },
+  {
+    "id": "UA-2026-05-10-000037-a",
+    "_raw_id": "e399af1647834483bbc436420d15ab04",
+    "title": "Система зберігання енергії гібридний інвертор 8kW + 2 АКБ 10.2 kWh",
+    "org": "Військова частина А5003",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 389786.0,
+    "currency": "UAH",
+    "deadline": "2026-05-19",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e399af1647834483bbc436420d15ab04",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-05-10T06:41:30.478614"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -5546,6 +5588,27 @@
     "fetched_at": "2026-05-09T10:24:41.012104"
   },
   {
+    "id": "UA-2026-05-01-011866-a",
+    "_raw_id": "00e7afbc5c214c15b6f12161082d81d3",
+    "title": "Акумуляторна батарея для терміналу збору даних (ТЗД)",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"УКРПОШТА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 78750.0,
+    "currency": "UAH",
+    "deadline": "2026-05-09",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/00e7afbc5c214c15b6f12161082d81d3",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-10T06:36:13.894344"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -8964,7 +9027,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/34c9a17d1ed041609b1adc40d585e6d2",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-09T16:18:26.976241"
   },
