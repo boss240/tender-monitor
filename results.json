@@ -5625,7 +5625,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/cce7956874994e0892b146a3d6d1dac2",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-10T10:21:34.466813"
   },
@@ -9051,6 +9051,48 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-09T16:18:26.976241"
+  },
+  {
+    "id": "UA-2026-05-10-000150-a",
+    "_raw_id": "a039c7fbef3a4a3e9bd6ec9371746f17",
+    "title": "Майно зв’язку",
+    "org": "військова частина А0501",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 56328.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/a039c7fbef3a4a3e9bd6ec9371746f17",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-10T16:02:36.424226"
+  },
+  {
+    "id": "UA-2026-05-10-000154-a",
+    "_raw_id": "91d3a54a3705467db81ba36e402fab23",
+    "title": "Майно зв’язку",
+    "org": "військова частина А0501",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 63990.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/91d3a54a3705467db81ba36e402fab23",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-10T16:02:42.007532"
   },
   {
     "id": "UA-2026-03-31-000589-a",
