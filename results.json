@@ -5630,6 +5630,111 @@
     "fetched_at": "2026-05-10T10:21:34.466813"
   },
   {
+    "id": "UA-2026-05-04-011600-a",
+    "_raw_id": "ef02fa06dd114f5180a8c54bbab0f43f",
+    "title": "Джерело безперебійного живлення (ДБЖ) LP 650VA-PS (390Вт) лінійно-інтерактивний",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 3116 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 30756.0,
+    "currency": "UAH",
+    "deadline": "2026-05-13",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/ef02fa06dd114f5180a8c54bbab0f43f",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-11T07:47:54.487349"
+  },
+  {
+    "id": "UA-2026-05-06-007300-a",
+    "_raw_id": "44322df1852e4e93aef9271cb8a87249",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "УПРАВЛІННЯ ОСВІТИ І ГУМАНІТАРНОЇ ПОЛІТИКИ ПОДІЛЬСЬКОЇ МІСЬКОЇ РАДИ ПОДІЛЬСЬКОГО РАЙОНУ ОДЕСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 175600.02,
+    "currency": "UAH",
+    "deadline": "2026-05-11",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/44322df1852e4e93aef9271cb8a87249",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-11T07:52:46.801128"
+  },
+  {
+    "id": "UA-2026-05-11-000221-a",
+    "_raw_id": "53ceab9eac9d4839894a03beae33706e",
+    "title": "Акумуляторна батарея Dnipro-M BP-240 4 Аг; Акумуляторна батарея Dnipro-M BP-125 4 Аг;  Акумуляторна батарея PROFI-TEC PT2040VX POWERLine (20 В / 4.0 Аг, високострумова, з індикатором);  Акумуляторна батарея PROFI-TEC PT2080VX POWERLine (20 В / 8.0 Аг, високострумова, з індикатором).",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 3057 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 61721.41,
+    "currency": "UAH",
+    "deadline": "2026-05-20",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/53ceab9eac9d4839894a03beae33706e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-11T08:15:30.105949"
+  },
+  {
+    "id": "UA-2026-05-06-012365-a",
+    "_raw_id": "d8ba8ef5fbbd4e749830d42c9bc55fba",
+    "title": "Гибридний інвертор",
+    "org": "Національний технічний університет \"Дніпровська політехніка\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 89000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-11",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/d8ba8ef5fbbd4e749830d42c9bc55fba",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-11T08:22:45.845970"
+  },
+  {
+    "id": "UA-2026-05-11-002019-a",
+    "_raw_id": "318e383166fb458ca808329d26b589f3",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "Комунальний заклад освіти «Спеціальна школа № 10» Дніпропетровської обласної ради»",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 170000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-14",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/318e383166fb458ca808329d26b589f3",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-11T09:23:03.075659"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -9069,7 +9174,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/a039c7fbef3a4a3e9bd6ec9371746f17",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-10T16:02:36.424226"
   },
@@ -9090,9 +9195,30 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/91d3a54a3705467db81ba36e402fab23",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-10T16:02:42.007532"
+  },
+  {
+    "id": "UA-2026-05-11-000797-a",
+    "_raw_id": "4999681ace094040ab53b7baf0f351ef",
+    "title": "Блок керування кластером",
+    "org": "КП \"Комунсервіс\" Чемеровецької селищної ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 63242.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/4999681ace094040ab53b7baf0f351ef",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-11T08:47:46.063508"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -9266,6 +9392,27 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-05-05T07:14:58.252496"
+  },
+  {
+    "id": "UA-2026-05-03-000281-a",
+    "_raw_id": "788839d6a3f84d4baf65aee1651ea4d6",
+    "title": "Система безперебійного електроживлення (інвертор, акумуляторна батарея, шафа)",
+    "org": "УПРАВЛІННЯ ОСВІТИ САМАРІВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 3360000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-11",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/788839d6a3f84d4baf65aee1651ea4d6",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-05-11T07:59:48.837099"
   },
   {
     "id": "UA-2026-03-20-008862-a",
@@ -9947,5 +10094,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-05-09T06:38:10.800280"
+  },
+  {
+    "id": "UA-2026-04-01-010610-a",
+    "_raw_id": "83e7d61824584f29825476803ad57142",
+    "title": "31680000-6 Електричне приладдя та супутні товари до електричного обладнання Інвертори для БудРем",
+    "org": "ПРИВАТНЕ АКЦІОНЕРНЕ ТОВАРИСТВО \"НАЦІОНАЛЬНА ЕНЕРГЕТИЧНА КОМПАНІЯ \"УКРЕНЕРГО\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 73032.36,
+    "currency": "UAH",
+    "deadline": "2026-04-09",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/83e7d61824584f29825476803ad57142",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-05-11T09:21:56.911446"
   }
 ]
