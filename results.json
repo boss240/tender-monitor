@@ -5646,7 +5646,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/ef02fa06dd114f5180a8c54bbab0f43f",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-11T07:47:54.487349"
   },
@@ -5667,7 +5667,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/44322df1852e4e93aef9271cb8a87249",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-11T07:52:46.801128"
   },
@@ -5688,7 +5688,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/53ceab9eac9d4839894a03beae33706e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-11T08:15:30.105949"
   },
@@ -5709,7 +5709,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/d8ba8ef5fbbd4e749830d42c9bc55fba",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-11T08:22:45.845970"
   },
@@ -5730,7 +5730,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/318e383166fb458ca808329d26b589f3",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-11T09:23:03.075659"
   },
@@ -9216,7 +9216,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/4999681ace094040ab53b7baf0f351ef",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-11T08:47:46.063508"
   },
@@ -9410,7 +9410,7 @@
     "cpv": "31680000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/788839d6a3f84d4baf65aee1651ea4d6",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-05-11T07:59:48.837099"
   },
@@ -10112,7 +10112,7 @@
     "cpv": "31680000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/83e7d61824584f29825476803ad57142",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-05-11T09:21:56.911446"
   }
