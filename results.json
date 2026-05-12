@@ -5735,6 +5735,153 @@
     "fetched_at": "2026-05-11T09:23:03.075659"
   },
   {
+    "id": "UA-2026-05-11-014337-a",
+    "_raw_id": "886f0b68253f4e51990eddd277269e29",
+    "title": "Акумуляторні батареї до джерела безперебійного живлення (ID тендера на \"tender.privatbank.ua\": PB-2026-03-23-3068495) (Звіт про укладення договору)",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО КОМЕРЦІЙНИЙ БАНК \"ПРИВАТБАНК\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1470000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/886f0b68253f4e51990eddd277269e29",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-12T06:40:07.621815"
+  },
+  {
+    "id": "UA-2026-05-04-012473-a",
+    "_raw_id": "431c0040269b4467902d34ee308108d8",
+    "title": "Елементи живлення -  (ДК 021:2015:31440000-2: Акумуляторні батареї) ",
+    "org": "ДЕРЖАВНЕ БЮРО РОЗСЛІДУВАНЬ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 50384.33,
+    "currency": "UAH",
+    "deadline": "2026-05-12",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/431c0040269b4467902d34ee308108d8",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-12T06:57:50.569699"
+  },
+  {
+    "id": "UA-2026-05-11-003826-a",
+    "_raw_id": "fe37a4e797774922994dea9f842cd16a",
+    "title": "Акумуляторні батареї   ",
+    "org": "Харківська філія ТОВ \"Газорозподільні мережі України\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 489168.17,
+    "currency": "UAH",
+    "deadline": "2026-05-19",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/fe37a4e797774922994dea9f842cd16a",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-12T07:15:31.366830"
+  },
+  {
+    "id": "UA-2026-05-07-014694-a",
+    "_raw_id": "a945736feeeb4d97899de08c55e0e834",
+    "title": "Придбання  гібридного інвертора   для реалізації проекту ЮНІСЕФ згідно ПКМУ від 19.12.2025 р. № 1713",
+    "org": "ВІДДІЛ ОСВІТИ, МОЛОДІ ТА СПОРТУ ВИЗИРСЬКОЇ СІЛЬСЬКОЇ РАДИ ОДЕСЬКОГО РАЙОНУ ОДЕСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 320000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-12",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/a945736feeeb4d97899de08c55e0e834",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-12T07:16:23.592105"
+  },
+  {
+    "id": "UA-2026-05-07-014675-a",
+    "_raw_id": "ae0c4ca97cf846f69c8c0bf9081d52bc",
+    "title": "Придбання  гібридного інвертора   для реалізації проекту ЮНІСЕФ згідно ПКМУ від 19.12.2025 р. № 1713",
+    "org": "ВІДДІЛ ОСВІТИ, МОЛОДІ ТА СПОРТУ ВИЗИРСЬКОЇ СІЛЬСЬКОЇ РАДИ ОДЕСЬКОГО РАЙОНУ ОДЕСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 320000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-12",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/ae0c4ca97cf846f69c8c0bf9081d52bc",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-12T07:16:40.093074"
+  },
+  {
+    "id": "UA-2026-05-12-001045-a",
+    "_raw_id": "3781c54f71404bb48909b4691b5dc3d0",
+    "title": "Акумуляторна батарея Dnipro-M BP-260 2,0 Ач",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 3056 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/3781c54f71404bb48909b4691b5dc3d0",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-12T07:38:59.959751"
+  },
+  {
+    "id": "UA-2026-04-29-011392-a",
+    "_raw_id": "b392175a2b9e4bb9a48ac1887eb2df78",
+    "title": "Акумуляторні батареї Акумуляторні батареї в асортименті (31440000-2)",
+    "org": "Український науково-дослідний інститут спеціальної техніки та судових експертиз Служби безпеки України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 266000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-07",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/b392175a2b9e4bb9a48ac1887eb2df78",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-12T07:42:24.028400"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -9221,6 +9368,69 @@
     "fetched_at": "2026-05-11T08:47:46.063508"
   },
   {
+    "id": "UA-2026-05-11-014425-a",
+    "_raw_id": "cc04d6599a15417494279a972feb96c8",
+    "title": "Джерела безперебійного живлення (ID тендера на \"tender.privatbank.ua\": PB-2026-03-12-3068368) (Звіт про укладення договору)",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО КОМЕРЦІЙНИЙ БАНК \"ПРИВАТБАНК\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1039740.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/cc04d6599a15417494279a972feb96c8",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-12T06:41:31.125831"
+  },
+  {
+    "id": "UA-2026-05-04-005835-a",
+    "_raw_id": "350fb2b1b480437582694b2385843379",
+    "title": "Блок батарей Deye BOS-G12 61.44kW 614.4V 100Ah LiFePO4 HVB750V RAC  (Накопичувач енергії Deye BOS-GM5.1LiFePO4 51.2V 100AH-12 штук; блок управління BMS DEYE HVB750V/100A-EU-1 штука; стійка DEYE 3U-HRACK,12 місць для BOS-GM5.1,60kWt   -1 штука)",
+    "org": "Комунальне некомерційне підприємство \"Ямпільська  лікарня\" Ямпільської селищної  ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 525000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-12",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/350fb2b1b480437582694b2385843379",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-12T06:46:55.968377"
+  },
+  {
+    "id": "UA-2026-04-30-008525-a",
+    "_raw_id": "9ba5db87ae524d5584a836ec24c772c4",
+    "title": "Комплект джерела безперебійного живлення",
+    "org": "ГОСПОДАРСЬКИЙ СУД ЧЕРНІВЕЦЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 330000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-12",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/9ba5db87ae524d5584a836ec24c772c4",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-12T06:48:15.677481"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -10115,5 +10325,28 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-05-11T09:21:56.911446"
+  },
+  {
+    "id": "UA-2026-05-04-004035-a",
+    "_raw_id": "7f8ffc17f80a4585a53627ea22c0642d",
+    "title": "Комплект акумуляторних батарей для забезпечення аварійного живлення (акумулятор 8 шт.; блок керування кластером високовольтної батареї 1шт; стійка для акумуляторних батарей на 12 АКБ + модуль керування 1шт);  ДК 021:2015: 31680000-6- Електричне приладдя та супутні товари до електричного обладнання.",
+    "org": "КОМУНАЛЬНИЙ ЗАКЛАД \"ГОРОДНЯНСЬКИЙ ЛІЦЕЙ № 2\" ГОРОДНЯНСЬКОЇ МІСЬКОЇ РАДИ ЧЕРНІГІВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 405000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-12",
+    "cpvs": [
+      "31680000-6",
+      "31680000-6",
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/7f8ffc17f80a4585a53627ea22c0642d",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-05-12T06:46:38.601569"
   }
 ]
