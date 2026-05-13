@@ -1846,7 +1846,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/20034668e9054c64842015daccf2bc16",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-05-13T12:33:33.125593"
   },
@@ -1867,7 +1867,7 @@
     "cpv": "31155000-7",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/a893f199df014f2fa2cb91e16c1d4134",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-05-13T12:58:46.147741"
   },
@@ -1888,7 +1888,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/04e80e19a68d4f59a98e05ce94267ca7",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-05-13T13:03:41.632738"
   },
@@ -1909,7 +1909,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/9b04290aeaed4a29ae71741df4025d95",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-05-13T13:06:03.576270"
   },
@@ -6151,7 +6151,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/db1fb5ec13ef4ee2ba39b53ec28c2d5a",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-13T13:04:24.254812"
   },
@@ -9763,7 +9763,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/f156689f1af94b76bcea7f9abd8f3169",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-13T12:58:30.376471"
   },
@@ -9784,9 +9784,30 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/1fd4002f04dc4b39b3076ab5803cee09",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-13T13:03:03.608362"
+  },
+  {
+    "id": "UA-2026-05-13-003360-a",
+    "_raw_id": "e599b9d3ae134f5ab156f2444c7f9ecb",
+    "title": "Пристрій безперебійного живлення APC BV1000I-GR або еквівалент",
+    "org": "Кропивницька філія Товариства з обмеженою відповідальністю  «Газорозподільні мережі України»",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 403848.0,
+    "currency": "UAH",
+    "deadline": "2026-05-24",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e599b9d3ae134f5ab156f2444c7f9ecb",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-13T18:33:51.816604"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -10724,7 +10745,7 @@
     "cpv": "09331000-8",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6406fc7cac164dbdbaedc02ae1028a2c",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-05-13T12:37:35.357003"
   },
@@ -10745,7 +10766,7 @@
     "cpv": "31210000-1",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/9855aba157c0463083599e5472dd7d2f",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-05-13T12:44:45.885576"
   }
