@@ -775,9 +775,51 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/38d0d166b3ca4006a396f78fce3dc5d3",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-05-12T18:34:35.688973"
+  },
+  {
+    "id": "UA-2026-05-07-010826-a",
+    "_raw_id": "3c6261dfa7184f398e1bf429dfa33898",
+    "title": "Система (джерело) безперебійного живлення з акумуляторами (Гібридний інвертор Deye SUN-25k-SG01HP3-EU, Блок управління та розподілу енергії для високовольтної акумуляторної батареї Deye BOS-G-PDU-2 200-1000Vdc 120A, Акумуляторна батарея Deye LiFePO4 BOS-G Pro 51,2V 100Ah)",
+    "org": "Військова частина А4994",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 332262.4,
+    "currency": "UAH",
+    "deadline": "2026-05-15",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/3c6261dfa7184f398e1bf429dfa33898",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-05-13T06:58:53.064480"
+  },
+  {
+    "id": "UA-2026-05-05-012747-a",
+    "_raw_id": "85e81d9574404b41a574796cf80d81b0",
+    "title": "Комплект резервного живлення (гібридний інвертор з акумулятором)",
+    "org": "Головне управління ДПС у Миколаївській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 199100.0,
+    "currency": "UAH",
+    "deadline": "2026-05-13",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/85e81d9574404b41a574796cf80d81b0",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-05-13T07:12:00.982712"
   },
   {
     "id": "UA-2026-03-20-006846-a",
@@ -1765,6 +1807,27 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-05-09T10:24:51.995303"
+  },
+  {
+    "id": "UA-2026-05-05-003553-a",
+    "_raw_id": "006a5a0a8bdc4f5383f5c6f2851d78dd",
+    "title": "Гібридний інвертор",
+    "org": "Регіональний сервісний центр ГСЦ МВС у Дніпропетровській та Запорізькій областях (філія ГСЦ МВС)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 145000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-13",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/006a5a0a8bdc4f5383f5c6f2851d78dd",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-05-13T07:36:17.539975"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -5904,6 +5967,90 @@
     "fetched_at": "2026-05-12T07:42:24.028400"
   },
   {
+    "id": "UA-2026-05-05-014577-a",
+    "_raw_id": "86d3f15dadac4d6ebd7b5cdc86e640e9",
+    "title": "Акумуляторні батареї до Autel EVO MAX 4T/4N",
+    "org": "Костопільська міська рада",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 240000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-13",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/86d3f15dadac4d6ebd7b5cdc86e640e9",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-13T07:10:14.724760"
+  },
+  {
+    "id": "UA-2026-05-12-015377-a",
+    "_raw_id": "4e4d78ed21bf4acb89c7957bad8167f4",
+    "title": "Акумуляторні батареї  (Осмолодське надлісництво)",
+    "org": "ФІЛІЯ \"КАРПАТСЬКИЙ ЛІСОВИЙ ОФІС\" ДЕРЖАВНОГО СПЕЦІАЛІЗОВАНОГО ГОСПОДАРСЬКОГО ПІДПРИЄМСТВА \"ЛІСИ УКРАЇНИ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 142131.1,
+    "currency": "UAH",
+    "deadline": "2026-05-20",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/4e4d78ed21bf4acb89c7957bad8167f4",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-13T07:23:09.266158"
+  },
+  {
+    "id": "UA-2026-05-13-000176-a",
+    "_raw_id": "a8320bc0ddbd4ee298e4bc06ad665da4",
+    "title": "Акумуляторні батареї",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 3027 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 3517950.0,
+    "currency": "UAH",
+    "deadline": "2026-05-22",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/a8320bc0ddbd4ee298e4bc06ad665da4",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-13T07:23:53.995857"
+  },
+  {
+    "id": "UA-2026-05-13-001436-a",
+    "_raw_id": "19d8b74f42ff426baaad455cda074389",
+    "title": "Джерела резервного живлення (акумуляторні батареї)",
+    "org": "Комунальна установа \"Інформаційно-аналітичний центр медичної статистики\" Вінницької області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 37650.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/19d8b74f42ff426baaad455cda074389",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-13T08:00:24.345684"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -9451,6 +9598,48 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-12T06:48:15.677481"
+  },
+  {
+    "id": "UA-2026-05-05-014530-a",
+    "_raw_id": "a474c3c5fea44079b61e8307c8b741b3",
+    "title": "Комплектуючі до станції резервного енергоживлення",
+    "org": "НАЦІОНАЛЬНИЙ ТЕХНІЧНИЙ УНІВЕРСИТЕТ УКРАЇНИ \"КИЇВСЬКИЙ ПОЛІТЕХНІЧНИЙ ІНСТИТУТ ІМЕНІ ІГОРЯ СІКОРСЬКОГО\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 175000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-13",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/a474c3c5fea44079b61e8307c8b741b3",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-13T07:11:16.394378"
+  },
+  {
+    "id": "UA-2026-05-05-007424-a",
+    "_raw_id": "a1daf2c13020442f8a436217a511fb53",
+    "title": "Джерело безперебійного живлення потужністю 3 кВт",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"ЗАПОРІЗЬКА ОБЛАСНА КЛІНІЧНА ЛІКАРНЯ\" ЗАПОРІЗЬКОЇ ОБЛАСНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 50000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-13",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/a1daf2c13020442f8a436217a511fb53",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-13T07:13:36.196720"
   },
   {
     "id": "UA-2026-03-31-000589-a",
