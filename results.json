@@ -838,7 +838,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/98f1ca17b37543ee821ff95e55b58654",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-05-14T07:21:06.790645"
   },
@@ -1951,7 +1951,7 @@
     "cpv": "31155000-7",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/e988c04c47334b45b9db9181313e3a44",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-05-14T06:48:11.243790"
   },
@@ -1972,7 +1972,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/146355e8b08042fabcc68ab24bb91bf5",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-05-14T06:53:02.596013"
   },
@@ -6235,7 +6235,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/d4c8d24df1fe47d08f8b75923fa53a11",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-14T06:51:03.016444"
   },
@@ -6256,7 +6256,7 @@
     "cpv": "31155000-7",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/1f1ba97b64c44120a0c2af515ed5d258",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-14T06:54:14.545742"
   },
@@ -6277,7 +6277,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/55b93f9bf32b42f98a1520ff01b07530",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-14T07:02:33.363851"
   },
@@ -6298,7 +6298,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/9423ff980aec4a4eac21f2db197daa23",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-14T07:25:14.837303"
   },
@@ -6319,7 +6319,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/aa67df4723a949a1b5d12a8a8a1ee55c",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-14T07:33:02.602551"
   },
@@ -6340,9 +6340,51 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/444a6ddacf86408c870a77567cc1ec04",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-14T07:45:56.080232"
+  },
+  {
+    "id": "UA-2026-05-14-001575-a",
+    "_raw_id": "165c35bc95e14f2a8c277e255ea3bcd3",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "ЗАКЛАД ЗАГАЛЬНОЇ СЕРЕДНЬОЇ ОСВІТИ \"ПРИЛИМАНСЬКИЙ ЛІЦЕЙ\" АВАНГАРДІВСЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 99000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-19",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/165c35bc95e14f2a8c277e255ea3bcd3",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-14T11:57:30.091969"
+  },
+  {
+    "id": "UA-2026-05-05-012202-a",
+    "_raw_id": "f83fddad9f0d46b285c8e088c00e134f",
+    "title": "Акумуляторні батареї для електровозів серії ВЛ та дизель-поїзда ДР1А",
+    "org": "ПРИВАТНЕ АКЦІОНЕРНЕ ТОВАРИСТВО \"ЛЬВІВСЬКИЙ ЛОКОМОТИВОРЕМОНТНИЙ ЗАВОД\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 4975800.0,
+    "currency": "UAH",
+    "deadline": "2026-05-14",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/f83fddad9f0d46b285c8e088c00e134f",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-14T12:00:39.057978"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -10015,7 +10057,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/2a847b7225dd4f118f55afbfd45e1d3a",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-14T07:08:42.409105"
   },
@@ -10036,7 +10078,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/719ab96c5910427da617f9debfc08deb",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-14T07:10:32.417239"
   },
@@ -10057,7 +10099,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/4810c368adfc4f9c9fcb5699a59f861a",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-14T07:11:00.485092"
   },
@@ -10078,7 +10120,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/38c6747484794fedafe4696a59dd55da",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-14T07:14:18.592104"
   },
@@ -10099,9 +10141,30 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/05ff1934368b49a6be36bfaa2440d6f1",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-14T07:26:35.223540"
+  },
+  {
+    "id": "UA-2026-05-11-009151-a",
+    "_raw_id": "0a36b83d37d14202b7541fb50468d8d6",
+    "title": "Комплекти резервного живлення (ДК 021:2015 31154000-0 Джерела безперебійного живлення) (за кошти грошової допомоги ЮНІСЕФ)",
+    "org": "ВІДДІЛ ОСВІТИ, КУЛЬТУРИ, МОЛОДІ ТА СПОРТУ НОВООЛЕКСАНДРІВСЬКОЇ СІЛЬСЬКОЇ РАДИ ДНІПРОВСЬКОГО РАЙОНУ ДНІПРОПЕТРОВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1260000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-19",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/0a36b83d37d14202b7541fb50468d8d6",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-14T12:02:50.473845"
   },
   {
     "id": "UA-2026-03-31-000589-a",
