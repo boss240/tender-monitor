@@ -6387,6 +6387,69 @@
     "fetched_at": "2026-05-14T12:00:39.057978"
   },
   {
+    "id": "UA-2026-05-06-007814-a",
+    "_raw_id": "961d991408044d97b2f7f1ad33771b00",
+    "title": "Акумуляторна батарея для POS термінала",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"УКРПОШТА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 182313.0,
+    "currency": "UAH",
+    "deadline": "2026-05-14",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/961d991408044d97b2f7f1ad33771b00",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-15T07:00:14.543740"
+  },
+  {
+    "id": "UA-2026-05-06-006931-a",
+    "_raw_id": "8b8f5efc369b4f3b90e7dd7395eef57a",
+    "title": "Системи безперебійного живлення",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"УКРПОШТА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 49586325.0,
+    "currency": "UAH",
+    "deadline": "2026-05-14",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/8b8f5efc369b4f3b90e7dd7395eef57a",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-15T07:00:15.509548"
+  },
+  {
+    "id": "UA-2026-05-07-008646-a",
+    "_raw_id": "30566eecc01a4ffbbc0e97f550253ed6",
+    "title": "Акумуляторні батареї ",
+    "org": "ПРАТ \"РІВНЕОБЛЕНЕРГО\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 831500.0,
+    "currency": "UAH",
+    "deadline": "2026-05-15",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/30566eecc01a4ffbbc0e97f550253ed6",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-15T07:13:53.149425"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -10167,6 +10230,48 @@
     "fetched_at": "2026-05-14T12:02:50.473845"
   },
   {
+    "id": "UA-2026-05-06-003765-a",
+    "_raw_id": "b0bfa4072cd04ce1ae96791d9b068015",
+    "title": "Пристрій безперебійного живлення ",
+    "org": "ЧЕРНІГІВСЬКА МИТНИЦЯ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 48136.0,
+    "currency": "UAH",
+    "deadline": "2026-05-15",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/b0bfa4072cd04ce1ae96791d9b068015",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-15T07:10:02.491400"
+  },
+  {
+    "id": "UA-2026-05-07-010274-a",
+    "_raw_id": "d06004a41848472fbbd0fde80f56f5ea",
+    "title": "комплект джерела безперебійного живлення",
+    "org": "Територіальне управління Державної судової адміністрації України в Сумській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 2096715.0,
+    "currency": "UAH",
+    "deadline": "2026-05-15",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/d06004a41848472fbbd0fde80f56f5ea",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-15T07:19:20.402817"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -11126,5 +11231,27 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-05-13T12:44:45.885576"
+  },
+  {
+    "id": "UA-2026-05-11-008389-a",
+    "_raw_id": "c48013b074ef47dc9fb8b9275289704e",
+    "title": "Акумулятори",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"СУМСЬКИЙ ЗАВОД НАСОСНОГО ТА ЕНЕРГЕТИЧНОГО МАШИНОБУДУВАННЯ \"НАСОСЕНЕРГОМАШ\" ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 88000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-19",
+    "cpvs": [
+      "31400000-0",
+      "31400000-0"
+    ],
+    "cpv": "31400000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/c48013b074ef47dc9fb8b9275289704e",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-05-15T06:59:19.264835"
   }
 ]
