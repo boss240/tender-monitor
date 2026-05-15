@@ -843,6 +843,48 @@
     "fetched_at": "2026-05-14T07:21:06.790645"
   },
   {
+    "id": "UA-2026-05-15-002447-a",
+    "_raw_id": "1e09ccc023f540c18d1df10ec5ae2ca7",
+    "title": "Акумуляторна батарея Deye LiFePO4HV51.2V 100AH 5/12kWhBOS-G-Pack5.1(10,24 кВт), Блок BMSкерування 200-1000 Vdc 120ABOS-G-PDU-2, Стійка для батарей Deye BOS-G13-рівнів .\nзгідно коду CPV за ДК 021:2015– 31440000-2 Акумуляторні батареї ",
+    "org": "ЗАКЛАД ДОШКІЛЬНОЇ ОСВІТИ \"ВЕСЕЛКА\" ВЕРХНЬОДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 420000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-23",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/1e09ccc023f540c18d1df10ec5ae2ca7",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-05-15T12:46:41.842481"
+  },
+  {
+    "id": "UA-2026-05-14-007932-a",
+    "_raw_id": "35aac12a3951468f9bda4ba6a52a8682",
+    "title": "Гібридний трифазний високовольтний інвертор Deye потужністю 50 кВт, SUN-50K-SG01HP3-EU-BM4, Акумуляторна батарея Deye LiFePO4HV51.2V 100AH 5/12kWhBOS-G-Pack5.1, Блок BMSкерування 200-1000 Vdc 120ABOS-G-PDU-2 , Стійка для батарей DeyeBOSG 13-рівнів.",
+    "org": "ПУШКАРІВСЬКИЙ ЛІЦЕЙ ВЕРХНЬОДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 420000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-22",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/35aac12a3951468f9bda4ba6a52a8682",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-05-15T13:02:43.156221"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -1975,6 +2017,27 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-05-14T06:53:02.596013"
+  },
+  {
+    "id": "UA-2026-04-20-006542-a",
+    "_raw_id": "3c1292c3224347528fead0f221875a79",
+    "title": "Батарея акумуляторна LiFePO4",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"УКPНAФТА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 2111720.0,
+    "currency": "UAH",
+    "deadline": "2026-05-01",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/3c1292c3224347528fead0f221875a79",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-05-15T12:52:21.552566"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -6403,7 +6466,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/961d991408044d97b2f7f1ad33771b00",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-15T07:00:14.543740"
   },
@@ -6424,7 +6487,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/8b8f5efc369b4f3b90e7dd7395eef57a",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-15T07:00:15.509548"
   },
@@ -6445,7 +6508,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/30566eecc01a4ffbbc0e97f550253ed6",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-15T07:13:53.149425"
   },
@@ -10246,7 +10309,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/b0bfa4072cd04ce1ae96791d9b068015",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-15T07:10:02.491400"
   },
@@ -10267,9 +10330,51 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/d06004a41848472fbbd0fde80f56f5ea",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-15T07:19:20.402817"
+  },
+  {
+    "id": "UA-2026-05-15-001134-a",
+    "_raw_id": "ee69a3aac10d424eb82fc8a3628798db",
+    "title": "Джерела безперебійного живлення",
+    "org": "Військова частина А4150",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/ee69a3aac10d424eb82fc8a3628798db",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-15T12:32:37.109275"
+  },
+  {
+    "id": "UA-2026-05-15-002831-a",
+    "_raw_id": "fc30a1202d26428694a667a063821b23",
+    "title": "Блоки живлення",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"УКPНAФТА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 246355.0,
+    "currency": "UAH",
+    "deadline": "2026-05-25",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/fc30a1202d26428694a667a063821b23",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-15T12:55:29.983542"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -11250,8 +11355,29 @@
     "cpv": "31400000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/c48013b074ef47dc9fb8b9275289704e",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-05-15T06:59:19.264835"
+  },
+  {
+    "id": "UA-2026-05-15-002351-a",
+    "_raw_id": "04cf2b54c34049e4bc85e1c5e406e86d",
+    "title": "Акумуляторна батарея",
+    "org": "Львівське комунальне підприємство \"Львівелектротранс\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 81640.0,
+    "currency": "UAH",
+    "deadline": "2026-05-25",
+    "cpvs": [
+      "31421000-3"
+    ],
+    "cpv": "31421000-3",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/04cf2b54c34049e4bc85e1c5e406e86d",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-05-15T12:42:11.948348"
   }
 ]
