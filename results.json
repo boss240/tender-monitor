@@ -859,7 +859,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/1e09ccc023f540c18d1df10ec5ae2ca7",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-05-15T12:46:41.842481"
   },
@@ -880,7 +880,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/35aac12a3951468f9bda4ba6a52a8682",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-05-15T13:02:43.156221"
   },
@@ -2035,7 +2035,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/3c1292c3224347528fead0f221875a79",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-05-15T12:52:21.552566"
   },
@@ -10351,7 +10351,7 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/ee69a3aac10d424eb82fc8a3628798db",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-15T12:32:37.109275"
   },
@@ -10372,7 +10372,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/fc30a1202d26428694a667a063821b23",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-15T12:55:29.983542"
   },
@@ -11376,8 +11376,29 @@
     "cpv": "31421000-3",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/04cf2b54c34049e4bc85e1c5e406e86d",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-05-15T12:42:11.948348"
+  },
+  {
+    "id": "UA-2026-05-15-002972-a",
+    "_raw_id": "f6e54f6d39074f3cbf2e5fb14c20c4e7",
+    "title": "Блок керування акумуляторною батареєю",
+    "org": "Відділ освіти Татарбунарської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 40000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31710000-6"
+    ],
+    "cpv": "31710000-6",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/f6e54f6d39074f3cbf2e5fb14c20c4e7",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-05-15T18:17:16.435403"
   }
 ]
