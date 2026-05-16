@@ -6529,7 +6529,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/c6a22098c4814accb1dac0373300cd63",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-16T06:32:48.229949"
   },
@@ -6550,9 +6550,240 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/52d3d877a96144b7ba4746187056d226",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-16T06:32:50.071797"
+  },
+  {
+    "id": "UA-2026-05-12-004533-a",
+    "_raw_id": "f08f132f780c43958c396f1f3502a20b",
+    "title": "Акумуляторні батареї до транспортних засобів BOSCH S4 005 6CT-60Ah\n\n",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 75600.0,
+    "currency": "UAH",
+    "deadline": "2026-05-20",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/f08f132f780c43958c396f1f3502a20b",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-16T10:29:31.534946"
+  },
+  {
+    "id": "UA-2026-05-12-005537-a",
+    "_raw_id": "562d60d918f34b9eaa2ea8a5075c9d9f",
+    "title": "Акумуляторні батареї до транспортних засобів BOSCH S4 027 6CT-70Ah \n\n",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 82500.0,
+    "currency": "UAH",
+    "deadline": "2026-05-20",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/562d60d918f34b9eaa2ea8a5075c9d9f",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-16T10:29:47.903863"
+  },
+  {
+    "id": "UA-2026-05-12-005660-a",
+    "_raw_id": "e115890fd9cf4174acf4db541bf82405",
+    "title": "Акумуляторні батареї до транспортних засобів BOSCH S4 027 6CT-74Ah \n\n",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 82500.0,
+    "currency": "UAH",
+    "deadline": "2026-05-20",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e115890fd9cf4174acf4db541bf82405",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-16T10:30:40.028977"
+  },
+  {
+    "id": "UA-2026-05-12-005766-a",
+    "_raw_id": "294f326e77d64e65bda92f4a09ad8681",
+    "title": "Акумуляторні батареї до транспортних засобів BOSCH S5 010 6CT-85Ah\n\n",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 87000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-20",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/294f326e77d64e65bda92f4a09ad8681",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-16T10:30:49.087670"
+  },
+  {
+    "id": "UA-2026-05-12-005926-a",
+    "_raw_id": "57e8c85e12eb4959b614dc123dc75eba",
+    "title": "Акумуляторні батареї до транспортних засобів BOSCH S3 013 6CT-90Ah \n\n",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 120000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-20",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/57e8c85e12eb4959b614dc123dc75eba",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-16T10:31:31.157438"
+  },
+  {
+    "id": "UA-2026-05-12-006033-a",
+    "_raw_id": "88abaf1e58624270934d7152de86a619",
+    "title": "Акумуляторні батареї до транспортних засобів BOSCH S4 E13 6СТ-95Аh\n\n",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 150000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-20",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/88abaf1e58624270934d7152de86a619",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-16T10:31:47.570457"
+  },
+  {
+    "id": "UA-2026-05-12-006147-a",
+    "_raw_id": "98bd8a9b64364f9c9684bf2acb1e699b",
+    "title": "Акумуляторні батареї до транспортних засобів BOSCH S4 029 6CT-95Ah \n",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 120000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-20",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/98bd8a9b64364f9c9684bf2acb1e699b",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-16T10:31:55.753062"
+  },
+  {
+    "id": "UA-2026-05-12-006260-a",
+    "_raw_id": "ef4f5d3770914151a196991a0a01cf33",
+    "title": "Акумуляторні батареї до транспортних засобів BOSCH S5 013 6CT-100Ah \n",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 162500.0,
+    "currency": "UAH",
+    "deadline": "2026-05-20",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/ef4f5d3770914151a196991a0a01cf33",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-16T10:32:05.032271"
+  },
+  {
+    "id": "UA-2026-05-12-006366-a",
+    "_raw_id": "9b6b349aae15450ba56f59eb8a3d862b",
+    "title": "Акумуляторні батареї до транспортних засобів WESTA 6CT-100Аh або еквівалент\n",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 135000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-20",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/9b6b349aae15450ba56f59eb8a3d862b",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-16T10:32:17.513417"
+  },
+  {
+    "id": "UA-2026-05-12-006428-a",
+    "_raw_id": "2ad5650f89154e1db0efd5ba89c6d448",
+    "title": "Акумуляторні батареї до транспортних засобів EXIDE EFB 6СТ-105Ah Start-Stop ",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 50000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-20",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/2ad5650f89154e1db0efd5ba89c6d448",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-16T10:32:23.571643"
+  },
+  {
+    "id": "UA-2026-05-12-006532-a",
+    "_raw_id": "3856cc73ca3a40acb9d7bcc43071284e",
+    "title": "Акумуляторні батареї до транспортних засобів BOSCH TE 190Ah 1050A 12V ",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 250000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-20",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/3856cc73ca3a40acb9d7bcc43071284e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-16T10:32:30.581131"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -10417,6 +10648,27 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-15T12:55:29.983542"
+  },
+  {
+    "id": "UA-2026-05-08-004639-a",
+    "_raw_id": "ff1abb0e36c646f2bc78cc59a50c8941",
+    "title": "Джерело безперебійного живлення",
+    "org": "Національний науковий центр \"Харківський фізико-технічний інститут\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 175000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-16",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/ff1abb0e36c646f2bc78cc59a50c8941",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-16T10:33:35.728391"
   },
   {
     "id": "UA-2026-03-31-000589-a",
