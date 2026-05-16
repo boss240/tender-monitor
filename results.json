@@ -6513,6 +6513,48 @@
     "fetched_at": "2026-05-15T07:13:53.149425"
   },
   {
+    "id": "UA-2026-05-12-014765-a",
+    "_raw_id": "c6a22098c4814accb1dac0373300cd63",
+    "title": "Акумуляторні батареї для наземних роботизованих комплексів",
+    "org": "Департамент поліції особливого призначення «Об'єднана штурмова бригада Національної поліції України «Лють»",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 882000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-20",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/c6a22098c4814accb1dac0373300cd63",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-16T06:32:48.229949"
+  },
+  {
+    "id": "UA-2026-05-12-014902-a",
+    "_raw_id": "52d3d877a96144b7ba4746187056d226",
+    "title": "Акумуляторні батареї",
+    "org": "Військова частина А5242",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 165960.0,
+    "currency": "UAH",
+    "deadline": "2026-05-21",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/52d3d877a96144b7ba4746187056d226",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-16T06:32:50.071797"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -11397,7 +11439,7 @@
     "cpv": "31710000-6",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/f6e54f6d39074f3cbf2e5fb14c20c4e7",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-05-15T18:17:16.435403"
   }
