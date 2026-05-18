@@ -2056,7 +2056,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/5521837bca8b48578c63a1da59d31a27",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-05-18T08:41:30.693116"
   },
@@ -6823,7 +6823,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/2dbed3dbc8cb4265baf2a7c25574cd2d",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-18T08:56:04.963249"
   },
@@ -6844,7 +6844,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/f5155955605048e2b22b2fa055aceb6b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-18T08:59:48.645556"
   },
@@ -6865,7 +6865,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/539fad65937a461dad2d6397c1c0b0a6",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-18T09:32:46.164020"
   },
@@ -6886,7 +6886,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/aac39aa4336d4cecbea60d3575ba997d",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-18T09:35:38.235025"
   },
@@ -10792,9 +10792,51 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/0de34d12ccaf48e68dc39e05cd0a800e",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-18T08:35:23.265284"
+  },
+  {
+    "id": "UA-2026-05-18-002556-a",
+    "_raw_id": "718ad5cbe20645bc82aa93d68c3571f8",
+    "title": "Джерело безперебійного живлення ",
+    "org": "Комунальне некомерційне підприємство \"Ужгородська міська багатопрофільна клінічна лікарня\"  Ужгородської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 2498000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-26",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/718ad5cbe20645bc82aa93d68c3571f8",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-18T13:43:15.059346"
+  },
+  {
+    "id": "UA-2026-05-18-002532-a",
+    "_raw_id": "c9b65df4fb7847debfa7591349be8447",
+    "title": "Гібридний сонячний інвектор Dye SUN-10K-SG02LP1-EU-AM3P",
+    "org": "КЗ Комунальний заклад Сумської обласної ради \"Путивльський мистецький ліцей\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 93680.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/c9b65df4fb7847debfa7591349be8447",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-18T13:49:27.344725"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -11008,7 +11050,7 @@
     "cpv": "31500000-1",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/b079df155fb04f5c90ebc5b27c8e4a55",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-05-18T08:33:36.442505"
   },
