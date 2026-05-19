@@ -6891,6 +6891,69 @@
     "fetched_at": "2026-05-18T09:35:38.235025"
   },
   {
+    "id": "UA-2026-05-01-005387-a",
+    "_raw_id": "70c5b789c106470aa7c9f6fab810f617",
+    "title": "Акумуляторні батареї",
+    "org": "Військова частина А5260",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 256000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-12",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/70c5b789c106470aa7c9f6fab810f617",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-19T07:51:14.322992"
+  },
+  {
+    "id": "UA-2026-05-14-011895-a",
+    "_raw_id": "ddc0e9eaab77425eba6a95097baed19c",
+    "title": "Інвертор гібридний SUN-20K-SG01HP3-EU-AM2.",
+    "org": "ВІДДІЛ ОСВІТИ ІЧНЯНСЬКОЇ МІСЬКОЇ РАДИ ЧЕРНІГІВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 178100.0,
+    "currency": "UAH",
+    "deadline": "2026-05-19",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/ddc0e9eaab77425eba6a95097baed19c",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-19T08:00:41.922535"
+  },
+  {
+    "id": "UA-2026-05-08-011225-a",
+    "_raw_id": "daee573d75a34cc29fa092046d663c80",
+    "title": "Акумулятор LiitoKala 21700 Lii-50E 3,7В 5000 мА/год Li-ion",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 3002 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 200000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-19",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/daee573d75a34cc29fa092046d663c80",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-19T08:05:58.611568"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -10839,6 +10902,27 @@
     "fetched_at": "2026-05-18T13:49:27.344725"
   },
   {
+    "id": "UA-2026-05-08-012180-a",
+    "_raw_id": "0485da3357b8434a89933955a63e6c5f",
+    "title": "Джерело безперебійного живлення",
+    "org": "Військова частина А1361",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 80000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-19",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/0485da3357b8434a89933955a63e6c5f",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-19T08:12:47.641622"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -11884,5 +11968,28 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-05-15T18:17:16.435403"
+  },
+  {
+    "id": "UA-2026-05-11-005395-a",
+    "_raw_id": "aadbdc01ab7e48c1a74aab9ce6b5c843",
+    "title": "Комплект акумуляторних батарей для забезпечення аварійного живлення (акумулятор 8 шт.; блок керування кластером високовольтної батареї 1шт; стійка для акумуляторних батарей на 12 АКБ + модуль керування 1шт); ДК 021:2015: 31680000-6- Електричне приладдя та супутні товари до електричного обладнання.",
+    "org": "КОМУНАЛЬНИЙ ЗАКЛАД \"ГОРОДНЯНСЬКИЙ ЛІЦЕЙ № 1\" ГОРОДНЯНСЬКОЇ МІСЬКОЇ РАДИ ЧЕРНІГІВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 405000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-19",
+    "cpvs": [
+      "31680000-6",
+      "31680000-6",
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/aadbdc01ab7e48c1a74aab9ce6b5c843",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-05-19T08:04:53.663430"
   }
 ]
