@@ -2077,7 +2077,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/275d9f44d23c454aa474a7baeec7a405",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-05-19T13:41:31.908406"
   },
@@ -2098,9 +2098,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/9736c081572646869e995812ca1638a1",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-05-19T13:46:50.765632"
+  },
+  {
+    "id": "UA-2026-05-18-005614-a",
+    "_raw_id": "9b3319b7c8044ac7bac3f0e275c31666",
+    "title": "Інвертор гібридний, акумуляторна батарея.",
+    "org": "ДЗ \"УНПЦ ЕМД та МК МОЗ України\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 650000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-27",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/9b3319b7c8044ac7bac3f0e275c31666",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-05-19T18:52:18.332655"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -10965,6 +10986,27 @@
     "fetched_at": "2026-05-19T08:12:47.641622"
   },
   {
+    "id": "UA-2026-05-19-003349-a",
+    "_raw_id": "472c9f2cdaf54aeaa673145509adee72",
+    "title": "Система безперебійного живлення.",
+    "org": "Відділ освіти виконавчого комітету Царичанської селищної ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 2520000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-27",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/472c9f2cdaf54aeaa673145509adee72",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-19T18:49:48.410374"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -12051,7 +12093,7 @@
     "cpv": "31682210-5",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/18588233832f4156b340216a1c8b9d13",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-05-19T13:46:02.954209"
   }
