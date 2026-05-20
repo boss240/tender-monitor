@@ -17,7 +17,7 @@
     "cpv": "31155000-7",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/f40bf77aaaab408f90553d3b6b9d796d",
-    "is_new": true,
+    "is_new": false,
     "score": 90,
     "fetched_at": "2026-05-20T08:08:02.683942"
   },
@@ -923,7 +923,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/bce6d7c58d3a4db49bfc7959e8c00f16",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-05-20T07:52:10.368610"
   },
@@ -7076,7 +7076,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/8978edaa9fff4211b6e7ba50dd2739d4",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-20T07:54:10.744108"
   },
@@ -7097,7 +7097,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/213ef878f3b64abd86b4d8d41622f10b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-20T08:05:00.565166"
   },
@@ -7118,7 +7118,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/7140684ca8cd44e3847d2ba68f093bcd",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-20T08:06:34.354753"
   },
@@ -7139,7 +7139,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/822eb291a7d04e7289fa57adacd8b131",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-20T08:07:53.433036"
   },
@@ -7160,9 +7160,30 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/edbd61d600394d08942bfdab35f59e9b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-20T08:12:11.082228"
+  },
+  {
+    "id": "UA-2026-05-06-013823-a",
+    "_raw_id": "b3775976db644c6f93e32a3027d89902",
+    "title": "Акумуляторні батареї",
+    "org": "ГОЛОВНИЙ ЦЕНТР КАПІТАЛЬНОГО БУДІВНИЦТВА, РЕКОНСТРУКЦІЇ ТА ЗАКУПІВЕЛЬ ДЕРЖАВНОЇ ПРИКОРДОННОЇ СЛУЖБИ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 763620.0,
+    "currency": "UAH",
+    "deadline": "2026-05-14",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/b3775976db644c6f93e32a3027d89902",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-20T13:20:17.993413"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -11171,7 +11192,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/9011f6a13679477a8504c065d18f8617",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-20T08:26:51.311408"
   },
@@ -11192,7 +11213,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/ec1bd9f1b0514b1080cc2245f87a502b",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-20T08:28:37.863275"
   },
