@@ -1,5 +1,27 @@
 [
   {
+    "id": "UA-2026-05-12-014845-a",
+    "_raw_id": "f40bf77aaaab408f90553d3b6b9d796d",
+    "title": "Інвертор та акумуляторна батарея",
+    "org": "ВІДДІЛ ОСВІТИ, КУЛЬТУРИ, СПОРТУ ТА ТУРИЗМУ МИГІЇВСЬКОЇ СІЛЬСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 375790.0,
+    "currency": "UAH",
+    "deadline": "2026-05-20",
+    "cpvs": [
+      "31155000-7",
+      "31154000-0"
+    ],
+    "cpv": "31155000-7",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/f40bf77aaaab408f90553d3b6b9d796d",
+    "is_new": true,
+    "score": 90,
+    "fetched_at": "2026-05-20T08:08:02.683942"
+  },
+  {
     "id": "UA-2026-03-26-010121-a",
     "_raw_id": "809c4a2a0dd94edbada96fea12d92318",
     "title": "ДК 021:2015 - 31150000-2 - Баласти для розрядних ламп чи трубок (Гібридний інвертор та акумуляторні батареї)",
@@ -883,6 +905,27 @@
     "is_new": false,
     "score": 80,
     "fetched_at": "2026-05-15T13:02:43.156221"
+  },
+  {
+    "id": "UA-2026-05-12-013828-a",
+    "_raw_id": "bce6d7c58d3a4db49bfc7959e8c00f16",
+    "title": "Блок батарей (LiFePO4) DEYE або «еквівалент» (ДК 021:2015 код 31440000-2 Акумуляторні батареї) \n",
+    "org": "Виконавчий комітет Троїцької сільської ради Павлоградського району Дніпропетровської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 500000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-20",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/bce6d7c58d3a4db49bfc7959e8c00f16",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-05-20T07:52:10.368610"
   },
   {
     "id": "UA-2026-03-20-006846-a",
@@ -2119,7 +2162,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/9b3319b7c8044ac7bac3f0e275c31666",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-05-19T18:52:18.332655"
   },
@@ -7017,6 +7060,111 @@
     "fetched_at": "2026-05-19T08:05:58.611568"
   },
   {
+    "id": "UA-2026-05-14-009196-a",
+    "_raw_id": "8978edaa9fff4211b6e7ba50dd2739d4",
+    "title": "Акумулятор RacePow 10000mAh 8S 30.4V 100C XT90S (10000mAh-8S-100C)",
+    "org": "Військова частина А 4349",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 165000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-22",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/8978edaa9fff4211b6e7ba50dd2739d4",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-20T07:54:10.744108"
+  },
+  {
+    "id": "UA-2026-05-12-004817-a",
+    "_raw_id": "213ef878f3b64abd86b4d8d41622f10b",
+    "title": "Акумуляторні  батареї згідно ДК 021:2015: 31440000-2 – Акумуляторні батареї",
+    "org": "ГОЛОВНЕ УПРАВЛІННЯ НАЦІОНАЛЬНОЇ ПОЛІЦІЇ В ЧЕРНІГІВСЬКІЙ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 205467.0,
+    "currency": "UAH",
+    "deadline": "2026-05-20",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/213ef878f3b64abd86b4d8d41622f10b",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-20T08:05:00.565166"
+  },
+  {
+    "id": "UA-2026-05-12-005914-a",
+    "_raw_id": "7140684ca8cd44e3847d2ba68f093bcd",
+    "title": "ДК 021:2015 “31440000-2 Акумуляторні батареї” (Акумуляторні батареї для службових транспортних засобів)",
+    "org": "ГОЛОВНЕ УПРАВЛІННЯ НАЦІОНАЛЬНОЇ ПОЛІЦІЇ У ВІННИЦЬКІЙ ОБЛАСТІ ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 645441.0,
+    "currency": "UAH",
+    "deadline": "2026-05-20",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/7140684ca8cd44e3847d2ba68f093bcd",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-20T08:06:34.354753"
+  },
+  {
+    "id": "UA-2026-05-12-004589-a",
+    "_raw_id": "822eb291a7d04e7289fa57adacd8b131",
+    "title": "ДБЖ з правильною синусоїдою (зовнішня батарея 12V, що підключається) 1500VA (1050Вт)",
+    "org": "Головне управління Державної служби України з надзвичайних ситуацій у Миколаївській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 40800.0,
+    "currency": "UAH",
+    "deadline": "2026-05-20",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/822eb291a7d04e7289fa57adacd8b131",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-20T08:07:53.433036"
+  },
+  {
+    "id": "UA-2026-05-12-012887-a",
+    "_raw_id": "edbd61d600394d08942bfdab35f59e9b",
+    "title": "Акумуляторна батарея",
+    "org": "Військова частина 2144",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 96000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-20",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/edbd61d600394d08942bfdab35f59e9b",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-20T08:12:11.082228"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -11002,9 +11150,51 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/472c9f2cdaf54aeaa673145509adee72",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-19T18:49:48.410374"
+  },
+  {
+    "id": "UA-2026-05-19-007257-a",
+    "_raw_id": "9011f6a13679477a8504c065d18f8617",
+    "title": "ДК 021:2015: 31154000-0 Джерела безперебійного живлення (Система резервного живлення з монтажем).",
+    "org": "ЛЮБИМІВСЬКА ГІМНАЗІЯ З ДОШКІЛЬНИМ ПІДРОЗДІЛОМ ЛЮБИМІВСЬКОЇ СІЛЬСЬКОЇ РАДИ ДНІПРОВСЬКОГО РАЙОНУ ДНІПРОПЕТРОВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 505426.0,
+    "currency": "UAH",
+    "deadline": "2026-05-27",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/9011f6a13679477a8504c065d18f8617",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-20T08:26:51.311408"
+  },
+  {
+    "id": "UA-2026-05-11-007067-a",
+    "_raw_id": "ec1bd9f1b0514b1080cc2245f87a502b",
+    "title": "Блок безперебійного живлення",
+    "org": "НАЦІОНАЛЬНИЙ ЦЕНТР УПРАВЛІННЯ ТА ВИПРОБУВАНЬ КОСМІЧНИХ ЗАСОБІВ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 154000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-20",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/ec1bd9f1b0514b1080cc2245f87a502b",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-20T08:28:37.863275"
   },
   {
     "id": "UA-2026-03-31-000589-a",
