@@ -2167,6 +2167,27 @@
     "fetched_at": "2026-05-19T18:52:18.332655"
   },
   {
+    "id": "UA-2026-05-13-004875-a",
+    "_raw_id": "672c2fa677434f1bbbdc80aba735f51c",
+    "title": "Інвертори гібридні, акумуляторні батареї",
+    "org": "Комунально-побутове підприємство \"Теплоенергопостач\" Ірпінської міської Ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 900000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-21",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/672c2fa677434f1bbbdc80aba735f51c",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-05-21T08:21:43.452512"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -7186,6 +7207,48 @@
     "fetched_at": "2026-05-20T13:20:17.993413"
   },
   {
+    "id": "UA-2026-05-12-006364-a",
+    "_raw_id": "2c2eb8d6525e43bb96f39fcc3931c91c",
+    "title": "Акумуляторні батареї",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 3027 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 723526.67,
+    "currency": "UAH",
+    "deadline": "2026-05-21",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/2c2eb8d6525e43bb96f39fcc3931c91c",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-21T08:22:01.509219"
+  },
+  {
+    "id": "UA-2026-05-21-001725-a",
+    "_raw_id": "0b7bb0f20c864827afd204ae9274234e",
+    "title": "Інвертори",
+    "org": "ПрАТ \"Черкаське хімволокно\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 158333.33,
+    "currency": "UAH",
+    "deadline": "2026-06-01",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/0b7bb0f20c864827afd204ae9274234e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-21T09:10:04.629747"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -11218,6 +11281,27 @@
     "fetched_at": "2026-05-20T08:28:37.863275"
   },
   {
+    "id": "UA-2026-05-06-013824-a",
+    "_raw_id": "5fee5595b997472cbc771a69a8c4cacc",
+    "title": "Джерела безперебійного живлення",
+    "org": "2 державний пожежно - рятувальний загін Головного управління Державної служби України з надзвичайних ситуацій у Сумській області\n",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 84704.0,
+    "currency": "UAH",
+    "deadline": "2026-05-14",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/5fee5595b997472cbc771a69a8c4cacc",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-21T08:38:00.657074"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -12307,5 +12391,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-05-19T13:46:02.954209"
+  },
+  {
+    "id": "UA-2026-05-21-001385-a",
+    "_raw_id": "efd0e06e148246abbba0a8c5285285e1",
+    "title": "Електричний агрегат інверторний в шумозахисному корпусі 220В; 50Гц, потужність 6кВт",
+    "org": "Військова частина Т0930",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 133620.0,
+    "currency": "UAH",
+    "deadline": "2026-05-26",
+    "cpvs": [
+      "31120000-3"
+    ],
+    "cpv": "31120000-3",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/efd0e06e148246abbba0a8c5285285e1",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-05-21T08:58:09.551789"
   }
 ]
