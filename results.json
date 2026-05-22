@@ -944,7 +944,7 @@
     "cpv": "31155000-7",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/a136d9a2340b489d84b3f67df5750dc0",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-05-21T18:52:12.122813"
   },
@@ -7270,6 +7270,90 @@
     "fetched_at": "2026-05-21T09:10:04.629747"
   },
   {
+    "id": "UA-2026-05-18-005536-a",
+    "_raw_id": "21f62a3973e04965a54831204ec7050b",
+    "title": "Акумуляторна батарея CSB Battery 12V 9Ah (HRL1234WF2FR) для забезпечення безперебійного електроживлення обладнання спеціального призначення",
+    "org": "Управління Державної служби спеціального зв'язку та захисту інформації України в Івано-Франківській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 327000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-30",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/21f62a3973e04965a54831204ec7050b",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-22T07:54:57.706822"
+  },
+  {
+    "id": "UA-2026-05-14-010937-a",
+    "_raw_id": "a2a0c6082f224623bd00e22f18b36779",
+    "title": "Гелеві акумуляторні батареї",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 2428",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 107964.0,
+    "currency": "UAH",
+    "deadline": "2026-05-22",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/a2a0c6082f224623bd00e22f18b36779",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-22T08:27:52.112049"
+  },
+  {
+    "id": "UA-2026-05-22-001432-a",
+    "_raw_id": "2d8b842a5c8c488d81160063573254b5",
+    "title": "Акумуляторні батареї",
+    "org": "Черкаська філія ТОВ \"Газорозподільні мережі України\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 290686.0,
+    "currency": "UAH",
+    "deadline": "2026-06-01",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/2d8b842a5c8c488d81160063573254b5",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-22T08:49:47.204380"
+  },
+  {
+    "id": "UA-2026-05-22-001655-a",
+    "_raw_id": "e31c3c22d99344b98f60b3e1789d80a7",
+    "title": "Система безперебійного живлення пристроїв СЦБ",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"КИЇВСЬКИЙ МЕТРОПОЛІТЕН\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 105354259.2,
+    "currency": "UAH",
+    "deadline": "2026-06-01",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e31c3c22d99344b98f60b3e1789d80a7",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-22T08:54:36.589558"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -12433,5 +12517,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-05-21T08:58:09.551789"
+  },
+  {
+    "id": "UA-2026-05-13-011896-a",
+    "_raw_id": "418ae362d26a4ab6b7277f4d0d61ba82",
+    "title": "Блок управління для акумуляторних батарей в комплекті з акумуляторними батареями та мобільною платформою для акумуляторних батарей - 31710000-6 - Електронне обладнання за ДК 021:2015 Єдиного закупівельного словника",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"УПРАВЛІННЯ КОНТРОЛЮ ЗА БЛАГОУСТРОЄМ МІСТА\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 625092.0,
+    "currency": "UAH",
+    "deadline": "2026-05-22",
+    "cpvs": [
+      "31710000-6"
+    ],
+    "cpv": "31710000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/418ae362d26a4ab6b7277f4d0d61ba82",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-05-22T07:52:39.516049"
   }
 ]
