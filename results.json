@@ -2225,7 +2225,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/8e9ab8e35b964c15b19dc77e2137eb76",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-05-23T06:46:56.088110"
   },
