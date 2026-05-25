@@ -7433,9 +7433,51 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/a418cbf2699f4a1189416044c74ffa78",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-25T09:54:29.940489"
+  },
+  {
+    "id": "UA-2026-05-25-002554-a",
+    "_raw_id": "40a78e55727140748e343236bcfc2f17",
+    "title": "акумуляторні батарея",
+    "org": "ВИКОНАВЧИЙ КОМІТЕТ ЗОРІВСЬКОЇ СІЛЬСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 48990.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/40a78e55727140748e343236bcfc2f17",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-25T14:03:15.992269"
+  },
+  {
+    "id": "UA-2026-05-25-002781-a",
+    "_raw_id": "96aca1976ba249d1b7e1d3bfe0a91d80",
+    "title": "Інвертор ",
+    "org": "ВИКОНАВЧИЙ КОМІТЕТ ЗОРІВСЬКОЇ СІЛЬСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 50950.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/96aca1976ba249d1b7e1d3bfe0a91d80",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-25T14:09:37.518083"
   },
   {
     "id": "UA-2026-03-11-009316-a",
