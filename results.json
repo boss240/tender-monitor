@@ -2251,6 +2251,27 @@
     "fetched_at": "2026-05-24T07:28:18.421319"
   },
   {
+    "id": "UA-2026-05-26-001788-a",
+    "_raw_id": "c84fb0195a104aa7aa2528f382d643bb",
+    "title": "Інвертор гібридний 6kW Deye SUN-6K-SG05LP1-EU, однофазний для потреб Сил оборони України",
+    "org": "Управління оборонної роботи  Запорізької обласної державної адміністрації",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 134403.0,
+    "currency": "UAH",
+    "deadline": "2026-05-29",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/c84fb0195a104aa7aa2528f382d643bb",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-05-26T09:02:20.296279"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -7480,6 +7501,111 @@
     "fetched_at": "2026-05-25T14:09:37.518083"
   },
   {
+    "id": "UA-2026-05-21-013525-a",
+    "_raw_id": "1d33fcbe4ab449fb949dd7c021678df0",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "Військова частина А4324",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 45000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-26",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/1d33fcbe4ab449fb949dd7c021678df0",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-26T08:06:02.146863"
+  },
+  {
+    "id": "UA-2026-05-18-013654-a",
+    "_raw_id": "fffbd37bf9e348419d0c11bd16ac76c8",
+    "title": "Акумуляторні батареї",
+    "org": "Управління поліції охорони в Одеській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1853156.0,
+    "currency": "UAH",
+    "deadline": "2026-05-26",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/fffbd37bf9e348419d0c11bd16ac76c8",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-26T08:09:31.638966"
+  },
+  {
+    "id": "UA-2026-05-21-004528-a",
+    "_raw_id": "87bf92a668554a3dbdbb150d72dca228",
+    "title": "Інвертор (перетворювач) DC-AC; Інвертор (перетворювач) DC-AC",
+    "org": "УПРАВЛІННЯ ОСВІТИ ПІВДЕННІВСЬКОЇ МІСЬКОЇ РАДИ ОДЕСЬКОГО РАЙОНУ ОДЕСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 219856.0,
+    "currency": "UAH",
+    "deadline": "2026-05-26",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/87bf92a668554a3dbdbb150d72dca228",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-26T08:14:04.745148"
+  },
+  {
+    "id": "UA-2026-05-18-012788-a",
+    "_raw_id": "8eba356b69c047928d0d53d0c45ede8d",
+    "title": "Пристрій безперебійного живлення EnerGenie EG-UPS-032 850VA LCD (EG-UPS-032)",
+    "org": "3 державний пожежно-рятувальний загін Головного управління Державної служби України з надзвичайних ситуацій у Рівненській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 46455.67,
+    "currency": "UAH",
+    "deadline": "2026-05-26",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/8eba356b69c047928d0d53d0c45ede8d",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-26T08:33:38.650091"
+  },
+  {
+    "id": "UA-2026-05-18-007459-a",
+    "_raw_id": "cb2993ad7362414a928aa28b4bc042aa",
+    "title": "Придбання, встановлення  та підключення джерела безперебійного живлення (гібридного інвертора потужністю 80 КВт) у приміщенні Теплодарського ліцею імені О.П. Медведкова Теплодарської міської ради Одеського району Одеської області за адресою: місто Теплодар, вулиця Комунальна, будинок, 1",
+    "org": "Теплодарський ліцей імені О.П.Медведкова Теплодарської Міської Ради Одеського району Одеської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 420000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-26",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/cb2993ad7362414a928aa28b4bc042aa",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-26T09:06:02.109615"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -11554,6 +11680,90 @@
     "fetched_at": "2026-05-24T07:26:42.821213"
   },
   {
+    "id": "UA-2026-05-18-014032-a",
+    "_raw_id": "851a9a6be3b24d318182d329651659f5",
+    "title": "Лабораторний блок живлення",
+    "org": "Харківський національний університет імені В.Н. Каразіна",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 42000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-26",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/851a9a6be3b24d318182d329651659f5",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-26T07:57:36.364039"
+  },
+  {
+    "id": "UA-2026-05-18-007547-a",
+    "_raw_id": "ab600a902ef941209e8516f5820ee9c5",
+    "title": "Джерело резервного живлення (Комплект резервного живлення)",
+    "org": "Управління освіти виконавчого комітету Покровської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 420000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-26",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/ab600a902ef941209e8516f5820ee9c5",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-26T08:15:11.091930"
+  },
+  {
+    "id": "UA-2026-05-14-014380-a",
+    "_raw_id": "0ca2d506a03d4208a86748da541e69de",
+    "title": "Система безперебійного живлення у комплекті",
+    "org": "КОМУНАЛЬНИЙ ЗАКЛАД \"ЗАРІЧНЕНСЬКИЙ ЗАКЛАД ДОШКІЛЬНОЇ ОСВІТИ \"ЛІСОВА КАЗКА\" ЧЕРКАСЬКОЇ СЕЛИЩНОЇ РАДИ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 420000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-26",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/0ca2d506a03d4208a86748da541e69de",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-26T08:33:16.866564"
+  },
+  {
+    "id": "UA-2026-05-14-014277-a",
+    "_raw_id": "54850c50d8284b3195f1f4bd4af448b9",
+    "title": "Система безперебійного живлення у комплекті",
+    "org": "КОМУНАЛЬНИЙ ЗАКЛАД \"ЧЕРКАСЬКИЙ ЗАКЛАД ДОШКІЛЬНОЇ ОСВІТИ \"ЧЕРВОНА КАЛИНА\" ЧЕРКАСЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 420000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-26",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/54850c50d8284b3195f1f4bd4af448b9",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-26T08:33:27.073617"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -11768,6 +11978,27 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-05-18T08:33:36.442505"
+  },
+  {
+    "id": "UA-2026-05-18-011342-a",
+    "_raw_id": "592b7014a7864b88a6bdb179014e1117",
+    "title": "Джерела безперебійного живлення в комплекті: гібридні інвертори, блоки управління та акумуляторні модулі\n",
+    "org": "Головне управління Національної поліції в Сумській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1721157.0,
+    "currency": "UAH",
+    "deadline": "2026-05-26",
+    "cpvs": [
+      "31682530-4"
+    ],
+    "cpv": "31682530-4",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/592b7014a7864b88a6bdb179014e1117",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-05-26T08:09:13.968600"
   },
   {
     "id": "UA-2026-03-20-008862-a",
@@ -12685,5 +12916,28 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-05-22T07:52:39.516049"
+  },
+  {
+    "id": "UA-2026-05-13-003577-a",
+    "_raw_id": "93647e4604e74d6eb26a752beba0238b",
+    "title": "Акумулятори безперебійного живлення  в асортименті",
+    "org": "ФІЛІЯ «ВІДОКРЕМЛЕНИЙ ПІДРОЗДІЛ  «ХМЕЛЬНИЦЬКА АТОМНА ЕЛЕКТРИЧНА СТАНЦІЯ» АКЦІОНЕРНОГО ТОВАРИСТВА «НАЦІОНАЛЬНА АТОМНА ЕНЕРГОГЕНЕРУЮЧА КОМПАНІЯ «ЕНЕРГОАТОМ»",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 205365.0,
+    "currency": "UAH",
+    "deadline": "2026-05-26",
+    "cpvs": [
+      "31421000-3",
+      "31421000-3",
+      "31421000-3"
+    ],
+    "cpv": "31421000-3",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/93647e4604e74d6eb26a752beba0238b",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-05-26T08:34:00.926476"
   }
 ]
