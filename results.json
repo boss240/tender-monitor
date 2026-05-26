@@ -949,6 +949,27 @@
     "fetched_at": "2026-05-21T18:52:12.122813"
   },
   {
+    "id": "UA-2026-05-26-003247-a",
+    "_raw_id": "97148467bae54651a9af0049bffe1703",
+    "title": "Акумуляторні батареї (Акумулятор Deye SE-F5 Plus LiFePO4 51.2V/100AH 5120W*h – 3шт, Акумулятор LiFePO4 12V/100AH 1280W*h 100А – 1шт)",
+    "org": "Дніпропетровський регіональний центр з гідрометеорології",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 138000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/97148467bae54651a9af0049bffe1703",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-05-26T19:00:26.002492"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -2267,7 +2288,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/c84fb0195a104aa7aa2528f382d643bb",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-05-26T09:02:20.296279"
   },
@@ -7517,7 +7538,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/1d33fcbe4ab449fb949dd7c021678df0",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-26T08:06:02.146863"
   },
@@ -7538,7 +7559,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/fffbd37bf9e348419d0c11bd16ac76c8",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-26T08:09:31.638966"
   },
@@ -7559,7 +7580,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/87bf92a668554a3dbdbb150d72dca228",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-26T08:14:04.745148"
   },
@@ -7580,7 +7601,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/8eba356b69c047928d0d53d0c45ede8d",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-26T08:33:38.650091"
   },
@@ -7601,9 +7622,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/cb2993ad7362414a928aa28b4bc042aa",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-26T09:06:02.109615"
+  },
+  {
+    "id": "UA-2026-05-11-013480-a",
+    "_raw_id": "bb38834dfdb840788a469ff99c2a86d0",
+    "title": "Комплект безперебійного живлення у складі: джерело безперебійного живлення StarkPro II 5000 RT - 1 шт.; батарейний модуль LiFePo4 SacredSun 48/100 CAN 5U-SSIF2P15S48100C - 2 шт.; кріплення для установки в 19\" 700mm - 3 к-кт. або еквівалент",
+    "org": "Військова частина А1283",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 481014.0,
+    "currency": "UAH",
+    "deadline": "2026-05-25",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/bb38834dfdb840788a469ff99c2a86d0",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-26T18:42:22.724355"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -11696,7 +11738,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/851a9a6be3b24d318182d329651659f5",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-26T07:57:36.364039"
   },
@@ -11717,7 +11759,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/ab600a902ef941209e8516f5820ee9c5",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-26T08:15:11.091930"
   },
@@ -11738,7 +11780,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/0ca2d506a03d4208a86748da541e69de",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-26T08:33:16.866564"
   },
@@ -11759,7 +11801,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/54850c50d8284b3195f1f4bd4af448b9",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-26T08:33:27.073617"
   },
@@ -11996,7 +12038,7 @@
     "cpv": "31682530-4",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/592b7014a7864b88a6bdb179014e1117",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-05-26T08:09:13.968600"
   },
@@ -12936,7 +12978,7 @@
     "cpv": "31421000-3",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/93647e4604e74d6eb26a752beba0238b",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-05-26T08:34:00.926476"
   }
