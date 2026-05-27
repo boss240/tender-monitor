@@ -965,7 +965,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/97148467bae54651a9af0049bffe1703",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-05-26T19:00:26.002492"
   },
@@ -2291,6 +2291,48 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-05-26T09:02:20.296279"
+  },
+  {
+    "id": "UA-2026-05-27-000155-a",
+    "_raw_id": "2017f032bd7f4329b20ffec980214942",
+    "title": "Гібридний інвертор",
+    "org": "ВОЗНЕСЕНСЬКА ГІМНАЗІЯ № 7 ВОЗНЕСЕНСЬКОЇ МІСЬКОЇ РАДИ МИКОЛАЇВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 220549.0,
+    "currency": "UAH",
+    "deadline": "2026-06-04",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/2017f032bd7f4329b20ffec980214942",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-05-27T08:53:30.970428"
+  },
+  {
+    "id": "UA-2026-05-27-001252-a",
+    "_raw_id": "0dff1d1e689c4fc9878cd3a3d8b4b926",
+    "title": "Гібридний інвертор",
+    "org": "ВОЗНЕСЕНСЬКА ГІМНАЗІЯ № 7 ВОЗНЕСЕНСЬКОЇ МІСЬКОЇ РАДИ МИКОЛАЇВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 220549.0,
+    "currency": "UAH",
+    "deadline": "2026-06-04",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/0dff1d1e689c4fc9878cd3a3d8b4b926",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-05-27T09:04:23.036221"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -7643,9 +7685,93 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/bb38834dfdb840788a469ff99c2a86d0",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-26T18:42:22.724355"
+  },
+  {
+    "id": "UA-2026-05-19-013973-a",
+    "_raw_id": "23f21d8675e140329350a2c8a60b6eaf",
+    "title": "Літій-залізо-фосфатний акумулятор Felicity solar LPBF24200-A 25.6V 200Ah (3 шт.) та Літій-залізо-фосфатний акумулятор LITHTECH ТЕ12100В LiFeP04 12.8V 100Ah ВТ (3 шт.)",
+    "org": "Інститут органічної хімії Національної академії наук України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 180042.0,
+    "currency": "UAH",
+    "deadline": "2026-05-27",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/23f21d8675e140329350a2c8a60b6eaf",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-27T08:23:10.476574"
+  },
+  {
+    "id": "UA-2026-05-22-008332-a",
+    "_raw_id": "082de14e577b43a487608a11cc8a08a5",
+    "title": "Акумуляторні батареї",
+    "org": "Вінницька філія ТОВ \"Газорозподільні мережі України\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 199969.48,
+    "currency": "UAH",
+    "deadline": "2026-06-04",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/082de14e577b43a487608a11cc8a08a5",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-27T08:44:30.968645"
+  },
+  {
+    "id": "UA-2026-05-27-000369-a",
+    "_raw_id": "1138847d7ea14b129a77cf0e57b85bf7",
+    "title": "На виконання заходів з підготовки закладу освіти до роботи в осінньо-зимовий період та підвищення його енергетичної стійкості для забезпечення автономного електропостачання ЗДО «Зернятко» Охтирської міської ради Сумської області за адресою: Сумська область, м. Охтирка, вул. Шевченка, буд. 60 – придбання засобів накопичення електроенергії, а саме: Інвертор гібридний",
+    "org": "ЗАКЛАД ДОШКІЛЬНОЇ ОСВІТИ (ЯСЛА-САДОК) \"ЗЕРНЯТКО\" ОХТИРСЬКОЇ МІСЬКОЇ РАДИ СУМСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 47000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/1138847d7ea14b129a77cf0e57b85bf7",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-27T08:52:37.588164"
+  },
+  {
+    "id": "UA-2026-05-27-001303-a",
+    "_raw_id": "861f36bb9e464eb8a131487aa606a67e",
+    "title": "Акумуляторні батареї",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"УКPНAФТА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 357106.0,
+    "currency": "UAH",
+    "deadline": "2026-06-05",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/861f36bb9e464eb8a131487aa606a67e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-27T09:05:13.661356"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -11804,6 +11930,48 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-26T08:33:27.073617"
+  },
+  {
+    "id": "UA-2026-05-18-013728-a",
+    "_raw_id": "addbe1d94efb41e09b963e5b348f602f",
+    "title": "Системи безперебійного живлення",
+    "org": "ВІДДІЛ ОСВІТИ, КУЛЬТУРИ, МОЛОДІ ТА СПОРТУ ВЕРХІВЦЕВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 1680000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-27",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/addbe1d94efb41e09b963e5b348f602f",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-27T08:12:55.995132"
+  },
+  {
+    "id": "UA-2026-05-27-001434-a",
+    "_raw_id": "43fa530563db4a50b6e93146c7ca6837",
+    "title": "Джерела безперебійного живлення",
+    "org": "Комунальне некомерційне підприємство \"МІСЬКА СТУДЕНТСЬКА ЛІКАРНЯ\" Харківської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 97992.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/43fa530563db4a50b6e93146c7ca6837",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-27T09:08:58.907605"
   },
   {
     "id": "UA-2026-03-31-000589-a",
