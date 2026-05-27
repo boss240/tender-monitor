@@ -2309,7 +2309,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/2017f032bd7f4329b20ffec980214942",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-05-27T08:53:30.970428"
   },
@@ -2330,7 +2330,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/0dff1d1e689c4fc9878cd3a3d8b4b926",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-05-27T09:04:23.036221"
   },
@@ -7706,7 +7706,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/23f21d8675e140329350a2c8a60b6eaf",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-27T08:23:10.476574"
   },
@@ -7727,7 +7727,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/082de14e577b43a487608a11cc8a08a5",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-27T08:44:30.968645"
   },
@@ -7748,7 +7748,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/1138847d7ea14b129a77cf0e57b85bf7",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-27T08:52:37.588164"
   },
@@ -7769,9 +7769,30 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/861f36bb9e464eb8a131487aa606a67e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-27T09:05:13.661356"
+  },
+  {
+    "id": "UA-2026-05-27-002493-a",
+    "_raw_id": "0e7d565cb8f74fefa8d31de67bf024fd",
+    "title": "Інвертор гібридний ДК 021:2015 31155000-7",
+    "org": "Сумський заклад загальної середньої освіти І-ІІІ ступенів № 19 Сумської міської ради\n",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 62829.6,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/0e7d565cb8f74fefa8d31de67bf024fd",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-27T13:33:01.637261"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -11948,7 +11969,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/addbe1d94efb41e09b963e5b348f602f",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-27T08:12:55.995132"
   },
@@ -11969,7 +11990,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/43fa530563db4a50b6e93146c7ca6837",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-27T09:08:58.907605"
   },
