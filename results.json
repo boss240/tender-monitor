@@ -7853,7 +7853,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/b59b5bbe3c19417aaf306719c9e4dc4c",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-28T08:33:14.029857"
   },
@@ -13254,5 +13254,27 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-05-26T08:34:00.926476"
+  },
+  {
+    "id": "UA-2026-05-28-002499-a",
+    "_raw_id": "665766526f9445fd9c2c2e009d1e2ddd",
+    "title": "Переносні акумуляторні пристрої",
+    "org": "ПРИЛУЦЬКА ГІМНАЗІЯ №12 ПРИЛУЦЬКОЇ МІСЬКОЇ РАДИ ЧЕРНІГІВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 99900.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31680000-6",
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/665766526f9445fd9c2c2e009d1e2ddd",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-05-28T13:57:34.189178"
   }
 ]
