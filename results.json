@@ -986,7 +986,7 @@
     "cpv": "31155000-7",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/f6817b89e6df483589bdda7fe2ce04bb",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-05-27T19:23:52.307218"
   },
@@ -7832,9 +7832,30 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/a925ffd593144b06a230b95b87585a37",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-27T19:16:55.993229"
+  },
+  {
+    "id": "UA-2026-05-20-008431-a",
+    "_raw_id": "b59b5bbe3c19417aaf306719c9e4dc4c",
+    "title": "Акумуляторні батареї",
+    "org": "Державна установа \"Держгідрографія\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 357962.02,
+    "currency": "UAH",
+    "deadline": "2026-05-28",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/b59b5bbe3c19417aaf306719c9e4dc4c",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-28T08:33:14.029857"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -12053,7 +12074,7 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/f4fae2519dfb43b681b9f2041bc91ae6",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-27T19:19:45.554427"
   },
