@@ -1029,7 +1029,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/4a2045d75c06456c81c082a38d731c9a",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-05-29T08:39:43.931200"
   },
@@ -2415,7 +2415,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/f26b586e53854023a5d43d5fc9221724",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-05-29T08:36:27.487746"
   },
@@ -7938,7 +7938,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/4fa06745df9d4ded9a2578fe3826a71a",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-29T08:02:22.558276"
   },
@@ -7959,7 +7959,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/f75869987a1942d3889910d03b5ad7ab",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-29T08:19:35.644589"
   },
@@ -7980,7 +7980,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/86e80a3309694c55a93e54c2143a1459",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-29T08:54:55.398916"
   },
@@ -8001,7 +8001,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6343a559fa8847159acf321a41fab967",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-29T09:02:25.457146"
   },
@@ -8022,9 +8022,51 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/b41c92cc4fb44eacb5e27682024a057a",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-29T09:14:04.990033"
+  },
+  {
+    "id": "UA-2026-05-29-002680-a",
+    "_raw_id": "31759602671c47c39ec588d4d4bd3dec",
+    "title": "Акумулятор HRB LIPO HV 23,18 8000мАг 65 100С 138x44x61 мм 798г ХТ90 (HRB-HV-8000-6S-100C-XT90H-F)",
+    "org": "Головне управління Національної поліції в Чернівецькій області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 69109.2,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/31759602671c47c39ec588d4d4bd3dec",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-29T13:32:29.347217"
+  },
+  {
+    "id": "UA-2026-05-29-002153-a",
+    "_raw_id": "d444d43c4a6a43fb8fc81aa5bbb2275e",
+    "title": "Акумуляторна батарея (ДК 021-2015 - 31440000-2 - Акумуляторні батареї)",
+    "org": "Березнегуватський ліцей Березнегуватської селищної ради Миколаївської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 37000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/d444d43c4a6a43fb8fc81aa5bbb2275e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-29T13:32:57.396342"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -12265,7 +12307,7 @@
     "cpv": "31680000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/c065e8b1f95d484b93e79bdfb187c0b9",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-29T08:03:13.016383"
   },
@@ -12286,7 +12328,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/6800dab2feb24b74bb3c6d6e7e4ac229",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-29T08:12:22.712198"
   },
@@ -12307,7 +12349,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/5ad82278224f42a8ba4b5403f18c5833",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-29T08:13:48.783158"
   },
@@ -12328,9 +12370,30 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/f7c6557787a4475e8389b7878a5cdb0d",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-05-29T08:29:27.994991"
+  },
+  {
+    "id": "UA-2026-05-29-002202-a",
+    "_raw_id": "ee5dec788dfa48f68a9509247b2323fd",
+    "title": "Обладнання для забезпечення безперебійного електроживлення",
+    "org": "Житомирський державний університет імені Івана Франка",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1561400.0,
+    "currency": "UAH",
+    "deadline": "2026-06-08",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/ee5dec788dfa48f68a9509247b2323fd",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-05-29T13:38:37.291036"
   },
   {
     "id": "UA-2026-03-31-000589-a",
