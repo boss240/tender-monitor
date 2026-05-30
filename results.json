@@ -8085,9 +8085,30 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/ace4d9ab15d3410486d6e2e900e24e56",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-30T06:54:28.044254"
+  },
+  {
+    "id": "UA-2026-05-26-010130-a",
+    "_raw_id": "60afee87d7d54b46a929aa3523d97d60",
+    "title": "Джерело безперебійного живлення (ДБЖ)",
+    "org": "Військова частина 2161",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 278000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-04",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/60afee87d7d54b46a929aa3523d97d60",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-30T11:04:17.690443"
   },
   {
     "id": "UA-2026-03-11-009316-a",
