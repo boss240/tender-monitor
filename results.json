@@ -8153,6 +8153,48 @@
     "fetched_at": "2026-05-30T16:22:34.289937"
   },
   {
+    "id": "UA-2026-05-31-000197-a",
+    "_raw_id": "b126c4cf145c4d22a4366977111bf922",
+    "title": "Акумуляторні батареї",
+    "org": "Військова частина А0693",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 728000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/b126c4cf145c4d22a4366977111bf922",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-31T16:19:56.828074"
+  },
+  {
+    "id": "UA-2026-05-31-000291-a",
+    "_raw_id": "72d33770f24d4f6384ddc4c5f77d24e0",
+    "title": "Акумуляторні батареї",
+    "org": "Військова частина А0693",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 599880.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/72d33770f24d4f6384ddc4c5f77d24e0",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-05-31T16:22:06.012423"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -12715,6 +12757,48 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-05-26T08:09:13.968600"
+  },
+  {
+    "id": "UA-2026-05-18-006308-a",
+    "_raw_id": "b16d42599d8d4c4995479f321ed53846",
+    "title": "Система безперебійного електроживлення (інвертор, акумуляторна батарея, шафа)",
+    "org": "УПРАВЛІННЯ ОСВІТИ САМАРІВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 3360000.0,
+    "currency": "UAH",
+    "deadline": "2026-05-27",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/b16d42599d8d4c4995479f321ed53846",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-05-31T16:20:15.313171"
+  },
+  {
+    "id": "UA-2026-05-31-000217-a",
+    "_raw_id": "aa1650646555448a83b3780ca39210d5",
+    "title": "Система безперебійного електроживлення (інвертор, акумуляторна батарея, шафа)",
+    "org": "УПРАВЛІННЯ ОСВІТИ САМАРІВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 3360000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-08",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/aa1650646555448a83b3780ca39210d5",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-05-31T16:20:31.591118"
   },
   {
     "id": "UA-2026-03-20-008862-a",
