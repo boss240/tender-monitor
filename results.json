@@ -8211,7 +8211,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/d324158666e94290b8edc3e3b42e2a33",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-01T09:29:22.459668"
   },
@@ -8232,7 +8232,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/380dfd57f90749fea1004fba91a2f068",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-01T10:11:50.497136"
   },
@@ -12580,7 +12580,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/4565c489b9904f9ba4ea4fe0f8cd528d",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-01T09:29:14.092371"
   },
@@ -12601,9 +12601,30 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/9d3566b64ffa4cfda55e0827009f9d25",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-01T10:16:52.525733"
+  },
+  {
+    "id": "UA-2026-05-18-005548-a",
+    "_raw_id": "23c5b98a70894c63a9fb7a8f2fce0ac2",
+    "title": "Комплект резервного живлення, блоки безперебійного живлення, пристрій безперебійного живлення 3 лоти: лот № 1 - Комплект резервного живлення; лот № 2 - Блоки безперебійного живлення; лот № 3 - Пристрій безперебійного живлення\n",
+    "org": "Служба безпеки України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 4173768.0,
+    "currency": "UAH",
+    "deadline": "2026-06-01",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/23c5b98a70894c63a9fb7a8f2fce0ac2",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-01T16:38:19.106293"
   },
   {
     "id": "UA-2026-03-31-000589-a",
