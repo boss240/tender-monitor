@@ -8237,6 +8237,48 @@
     "fetched_at": "2026-06-01T10:11:50.497136"
   },
   {
+    "id": "UA-2026-06-01-002632-a",
+    "_raw_id": "207b9f1633c44ed6941807b8e9f743f5",
+    "title": "Акумуляторна батарея LPM 12-9 АН типу AGM",
+    "org": "4 ДПРЗ ГУ ДСНС України у Кіровоградській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 35932.8,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/207b9f1633c44ed6941807b8e9f743f5",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-01T20:21:21.936017"
+  },
+  {
+    "id": "UA-2026-05-19-012413-a",
+    "_raw_id": "7f9c3f20d9454ccb94276fc24b4c06d8",
+    "title": "Акумуляторні блоки (код товару ДК 021:2015 (CPV) 31440000-2 Акумуляторні батареї) з доставкою та монтажем.",
+    "org": "Комунальне підприємство Київської міської ради «Київське  міське  бюро технічної інвентаризації»",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 36480.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/7f9c3f20d9454ccb94276fc24b4c06d8",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-01T20:29:36.996056"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -12622,9 +12664,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/23c5b98a70894c63a9fb7a8f2fce0ac2",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-01T16:38:19.106293"
+  },
+  {
+    "id": "UA-2026-06-01-004452-a",
+    "_raw_id": "d6cdedbe9a4446c6852c0c5b82a5cf25",
+    "title": "Блок батарей Deye BOS-G60 PRO (Накопичувач енергії Deye BOS-G-Pack5.1 Pro 51.2V 100Ah-12 штук; BMS модуль Deye BOS-G-PDU-2 для BOS-G-Park5.1 Pro-серії High Voltage Control Box, Стійка 19 (3U*12+1 місць) для BOS-GM5.1 серії Deye 3U-HRACK)",
+    "org": "Комунальне некомерційне підприємство \"Ямпільська  лікарня\" Ямпільської селищної  ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 515000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-09",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/d6cdedbe9a4446c6852c0c5b82a5cf25",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-01T20:35:52.692811"
   },
   {
     "id": "UA-2026-03-31-000589-a",
