@@ -8169,7 +8169,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/b126c4cf145c4d22a4366977111bf922",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-31T16:19:56.828074"
   },
@@ -8190,9 +8190,51 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/72d33770f24d4f6384ddc4c5f77d24e0",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-05-31T16:22:06.012423"
+  },
+  {
+    "id": "UA-2026-05-26-010641-a",
+    "_raw_id": "d324158666e94290b8edc3e3b42e2a33",
+    "title": "Гібридний сонячний інвертор 6кВт Growatt SPF6000ES PLUS WiFi",
+    "org": "Військова частина А5000",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 32000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-01",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/d324158666e94290b8edc3e3b42e2a33",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-01T09:29:22.459668"
+  },
+  {
+    "id": "UA-2026-05-19-007174-a",
+    "_raw_id": "380dfd57f90749fea1004fba91a2f068",
+    "title": "Акумуляторні батареї (Брустурянське надлісництво, Міжгірське надлісництво, Ужгородське надлісництво)",
+    "org": "ФІЛІЯ \"КАРПАТСЬКИЙ ЛІСОВИЙ ОФІС\" ДЕРЖАВНОГО СПЕЦІАЛІЗОВАНОГО ГОСПОДАРСЬКОГО ПІДПРИЄМСТВА \"ЛІСИ УКРАЇНИ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 437035.0,
+    "currency": "UAH",
+    "deadline": "2026-06-01",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/380dfd57f90749fea1004fba91a2f068",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-01T10:11:50.497136"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -12522,6 +12564,48 @@
     "fetched_at": "2026-05-29T13:38:37.291036"
   },
   {
+    "id": "UA-2026-06-01-000006-a",
+    "_raw_id": "4565c489b9904f9ba4ea4fe0f8cd528d",
+    "title": "Система безперебійного живлення",
+    "org": "КОМУНАЛЬНИЙ ЗАКЛАД \"ЗАПОРІЗЬКА СПЕЦІАЛЬНА ЗАГАЛЬНООСВІТНЯ ШКОЛА-ІНТЕРНАТ № 1 \" ЗАПОРІЗЬКОЇ ОБЛАСНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 396000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-09",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/4565c489b9904f9ba4ea4fe0f8cd528d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-01T09:29:14.092371"
+  },
+  {
+    "id": "UA-2026-05-15-010914-a",
+    "_raw_id": "9d3566b64ffa4cfda55e0827009f9d25",
+    "title": "АКБ",
+    "org": "Управління Державної служби спеціального зв’язку та захисту інформації України в Чернігівській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 368400.0,
+    "currency": "UAH",
+    "deadline": "2026-05-26",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/9d3566b64ffa4cfda55e0827009f9d25",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-01T10:16:52.525733"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -12775,7 +12859,7 @@
     "cpv": "31680000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/b16d42599d8d4c4995479f321ed53846",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-05-31T16:20:15.313171"
   },
@@ -12796,7 +12880,7 @@
     "cpv": "31680000-6",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/aa1650646555448a83b3780ca39210d5",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-05-31T16:20:31.591118"
   },
