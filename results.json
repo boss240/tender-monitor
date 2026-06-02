@@ -2441,6 +2441,27 @@
     "fetched_at": "2026-05-29T08:36:27.487746"
   },
   {
+    "id": "UA-2026-05-28-012961-a",
+    "_raw_id": "ff12560843df40aba326d0171f2446b4",
+    "title": "Гібридний трифазний високовольтний інвертор Deye потужністю 50 кВт, SUN-50K-SG01HP3-EU-BM4",
+    "org": "ЗАКЛАД ДОШКІЛЬНОЇ ОСВІТИ №4 \"ДИВОСВІТ\" ВЕРХНЬОДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 200000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-02",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/ff12560843df40aba326d0171f2446b4",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-06-02T08:52:28.828804"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -8253,7 +8274,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/207b9f1633c44ed6941807b8e9f743f5",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-01T20:21:21.936017"
   },
@@ -8274,9 +8295,51 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/7f9c3f20d9454ccb94276fc24b4c06d8",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-01T20:29:36.996056"
+  },
+  {
+    "id": "UA-2026-05-22-011391-a",
+    "_raw_id": "b542dbae49a14535a65dfcff74e8161f",
+    "title": "Гібридна система електроживлення типу Agent PS-D30-40, 30 кВт (або еквівалент) у комплекті з контролером локального моніторингу та управління, акумуляторними батареями, 40,96 кВт/год",
+    "org": "Військова частина А0515",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 673083.0,
+    "currency": "UAH",
+    "deadline": "2026-06-02",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/b542dbae49a14535a65dfcff74e8161f",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-02T08:53:16.597509"
+  },
+  {
+    "id": "UA-2026-05-28-008730-a",
+    "_raw_id": "252dac3f6ef34e27b41b8a5a4c1b65bc",
+    "title": "Придбання сонячних електростанцій для закладів освіти м. Дніпра зі встановленням - заходи з енергозбереження\n",
+    "org": "ДЕПАРТАМЕНТ ГУМАНІТАРНОЇ ПОЛІТИКИ ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 24972140.0,
+    "currency": "UAH",
+    "deadline": "2026-06-06",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/252dac3f6ef34e27b41b8a5a4c1b65bc",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-02T09:28:24.750569"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -12685,7 +12748,7 @@
     "cpv": "31680000-6",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/d6cdedbe9a4446c6852c0c5b82a5cf25",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-01T20:35:52.692811"
   },
