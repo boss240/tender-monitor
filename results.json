@@ -2457,7 +2457,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/ff12560843df40aba326d0171f2446b4",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-06-02T08:52:28.828804"
   },
@@ -8316,7 +8316,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/b542dbae49a14535a65dfcff74e8161f",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-02T08:53:16.597509"
   },
@@ -8337,7 +8337,7 @@
     "cpv": "09332000-5",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/252dac3f6ef34e27b41b8a5a4c1b65bc",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-02T09:28:24.750569"
   },
@@ -12751,6 +12751,27 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-01T20:35:52.692811"
+  },
+  {
+    "id": "UA-2026-06-02-003043-a",
+    "_raw_id": "4480b7b1bb2d421fa35cac57b1d49ce1",
+    "title": "Джерела безперебійного живлення",
+    "org": "Комунальне некомерційне підприємство \"Центр первинної медико-санітарної допомоги\" Гродівської селищної ради Покровського району Донецької області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 99300.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/4480b7b1bb2d421fa35cac57b1d49ce1",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-02T14:15:48.008431"
   },
   {
     "id": "UA-2026-03-31-000589-a",
