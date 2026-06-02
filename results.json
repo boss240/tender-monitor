@@ -12769,9 +12769,30 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/4480b7b1bb2d421fa35cac57b1d49ce1",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-02T14:15:48.008431"
+  },
+  {
+    "id": "UA-2026-06-02-003530-a",
+    "_raw_id": "65f7c32230a54de9b4499417a02587d5",
+    "title": "Сонячний інвентор Must PV18-4024ECO, 4000W, 24V, МРРТ",
+    "org": "ІЧНЯНСЬКА МІСЬКА РАДА",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 39951.96,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/65f7c32230a54de9b4499417a02587d5",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-02T19:43:10.529751"
   },
   {
     "id": "UA-2026-03-31-000589-a",
