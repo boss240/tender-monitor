@@ -2478,7 +2478,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/f0a60aa2246f4273a56679813c1c2d5a",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-06-03T09:11:54.451570"
   },
@@ -8379,7 +8379,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/d8307c53162e49fdac16d183195f011b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-03T09:23:20.629395"
   },
@@ -8400,9 +8400,30 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/c896088f06224ded863b0d023519068e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-03T10:10:19.891363"
+  },
+  {
+    "id": "UA-2026-06-03-002751-a",
+    "_raw_id": "4e28ea78fe2b4e32a053e1cbab41abed",
+    "title": "Акумуляторні батареї.Код за ДК 021:2015 31440000-2 Акумуляторні батареї\n",
+    "org": "Комунальне підприємство \"Електротранс\" Кропивницької міської ради\n",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 773200.0,
+    "currency": "UAH",
+    "deadline": "2026-06-11",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/4e28ea78fe2b4e32a053e1cbab41abed",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-03T14:45:12.909662"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -12874,7 +12895,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/69a4d06e22054c79b73f243a3b0ed8a5",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-03T09:58:43.400127"
   },
@@ -13156,6 +13177,27 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-05-31T16:20:31.591118"
+  },
+  {
+    "id": "UA-2026-06-03-002384-a",
+    "_raw_id": "cb1db54edaa74cd7b05889c05963b7b3",
+    "title": "Інвертор 3ф.Deye",
+    "org": "Охтирська загальноосвітня школа І-ІІ ступенів №6 Охтирської міської ради Сумської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 99900.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/cb1db54edaa74cd7b05889c05963b7b3",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-06-03T14:40:50.667869"
   },
   {
     "id": "UA-2026-03-20-008862-a",
@@ -14157,7 +14199,7 @@
     "cpv": "09330000-1",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/61956f018e12437ab2c0f5dcbef7eb97",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-06-03T09:47:11.635518"
   }
