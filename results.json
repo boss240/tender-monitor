@@ -2462,6 +2462,27 @@
     "fetched_at": "2026-06-02T08:52:28.828804"
   },
   {
+    "id": "UA-2026-05-26-006064-a",
+    "_raw_id": "f0a60aa2246f4273a56679813c1c2d5a",
+    "title": "Код за ДК 021-2015 (CPV) – 31440000-2 — Акумуляторні батареї (Батарея акумуляторів літій-залізо-фосфатна (LiFePO4))\n",
+    "org": "Черкаський національний університет імені Богдана Хмельницького",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 106349.4,
+    "currency": "UAH",
+    "deadline": "2026-06-03",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/f0a60aa2246f4273a56679813c1c2d5a",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-06-03T09:11:54.451570"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -8342,6 +8363,48 @@
     "fetched_at": "2026-06-02T09:28:24.750569"
   },
   {
+    "id": "UA-2026-06-03-000169-a",
+    "_raw_id": "d8307c53162e49fdac16d183195f011b",
+    "title": "Акумуляторні батареї",
+    "org": "МЕДИЧНИЙ РЕАБІЛІТАЦІЙНИЙ ЦЕНТР \"ТОПОЛЯ\" НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/d8307c53162e49fdac16d183195f011b",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-03T09:23:20.629395"
+  },
+  {
+    "id": "UA-2026-06-03-001704-a",
+    "_raw_id": "c896088f06224ded863b0d023519068e",
+    "title": "Акумулятор MOTOROLA R7 (з зарядкою USB-C) 5000mah",
+    "org": "Військова частина А5002",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 394800.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/c896088f06224ded863b0d023519068e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-03T10:10:19.891363"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -12790,9 +12853,30 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/65f7c32230a54de9b4499417a02587d5",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-02T19:43:10.529751"
+  },
+  {
+    "id": "UA-2026-06-03-001347-a",
+    "_raw_id": "69a4d06e22054c79b73f243a3b0ed8a5",
+    "title": "Джерело безперебійного живлення",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 1497Р",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 472998.0,
+    "currency": "UAH",
+    "deadline": "2026-06-12",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/69a4d06e22054c79b73f243a3b0ed8a5",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-03T09:58:43.400127"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -14055,5 +14139,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-05-28T19:08:40.594111"
+  },
+  {
+    "id": "UA-2026-06-03-000910-a",
+    "_raw_id": "61956f018e12437ab2c0f5dcbef7eb97",
+    "title": "Сонячна панель EcoFlow Solar Panel 220w або еквівалент",
+    "org": "військова частина 2197",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 155994.0,
+    "currency": "UAH",
+    "deadline": "2026-06-11",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/61956f018e12437ab2c0f5dcbef7eb97",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-06-03T09:47:11.635518"
   }
 ]
