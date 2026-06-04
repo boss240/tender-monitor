@@ -2520,7 +2520,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/e726cf58dbfd47c88b654893eb258fe0",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-06-04T09:17:46.328167"
   },
@@ -8547,7 +8547,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/44b3daa346144b398fa48d8b052d9389",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-04T08:23:02.370091"
   },
@@ -8568,7 +8568,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/574653091df84e22bc54daf66358dc3a",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-04T08:26:48.911937"
   },
@@ -8589,7 +8589,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/5c3db80544f04d0f9919b6926dbfddc8",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-04T08:41:56.483336"
   },
@@ -8610,7 +8610,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/c785b256b37140abae4508ac3a89f457",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-04T08:53:31.786958"
   },
@@ -8631,7 +8631,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/9c8c01fb43d84acb906dc4c54717adaf",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-04T09:25:55.783643"
   },
@@ -8652,9 +8652,72 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/038bd7cb38984a8a89edad172022e3fb",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-04T09:29:51.441869"
+  },
+  {
+    "id": "UA-2026-06-04-002357-a",
+    "_raw_id": "d54ac61326ca4f07a9df61cea26d27c0",
+    "title": "31440000-2 - Акумуляторні батареї",
+    "org": "КП КМР \"Інформаційні системи\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 92750.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/d54ac61326ca4f07a9df61cea26d27c0",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-04T13:03:37.260815"
+  },
+  {
+    "id": "UA-2026-06-04-002699-a",
+    "_raw_id": "9097c581ba274c8993e35ddbba3c58cf",
+    "title": "Інвертор SolaX Power X1-Lite-12.0-LV",
+    "org": "Івано-Франківська регіональна державна лабораторія Державної служби України з питань безпечності харчових продуктів та захисту споживачів",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 89992.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/9097c581ba274c8993e35ddbba3c58cf",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-04T13:08:02.986914"
+  },
+  {
+    "id": "UA-2026-06-04-003108-a",
+    "_raw_id": "799ddfec762645249e25b0a3e4122105",
+    "title": "Акумуляторна батарея",
+    "org": "Івано-Франківська регіональна державна лабораторія Державної служби України з питань безпечності харчових продуктів та захисту споживачів",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 96284.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/799ddfec762645249e25b0a3e4122105",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-04T13:14:16.607554"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -13147,7 +13210,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/431afb29d14b473eb34b9a024c08a22d",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-04T09:15:10.114193"
   },
@@ -14472,7 +14535,7 @@
     "cpv": "31210000-1",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/476339718c914e939fdb0698b0a50783",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-06-04T09:27:51.307985"
   }
