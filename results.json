@@ -2499,9 +2499,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/1bdd68d63f0347df94d453b0627f1348",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-06-03T20:00:36.426562"
+  },
+  {
+    "id": "UA-2026-06-04-001442-a",
+    "_raw_id": "e726cf58dbfd47c88b654893eb258fe0",
+    "title": "Гібридний інвертор",
+    "org": "ВОЗНЕСЕНСЬКА ГІМНАЗІЯ № 7 ВОЗНЕСЕНСЬКОЇ МІСЬКОЇ РАДИ МИКОЛАЇВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 220549.0,
+    "currency": "UAH",
+    "deadline": "2026-06-12",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e726cf58dbfd47c88b654893eb258fe0",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-06-04T09:17:46.328167"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -8463,7 +8484,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/69d19a99baae4663aaf0570a5d235beb",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-03T19:41:09.215851"
   },
@@ -8484,7 +8505,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/a2059ad969f2407c8ee8b36d01352990",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-03T20:01:53.630866"
   },
@@ -8505,9 +8526,135 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/9540efaa80404954a882edf0cf9b2260",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-03T20:04:33.500814"
+  },
+  {
+    "id": "UA-2026-06-03-014615-a",
+    "_raw_id": "44b3daa346144b398fa48d8b052d9389",
+    "title": "Акумуляторні батареї",
+    "org": "військова частина А2648",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 52000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-11",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/44b3daa346144b398fa48d8b052d9389",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-04T08:23:02.370091"
+  },
+  {
+    "id": "UA-2026-05-29-003476-a",
+    "_raw_id": "574653091df84e22bc54daf66358dc3a",
+    "title": "Акумуляторні батареї для наземних роботизованих комплексів",
+    "org": "Департамент поліції особливого призначення «Об'єднана штурмова бригада Національної поліції України «Лють»",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 882000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-06",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/574653091df84e22bc54daf66358dc3a",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-04T08:26:48.911937"
+  },
+  {
+    "id": "UA-2026-06-04-000071-a",
+    "_raw_id": "5c3db80544f04d0f9919b6926dbfddc8",
+    "title": "Акумуляторні батареї",
+    "org": "КЗ Інклюзивно-ресурсний центр Вишгородської міської ради Київської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 44478.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/5c3db80544f04d0f9919b6926dbfddc8",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-04T08:41:56.483336"
+  },
+  {
+    "id": "UA-2026-06-04-000436-a",
+    "_raw_id": "c785b256b37140abae4508ac3a89f457",
+    "title": "ДК 021:2015 - 31440000-2 Акумуляторні батареї (Акумуляторна батарея, 12B, 7.2А*год)",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО ПОЛТАВАОБЛЕНЕРГО",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 81600.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/c785b256b37140abae4508ac3a89f457",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-04T08:53:31.786958"
+  },
+  {
+    "id": "UA-2026-05-27-013053-a",
+    "_raw_id": "9c8c01fb43d84acb906dc4c54717adaf",
+    "title": "Акумулятори",
+    "org": "Мобільний рятувальний центр швидкого реагування «Одеса» Державної служби України з надзвичайних ситуацій",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 81201.0,
+    "currency": "UAH",
+    "deadline": "2026-06-04",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/9c8c01fb43d84acb906dc4c54717adaf",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-04T09:25:55.783643"
+  },
+  {
+    "id": "UA-2026-06-04-001629-a",
+    "_raw_id": "038bd7cb38984a8a89edad172022e3fb",
+    "title": "Акумулятор 6СТ-225А",
+    "org": "КП Житомирське трамвайно-тролейбусне управління",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 40000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-15",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/038bd7cb38984a8a89edad172022e3fb",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-04T09:29:51.441869"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -12984,6 +13131,27 @@
     "fetched_at": "2026-06-03T09:58:43.400127"
   },
   {
+    "id": "UA-2026-06-04-001329-a",
+    "_raw_id": "431afb29d14b473eb34b9a024c08a22d",
+    "title": "Блок резервного живлення з вбудованим АКБ",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"УКPНAФТА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 998660.0,
+    "currency": "UAH",
+    "deadline": "2026-06-16",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/431afb29d14b473eb34b9a024c08a22d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-04T09:15:10.114193"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -14286,5 +14454,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-06-03T09:47:11.635518"
+  },
+  {
+    "id": "UA-2026-05-27-013081-a",
+    "_raw_id": "476339718c914e939fdb0698b0a50783",
+    "title": "Код ДК 021:2015 – 31210000-1 - Електрична апаратура для комутування та захисту електричних кіл (Трифазний інверторний стабілізатор Volter™ Smart-81 (3*27) або еквівалент)",
+    "org": "Державна установа \"Центр обслуговування підрозділів Національної поліції України\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 332965.0,
+    "currency": "UAH",
+    "deadline": "2026-06-04",
+    "cpvs": [
+      "31210000-1"
+    ],
+    "cpv": "31210000-1",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/476339718c914e939fdb0698b0a50783",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-06-04T09:27:51.307985"
   }
 ]
