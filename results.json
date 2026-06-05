@@ -1071,7 +1071,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/0f17c6190cf34b428ee82850ae0bda6a",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-06-05T08:19:59.945592"
   },
@@ -1092,9 +1092,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/915545f84e12496c9be4677e75c77b59",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-06-05T08:23:41.852519"
+  },
+  {
+    "id": "UA-2026-06-05-002026-a",
+    "_raw_id": "85ecf6a031314c798b5defdd5a4c7a5d",
+    "title": "Гібридний інвертор DEYE SUN-30K-SG02HP3-EU-AM3 Трифазний",
+    "org": "Комунальний заклад Сумської обласної ради \"Конотопський обласний академічний ліцей \"Лідер\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 140000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-10",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/85ecf6a031314c798b5defdd5a4c7a5d",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-06-05T13:05:09.964565"
   },
   {
     "id": "UA-2026-03-20-006846-a",
@@ -2583,7 +2604,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/78241f839e3c4eaebc3af5b5e3c11842",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-06-05T08:13:39.994134"
   },
@@ -2604,7 +2625,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/9e62324361fe416a8567bf457c255a65",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-06-05T08:15:21.428359"
   },
@@ -8820,9 +8841,51 @@
     "cpv": "31155000-7",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/e9504fc1c48b4ae58f1b7a371b15b23a",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-05T09:09:38.913359"
+  },
+  {
+    "id": "UA-2026-06-05-002194-a",
+    "_raw_id": "9aa2c2edd80546728097de3e8b48e42f",
+    "title": "акумуляторна батарея ",
+    "org": "Комунальне підприємство \"Носівські теплові мережі\" Носівської міської  ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 32100.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/9aa2c2edd80546728097de3e8b48e42f",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-05T13:07:47.391515"
+  },
+  {
+    "id": "UA-2026-06-05-002897-a",
+    "_raw_id": "2d51c05fba2047d69a1b712493558e7c",
+    "title": "Акумуляторні батареї Акумуляторні батареї (31440000-2)",
+    "org": "Український науково-дослідний інститут спеціальної техніки та судових експертиз Служби безпеки України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 162000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-13",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/2d51c05fba2047d69a1b712493558e7c",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-05T13:22:29.958066"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -13336,7 +13399,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/8546819461a34c7598aad9d17f561ba8",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-05T08:58:33.739811"
   },
@@ -13357,7 +13420,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/8bef83c581de40599afc588e5c9cf66a",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-05T09:16:32.631695"
   },
@@ -13678,7 +13741,7 @@
     "cpv": "31680000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/94834db45dec411e8f6006cb7c7d6887",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-06-05T08:23:29.071005"
   },
@@ -13699,7 +13762,7 @@
     "cpv": "31680000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/ed72f983ea844c2bb1f1f8c2ee033f68",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-06-05T08:23:30.001555"
   },
@@ -13720,7 +13783,7 @@
     "cpv": "31680000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/f45fa5eafdcb404999df44234869a4a8",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-06-05T08:23:35.716006"
   },
@@ -13741,7 +13804,7 @@
     "cpv": "31680000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/b1f5397ac7b64cb9af286de854995594",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-06-05T08:25:20.657692"
   },
