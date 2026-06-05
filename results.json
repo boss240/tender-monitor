@@ -1055,6 +1055,48 @@
     "fetched_at": "2026-05-31T07:51:51.943198"
   },
   {
+    "id": "UA-2026-06-02-012813-a",
+    "_raw_id": "0f17c6190cf34b428ee82850ae0bda6a",
+    "title": "Гібридний інвертор DEYE SUN-12K-SG04LP3-EU 12kW 48V 2 MPPT Wi-Fi Трифазний, Інвертор гібридний 6kW Deye SUN-6K-SG05LP1-EU, однофазний",
+    "org": " ВІДДІЛ ОСВІТИ БАРСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 250000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-05",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/0f17c6190cf34b428ee82850ae0bda6a",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-06-05T08:19:59.945592"
+  },
+  {
+    "id": "UA-2026-05-28-011171-a",
+    "_raw_id": "915545f84e12496c9be4677e75c77b59",
+    "title": "Системи резервного електроживлення (гібридний інвертор з акумуляторами)",
+    "org": "територіальне управління Державної судової адміністрації України в Хмельницькій області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 2266000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-05",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/915545f84e12496c9be4677e75c77b59",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-06-05T08:23:41.852519"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -2523,6 +2565,48 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-06-04T09:17:46.328167"
+  },
+  {
+    "id": "UA-2026-05-28-009011-a",
+    "_raw_id": "78241f839e3c4eaebc3af5b5e3c11842",
+    "title": "Гібридний інвертор з монтажним комплектом та встановленням",
+    "org": "Відділ освіти, молоді і спорту Карпівської сільської ради Криворізького району Дніпропетровської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 420000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-05",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/78241f839e3c4eaebc3af5b5e3c11842",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-06-05T08:13:39.994134"
+  },
+  {
+    "id": "UA-2026-06-01-011540-a",
+    "_raw_id": "9e62324361fe416a8567bf457c255a65",
+    "title": "Акумулятор DATOU BOSS LiFePO4 12V/200AH (2560W*h) або еквівалент",
+    "org": "ДП Військова частина А7113",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 358000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-09",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/9e62324361fe416a8567bf457c255a65",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-06-05T08:15:21.428359"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -8720,6 +8804,27 @@
     "fetched_at": "2026-06-04T13:14:16.607554"
   },
   {
+    "id": "UA-2026-06-05-000510-a",
+    "_raw_id": "e9504fc1c48b4ae58f1b7a371b15b23a",
+    "title": "Мережевий інвертор потужністю 50 кВт",
+    "org": "КП Ніжинське управління водопровідно каналізаційного господарства",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 344210.0,
+    "currency": "UAH",
+    "deadline": "2026-06-13",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e9504fc1c48b4ae58f1b7a371b15b23a",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-05T09:09:38.913359"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -13215,6 +13320,48 @@
     "fetched_at": "2026-06-04T09:15:10.114193"
   },
   {
+    "id": "UA-2026-06-04-006871-a",
+    "_raw_id": "8546819461a34c7598aad9d17f561ba8",
+    "title": "Системи резервного живлення",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"ВИШНІВСЬКА МІСЬКА ЛІКАРНЯ\" ВИШНЕВОЇ МІСЬКОЇ РАДИ БУЧАНСЬКОГО РАЙОНУ КИЇВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 850000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-12",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/8546819461a34c7598aad9d17f561ba8",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-05T08:58:33.739811"
+  },
+  {
+    "id": "UA-2026-05-28-012160-a",
+    "_raw_id": "8bef83c581de40599afc588e5c9cf66a",
+    "title": "Система альтернативного електроживлення для потреб Броварського міськрайонного суду Київської області",
+    "org": "Територіальне управління Державної судової адміністрації України в Київській області ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 800000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-05",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/8bef83c581de40599afc588e5c9cf66a",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-05T09:16:32.631695"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -13513,6 +13660,90 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-06-03T14:40:50.667869"
+  },
+  {
+    "id": "UA-2026-05-28-012959-a",
+    "_raw_id": "94834db45dec411e8f6006cb7c7d6887",
+    "title": "Електричне приладдя та супутні товари до електричного обладнання (Блок керування Deye BOS-G-PDU-2 для високовольтних акумуляторів)",
+    "org": "УПРАВЛІННЯ ОСВІТИ І ГУМАНІТАРНОЇ ПОЛІТИКИ ПОДІЛЬСЬКОЇ МІСЬКОЇ РАДИ ПОДІЛЬСЬКОГО РАЙОНУ ОДЕСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 47850.0,
+    "currency": "UAH",
+    "deadline": "2026-06-05",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/94834db45dec411e8f6006cb7c7d6887",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-06-05T08:23:29.071005"
+  },
+  {
+    "id": "UA-2026-05-28-013012-a",
+    "_raw_id": "ed72f983ea844c2bb1f1f8c2ee033f68",
+    "title": "Електричне приладдя та супутні товари до електричного обладнання (Блок керування Deye BOS-G-PDU-2 для високовольтних акумуляторів)",
+    "org": "УПРАВЛІННЯ ОСВІТИ І ГУМАНІТАРНОЇ ПОЛІТИКИ ПОДІЛЬСЬКОЇ МІСЬКОЇ РАДИ ПОДІЛЬСЬКОГО РАЙОНУ ОДЕСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 47850.0,
+    "currency": "UAH",
+    "deadline": "2026-06-05",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/ed72f983ea844c2bb1f1f8c2ee033f68",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-06-05T08:23:30.001555"
+  },
+  {
+    "id": "UA-2026-05-28-013038-a",
+    "_raw_id": "f45fa5eafdcb404999df44234869a4a8",
+    "title": "Електричне приладдя та супутні товари до електричного обладнання (Блок керування Deye BOS-G-PDU-2 для високовольтних акумуляторів)",
+    "org": "УПРАВЛІННЯ ОСВІТИ І ГУМАНІТАРНОЇ ПОЛІТИКИ ПОДІЛЬСЬКОЇ МІСЬКОЇ РАДИ ПОДІЛЬСЬКОГО РАЙОНУ ОДЕСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 47850.0,
+    "currency": "UAH",
+    "deadline": "2026-06-05",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/f45fa5eafdcb404999df44234869a4a8",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-06-05T08:23:35.716006"
+  },
+  {
+    "id": "UA-2026-05-28-012988-a",
+    "_raw_id": "b1f5397ac7b64cb9af286de854995594",
+    "title": "Електричне приладдя та супутні товари до електричного обладнання (Блок керування Deye BOS-G-PDU-2 для високовольтних акумуляторів)",
+    "org": "УПРАВЛІННЯ ОСВІТИ І ГУМАНІТАРНОЇ ПОЛІТИКИ ПОДІЛЬСЬКОЇ МІСЬКОЇ РАДИ ПОДІЛЬСЬКОГО РАЙОНУ ОДЕСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 47850.0,
+    "currency": "UAH",
+    "deadline": "2026-06-05",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/b1f5397ac7b64cb9af286de854995594",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-06-05T08:25:20.657692"
   },
   {
     "id": "UA-2026-03-20-008862-a",
