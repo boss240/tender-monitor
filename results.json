@@ -8888,6 +8888,27 @@
     "fetched_at": "2026-06-05T13:22:29.958066"
   },
   {
+    "id": "UA-2026-06-02-012435-a",
+    "_raw_id": "c90ecaba89d64a51b07600f4942946af",
+    "title": "Акумуляторна батарея\nHYH POWER 360 Втч/кг, твердотільна, 10C, 3.7В, 13000 mAh, 600 циклов\n",
+    "org": "Військова частина А 4349",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 175000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-10",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/c90ecaba89d64a51b07600f4942946af",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-06T07:02:19.565948"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
