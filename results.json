@@ -13446,6 +13446,27 @@
     "fetched_at": "2026-06-05T09:16:32.631695"
   },
   {
+    "id": "UA-2026-06-07-000307-a",
+    "_raw_id": "20b1b75230224ff4ab238a6973f905b3",
+    "title": "Майно зв’язку",
+    "org": "військова частина А0501",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 120000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/20b1b75230224ff4ab238a6973f905b3",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-07T16:30:36.874473"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
