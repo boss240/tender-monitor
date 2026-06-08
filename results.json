@@ -1134,7 +1134,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/ac7226bc441441feb464b966b2d156de",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-06-08T10:10:15.822512"
   },
@@ -8946,7 +8946,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/72095bfe1c0f434b85606c7163e754ac",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-08T09:05:25.751066"
   },
@@ -8967,7 +8967,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/494d0944a04b461893add08ace8632a7",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-08T09:25:04.212879"
   },
@@ -8988,7 +8988,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/9cf452a7270c493fbd3ac6ec6062585f",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-08T09:25:59.799058"
   },
@@ -13567,9 +13567,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/bc9205ad4b8a46069d1ead25385314d2",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-08T09:24:13.186390"
+  },
+  {
+    "id": "UA-2026-06-08-000516-a",
+    "_raw_id": "b388f086b6654586b7bae3b529829e8b",
+    "title": "Джерело безперебійного живлення",
+    "org": "Департамент цивільного захисту, оборонної роботи та взаємодії з правоохоронними органами Черкаської обласної державної адміністрації",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 348400.0,
+    "currency": "UAH",
+    "deadline": "2026-06-16",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/b388f086b6654586b7bae3b529829e8b",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-08T14:20:02.850576"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -13972,7 +13993,7 @@
     "cpv": "31710000-6",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/5917ba7e7a2148a5bfc080ec5fa5955d",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-06-08T10:07:23.118320"
   },
