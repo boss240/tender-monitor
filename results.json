@@ -1139,6 +1139,27 @@
     "fetched_at": "2026-06-08T10:10:15.822512"
   },
   {
+    "id": "UA-2026-06-04-012319-a",
+    "_raw_id": "6b7400b50d3e42e5af7ba3f1ed520077",
+    "title": "Гібридний інвертор Deye SUN-12K-SG05LP3-EU-SM2",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО З ЕКСПЛУАТАЦІЇ І РЕМОНТУ ЖИТЛОВОГО ФОНДУ \"ЖИТЛО-СЕРВІС\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 98856.0,
+    "currency": "UAH",
+    "deadline": "2026-06-09",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/6b7400b50d3e42e5af7ba3f1ed520077",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-06-09T08:05:30.059665"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -2649,6 +2670,27 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-06-05T08:15:21.428359"
+  },
+  {
+    "id": "UA-2026-06-09-000913-a",
+    "_raw_id": "e6345f719ce141d3894738f39c9e99ca",
+    "title": "Гібридний інвертор та комплект АКБ",
+    "org": "ВІДДІЛ ОСВІТИ ТЕРНІВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 390900.0,
+    "currency": "UAH",
+    "deadline": "2026-06-17",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e6345f719ce141d3894738f39c9e99ca",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-06-09T08:46:55.588275"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -8993,6 +9035,48 @@
     "fetched_at": "2026-06-08T09:25:59.799058"
   },
   {
+    "id": "UA-2026-06-03-014568-a",
+    "_raw_id": "5eaff655a7084ef29c63c55eb9eadeb4",
+    "title": "Акумуляторні батареї до страйкбольного обладнання",
+    "org": "Департамент поліції особливого призначення «Об'єднана штурмова бригада Національної поліції України «Лють»",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 526600.0,
+    "currency": "UAH",
+    "deadline": "2026-06-11",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/5eaff655a7084ef29c63c55eb9eadeb4",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-09T08:00:54.035105"
+  },
+  {
+    "id": "UA-2026-06-03-013505-a",
+    "_raw_id": "37287c13b0d045afbc7f97077d06308b",
+    "title": "Акумуляторний елемент Li-ion 21700 3.7V 4200 mAh",
+    "org": "Центральна база підтримки системи зв'язку та спеціальних комплексів Національної гвардії України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 468937.5,
+    "currency": "UAH",
+    "deadline": "2026-06-12",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/37287c13b0d045afbc7f97077d06308b",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-09T08:01:27.144753"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -13593,6 +13677,27 @@
     "fetched_at": "2026-06-08T14:20:02.850576"
   },
   {
+    "id": "UA-2026-06-03-013601-a",
+    "_raw_id": "02d6caa305b54c5d8211edf24eaebdd8",
+    "title": "Джерело безперебійного живлення",
+    "org": "Управління Державної служби спеціального зв'язку та захисту інформації України в Кіровоградській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 32000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-12",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/02d6caa305b54c5d8211edf24eaebdd8",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-09T08:33:51.368318"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -15021,5 +15126,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-06-04T09:27:51.307985"
+  },
+  {
+    "id": "UA-2026-06-09-001509-a",
+    "_raw_id": "5d8ff5e46df44868b1486738dc951caa",
+    "title": "Акумулятор ",
+    "org": "Головне управління Національної поліції в Миколаївській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 90400.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31410000-3"
+    ],
+    "cpv": "31410000-3",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/5d8ff5e46df44868b1486738dc951caa",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-06-09T09:00:30.113282"
   }
 ]
