@@ -1176,7 +1176,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/e60c7a852d1d4511863d20f505997ebf",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-06-10T09:46:02.325879"
   },
@@ -9114,7 +9114,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/129d6ac7de714e44a42df6219efbbeef",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-10T08:20:54.584458"
   },
@@ -9135,7 +9135,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/d20c12b913f84668a11870d17c1a1c13",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-10T08:29:31.100641"
   },
@@ -9156,7 +9156,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/5d38eaf70abc450c87e3d223a5c0abd3",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-10T08:33:05.665399"
   },
@@ -9177,7 +9177,7 @@
     "cpv": "31155000-7",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/e545049dad1c4180b66bf332cde881aa",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-10T08:44:31.683670"
   },
@@ -9198,7 +9198,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/51bdc63e06dd4f838169f6cab31f94c0",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-10T09:15:30.400314"
   },
@@ -9219,7 +9219,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/af1cac624f8b45268c0d492429e9bb1f",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-10T09:15:49.070982"
   },
@@ -9240,7 +9240,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/456c6c6346474af19745ad65130d5624",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-10T09:31:55.637558"
   },
@@ -9261,7 +9261,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/08ead728df77430794533282b2319f30",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-10T09:34:42.088023"
   },
@@ -9282,9 +9282,30 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/970c5efb860347279e6e5121528ba1be",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-10T09:48:02.551302"
+  },
+  {
+    "id": "UA-2026-06-09-012556-a",
+    "_raw_id": "3711e53b1f514fad91afebe38ea3b5c9",
+    "title": "Акумулятори",
+    "org": "Мобільний рятувальний центр швидкого реагування «Одеса» Державної служби України з надзвичайних ситуацій",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 81201.0,
+    "currency": "UAH",
+    "deadline": "2026-06-18",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/3711e53b1f514fad91afebe38ea3b5c9",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-10T13:57:40.271530"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -13924,7 +13945,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/80980c05c02a4e23bf9947805df2f2f3",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-10T08:11:21.741993"
   },
@@ -13945,7 +13966,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/f369dfd4683645948b48270fc80fc0c3",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-10T08:29:47.833123"
   },
