@@ -9308,6 +9308,69 @@
     "fetched_at": "2026-06-10T13:57:40.271530"
   },
   {
+    "id": "UA-2026-06-08-009508-a",
+    "_raw_id": "5044bcc5b1ec426f9e5526486873a48a",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "ЛЬВІВСЬКЕ КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЛЬВІВСВІТЛО\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 141352.33,
+    "currency": "UAH",
+    "deadline": "2026-06-11",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/5044bcc5b1ec426f9e5526486873a48a",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-11T08:56:29.878135"
+  },
+  {
+    "id": "UA-2026-06-03-007963-a",
+    "_raw_id": "b4cc91e60c1e4162b618a6d35990f9cb",
+    "title": "Джерела безперебійного живлення (ДБЖ)",
+    "org": "КОНЦЕРН РАДІОМОВЛЕННЯ, РАДІОЗВ'ЯЗКУ ТА ТЕЛЕБАЧЕННЯ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 159996.0,
+    "currency": "UAH",
+    "deadline": "2026-06-11",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/b4cc91e60c1e4162b618a6d35990f9cb",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-11T09:23:35.797631"
+  },
+  {
+    "id": "UA-2026-06-03-012249-a",
+    "_raw_id": "a939923392254391b8541eb012a023ac",
+    "title": "Акумуляторні батареї; 31440000-2  - Акумуляторні батареї за ДК 021:2015 Єдиного закупівельного словника",
+    "org": "Акціонерне товариство Київгаз",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 212676.63,
+    "currency": "UAH",
+    "deadline": "2026-06-11",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/a939923392254391b8541eb012a023ac",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-11T09:24:05.385285"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -13969,6 +14032,27 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-10T08:29:47.833123"
+  },
+  {
+    "id": "UA-2026-06-03-013949-a",
+    "_raw_id": "c443a54dedeb4384a2d93dc8fe771bf4",
+    "title": "Джерело безперебійного живлення Eaton 9E 6KIR 6000i (Rack3U) або еквівалент",
+    "org": "Національний юридичний університет імені Ярослава Мудрого",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 280115.56,
+    "currency": "UAH",
+    "deadline": "2026-06-11",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/c443a54dedeb4384a2d93dc8fe771bf4",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-11T09:22:49.723759"
   },
   {
     "id": "UA-2026-03-31-000589-a",
