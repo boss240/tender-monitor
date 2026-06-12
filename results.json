@@ -1181,6 +1181,69 @@
     "fetched_at": "2026-06-10T09:46:02.325879"
   },
   {
+    "id": "UA-2026-06-05-011365-a",
+    "_raw_id": "31af91bd243247459b2c6acc11eaf645",
+    "title": "Гібридний інвертор Deye SUN-6K-SG05LP1-EU або еквівалент, Гібридний інвертор DEYE SUN-16K-SG01LP1-EU або еквівалент, Гібридний інвертор Deye SUN-25K-SG01HP3-EU-AM2 або еквівалент",
+    "org": "Військова частина А5100",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 1364218.37,
+    "currency": "UAH",
+    "deadline": "2026-06-16",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/31af91bd243247459b2c6acc11eaf645",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-06-12T08:31:52.991721"
+  },
+  {
+    "id": "UA-2026-06-08-008297-a",
+    "_raw_id": "1a837650ddea4215a804bf40fc592d9e",
+    "title": "Система безперебійного живлення (Гібридний інвертор DEYE SUN-80K-SG02HP3-EU-EM6 – 1шт; Система управління BMS Deye BOS-B-PDU-2 для високовольтних систем – 1 шт; Акумуляторна батарея Deye BOS-B-Pack16-A3, LiFePO4 – 5 шт)",
+    "org": "Військова частина А7381",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 820000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-18",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/1a837650ddea4215a804bf40fc592d9e",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-06-12T08:32:37.070075"
+  },
+  {
+    "id": "UA-2026-06-04-012359-a",
+    "_raw_id": "c8d343ee8c1a4afdab5540880599a22c",
+    "title": "Акумуляторна батарея DEYE BOS-G PRO LiFePO4 HV 51.2v 100AH 5.12 kwh ",
+    "org": "ЗАКЛАД ДОШКІЛЬНОЇ ОСВІТИ \"ВЕСЕЛКА\" ВЕРХНЬОДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 173100.0,
+    "currency": "UAH",
+    "deadline": "2026-06-12",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/c8d343ee8c1a4afdab5540880599a22c",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-06-12T08:41:45.509186"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -9371,6 +9434,111 @@
     "fetched_at": "2026-06-11T09:24:05.385285"
   },
   {
+    "id": "UA-2026-05-29-008416-a",
+    "_raw_id": "4519398c718c416cb45f0fd6a863771e",
+    "title": "Акумуляторні батареї (ДК 021:2015: 331440000-2 Акумуляторні батареї)",
+    "org": "3 ДЕРЖАВНИЙ ПОЖЕЖНО-РЯТУВАЛЬНИЙ ЗАГІН ГОЛОВНОГО УПРАВЛІННЯ ДЕРЖАВНОЇ СЛУЖБИ УКРАЇНИ З НАДЗВИЧАЙНИХ СИТУАЦІЙ У ЖИТОМИРСЬКІЙ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 243963.42,
+    "currency": "UAH",
+    "deadline": "2026-06-07",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/4519398c718c416cb45f0fd6a863771e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-12T08:29:06.481583"
+  },
+  {
+    "id": "UA-2026-06-08-004106-a",
+    "_raw_id": "33850ec63dfb47aa834ebf297627ef64",
+    "title": "АКБ для ДБЖ; АКБ",
+    "org": "Управління Державної служби спеціального зв’язку та захисту інформації України в Чернігівській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 368400.0,
+    "currency": "UAH",
+    "deadline": "2026-06-16",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/33850ec63dfb47aa834ebf297627ef64",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-12T08:32:22.849425"
+  },
+  {
+    "id": "UA-2026-06-03-013277-a",
+    "_raw_id": "8c420c557f684807862ecdc54619797e",
+    "title": "Джерела безперебійного живлення потужністю не менше 10000 VA / 8000 W (ДБЖ Eaton 9E 10000VA/8000W LCD) або еквівалент",
+    "org": "Господарський суд Київської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 300000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-12",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/8c420c557f684807862ecdc54619797e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-12T08:38:18.962783"
+  },
+  {
+    "id": "UA-2026-06-04-014264-a",
+    "_raw_id": "b4a261359b8b48c38998904cf4d83149",
+    "title": "Інвертор",
+    "org": "НАЦІОНАЛЬНИЙ ТЕХНІЧНИЙ УНІВЕРСИТЕТ УКРАЇНИ \"КИЇВСЬКИЙ ПОЛІТЕХНІЧНИЙ ІНСТИТУТ ІМЕНІ ІГОРЯ СІКОРСЬКОГО\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 53000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-12",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/b4a261359b8b48c38998904cf4d83149",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-12T08:43:46.751614"
+  },
+  {
+    "id": "UA-2026-06-03-012889-a",
+    "_raw_id": "1da6e7ebe22648ea8e1ab7b4c9e8dcc9",
+    "title": "Акумулятор LiitoKala 21700 Lii-50E 3,7В 5000 мА/год Li-ion",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 3002 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 59200.0,
+    "currency": "UAH",
+    "deadline": "2026-06-12",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/1da6e7ebe22648ea8e1ab7b4c9e8dcc9",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-12T08:44:34.887711"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -15504,5 +15672,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-06-09T09:00:30.113282"
+  },
+  {
+    "id": "UA-2026-06-03-012707-a",
+    "_raw_id": "58825dd1e0d24a63b10111e701b6aee1",
+    "title": "Сонячна панель код ДК 021:2015: «09330000-1 Сонячна енергія»",
+    "org": "Військова частина Т0330",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 448000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-12",
+    "cpvs": [
+      "09331000-8"
+    ],
+    "cpv": "09331000-8",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/58825dd1e0d24a63b10111e701b6aee1",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-06-12T08:50:52.832465"
   }
 ]
