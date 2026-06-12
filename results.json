@@ -1197,7 +1197,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/31af91bd243247459b2c6acc11eaf645",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-06-12T08:31:52.991721"
   },
@@ -1218,7 +1218,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/1a837650ddea4215a804bf40fc592d9e",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-06-12T08:32:37.070075"
   },
@@ -1239,7 +1239,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/c8d343ee8c1a4afdab5540880599a22c",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-06-12T08:41:45.509186"
   },
@@ -9450,7 +9450,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/4519398c718c416cb45f0fd6a863771e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-12T08:29:06.481583"
   },
@@ -9471,7 +9471,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/33850ec63dfb47aa834ebf297627ef64",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-12T08:32:22.849425"
   },
@@ -9492,7 +9492,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/8c420c557f684807862ecdc54619797e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-12T08:38:18.962783"
   },
@@ -9513,7 +9513,7 @@
     "cpv": "31155000-7",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/b4a261359b8b48c38998904cf4d83149",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-12T08:43:46.751614"
   },
@@ -9534,9 +9534,30 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/1da6e7ebe22648ea8e1ab7b4c9e8dcc9",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-12T08:44:34.887711"
+  },
+  {
+    "id": "UA-2026-06-12-002994-a",
+    "_raw_id": "cc10500b60ab4e3cb47e57aabfd72fdb",
+    "title": "акумуляторна  батарея",
+    "org": "Комунальне унітарне підприємство \"Комунальник\" Вижницької міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 75000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/cc10500b60ab4e3cb47e57aabfd72fdb",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-12T13:33:24.692092"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -15690,7 +15711,7 @@
     "cpv": "09331000-8",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/58825dd1e0d24a63b10111e701b6aee1",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-06-12T08:50:52.832465"
   }
