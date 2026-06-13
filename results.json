@@ -9576,7 +9576,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/a51ca219fb0741ad9b75c6c3b6629a17",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-13T08:02:31.751928"
   },
@@ -9597,9 +9597,51 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/c5e619dbd02e45249507006d36bb8b50",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-13T08:09:18.674954"
+  },
+  {
+    "id": "UA-2026-06-05-006721-a",
+    "_raw_id": "95e06b8d4deb4b6c9734e7755ab3e8bc",
+    "title": "Акумуляторні батареї літій-полімерні (Li-Po) для безпілотних літальних апаратів за кодом ДК 021:2015: 31440000-2 – «Акумуляторні батареї»",
+    "org": "Головне Управління Національної поліції в Запорізькій області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 69546.67,
+    "currency": "UAH",
+    "deadline": "2026-06-13",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/95e06b8d4deb4b6c9734e7755ab3e8bc",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-13T11:30:34.804809"
+  },
+  {
+    "id": "UA-2026-06-13-000327-a",
+    "_raw_id": "e1e3e78317db4a89897e05feae15ff48",
+    "title": "Джерело безперебійного живлення (ДБЖ)",
+    "org": "Військова частина 2161",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 291900.0,
+    "currency": "UAH",
+    "deadline": "2026-06-22",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e1e3e78317db4a89897e05feae15ff48",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-13T11:34:24.722522"
   },
   {
     "id": "UA-2026-03-11-009316-a",
