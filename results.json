@@ -1265,6 +1265,48 @@
     "fetched_at": "2026-06-14T08:20:40.822899"
   },
   {
+    "id": "UA-2026-06-04-004152-a",
+    "_raw_id": "4b28097d396444d593a46fb4cc5404fd",
+    "title": "Система безперебійного живлення 80 кВт: в комплекті Інвертор 80 кВт та Акумуляторні батареї 100 кВт (ІНВЕРТОР Deye SUN-80K, АКБ – 100кВт, BMS, стійка)» код ДК 021:2015 - 31154000-0 Джерела безперебійного живлення",
+    "org": "\"Ананьївська багатопрофільна міська лікарня Ананьївської міської ради\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1452900.0,
+    "currency": "UAH",
+    "deadline": "2026-06-15",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/4b28097d396444d593a46fb4cc5404fd",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-06-15T10:28:35.568218"
+  },
+  {
+    "id": "UA-2026-06-05-010844-a",
+    "_raw_id": "4f97d466f3db45fdaa01cda6d0759fcd",
+    "title": "Система накопичення енергії (у складі: гібридний інвертор, акумуляторні батареї з урахуванням витрат на монтаж та пусконалагодження)",
+    "org": "Регіональний сервісний центр ГСЦ МВС у Вінницькій, Черкаській та Кіровоградській областях (філія ГСЦ МВС)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 200000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-15",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/4f97d466f3db45fdaa01cda6d0759fcd",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-06-15T11:09:01.305126"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -2814,7 +2856,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/35c88a8062c044f387f6b5de873b7ed6",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-06-14T16:33:51.713058"
   },
@@ -9747,6 +9789,48 @@
     "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-14T11:37:51.129156"
+  },
+  {
+    "id": "UA-2026-06-12-011298-a",
+    "_raw_id": "9e59b9811d7f4b8da2925471534fb25a",
+    "title": "Акумуляторні батареї",
+    "org": "Чернігівська філія ТОВ \"Газорозподільні мережі України\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 125160.0,
+    "currency": "UAH",
+    "deadline": "2026-06-23",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/9e59b9811d7f4b8da2925471534fb25a",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-15T10:26:41.648867"
+  },
+  {
+    "id": "UA-2026-06-15-001525-a",
+    "_raw_id": "5109a9a8637c4928a5ebcb0edb0e3d2d",
+    "title": "Інвертори",
+    "org": "Відділ культури, туризму, молоді та спорту Буджацької селищної ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 99030.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/5109a9a8637c4928a5ebcb0edb0e3d2d",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-15T11:15:27.205089"
   },
   {
     "id": "UA-2026-03-11-009316-a",
