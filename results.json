@@ -1307,6 +1307,27 @@
     "fetched_at": "2026-06-15T11:09:01.305126"
   },
   {
+    "id": "UA-2026-06-12-005804-a",
+    "_raw_id": "f3866223e65a4d648a3072594c736614",
+    "title": "Акумуляторні батареї Motorola PMNN4412; акумуляторна батарея LiFePo4 Deye SE-G5.1 Pro, 51.2V - 100Ah (SE-G5.1 Pro-B) (код за ЄЗС ДК 021:2015: 31440000-2 - Акумуляторні батареї)",
+    "org": "Аварійно-рятувальний загін спеціального призначення Головного управління Державної служби України з надзвичайних ситуацій у Чернігівській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 301359.43,
+    "currency": "UAH",
+    "deadline": "2026-06-22",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/f3866223e65a4d648a3072594c736614",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-06-15T19:50:03.771287"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -9833,6 +9854,48 @@
     "fetched_at": "2026-06-15T11:15:27.205089"
   },
   {
+    "id": "UA-2026-06-15-003525-a",
+    "_raw_id": "8faf0c1f4ebc4eada396117c22b58d24",
+    "title": "Інвертори",
+    "org": "Відділ культури, туризму, молоді та спорту Буджацької селищної ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 99030.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/8faf0c1f4ebc4eada396117c22b58d24",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-15T19:53:17.599438"
+  },
+  {
+    "id": "UA-2026-06-15-003922-a",
+    "_raw_id": "80fae2c4ff084712bfa3f44c97a9a623",
+    "title": "ДК 021:2015 31440000-2 Акумуляторні батареї (Акумуляторна батарея SE-G5, ІРго-В)",
+    "org": "ВИКОНАВЧИЙ КОМІТЕТ БУДИЩЕНСЬКОЇ СІЛЬСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 53325.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/80fae2c4ff084712bfa3f44c97a9a623",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-15T20:00:09.520759"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -14533,9 +14596,30 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/fd9c32ad4d5c48629beffaa290db7ebc",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-15T15:42:41.738875"
+  },
+  {
+    "id": "UA-2026-06-15-003071-a",
+    "_raw_id": "5251ef6e48544edc98ab48b757c0e026",
+    "title": "Фотоелектричні модулі",
+    "org": "ВИКОНАВЧИЙ КОМІТЕТ ГЛОБИНСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 92999.88,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "09331200-0"
+    ],
+    "cpv": "09331200-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/5251ef6e48544edc98ab48b757c0e026",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-15T19:41:57.831905"
   },
   {
     "id": "UA-2026-03-31-000589-a",
