@@ -10022,6 +10022,27 @@
     "fetched_at": "2026-06-16T10:55:24.957095"
   },
   {
+    "id": "UA-2026-06-10-014288-a",
+    "_raw_id": "39274c1c3223421e99cd885bad4bbbb4",
+    "title": "Акумулятори",
+    "org": "Військова частина Р 9000 СБ України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 220000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-19",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/39274c1c3223421e99cd885bad4bbbb4",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-16T19:33:57.851017"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
