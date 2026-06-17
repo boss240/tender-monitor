@@ -2945,6 +2945,48 @@
     "fetched_at": "2026-06-16T10:19:49.571460"
   },
   {
+    "id": "UA-2026-06-17-001190-a",
+    "_raw_id": "17ee7abb72414f6fb4ebf117cedead0e",
+    "title": "Гібридний інвертор",
+    "org": "ВОЗНЕСЕНСЬКА ГІМНАЗІЯ № 7 ВОЗНЕСЕНСЬКОЇ МІСЬКОЇ РАДИ МИКОЛАЇВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 220549.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/17ee7abb72414f6fb4ebf117cedead0e",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-06-17T09:47:14.164100"
+  },
+  {
+    "id": "UA-2026-06-17-002324-a",
+    "_raw_id": "ae849372e97544d1a01f1764c784e1a8",
+    "title": "Інвертор (перетворювач) DC-AC (Інвертор гібридний DEYE SUN-20K-SG05LP3-EU-SM2)",
+    "org": "КЗ \"ПДЮСШ №4\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 145000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-23",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/ae849372e97544d1a01f1764c784e1a8",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-06-17T10:29:00.097358"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -10038,9 +10080,93 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/39274c1c3223421e99cd885bad4bbbb4",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-16T19:33:57.851017"
+  },
+  {
+    "id": "UA-2026-06-17-000021-a",
+    "_raw_id": "24ef95f76dda4da9a07d3ff80595863a",
+    "title": "Акумуляторні батареї з монтажем та пусконалагодженням",
+    "org": "Комунальне підприємство \"Водно - інформаційний центр\" виконавчого органу Київської міської ради (Київської міської державної адміністрації)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 52000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/24ef95f76dda4da9a07d3ff80595863a",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-17T09:04:58.575581"
+  },
+  {
+    "id": "UA-2026-06-17-001056-a",
+    "_raw_id": "3166a2a2373a4bb29565416532b5e551",
+    "title": "Акумуляторні батареї",
+    "org": "Департамент з питань цивільного захисту Львівської обласної державної адміністрації",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 57596.04,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/3166a2a2373a4bb29565416532b5e551",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-17T09:51:01.966278"
+  },
+  {
+    "id": "UA-2026-06-04-010021-a",
+    "_raw_id": "2798c4ec9f9e4a628774861a0b3f4249",
+    "title": "Акумуляторні батареї",
+    "org": "Філія «ВП «Рівненська АЕС» АТ «НАЕК «Енергоатом»",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 248960.0,
+    "currency": "UAH",
+    "deadline": "2026-06-12",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/2798c4ec9f9e4a628774861a0b3f4249",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-17T09:57:26.281635"
+  },
+  {
+    "id": "UA-2026-06-17-001989-a",
+    "_raw_id": "7b5509609a3445d9a8b4989f7e5537d7",
+    "title": "Акумуляторні батареї",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 3047 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/7b5509609a3445d9a8b4989f7e5537d7",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-17T10:10:15.415843"
   },
   {
     "id": "UA-2026-03-11-009316-a",
