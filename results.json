@@ -10169,6 +10169,27 @@
     "fetched_at": "2026-06-17T10:10:15.415843"
   },
   {
+    "id": "UA-2026-06-17-003466-a",
+    "_raw_id": "62bcb6dbbc464aa1af4779a9dbe6fb70",
+    "title": "Акумуляторні батареї",
+    "org": "ДЕПАРТАМЕНТ ЖИТЛОВО-КОМУНАЛЬНОГО ГОСПОДАРСТВА ТА ПАЛИВНО-ЕНЕРГЕТИЧНОГО КОМПЛЕКСУ ХАРКІВСЬКОЇ ОБЛАСНОЇ ДЕРЖАВНОЇ АДМІНІСТРАЦІЇ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1063920.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/62bcb6dbbc464aa1af4779a9dbe6fb70",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-17T19:11:53.688276"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -14935,6 +14956,27 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-16T10:28:05.649157"
+  },
+  {
+    "id": "UA-2026-06-09-009913-a",
+    "_raw_id": "785e5feffc19417e9b6fdeb7b11e7ff7",
+    "title": "Гібридна сонячна електростанція",
+    "org": "ВИКОНАВЧИЙ КОМІТЕТ РУСЬКОПОЛЯНСЬКОЇ СІЛЬСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 700000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-17",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/785e5feffc19417e9b6fdeb7b11e7ff7",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-17T19:14:42.750099"
   },
   {
     "id": "UA-2026-03-31-000589-a",
