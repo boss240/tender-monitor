@@ -1328,6 +1328,27 @@
     "fetched_at": "2026-06-15T19:50:03.771287"
   },
   {
+    "id": "UA-2026-06-18-000826-a",
+    "_raw_id": "22b823e286514dbba5d279fab5c71e85",
+    "title": "Акумуляторна батарея BOS-A-Pack7.68 Deye (High-Voltage LiFePO4 38.4V 200Ah 7,68kWh) та Блок керування кластером високовольтної батареї BOS-A-PDU-2 Deye. ",
+    "org": "КП \"Рокитне водоканал\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 99981.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/22b823e286514dbba5d279fab5c71e85",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-06-18T09:42:21.006056"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -10185,9 +10206,72 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/62bcb6dbbc464aa1af4779a9dbe6fb70",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-17T19:11:53.688276"
+  },
+  {
+    "id": "UA-2026-06-12-004052-a",
+    "_raw_id": "93aa84265bdb4595ba9a83db0447424e",
+    "title": "Акумулятори для блоків безперебійного живлення",
+    "org": "Тернопільська філія Товариства з обмеженою відповідальністю \"Газорозподільні мережі України\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 94380.0,
+    "currency": "UAH",
+    "deadline": "2026-06-23",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/93aa84265bdb4595ba9a83db0447424e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-18T08:54:17.296377"
+  },
+  {
+    "id": "UA-2026-06-18-000706-a",
+    "_raw_id": "94b5eaa5018941e1b0b8bfe8a9dd9a82",
+    "title": "Джерела резервного живлення (інверторна система живлення)",
+    "org": "П'ятий апеляційний адміністративний суд",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 1060000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-29",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/94b5eaa5018941e1b0b8bfe8a9dd9a82",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-18T09:39:28.529149"
+  },
+  {
+    "id": "UA-2026-06-03-008149-a",
+    "_raw_id": "1ccc5e4efcae403ab65c21ff18ce7688",
+    "title": "Акумуляторні батареї (Рахівське надлісництво)",
+    "org": "ФІЛІЯ \"КАРПАТСЬКИЙ ЛІСОВИЙ ОФІС\" ДЕРЖАВНОГО СПЕЦІАЛІЗОВАНОГО ГОСПОДАРСЬКОГО ПІДПРИЄМСТВА \"ЛІСИ УКРАЇНИ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 84043.88,
+    "currency": "UAH",
+    "deadline": "2026-06-11",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/1ccc5e4efcae403ab65c21ff18ce7688",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-18T10:19:19.970718"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -14974,9 +15058,408 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/785e5feffc19417e9b6fdeb7b11e7ff7",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-17T19:14:42.750099"
+  },
+  {
+    "id": "UA-2026-06-09-014549-a",
+    "_raw_id": "fb3872e178a34e519c2d2ecada634bd2",
+    "title": "Придбання сонячної електростанції для закладу спорту м. Дніпра зі встановленням - заходи з енергозбереження",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1107298.0,
+    "currency": "UAH",
+    "deadline": "2026-06-17",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/fb3872e178a34e519c2d2ecada634bd2",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-18T08:49:33.491910"
+  },
+  {
+    "id": "UA-2026-06-09-014493-a",
+    "_raw_id": "aa34f6a231ad4317a14b80978d68fd5e",
+    "title": "Придбання сонячної електростанції для закладу спорту м. Дніпра зі встановленням - заходи з енергозбереження",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1315384.0,
+    "currency": "UAH",
+    "deadline": "2026-06-17",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/aa34f6a231ad4317a14b80978d68fd5e",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-18T08:49:34.780176"
+  },
+  {
+    "id": "UA-2026-06-09-014083-a",
+    "_raw_id": "c3fc8190f709463895dcdfdc5be9cb70",
+    "title": "Придбання сонячної електростанції для закладу освіти м. Дніпра зі встановленням - заходи з енергозбереження",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 4330768.0,
+    "currency": "UAH",
+    "deadline": "2026-06-17",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/c3fc8190f709463895dcdfdc5be9cb70",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-18T08:49:36.183169"
+  },
+  {
+    "id": "UA-2026-06-09-014307-a",
+    "_raw_id": "a824b48741184aa69a5538601027b99e",
+    "title": "Придбання сонячної електростанції для закладу культури м. Дніпра зі встановленням - заходи з енергозбереження ДК 021:2015: 09330000-1 Сонячна енергія (ДК 021:2015: 09332000-5 Сонячна установка)",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1263857.38,
+    "currency": "UAH",
+    "deadline": "2026-06-17",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/a824b48741184aa69a5538601027b99e",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-18T08:49:37.562484"
+  },
+  {
+    "id": "UA-2026-06-09-014474-a",
+    "_raw_id": "5bef0ce3f3794b5c9fc6c1d2516adc1a",
+    "title": "Придбання сонячної електростанції для закладу спорту м. Дніпра зі встановленням - заходи з енергозбереження",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1315384.0,
+    "currency": "UAH",
+    "deadline": "2026-06-17",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/5bef0ce3f3794b5c9fc6c1d2516adc1a",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-18T08:49:38.984477"
+  },
+  {
+    "id": "UA-2026-06-09-014661-a",
+    "_raw_id": "7e5fd863330a47d7920e6f05a2d0b19a",
+    "title": "Придбання сонячної електростанції для закладу освіти м. Дніпра зі встановленням - заходи з енергозбереження",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1700000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-17",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/7e5fd863330a47d7920e6f05a2d0b19a",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-18T08:49:40.369195"
+  },
+  {
+    "id": "UA-2026-06-09-014444-a",
+    "_raw_id": "ec152b09efff4fd184e5598ef07373fc",
+    "title": "Придбання сонячної електростанції для закладу культури м. Дніпра зі встановленням - заходи з енергозбереження\n",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1315384.0,
+    "currency": "UAH",
+    "deadline": "2026-06-17",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/ec152b09efff4fd184e5598ef07373fc",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-18T08:49:41.672081"
+  },
+  {
+    "id": "UA-2026-06-09-014468-a",
+    "_raw_id": "c7485ecfa7df4aa092be911fa5ad04f8",
+    "title": "Придбання сонячної електростанції для закладу освіти м. Дніпра зі встановленням - заходи з енергозбереження",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1315834.0,
+    "currency": "UAH",
+    "deadline": "2026-06-17",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/c7485ecfa7df4aa092be911fa5ad04f8",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-18T08:49:42.986120"
+  },
+  {
+    "id": "UA-2026-06-09-014745-a",
+    "_raw_id": "764f181d2e2f4e9b833c37c2ce2c6027",
+    "title": "Придбання сонячної електростанції для закладу культури м. Дніпра зі встановленням - заходи з енергозбереження",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1315384.0,
+    "currency": "UAH",
+    "deadline": "2026-06-17",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/764f181d2e2f4e9b833c37c2ce2c6027",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-18T08:49:44.389917"
+  },
+  {
+    "id": "UA-2026-06-09-014454-a",
+    "_raw_id": "896d6b8cadfa44dbb45346420cf1d05a",
+    "title": "Придбання сонячної електростанції для закладу спорту м. Дніпра зі встановленням - заходи з енергозбереження",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1263857.38,
+    "currency": "UAH",
+    "deadline": "2026-06-17",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/896d6b8cadfa44dbb45346420cf1d05a",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-18T08:49:45.667136"
+  },
+  {
+    "id": "UA-2026-06-09-014432-a",
+    "_raw_id": "098720e070bc4313af47b385f0ff1b17",
+    "title": "Придбання сонячної електростанції для закладу освіти м. Дніпра зі встановленням - заходи з енергозбереження",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1315834.0,
+    "currency": "UAH",
+    "deadline": "2026-06-17",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/098720e070bc4313af47b385f0ff1b17",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-18T08:49:46.953126"
+  },
+  {
+    "id": "UA-2026-06-09-014481-a",
+    "_raw_id": "d851aa4147b4420f8fd095b00bd954d3",
+    "title": "Придбання сонячної електростанції для закладу культури м. Дніпра зі встановленням - заходи з енергозбереження\n",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 783963.0,
+    "currency": "UAH",
+    "deadline": "2026-06-17",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/d851aa4147b4420f8fd095b00bd954d3",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-18T08:49:48.280292"
+  },
+  {
+    "id": "UA-2026-06-09-014708-a",
+    "_raw_id": "792bb4e0ace246359433e8605b93b7fb",
+    "title": "Придбання сонячної електростанції для закладу спорту м. Дніпра зі встановленням - заходи з енергозбереження",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1107298.0,
+    "currency": "UAH",
+    "deadline": "2026-06-17",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/792bb4e0ace246359433e8605b93b7fb",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-18T08:49:51.006418"
+  },
+  {
+    "id": "UA-2026-06-09-014507-a",
+    "_raw_id": "be63332cad574331bfdd8b110a7577d4",
+    "title": "Придбання сонячної електростанції для закладу культури м. Дніпра зі встановленням - заходи з енергозбереження\n",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1315384.0,
+    "currency": "UAH",
+    "deadline": "2026-06-17",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/be63332cad574331bfdd8b110a7577d4",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-18T08:49:52.298832"
+  },
+  {
+    "id": "UA-2026-06-09-014531-a",
+    "_raw_id": "77ad1a727e5b4629b0149668e52ec14f",
+    "title": "Придбання сонячної електростанції для закладу спорту м. Дніпра зі встановленням - заходи з енергозбереження",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1315384.0,
+    "currency": "UAH",
+    "deadline": "2026-06-17",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/77ad1a727e5b4629b0149668e52ec14f",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-18T08:49:55.106423"
+  },
+  {
+    "id": "UA-2026-06-10-014017-a",
+    "_raw_id": "1aeffa2bfc22482492fc46cb1b6f708b",
+    "title": "Придбання джерела резервного живлення (комплекту резервного живлення) із встановленням для КЗ ЗДО “Веснянка” Миколаївської сільської ради Дніпровського району Дніпропетровської області ",
+    "org": "Відділ освіти,культури,молоді та спорту Миколаївської сільської ради Дніпровського району Дніпропетровської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 420000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-18",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/1aeffa2bfc22482492fc46cb1b6f708b",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-18T09:07:23.387321"
+  },
+  {
+    "id": "UA-2026-06-16-014129-a",
+    "_raw_id": "88d02fa0213a4ca4b2216bb05190da47",
+    "title": "Джерела безперебійного живлення",
+    "org": "Військова частина А0515",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 2528920.0,
+    "currency": "UAH",
+    "deadline": "2026-06-25",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/88d02fa0213a4ca4b2216bb05190da47",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-18T09:23:55.828171"
+  },
+  {
+    "id": "UA-2026-06-09-007643-a",
+    "_raw_id": "4e780494205e4937a8bd47e5f97c758a",
+    "title": "Блок безперебійного живлення",
+    "org": "НАЦІОНАЛЬНИЙ ЦЕНТР УПРАВЛІННЯ ТА ВИПРОБУВАНЬ КОСМІЧНИХ ЗАСОБІВ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 154000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-18",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/4e780494205e4937a8bd47e5f97c758a",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-18T09:33:37.297598"
+  },
+  {
+    "id": "UA-2026-06-18-001979-a",
+    "_raw_id": "5862c4b6a9d3444ca53d724b2d0c35a9",
+    "title": "Блок живлення UTEX 3036SH-DM 12В 3А (імпульсний)",
+    "org": "ПІВДЕННЕ ОДЕСЬКЕ ТЕРИТОРІАЛЬНЕ УПРАВЛІННЯ НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ (ВІЙСЬКОВА ЧАСТИНА 3003) (М.ОДЕСА)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/5862c4b6a9d3444ca53d724b2d0c35a9",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-18T10:15:39.352633"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -15382,6 +15865,27 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-06-08T10:07:23.118320"
+  },
+  {
+    "id": "UA-2026-06-15-006035-a",
+    "_raw_id": "86de52d402ff4b43b27ca2e812a26b96",
+    "title": "Системи зберігання енергії",
+    "org": "Комунальне підприємство \"Теплоенерго\" Кременчуцької міської ради Кременчуцького району Полтавської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 5045000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-23",
+    "cpvs": [
+      "31731000-9"
+    ],
+    "cpv": "31731000-9",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/86de52d402ff4b43b27ca2e812a26b96",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-06-18T09:25:37.314838"
   },
   {
     "id": "UA-2026-03-20-008862-a",
@@ -16449,5 +16953,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-06-12T08:50:52.832465"
+  },
+  {
+    "id": "UA-2026-06-10-012947-a",
+    "_raw_id": "aefa8ec266ea45d2a4b3bd068b9e1825",
+    "title": "Код ДК 021:2015 – 31210000-1 - Електрична апаратура для комутування та захисту електричних кіл (Трифазний інверторний стабілізатор Volter™ Smart-81 (3*27) або еквівалент)",
+    "org": "Державна установа \"Центр обслуговування підрозділів Національної поліції України\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 332965.0,
+    "currency": "UAH",
+    "deadline": "2026-06-18",
+    "cpvs": [
+      "31210000-1"
+    ],
+    "cpv": "31210000-1",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/aefa8ec266ea45d2a4b3bd068b9e1825",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-06-18T10:07:24.854753"
   }
 ]
