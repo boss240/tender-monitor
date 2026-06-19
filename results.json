@@ -10316,6 +10316,69 @@
     "fetched_at": "2026-06-18T13:39:03.409254"
   },
   {
+    "id": "UA-2026-06-19-001216-a",
+    "_raw_id": "aa07537a1b0f4491a37862a8e007dd4b",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 3035 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 312000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-24",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/aa07537a1b0f4491a37862a8e007dd4b",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-19T09:50:30.717377"
+  },
+  {
+    "id": "UA-2026-06-19-002892-a",
+    "_raw_id": "84917ab638fc4bcb8c1faa1d961392ff",
+    "title": "Акумуляторні батареї ",
+    "org": "Військова частина А7047",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/84917ab638fc4bcb8c1faa1d961392ff",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-19T10:41:09.598992"
+  },
+  {
+    "id": "UA-2026-06-04-010312-a",
+    "_raw_id": "5b8f3468095d4b26839a3702d6380b2e",
+    "title": "Акумуляторні батареї",
+    "org": "Філія «ВП «Рівненська АЕС» АТ «НАЕК «Енергоатом»",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1638000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-12",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/5b8f3468095d4b26839a3702d6380b2e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-19T10:41:30.136213"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -15525,6 +15588,27 @@
     "fetched_at": "2026-06-18T13:42:02.918869"
   },
   {
+    "id": "UA-2026-06-08-009688-a",
+    "_raw_id": "3843b98c9933491ba24582309e9a226d",
+    "title": "Гібридна сонячна електростанція (09332000-5 - Сонячна установка)",
+    "org": "СОЦІАЛЬНО-ГУМАНІТАРНИЙ ВІДДІЛ ОПІШНЯНСЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 2100000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-16",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/3843b98c9933491ba24582309e9a226d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-19T09:21:14.769454"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -17037,5 +17121,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-06-18T10:07:24.854753"
+  },
+  {
+    "id": "UA-2026-06-11-013824-a",
+    "_raw_id": "d05dfb82e1794d968cea15e9f82e3980",
+    "title": "Стабілізатор напруги інверторний ",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ТОВАРИСТВО \"Лікарня Архангела Рафаїла Шептицької міської ради\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 30115.0,
+    "currency": "UAH",
+    "deadline": "2026-06-19",
+    "cpvs": [
+      "31210000-1"
+    ],
+    "cpv": "31210000-1",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/d05dfb82e1794d968cea15e9f82e3980",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-06-19T09:07:36.503776"
   }
 ]
