@@ -15609,6 +15609,48 @@
     "fetched_at": "2026-06-19T09:21:14.769454"
   },
   {
+    "id": "UA-2026-06-12-011666-a",
+    "_raw_id": "1ea2cce4014f4c9e8f7637b4ce970ab0",
+    "title": "Комплекти мережевих сонячних електростанцій для власного споживання потужністю 100 кВт, 09330000-1 «Сонячна енергія» за ДК 021:2015 Єдиного закупівельного словника",
+    "org": "КП \"Хотинтепломережа Хотинської міської ради\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 4000000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-20",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/1ea2cce4014f4c9e8f7637b4ce970ab0",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-20T07:56:21.527818"
+  },
+  {
+    "id": "UA-2026-06-11-006656-a",
+    "_raw_id": "ea646ca00ba2423abea3733ca79e0982",
+    "title": "Комплект сонячних  панелей  (з комплектуючими для їх встановлення)",
+    "org": "Військова частина 9971",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 340137.0,
+    "currency": "UAH",
+    "deadline": "2026-06-20",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/ea646ca00ba2423abea3733ca79e0982",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-20T08:01:20.778463"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
