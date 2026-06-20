@@ -10379,6 +10379,27 @@
     "fetched_at": "2026-06-19T10:41:30.136213"
   },
   {
+    "id": "UA-2026-06-20-000307-a",
+    "_raw_id": "c930293ff60845b8b36086454df71ec0",
+    "title": "Акумуляторні батареї",
+    "org": "Військова частина А5068",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 199950.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/c930293ff60845b8b36086454df71ec0",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-20T11:40:24.195190"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -15625,7 +15646,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/1ea2cce4014f4c9e8f7637b4ce970ab0",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-20T07:56:21.527818"
   },
@@ -15646,9 +15667,30 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/ea646ca00ba2423abea3733ca79e0982",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-20T08:01:20.778463"
+  },
+  {
+    "id": "UA-2026-06-11-013695-a",
+    "_raw_id": "7cfd5a8b8dc8424498804526755852df",
+    "title": "Придбання джерела резервного живлення (комплекту резервного живлення) із встановленням для Миколаївського ліцею № 1 Миколаївської сільської ради Дніпровського району Дніпропетровської області",
+    "org": "Відділ освіти,культури,молоді та спорту Миколаївської сільської ради Дніпровського району Дніпропетровської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 194040.0,
+    "currency": "UAH",
+    "deadline": "2026-06-19",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/7cfd5a8b8dc8424498804526755852df",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-20T11:39:54.087549"
   },
   {
     "id": "UA-2026-03-31-000589-a",
