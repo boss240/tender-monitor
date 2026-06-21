@@ -1365,9 +1365,30 @@
     "cpv": "31155000-7",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/d970200831c44e438dc74b3d05b4fa2b",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-06-21T08:43:34.538415"
+  },
+  {
+    "id": "UA-2026-06-01-003688-a",
+    "_raw_id": "34b40e77c62747bd9687aa293b388be6",
+    "title": "Інвертор гібридний Deye SUN-20K-SG05LP3-EU-SM2 (або еквівалент) з 4-ма акумуляторними батарея 5 кВт",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 3047 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 286008.0,
+    "currency": "UAH",
+    "deadline": "2026-06-15",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/34b40e77c62747bd9687aa293b388be6",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-06-21T11:53:07.955505"
   },
   {
     "id": "UA-2026-03-20-006846-a",
