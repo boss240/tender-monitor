@@ -3129,7 +3129,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/ca76cd510d354744b64100e39ff34162",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-06-23T07:58:46.222933"
   },
@@ -10668,7 +10668,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/5937ff67a7e740ef9bebc33e9751a874",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-23T08:03:07.752117"
   },
@@ -10689,7 +10689,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/91886f0300624ec991f765dd66fc5cb2",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-23T08:21:16.592348"
   },
@@ -10710,9 +10710,30 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/ee40e724585e4effaeb729b221246781",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-23T09:03:09.772931"
+  },
+  {
+    "id": "UA-2026-06-23-001882-a",
+    "_raw_id": "f586b598b10342b5b157944d7786d7e6",
+    "title": "Мережевий інвертор потужністю 50 кВт",
+    "org": "КП Ніжинське управління водопровідно каналізаційного господарства",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 344210.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/f586b598b10342b5b157944d7786d7e6",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-23T13:18:16.587532"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -16066,7 +16087,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/3f67b7612e1242f48e4fc31d6fc3c806",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-23T07:56:28.902976"
   },
@@ -16087,7 +16108,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/28e6a471bbba4fc9be6b6082a2a6cc07",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-23T08:40:29.594044"
   },
