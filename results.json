@@ -10736,6 +10736,69 @@
     "fetched_at": "2026-06-23T13:18:16.587532"
   },
   {
+    "id": "UA-2026-06-18-013222-a",
+    "_raw_id": "2c935087f5af4b4ab9128e335eae2f5f",
+    "title": "Акумулятор RacePow 10000mAh 8S 30.4V 100C XT90S (10000mAh-8S-100C)",
+    "org": "Військова частина А 4349",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 137500.0,
+    "currency": "UAH",
+    "deadline": "2026-06-26",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/2c935087f5af4b4ab9128e335eae2f5f",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-24T07:51:21.334065"
+  },
+  {
+    "id": "UA-2026-06-18-005583-a",
+    "_raw_id": "446f81f4de2648388e180c1bf661c4c7",
+    "title": "Акумулятори",
+    "org": "ЦЕНТР СПЕЦІАЛЬНОГО ПРИЗНАЧЕННЯ \"ОМЕГА\" НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ (ВІЙСЬКОВА ЧАСТИНА 3073)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 54999.0,
+    "currency": "UAH",
+    "deadline": "2026-06-29",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/446f81f4de2648388e180c1bf661c4c7",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-24T08:23:49.032710"
+  },
+  {
+    "id": "UA-2026-06-15-009394-a",
+    "_raw_id": "f1be72f14a514537bd77bae4c279de3d",
+    "title": "Акумулятори для приладів охоронної сигналізації",
+    "org": "УПРАВЛІННЯ ПОЛІЦІЇ ОХОРОНИ В СУМСЬКІЙ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 402833.0,
+    "currency": "UAH",
+    "deadline": "2026-06-24",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/f1be72f14a514537bd77bae4c279de3d",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-24T08:27:48.420806"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -16111,6 +16174,90 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-23T08:40:29.594044"
+  },
+  {
+    "id": "UA-2026-06-16-012919-a",
+    "_raw_id": "3078c19cb85a4853ac5129feb6c21c28",
+    "title": "31154000-0 Джерела безперебійного живлення",
+    "org": "Київський національний університет імені Тараса Шевченка",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 71440.0,
+    "currency": "UAH",
+    "deadline": "2026-06-24",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/3078c19cb85a4853ac5129feb6c21c28",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-24T08:00:36.558370"
+  },
+  {
+    "id": "UA-2026-06-16-014267-a",
+    "_raw_id": "6d527ff687aa4143846f5b9d685acb64",
+    "title": "Комплекти резервного живлення (ДК 021:2015 31154000-0 Джерела безперебійного живлення) (за кошти грошової допомоги ЮНІСЕФ)",
+    "org": "ВІДДІЛ ОСВІТИ, КУЛЬТУРИ, МОЛОДІ ТА СПОРТУ НОВООЛЕКСАНДРІВСЬКОЇ СІЛЬСЬКОЇ РАДИ ДНІПРОВСЬКОГО РАЙОНУ ДНІПРОПЕТРОВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1260000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-24",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/6d527ff687aa4143846f5b9d685acb64",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-24T08:00:50.462722"
+  },
+  {
+    "id": "UA-2026-06-16-013834-a",
+    "_raw_id": "9f471d5a516f4979991df6f076c20b8c",
+    "title": "Комплектуючі до станції резервного енергоживлення",
+    "org": "НАЦІОНАЛЬНИЙ ТЕХНІЧНИЙ УНІВЕРСИТЕТ УКРАЇНИ \"КИЇВСЬКИЙ ПОЛІТЕХНІЧНИЙ ІНСТИТУТ ІМЕНІ ІГОРЯ СІКОРСЬКОГО\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 175000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-24",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/9f471d5a516f4979991df6f076c20b8c",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-24T08:02:59.719218"
+  },
+  {
+    "id": "UA-2026-06-22-010544-a",
+    "_raw_id": "dd3a98cfa8694d24bf5884e179a7031d",
+    "title": "Блок безперебійного живлення",
+    "org": "Західноукраїнський національний університет",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 380000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-30",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/dd3a98cfa8694d24bf5884e179a7031d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-24T08:39:55.325282"
   },
   {
     "id": "UA-2026-03-31-000589-a",
