@@ -10815,9 +10815,93 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/dce75b1418d5425e96be9c610756f807",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-24T18:19:48.734764"
+  },
+  {
+    "id": "UA-2026-06-22-005334-a",
+    "_raw_id": "fd6d1ebefe744932983f26e0210bb164",
+    "title": "Гібридний трифазний інвертор",
+    "org": "Головне управління Національної поліції в Дніпропетровській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 86000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-25",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/fd6d1ebefe744932983f26e0210bb164",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-25T08:01:24.288835"
+  },
+  {
+    "id": "UA-2026-06-25-000410-a",
+    "_raw_id": "a479690ee79f4da2a9780581bda77369",
+    "title": "Акумуляторні батареї та комплектуючі (3 найменування 12 штук)",
+    "org": "ІНСТИТУТ ЗАГАЛЬНОЇ ЕНЕРГЕТИКИ НАЦІОНАЛЬНОЇ АКАДЕМІЇ НАУК УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 99920.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/a479690ee79f4da2a9780581bda77369",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-25T08:37:20.117738"
+  },
+  {
+    "id": "UA-2026-06-25-000979-a",
+    "_raw_id": "d755c93492f84d0b8c92054070242083",
+    "title": "акумуляторна батареїя",
+    "org": "ДЕРЖАВНИЙ ТОРГОВЕЛЬНО-ЕКОНОМІЧНИЙ УНІВЕРСИТЕТ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 30960.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/d755c93492f84d0b8c92054070242083",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-25T08:54:56.007960"
+  },
+  {
+    "id": "UA-2026-06-25-001397-a",
+    "_raw_id": "4cce140cedb44f2c9e29971afc7bb621",
+    "title": "Мережевий інвертор",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"БЕРЕСТИН-ВОДОКАНАЛ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 280000.0,
+    "currency": "UAH",
+    "deadline": "2026-07-03",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/4cce140cedb44f2c9e29971afc7bb621",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-25T09:07:39.756444"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -16279,6 +16363,48 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-24T08:39:55.325282"
+  },
+  {
+    "id": "UA-2026-06-17-007946-a",
+    "_raw_id": "3b2a07002b9c4ce7a6265884372dc179",
+    "title": "Комплект обладнання для гібридної сонячної електростанції потужністю не менше 30 кВт з монтажем та пусконалагодженням на місці її безпосередньої експлуатації за кодом ДК 021:2015 – 09330000-1 «Сонячна енергія»",
+    "org": "ВИКОНКОМ ТАРАЩАНСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1716200.0,
+    "currency": "UAH",
+    "deadline": "2026-06-25",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/3b2a07002b9c4ce7a6265884372dc179",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-25T08:09:10.982364"
+  },
+  {
+    "id": "UA-2026-06-24-013966-a",
+    "_raw_id": "e7ec04bf25a5444082eb6d686bce85af",
+    "title": "Батарея Hoco J101 Astute 22.5W 10000mAh",
+    "org": "Шепетівська районна рада",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 31050.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/e7ec04bf25a5444082eb6d686bce85af",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-25T08:15:49.532086"
   },
   {
     "id": "UA-2026-03-31-000589-a",
