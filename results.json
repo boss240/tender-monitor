@@ -3134,6 +3134,69 @@
     "fetched_at": "2026-06-23T07:58:46.222933"
   },
   {
+    "id": "UA-2026-06-25-002243-a",
+    "_raw_id": "e32a38ae5783478692c4adaa50f57ea2",
+    "title": "Гібридний інвертор",
+    "org": "КП \"Харківські теплові мережі\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 1353483.3,
+    "currency": "UAH",
+    "deadline": "2026-07-04",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e32a38ae5783478692c4adaa50f57ea2",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-06-25T12:36:52.464018"
+  },
+  {
+    "id": "UA-2026-06-25-002278-a",
+    "_raw_id": "76ec5c3c847b4bffbbe36318d6a99728",
+    "title": "джерело резервного живлення (акумуляторна батарея до інвертора)",
+    "org": "Роменський заклад дошкільної освіти ( ясла-садок) №6 \"Зірочка\" Роменської міської ради Сумської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 80000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/76ec5c3c847b4bffbbe36318d6a99728",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-06-25T12:37:55.949564"
+  },
+  {
+    "id": "UA-2026-06-25-002166-a",
+    "_raw_id": "a0396cf5e7ef422c826f81253a5f1421",
+    "title": "Інвертор гібридний Deye SUN-12K-SG04LP3-EU",
+    "org": "Головне управління ДПС у Вінницькій області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 79830.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/a0396cf5e7ef422c826f81253a5f1421",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-06-25T12:44:15.710186"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -10836,7 +10899,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/fd6d1ebefe744932983f26e0210bb164",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-25T08:01:24.288835"
   },
@@ -10857,7 +10920,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/a479690ee79f4da2a9780581bda77369",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-25T08:37:20.117738"
   },
@@ -10878,7 +10941,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/d755c93492f84d0b8c92054070242083",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-25T08:54:56.007960"
   },
@@ -10899,7 +10962,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/4cce140cedb44f2c9e29971afc7bb621",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-25T09:07:39.756444"
   },
@@ -16381,7 +16444,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/3b2a07002b9c4ce7a6265884372dc179",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-25T08:09:10.982364"
   },
@@ -16402,7 +16465,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/e7ec04bf25a5444082eb6d686bce85af",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-25T08:15:49.532086"
   },
