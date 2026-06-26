@@ -39,7 +39,7 @@
     "cpv": "31155000-7",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/ee846ec9028f41679d6d812f73745c11",
-    "is_new": true,
+    "is_new": false,
     "score": 90,
     "fetched_at": "2026-06-26T09:06:15.436234"
   },
@@ -3235,7 +3235,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/b0b41c9a7f9b4f9da83bdb1aa8d9aa27",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-06-26T08:50:03.271816"
   },
@@ -11026,7 +11026,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/c6fdec1933ca4fca89480ada2eb51f30",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-26T08:05:45.439239"
   },
@@ -11047,9 +11047,30 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/9839e18b9baf4997893f874cb8630faf",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-26T09:25:47.002722"
+  },
+  {
+    "id": "UA-2026-06-26-002895-a",
+    "_raw_id": "e29744dd995349b98ddb2ba288879828",
+    "title": "Акумулятори",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"СУМИОБЛЕНЕРГО\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 2200000.0,
+    "currency": "UAH",
+    "deadline": "2026-07-06",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e29744dd995349b98ddb2ba288879828",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-26T13:19:45.858598"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -16571,7 +16592,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/d569a86c0cca4aef90a3ac3d5a5f628e",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-26T07:58:44.076716"
   },
@@ -16592,7 +16613,7 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/5d1b7fba29cb46029a1ee01a8fecd941",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-26T09:02:44.996115"
   },
@@ -18148,7 +18169,7 @@
     "cpv": "31210000-1",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/b1940bee71954f93b6cd36711a6b1263",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-06-26T07:59:00.927458"
   }
