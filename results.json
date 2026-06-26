@@ -22,6 +22,28 @@
     "fetched_at": "2026-05-20T08:08:02.683942"
   },
   {
+    "id": "UA-2026-06-24-010367-a",
+    "_raw_id": "ee846ec9028f41679d6d812f73745c11",
+    "title": "Гібридні інвертори, акумуляторні батареї",
+    "org": "Територіальне управління Державної судової адміністрації України в місті Києві",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 2800000.0,
+    "currency": "UAH",
+    "deadline": "2026-07-02",
+    "cpvs": [
+      "31155000-7",
+      "31154000-0"
+    ],
+    "cpv": "31155000-7",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/ee846ec9028f41679d6d812f73745c11",
+    "is_new": true,
+    "score": 90,
+    "fetched_at": "2026-06-26T09:06:15.436234"
+  },
+  {
     "id": "UA-2026-03-26-010121-a",
     "_raw_id": "809c4a2a0dd94edbada96fea12d92318",
     "title": "ДК 021:2015 - 31150000-2 - Баласти для розрядних ламп чи трубок (Гібридний інвертор та акумуляторні батареї)",
@@ -3195,6 +3217,27 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-06-25T12:44:15.710186"
+  },
+  {
+    "id": "UA-2026-06-23-011700-a",
+    "_raw_id": "b0b41c9a7f9b4f9da83bdb1aa8d9aa27",
+    "title": "Гібридний інвертор, 1- фазний, 6 кВт, ККД не менше 97%",
+    "org": "ОБЛАСНЕ КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"БУКОВИНСЬКИЙ КЛІНІЧНИЙ ОНКОЛОГІЧНИЙ ЦЕНТР\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 52000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-26",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/b0b41c9a7f9b4f9da83bdb1aa8d9aa27",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-06-26T08:50:03.271816"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -10967,6 +11010,48 @@
     "fetched_at": "2026-06-25T09:07:39.756444"
   },
   {
+    "id": "UA-2026-06-22-010205-a",
+    "_raw_id": "c6fdec1933ca4fca89480ada2eb51f30",
+    "title": "Акумуляторні батареї ",
+    "org": "Військова частина А7047",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 622500.0,
+    "currency": "UAH",
+    "deadline": "2026-07-02",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/c6fdec1933ca4fca89480ada2eb51f30",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-26T08:05:45.439239"
+  },
+  {
+    "id": "UA-2026-06-24-009844-a",
+    "_raw_id": "9839e18b9baf4997893f874cb8630faf",
+    "title": "ДК 021:2015 -  31440000-2- Акумуляторні батареї",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО ПОЛТАВАОБЛЕНЕРГО",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1042185.0,
+    "currency": "UAH",
+    "deadline": "2026-07-03",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/9839e18b9baf4997893f874cb8630faf",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-26T09:25:47.002722"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -16470,6 +16555,48 @@
     "fetched_at": "2026-06-25T08:15:49.532086"
   },
   {
+    "id": "UA-2026-06-10-011481-a",
+    "_raw_id": "d569a86c0cca4aef90a3ac3d5a5f628e",
+    "title": "Павербанки",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"УКРПОШТА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 4620000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-20",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/d569a86c0cca4aef90a3ac3d5a5f628e",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-26T07:58:44.076716"
+  },
+  {
+    "id": "UA-2026-06-25-010801-a",
+    "_raw_id": "5d1b7fba29cb46029a1ee01a8fecd941",
+    "title": "Джерела живлення та складові частини до них ",
+    "org": "Військова частина А4862",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1517501.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/5d1b7fba29cb46029a1ee01a8fecd941",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-26T09:02:44.996115"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -18003,5 +18130,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-06-19T09:07:36.503776"
+  },
+  {
+    "id": "UA-2026-06-25-010081-a",
+    "_raw_id": "b1940bee71954f93b6cd36711a6b1263",
+    "title": "Код ДК 021:2015 – 31210000-1 - Електрична апаратура для комутування та захисту електричних кіл (Стабілізатори напруги інверторного типу)",
+    "org": "ІНСТИТУТ ЦИФРОВІЗАЦІЇ ОСВІТИ НАЦІОНАЛЬНОЇ АКАДЕМІЇ ПЕДАГОГІЧНИХ НАУК УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 191000.0,
+    "currency": "UAH",
+    "deadline": "2026-07-03",
+    "cpvs": [
+      "31210000-1"
+    ],
+    "cpv": "31210000-1",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/b1940bee71954f93b6cd36711a6b1263",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-06-26T07:59:00.927458"
   }
 ]
