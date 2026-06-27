@@ -3256,7 +3256,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/515bbccc88e64b35b3f6ffafbcbc59a4",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-06-27T11:05:17.386648"
   },
@@ -11152,9 +11152,30 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/15014aef493f40a4ad13838116151590",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-27T11:11:46.307236"
+  },
+  {
+    "id": "UA-2026-06-23-013372-a",
+    "_raw_id": "cf7485bae8d34c278092f13743a13c6d",
+    "title": "Лінійно-інтерактивне ДБЖ ",
+    "org": "Військова частина А2995",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 242700.0,
+    "currency": "UAH",
+    "deadline": "2026-07-02",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/cf7485bae8d34c278092f13743a13c6d",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-27T16:32:10.822836"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -16739,7 +16760,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/1a021947e6a74b968e20ac80fbf8a24a",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-27T11:10:14.928058"
   },
