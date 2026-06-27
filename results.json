@@ -3240,6 +3240,27 @@
     "fetched_at": "2026-06-26T08:50:03.271816"
   },
   {
+    "id": "UA-2026-06-22-012181-a",
+    "_raw_id": "515bbccc88e64b35b3f6ffafbcbc59a4",
+    "title": "Системи резервного живлення (гібридні інвертори з акумуляторами)",
+    "org": "ТЕРИТОРІАЛЬНЕ УПРАВЛІННЯ ДЕРЖАВНОЇ СУДОВОЇ АДМІНІСТРАЦІЇ УКРАЇНИ В ЛЬВІВСЬКІЙ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 4147500.0,
+    "currency": "UAH",
+    "deadline": "2026-07-01",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/515bbccc88e64b35b3f6ffafbcbc59a4",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-06-27T11:05:17.386648"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -11089,7 +11110,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6f07111fee7a4b3989ec32429fa46455",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-27T06:56:10.598651"
   },
@@ -11110,9 +11131,30 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/e146ec8ab79f4524a9087c50d90766ec",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-27T07:12:56.394353"
+  },
+  {
+    "id": "UA-2026-06-23-012294-a",
+    "_raw_id": "15014aef493f40a4ad13838116151590",
+    "title": "Акумулятори",
+    "org": "Військова частина 3054 Національної гвардії України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 411637.75,
+    "currency": "UAH",
+    "deadline": "2026-07-01",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/15014aef493f40a4ad13838116151590",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-27T11:11:46.307236"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -16676,9 +16718,30 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/d1f323fb4268473e944ac40f1e7bae95",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-27T06:57:05.602118"
+  },
+  {
+    "id": "UA-2026-06-27-000195-a",
+    "_raw_id": "1a021947e6a74b968e20ac80fbf8a24a",
+    "title": "блок живлення для оптичного приймача/передавача",
+    "org": "Служба зовнішньої розвідки України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 37689.98,
+    "currency": "UAH",
+    "deadline": "2026-07-09",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/1a021947e6a74b968e20ac80fbf8a24a",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-27T11:10:14.928058"
   },
   {
     "id": "UA-2026-03-31-000589-a",
