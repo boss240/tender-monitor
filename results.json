@@ -11073,6 +11073,48 @@
     "fetched_at": "2026-06-26T13:19:45.858598"
   },
   {
+    "id": "UA-2026-06-26-011948-a",
+    "_raw_id": "6f07111fee7a4b3989ec32429fa46455",
+    "title": "Джерела безперебійного живлення (ДБЖ)",
+    "org": "КОНЦЕРН РАДІОМОВЛЕННЯ, РАДІОЗВ'ЯЗКУ ТА ТЕЛЕБАЧЕННЯ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 159996.0,
+    "currency": "UAH",
+    "deadline": "2026-07-04",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/6f07111fee7a4b3989ec32429fa46455",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-27T06:56:10.598651"
+  },
+  {
+    "id": "UA-2026-06-23-013061-a",
+    "_raw_id": "e146ec8ab79f4524a9087c50d90766ec",
+    "title": "31440000-2 Акумуляторні батареї",
+    "org": "військова частина А1201",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 220000.0,
+    "currency": "UAH",
+    "deadline": "2026-07-02",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e146ec8ab79f4524a9087c50d90766ec",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-27T07:12:56.394353"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -16616,6 +16658,27 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-26T09:02:44.996115"
+  },
+  {
+    "id": "UA-2026-06-26-011969-a",
+    "_raw_id": "d1f323fb4268473e944ac40f1e7bae95",
+    "title": "Джерело безперебійного живлення",
+    "org": "КНП \"Київська міська дитяча клінічна лікарня №1\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 1726700.0,
+    "currency": "UAH",
+    "deadline": "2026-07-04",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/d1f323fb4268473e944ac40f1e7bae95",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-06-27T06:57:05.602118"
   },
   {
     "id": "UA-2026-03-31-000589-a",
