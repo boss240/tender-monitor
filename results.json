@@ -11194,7 +11194,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/91a312298ce748f58a00ff61f2b17131",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-28T07:57:46.460594"
   },
@@ -18340,5 +18340,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-06-26T07:59:00.927458"
+  },
+  {
+    "id": "UA-2026-06-25-004407-a",
+    "_raw_id": "78039d208af74b5a90db2048449e35ef",
+    "title": "Сонячна панель JAM66D45-630/LB або еквівалент",
+    "org": "Комунальне підприємство  \"Ямпільводоканал\" ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 700000.0,
+    "currency": "UAH",
+    "deadline": "2026-07-10",
+    "cpvs": [
+      "09331000-8"
+    ],
+    "cpv": "09331000-8",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/78039d208af74b5a90db2048449e35ef",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-06-28T11:14:08.544889"
   }
 ]
