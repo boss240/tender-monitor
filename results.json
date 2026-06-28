@@ -11173,9 +11173,30 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/cf7485bae8d34c278092f13743a13c6d",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-27T16:32:10.822836"
+  },
+  {
+    "id": "UA-2026-06-19-007291-a",
+    "_raw_id": "91a312298ce748f58a00ff61f2b17131",
+    "title": "Тягова акумуляторна батарея ",
+    "org": "Державне підприємство \"Комбінат \"Салют\" Державного агентства з управління резервами України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 221000.0,
+    "currency": "UAH",
+    "deadline": "2026-06-28",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/91a312298ce748f58a00ff61f2b17131",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-06-28T07:57:46.460594"
   },
   {
     "id": "UA-2026-03-11-009316-a",
