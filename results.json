@@ -1518,6 +1518,27 @@
     "fetched_at": "2026-06-30T08:23:54.257606"
   },
   {
+    "id": "UA-2026-06-23-004227-a",
+    "_raw_id": "4c8f502e6a144e0f8ad428fd62ff8a0c",
+    "title": "Комплект резервного живлення (ДБЖ та акумуляторна батарея LiFePO4) (Код ДК 021:2015 «Єдиний закупівельний словник» - 31154000-0 - Джерела безперебійного живлення)",
+    "org": "Державний науково-дослідний контрольний інститут ветеринарних препаратів та кормових добавок",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 41500.0,
+    "currency": "UAH",
+    "deadline": "2026-07-01",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/4c8f502e6a144e0f8ad428fd62ff8a0c",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-07-01T08:18:22.298654"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -3343,6 +3364,27 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-06-30T09:10:09.380194"
+  },
+  {
+    "id": "UA-2026-07-01-001604-a",
+    "_raw_id": "c7ecd74c9b83498686cd824d70271717",
+    "title": "Акумуляторна батарея літій залізо фосфат LiFePO4 - 12V-100Ah ",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"ЦЕНТР ПЕРВИННОЇ МЕДИКО-САНІТАРНОЇ ДОПОМОГИ №3 М. ВІННИЦІ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 87600.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/c7ecd74c9b83498686cd824d70271717",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-07-01T09:27:50.514961"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -11362,9 +11404,30 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/3a976e3f8e1a425cac77085172f941ff",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-06-30T18:26:18.495498"
+  },
+  {
+    "id": "UA-2026-06-23-008298-a",
+    "_raw_id": "8aee52cb913842f6ae8a67ec98b269cc",
+    "title": "Акумулятори ",
+    "org": "ЧЕРНІГІВСЬКЕ ТРОЛЕЙБУСНЕ УПРАВЛІННЯ\" ЧЕРНІГІВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 309000.0,
+    "currency": "UAH",
+    "deadline": "2026-07-01",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/8aee52cb913842f6ae8a67ec98b269cc",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-01T08:37:57.352889"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -17036,6 +17099,69 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-06-30T08:53:19.647980"
+  },
+  {
+    "id": "UA-2026-06-23-012345-a",
+    "_raw_id": "432a495362b342068c416c035611169f",
+    "title": "Пристрій безперебійного живлення",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"РІВНЕНСЬКИЙ ОБЛАСНИЙ ПРОТИПУХЛИННИЙ ЦЕНТР\" РІВНЕНСЬКОЇ ОБЛАСНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 248000.0,
+    "currency": "UAH",
+    "deadline": "2026-07-01",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/432a495362b342068c416c035611169f",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-01T08:31:49.830655"
+  },
+  {
+    "id": "UA-2026-06-25-005875-a",
+    "_raw_id": "293e5501f80d4cc6b99a13d7e75850b8",
+    "title": "Комплект резервного живлення",
+    "org": "Військова частина А2070",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 122436.0,
+    "currency": "UAH",
+    "deadline": "2026-07-04",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/293e5501f80d4cc6b99a13d7e75850b8",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-01T09:13:49.199031"
+  },
+  {
+    "id": "UA-2026-06-22-011965-a",
+    "_raw_id": "e5c5062da4314a59a7a86edab339f46a",
+    "title": "Гібридна система резервного живлення лабораторного обладнання",
+    "org": "ІНСТИТУТ ФІЗИКИ НАЦІОНАЛЬНОЇ АКАДЕМІЇ НАУК УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1942500.0,
+    "currency": "UAH",
+    "deadline": "2026-07-06",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e5c5062da4314a59a7a86edab339f46a",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-01T09:29:23.394901"
   },
   {
     "id": "UA-2026-03-31-000589-a",
