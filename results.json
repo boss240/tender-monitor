@@ -1534,9 +1534,30 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/4c8f502e6a144e0f8ad428fd62ff8a0c",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-07-01T08:18:22.298654"
+  },
+  {
+    "id": "UA-2026-06-30-008292-a",
+    "_raw_id": "ab273ca187704945968d76696c7f224a",
+    "title": "Гібридний інвертор та Акумуляторна батарея",
+    "org": "ВІДДІЛ ОСВІТИ ТЕРНІВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 300000.0,
+    "currency": "UAH",
+    "deadline": "2026-07-08",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/ab273ca187704945968d76696c7f224a",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-07-01T13:21:06.313795"
   },
   {
     "id": "UA-2026-03-20-006846-a",
@@ -3382,7 +3403,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/c7ecd74c9b83498686cd824d70271717",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-07-01T09:27:50.514961"
   },
@@ -11425,7 +11446,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/8aee52cb913842f6ae8a67ec98b269cc",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-01T08:37:57.352889"
   },
@@ -17117,7 +17138,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/432a495362b342068c416c035611169f",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-01T08:31:49.830655"
   },
@@ -17138,7 +17159,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/293e5501f80d4cc6b99a13d7e75850b8",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-01T09:13:49.199031"
   },
@@ -17159,9 +17180,30 @@
     "cpv": "09332000-5",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/e5c5062da4314a59a7a86edab339f46a",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-01T09:29:23.394901"
+  },
+  {
+    "id": "UA-2026-06-30-009668-a",
+    "_raw_id": "8c77843ec26f4dafbc60096addbb9fab",
+    "title": " Аккумуляторні батареї         ",
+    "org": "8 ТВУЗ Держспецзв'язку",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 95000.0,
+    "currency": "UAH",
+    "deadline": "2026-07-08",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/8c77843ec26f4dafbc60096addbb9fab",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-01T13:15:44.751659"
   },
   {
     "id": "UA-2026-03-31-000589-a",
