@@ -1560,6 +1560,48 @@
     "fetched_at": "2026-07-01T13:21:06.313795"
   },
   {
+    "id": "UA-2026-06-26-010795-a",
+    "_raw_id": "9e7c9002d70145aab57a309e73e690e1",
+    "title": "Система безперебійного живлення (Гібридний інвертор Deye SUN-80K-SG02HP3-EU-EM6 – 1 шт.; Акумуляторний блок Deye BOS-G-Pack5.1 PRO – 11 шт.; Блок керування високовольтною акумуляторною системою Deye BOS-G-PDU-2 – 1 шт.; Акумуляторна стійка Deye 3U-HRACK – 1 шт.)",
+    "org": "Військова частина А7381",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 820000.0,
+    "currency": "UAH",
+    "deadline": "2026-07-07",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/9e7c9002d70145aab57a309e73e690e1",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-07-02T07:42:36.061937"
+  },
+  {
+    "id": "UA-2026-07-01-008901-a",
+    "_raw_id": "7cc2dbe96c3e4f1f8590af3805ce77bf",
+    "title": "Гібридний інвертор Deye",
+    "org": "ДЕРЖАВНА УСТАНОВА \"РОМЕНСЬКА ВИПРАВНА КОЛОНІЯ (№56)\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 44000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/7cc2dbe96c3e4f1f8590af3805ce77bf",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-07-02T08:33:42.810025"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -3406,6 +3448,48 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-07-01T09:27:50.514961"
+  },
+  {
+    "id": "UA-2026-06-24-004037-a",
+    "_raw_id": "a9db63adddcb4cbfb57788e23b1b6851",
+    "title": "інвертор (в комплекті з акумуляторними батареями з урахуванням монтажу)",
+    "org": "Одеський апеляційний суд",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 4060580.0,
+    "currency": "UAH",
+    "deadline": "2026-07-02",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/a9db63adddcb4cbfb57788e23b1b6851",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-07-02T08:01:11.208802"
+  },
+  {
+    "id": "UA-2026-07-01-009011-a",
+    "_raw_id": "fc50cb480a7c4716827c52f8e0b557b1",
+    "title": "Акумуляторна батарея Deye 51.2V",
+    "org": "ДЕРЖАВНА УСТАНОВА \"РОМЕНСЬКА ВИПРАВНА КОЛОНІЯ (№56)\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 43000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/fc50cb480a7c4716827c52f8e0b557b1",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-07-02T08:33:43.709069"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -11451,6 +11535,69 @@
     "fetched_at": "2026-07-01T08:37:57.352889"
   },
   {
+    "id": "UA-2026-06-24-011288-a",
+    "_raw_id": "19408c8cd45b492fbd118ce83669a084",
+    "title": "ДК 021:2015 код 31440000-2 Акумуляторні батареї (Акумуляторна батарея для філії \"Дирекція з будівництва Дністровської ГАЕС\" ПрАТ \"Укргідроенерго\")",
+    "org": "Приватне акціонерне товариство \"Укргідроенерго\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 97948.89,
+    "currency": "UAH",
+    "deadline": "2026-07-02",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/19408c8cd45b492fbd118ce83669a084",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-02T08:11:54.166273"
+  },
+  {
+    "id": "UA-2026-06-24-007541-a",
+    "_raw_id": "c411efa1c36f4e44ad245b2efa6120e9",
+    "title": "Акумуляторні батареї за кодом ДК 021:2015  -«31440000-2 Акумуляторні батареї»",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"ЧЕРНІГІВОБЛЕНЕРГО\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 458335.0,
+    "currency": "UAH",
+    "deadline": "2026-07-02",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/c411efa1c36f4e44ad245b2efa6120e9",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-02T08:44:31.786436"
+  },
+  {
+    "id": "UA-2026-06-23-010823-a",
+    "_raw_id": "ce7aa37a8e134f6a9406eaf6ac64fd01",
+    "title": "Акумуляторні батареї",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"УКPНAФТА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 183891.0,
+    "currency": "UAH",
+    "deadline": "2026-07-02",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/ce7aa37a8e134f6a9406eaf6ac64fd01",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-02T08:55:11.415503"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -17204,6 +17351,27 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-01T13:15:44.751659"
+  },
+  {
+    "id": "UA-2026-06-24-005257-a",
+    "_raw_id": "88179c2f084f46a6874206df690856a4",
+    "title": "Джерела безперебійного живлення",
+    "org": "Верховний Суд",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 1278266.0,
+    "currency": "UAH",
+    "deadline": "2026-07-02",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/88179c2f084f46a6874206df690856a4",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-02T07:52:55.967935"
   },
   {
     "id": "UA-2026-03-31-000589-a",
