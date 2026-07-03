@@ -1618,7 +1618,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/cff8eeea4a414500a2efe72a84d233e6",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-07-03T07:39:11.411945"
   },
@@ -3529,7 +3529,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/03581a3b4a554eba958c4faf1c855794",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-07-03T07:40:16.079818"
   },
@@ -3550,7 +3550,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/d250e150e1164909b8d6990473c99c9e",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-07-03T08:08:08.103399"
   },
@@ -3571,7 +3571,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/5d40ee73cf504e2ca5e52aae2a60dc00",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-07-03T08:11:53.883634"
   },
@@ -3592,7 +3592,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/4bba6c2220384f7ea497077cc535ae0c",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-07-03T08:20:31.798522"
   },
@@ -11761,7 +11761,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/997ea33a41d04aa78b1b889ebfd17665",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-03T07:45:23.597680"
   },
@@ -11782,9 +11782,51 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/e53ec643027e49a299d0741afc265410",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-03T08:50:05.444825"
+  },
+  {
+    "id": "UA-2026-07-03-001670-a",
+    "_raw_id": "1c20aae02acf477aaa3dc4a2942ac9b4",
+    "title": "Гібридні інвертори з монтажем",
+    "org": "КП Відділ освіти, культури, молоді та спорту Дорошівської сільської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 815000.0,
+    "currency": "UAH",
+    "deadline": "2026-07-11",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/1c20aae02acf477aaa3dc4a2942ac9b4",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-03T12:25:59.596888"
+  },
+  {
+    "id": "UA-2026-06-23-011173-a",
+    "_raw_id": "a8d100d9f6004799a82b24be48d99723",
+    "title": "Інвертори напруги",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"УКPНAФТА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 119035.0,
+    "currency": "UAH",
+    "deadline": "2026-07-01",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/a8d100d9f6004799a82b24be48d99723",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-03T12:47:10.321745"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -17579,7 +17621,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/4724e0fd47444461824ecbc313b63241",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-03T07:32:20.340631"
   },
@@ -17600,7 +17642,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/d9dfb21675d24619b33084c5b0e06563",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-03T07:48:25.329243"
   },
@@ -17621,9 +17663,30 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/bfa30b8a913c4ed7aac49f2320fadad0",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-03T07:51:18.706179"
+  },
+  {
+    "id": "UA-2026-07-03-002424-a",
+    "_raw_id": "dbe7f36a648a4666b5202d6bd94bada5",
+    "title": "Баласти (дроселі) електромагнітні або еквівалент: - 100 Вт. (300шт.) та 150 Вт. (50шт.)",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО ГДМБ (ГОСПРОЗРАХУНКОВА ДІЛЬНИЦЯ МЕХАНІЗАЦІЇ БУДІВНИЦТВА)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 494107.5,
+    "currency": "UAH",
+    "deadline": "2026-07-13",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/dbe7f36a648a4666b5202d6bd94bada5",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-03T12:42:43.213265"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -18112,7 +18175,7 @@
     "cpv": "31680000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/c48cf776e945477e91f254902e9d4984",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-07-03T07:47:46.689658"
   },
