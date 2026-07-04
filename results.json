@@ -11845,7 +11845,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/ef17b9ead9154679bdc3411ce3f723ae",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-04T06:57:12.101070"
   },
@@ -17726,7 +17726,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/40e461015d67498a92fbd365efdc057e",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-04T06:55:30.626970"
   },
@@ -17747,9 +17747,51 @@
     "cpv": "31680000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/3f03609286a648a6b1e98c7613062648",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-04T07:03:22.954123"
+  },
+  {
+    "id": "UA-2026-07-04-000097-a",
+    "_raw_id": "1ad90ace93cf4e13ada526e2ce11670f",
+    "title": "Стандартний хаб",
+    "org": "Військова частина А3814",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/1ad90ace93cf4e13ada526e2ce11670f",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-04T11:03:23.019364"
+  },
+  {
+    "id": "UA-2026-07-04-000127-a",
+    "_raw_id": "3b8fa7ea890a4f0aa3b75dbeb7d849fe",
+    "title": "Інтелектуальна батарея",
+    "org": "Військова частина А3814",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/3b8fa7ea890a4f0aa3b75dbeb7d849fe",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-04T11:04:14.711603"
   },
   {
     "id": "UA-2026-03-31-000589-a",
