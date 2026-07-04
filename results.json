@@ -11829,6 +11829,27 @@
     "fetched_at": "2026-07-03T12:47:10.321745"
   },
   {
+    "id": "UA-2026-06-30-015517-a",
+    "_raw_id": "ef17b9ead9154679bdc3411ce3f723ae",
+    "title": "Високовольтні літієві акумулятори",
+    "org": "Військова частина А5177",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 336000.0,
+    "currency": "UAH",
+    "deadline": "2026-07-08",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/ef17b9ead9154679bdc3411ce3f723ae",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-04T06:57:12.101070"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -17687,6 +17708,48 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-03T12:42:43.213265"
+  },
+  {
+    "id": "UA-2026-06-26-011066-a",
+    "_raw_id": "40e461015d67498a92fbd365efdc057e",
+    "title": "Джерело живлення дугового розряду",
+    "org": "УКРАЇНСЬКИЙ ДЕРЖАВНИЙ УНІВЕРСИТЕТ НАУКИ І ТЕХНОЛОГІЙ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 135000.0,
+    "currency": "UAH",
+    "deadline": "2026-07-04",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/40e461015d67498a92fbd365efdc057e",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-04T06:55:30.626970"
+  },
+  {
+    "id": "UA-2026-06-26-003736-a",
+    "_raw_id": "3f03609286a648a6b1e98c7613062648",
+    "title": "Комплект автономного енергоживлення: Гібридний інвертор MUST PV18-6248 ECO 6.2 кВт, 48V + Батарея Felicity FLA48100 48V 100Ah, LiFePO4",
+    "org": "Харківський національний університет імені В.Н. Каразіна",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 58000.0,
+    "currency": "UAH",
+    "deadline": "2026-07-04",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/3f03609286a648a6b1e98c7613062648",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-04T07:03:22.954123"
   },
   {
     "id": "UA-2026-03-31-000589-a",
