@@ -11850,6 +11850,27 @@
     "fetched_at": "2026-07-04T06:57:12.101070"
   },
   {
+    "id": "UA-2026-07-03-010051-a",
+    "_raw_id": "c01947c0fa3246faa9b0fb6793279f28",
+    "title": "Джерела безперебійного живлення та акумуляторні батареї для обладнання спеціального призначення",
+    "org": "Головне управління урядового зв'язку Державної служби спеціального зв'язку та захисту інформації України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1846985.73,
+    "currency": "UAH",
+    "deadline": "2026-07-13",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/c01947c0fa3246faa9b0fb6793279f28",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-04T16:25:46.382698"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -17768,7 +17789,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/1ad90ace93cf4e13ada526e2ce11670f",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-04T11:03:23.019364"
   },
@@ -17789,9 +17810,30 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/3b8fa7ea890a4f0aa3b75dbeb7d849fe",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-04T11:04:14.711603"
+  },
+  {
+    "id": "UA-2026-06-26-011096-a",
+    "_raw_id": "cafacdf2aec44e6dbbbb862720dc385c",
+    "title": "Система автономного та резервного електроживлення від сонячної енергії",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 2195",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1012500.0,
+    "currency": "UAH",
+    "deadline": "2026-07-04",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/cafacdf2aec44e6dbbbb862720dc385c",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-04T16:24:58.203314"
   },
   {
     "id": "UA-2026-03-31-000589-a",
