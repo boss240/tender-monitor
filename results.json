@@ -1623,6 +1623,27 @@
     "fetched_at": "2026-07-03T07:39:11.411945"
   },
   {
+    "id": "UA-2026-06-30-004367-a",
+    "_raw_id": "8808cbe1d8e348959477bc8296e4bc58",
+    "title": "Гібридний інвертор Deye SUN-12K-SG02LP1-EU-AM3",
+    "org": "ГОСПОДАРСЬКИЙ СУД ХМЕЛЬНИЦЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 83000.0,
+    "currency": "UAH",
+    "deadline": "2026-07-05",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/8808cbe1d8e348959477bc8296e4bc58",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-07-05T11:09:56.047315"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -11869,6 +11890,27 @@
     "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-04T16:25:46.382698"
+  },
+  {
+    "id": "UA-2026-07-05-000164-a",
+    "_raw_id": "a1f836d241364dddbc181437eaf6b62f",
+    "title": "Акумуляторні батареї для безпілотних літальних апаратів",
+    "org": "Військова частина А4123",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 263160.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/a1f836d241364dddbc181437eaf6b62f",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-05T11:11:26.606385"
   },
   {
     "id": "UA-2026-03-11-009316-a",
