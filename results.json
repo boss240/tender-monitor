@@ -3634,7 +3634,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/5c80b3f919c143fb9ffdcb5e87496603",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-07-06T09:13:45.456073"
   },
@@ -3655,7 +3655,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/357e9cd2166845978bfdc2a1a7a319b3",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-07-06T09:28:49.816550"
   },
@@ -17936,7 +17936,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/d746fdc1af5041448ec0ba28a713c1f9",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-06T08:33:17.549645"
   },
@@ -17957,7 +17957,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/0410d5f33e2d4b1fb4167263d57940b2",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-06T08:40:20.746248"
   },
@@ -17978,9 +17978,30 @@
     "cpv": "09331200-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/acfd6fb6e0a54787bd2082b279070a46",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-06T09:26:47.175302"
+  },
+  {
+    "id": "UA-2026-07-06-002919-a",
+    "_raw_id": "5f1f67e6cacd42afaeabeab9acbefb47",
+    "title": "Комплект обладнання для дахової сонячної електростанції за адресою: Вінницька область, Тульчинський район, Крижопільська територіальна громада, селище Крижопіль, КНП «Крижопільська окружна лікарня інтенсивного лікування» вул. Д. Нечая, 10 \n",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"КРИЖОПІЛЬСЬКА ОКРУЖНА ЛІКАРНЯ ІНТЕНСИВНОГО ЛІКУВАННЯ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 371193.15,
+    "currency": "UAH",
+    "deadline": "2026-07-15",
+    "cpvs": [
+      "09331200-0"
+    ],
+    "cpv": "09331200-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/5f1f67e6cacd42afaeabeab9acbefb47",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-06T14:03:34.927286"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -19662,7 +19683,7 @@
     "cpv": "31680000-6",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/168f2d5767d84490b0eb1d9a2b959574",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-07-06T08:46:35.639512"
   }
