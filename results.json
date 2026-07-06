@@ -3618,6 +3618,48 @@
     "fetched_at": "2026-07-03T08:20:31.798522"
   },
   {
+    "id": "UA-2026-07-06-000957-a",
+    "_raw_id": "5c80b3f919c143fb9ffdcb5e87496603",
+    "title": "Акумулятор  Hope 5.0L-B1 LiFePO4,51,2V,5,12 kWh, 100 A(Crowatt) С1 код за  ДК 021:2015– 31440000-2 Акумуляторні батареї",
+    "org": "Національний дендрологічний парк \"Софіївка\" Національної академії наук України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 97997.98,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/5c80b3f919c143fb9ffdcb5e87496603",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-07-06T09:13:45.456073"
+  },
+  {
+    "id": "UA-2026-07-06-001403-a",
+    "_raw_id": "357e9cd2166845978bfdc2a1a7a319b3",
+    "title": "Акумуляторні батареї (Батарея до ДБЖ Merlion 12V-9.0 Ah; акумуляторна батарея 1 1StPlayer PS-400FK 400W )",
+    "org": "Комунальне некомерційне підприємство \"Гадяцька міська центральна лікарня\" Гадяцької міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 40689.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/357e9cd2166845978bfdc2a1a7a319b3",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-07-06T09:28:49.816550"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -17878,6 +17920,69 @@
     "fetched_at": "2026-07-04T16:24:58.203314"
   },
   {
+    "id": "UA-2026-06-26-003512-a",
+    "_raw_id": "d746fdc1af5041448ec0ba28a713c1f9",
+    "title": "АКБ Li-Ion. 6s3p. 15000 mAh",
+    "org": "ЖИТЛОВО-КОМУНАЛЬНЕ ПІДПРИЄМСТВО МИКОЛАЇВСЬКОЇ МІСЬКОЇ РАДИ \"ПРИБУЖЖЯ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 4455023.4,
+    "currency": "UAH",
+    "deadline": "2026-07-06",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/d746fdc1af5041448ec0ba28a713c1f9",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-06T08:33:17.549645"
+  },
+  {
+    "id": "UA-2026-06-25-006978-a",
+    "_raw_id": "0410d5f33e2d4b1fb4167263d57940b2",
+    "title": "Комплексна гібридна сонячна електростанція потужністю від 40 кВт",
+    "org": "Сумський державний університет",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1919649.03,
+    "currency": "UAH",
+    "deadline": "2026-07-06",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/0410d5f33e2d4b1fb4167263d57940b2",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-06T08:40:20.746248"
+  },
+  {
+    "id": "UA-2026-07-06-000919-a",
+    "_raw_id": "acfd6fb6e0a54787bd2082b279070a46",
+    "title": "Фотоелектричні сонячні модулі",
+    "org": "КП Ніжинське управління водопровідно каналізаційного господарства",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 741066.0,
+    "currency": "UAH",
+    "deadline": "2026-07-14",
+    "cpvs": [
+      "09331200-0"
+    ],
+    "cpv": "09331200-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/acfd6fb6e0a54787bd2082b279070a46",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-06T09:26:47.175302"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -19539,5 +19644,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-06-30T09:09:48.266164"
+  },
+  {
+    "id": "UA-2026-07-06-000165-a",
+    "_raw_id": "168f2d5767d84490b0eb1d9a2b959574",
+    "title": "Придбання та встановлення комплекту інверторів з батареями ( комплектація: інвертор- 1 шт, комплект аккумуляторів -2 шт) для закладів освіти Довгинцівського району",
+    "org": "ВІДДІЛ ОСВІТИ ВИКОНКОМУ ДОВГИНЦІВСЬКОЇ РАЙОННОЇ В МІСТІ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 166666.67,
+    "currency": "UAH",
+    "deadline": "2026-07-14",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/168f2d5767d84490b0eb1d9a2b959574",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-07-06T08:46:35.639512"
   }
 ]
