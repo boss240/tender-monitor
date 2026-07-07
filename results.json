@@ -12013,7 +12013,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/22b2897dfae2417dac45f34978f9cffa",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-07T12:56:06.101471"
   },
@@ -12034,7 +12034,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/6f7ac03050b646d188a966d60a32dd8d",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-07T13:13:32.180280"
   },
@@ -18191,6 +18191,27 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-07T08:03:15.802426"
+  },
+  {
+    "id": "UA-2026-07-07-003404-a",
+    "_raw_id": "a39cf16ef8674f288cefb2f283e5a7cf",
+    "title": "Джерело безперебійного живлення ",
+    "org": "Київський національний університет імені Тараса Шевченка",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 59079.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/a39cf16ef8674f288cefb2f283e5a7cf",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-07T18:31:16.484455"
   },
   {
     "id": "UA-2026-03-31-000589-a",
