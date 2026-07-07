@@ -1660,7 +1660,7 @@
     "cpv": "31155000-7",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/3af4fb377ee24fb2acdfea31a3d16776",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-07-07T08:04:00.505214"
   },
@@ -1681,7 +1681,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/dd186d32acdb4eefa8ccf253ca524508",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-07-07T08:56:27.557404"
   },
@@ -11997,6 +11997,48 @@
     "fetched_at": "2026-07-05T11:11:26.606385"
   },
   {
+    "id": "UA-2026-07-04-000317-a",
+    "_raw_id": "22b2897dfae2417dac45f34978f9cffa",
+    "title": "ДК021:2015:31440000-2 - Акумуляторні батареї",
+    "org": "Військова частина А7046",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 177933.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/22b2897dfae2417dac45f34978f9cffa",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-07T12:56:06.101471"
+  },
+  {
+    "id": "UA-2026-07-07-002822-a",
+    "_raw_id": "6f7ac03050b646d188a966d60a32dd8d",
+    "title": "Акумуляторні батареї 6S1P 39Ah",
+    "org": " ВІЙСЬКОВА ЧАСТИНА А4599",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 589350.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/6f7ac03050b646d188a966d60a32dd8d",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-07T13:13:32.180280"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -18062,7 +18104,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/fbbd37cd9ace4119b21c45ee5bdf451a",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-07T07:44:36.865498"
   },
@@ -18083,7 +18125,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/1b2acf5834454c7e9cfcf0d5af603c71",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-07T07:59:11.610718"
   },
@@ -18104,7 +18146,7 @@
     "cpv": "31682500-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/3c43e1b980da45f9b4687b5a477d3f64",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-07T08:02:09.655665"
   },
@@ -18125,7 +18167,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/e2a430fa3322400fac1e4f74c41a98a0",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-07T08:02:42.037303"
   },
@@ -18146,7 +18188,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/8832b6a8b8c143159bbbf0a6b9513175",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-07T08:03:15.802426"
   },
@@ -18658,7 +18700,7 @@
     "cpv": "31680000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/21601631db384f7aad16d66c4d3ef15f",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-07-07T08:01:14.179921"
   },
