@@ -1702,7 +1702,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/70904fc00f4e428692e32d3c741bdacf",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-07-08T06:57:09.261253"
   },
@@ -3739,7 +3739,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/189ee2b3f24646ed8b3eeefd996aad5b",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-07-08T07:25:48.954243"
   },
@@ -12097,7 +12097,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/2818d81ac3554ab8ac3407213d5914e7",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-08T07:06:50.463471"
   },
@@ -12118,7 +12118,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/eb6d8cf3a9444a4493ee6e380e2a29af",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-08T07:06:57.474181"
   },
@@ -12139,7 +12139,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/b1e7ae601440433a8af11096334c8181",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-08T07:09:10.317313"
   },
@@ -12160,9 +12160,30 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/d76aaf76f6954d2cb8ade14b7f8a8a53",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-08T07:26:47.343195"
+  },
+  {
+    "id": "UA-2026-07-08-001647-a",
+    "_raw_id": "a5349aed0bdd4e4790c5d8b705f2845c",
+    "title": "Акумуляторна батарея",
+    "org": "ДЕРЖАВНА УСТАНОВА \"ПОЛТАВСЬКА ВИПРАВНА КОЛОНІЯ (№ 64)\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 44490.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/a5349aed0bdd4e4790c5d8b705f2845c",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-08T12:10:25.240319"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -18356,7 +18377,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/06e15631be024872be64bfa8d090ac62",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-08T07:01:06.194126"
   },
@@ -18377,7 +18398,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/1d89b89a534d46958fa74bd4d7994fc4",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-08T07:05:42.916383"
   },
@@ -18398,7 +18419,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/b082c7eae23c464c9101b7ea8061755a",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-08T07:08:00.893661"
   },
@@ -18419,7 +18440,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/6ce25d7b8ae342b48e862cec2092f414",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-08T07:09:14.542990"
   },
@@ -20145,8 +20166,29 @@
     "cpv": "31680000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/892c8d7541e44713b8be0fe41042f104",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-07-08T06:39:06.684031"
+  },
+  {
+    "id": "UA-2026-07-08-002407-a",
+    "_raw_id": "eb80521909384ee3a9abe1715b90c3c6",
+    "title": "09331000-8 Сонячні панелі (сонячна панель JAM66D45-635/LB PV module 635W 2278x1134х30)",
+    "org": "Комунальне некомерційне підприємство «Центр первинної медико-санітарної допомоги Боярської міської ради»",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 98810.1,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "09331000-8"
+    ],
+    "cpv": "09331000-8",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/eb80521909384ee3a9abe1715b90c3c6",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-07-08T12:43:11.431076"
   }
 ]
