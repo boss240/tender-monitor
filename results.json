@@ -12186,6 +12186,48 @@
     "fetched_at": "2026-07-08T12:10:25.240319"
   },
   {
+    "id": "UA-2026-07-09-000494-a",
+    "_raw_id": "14993a9496014e09ad6637323b12c298",
+    "title": "Акумуляторні батареї для Matriсе 4",
+    "org": "Головне управління Національної поліції в Полтавській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 38000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/14993a9496014e09ad6637323b12c298",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-09T12:30:59.742231"
+  },
+  {
+    "id": "UA-2026-07-09-002274-a",
+    "_raw_id": "c969ca54c1544e4f9e73e22df811541e",
+    "title": "31440000-2 Акумуляторні батареї (акумуляторні батареї)",
+    "org": "Дніпровська філія ТОВ \"Газорозподільні мережі України\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 118866.0,
+    "currency": "UAH",
+    "deadline": "2026-07-21",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/c969ca54c1544e4f9e73e22df811541e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-09T13:09:06.179304"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -20190,5 +20232,27 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-07-08T12:43:11.431076"
+  },
+  {
+    "id": "UA-2026-06-18-005509-a",
+    "_raw_id": "7aefd8e4ac634475a9092890a0a5f248",
+    "title": "Акумуляторна батарея OTS RB-11 NIMH 12 Вольт,  Акумуляторна батарея OTS RB-6V (PS-650 LS)",
+    "org": "військова частина А 2641",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 76560.0,
+    "currency": "UAH",
+    "deadline": "2026-06-30",
+    "cpvs": [
+      "31410000-3",
+      "31410000-3"
+    ],
+    "cpv": "31410000-3",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/7aefd8e4ac634475a9092890a0a5f248",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-07-09T13:18:19.538080"
   }
 ]
