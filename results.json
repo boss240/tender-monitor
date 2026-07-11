@@ -12270,6 +12270,27 @@
     "fetched_at": "2026-07-10T08:50:20.281556"
   },
   {
+    "id": "UA-2026-07-10-007200-a",
+    "_raw_id": "aecc1364c6464f0eb8d9863a84c0d3a2",
+    "title": "Акумуляторна батарея BB Battery BP200 AGM",
+    "org": "Управління Державної служби спеціального зв'язку та захисту інформації України в Одеській області ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 80000.0,
+    "currency": "UAH",
+    "deadline": "2026-07-20",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/aecc1364c6464f0eb8d9863a84c0d3a2",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-11T06:16:30.043807"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -18548,6 +18569,27 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-10T07:46:46.250982"
+  },
+  {
+    "id": "UA-2026-07-03-003360-a",
+    "_raw_id": "f2dd25e330d04cc2a07764937f7fd925",
+    "title": "Сонячна електростанція (ДК 021:2015- 09330000-1 Сонячна енергія)",
+    "org": "Комунальне некомерційне підприємство Лохвицька міська лікарня",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1541666.67,
+    "currency": "UAH",
+    "deadline": "2026-07-11",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/f2dd25e330d04cc2a07764937f7fd925",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-11T06:27:38.541480"
   },
   {
     "id": "UA-2026-03-31-000589-a",
