@@ -3765,6 +3765,27 @@
     "fetched_at": "2026-07-08T07:25:48.954243"
   },
   {
+    "id": "UA-2026-07-09-005900-a",
+    "_raw_id": "3af928f3666348cdb713fd6c8a572477",
+    "title": "Інвертор гібридний Deye SUN-30K-SG02HP3-EU-AM3 трифазний або еквівалент",
+    "org": "Національний юридичний університет імені Ярослава Мудрого",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 120828.65,
+    "currency": "UAH",
+    "deadline": "2026-07-18",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/3af928f3666348cdb713fd6c8a572477",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-07-13T07:52:04.644521"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -18611,6 +18632,27 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-11T06:27:38.541480"
+  },
+  {
+    "id": "UA-2026-07-08-003579-a",
+    "_raw_id": "76692e16dfc0474ea737d12065123b7f",
+    "title": " Аккумуляторні батареї         ",
+    "org": "8 ТВУЗ Держспецзв'язку",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 95000.0,
+    "currency": "UAH",
+    "deadline": "2026-07-19",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/76692e16dfc0474ea737d12065123b7f",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-13T07:45:56.903906"
   },
   {
     "id": "UA-2026-03-31-000589-a",
