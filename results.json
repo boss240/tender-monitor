@@ -3781,7 +3781,7 @@
     "cpv": "31155000-7",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/3af928f3666348cdb713fd6c8a572477",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-07-13T07:52:04.644521"
   },
@@ -12333,6 +12333,48 @@
     "fetched_at": "2026-07-11T16:19:42.933028"
   },
   {
+    "id": "UA-2026-07-08-009454-a",
+    "_raw_id": "19e0a9deff9a43ddac4dc7b0bdc6a4f3",
+    "title": "Акумуляторні батареї",
+    "org": "Управління Державної служби спеціального звязку та захисту інформації України в Житомирській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 539800.0,
+    "currency": "UAH",
+    "deadline": "2026-07-16",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/19e0a9deff9a43ddac4dc7b0bdc6a4f3",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-13T13:05:47.834935"
+  },
+  {
+    "id": "UA-2026-07-13-001376-a",
+    "_raw_id": "981005bccb014aac9635d31785693e36",
+    "title": "Системи безперебійного живлення",
+    "org": "Управління освіти Дніпровської районної в місті Києві державної адміністрації",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 6170163.4,
+    "currency": "UAH",
+    "deadline": "2026-07-23",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/981005bccb014aac9635d31785693e36",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-13T13:20:49.127410"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -18650,7 +18692,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/76692e16dfc0474ea737d12065123b7f",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-13T07:45:56.903906"
   },
