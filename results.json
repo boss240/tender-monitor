@@ -12480,6 +12480,27 @@
     "fetched_at": "2026-07-14T06:53:47.272121"
   },
   {
+    "id": "UA-2026-07-15-001863-a",
+    "_raw_id": "630442dafb8d42b7ad4c07f0e4060136",
+    "title": "Інвертор(перетворювач) DC-AC",
+    "org": "КП \"Комунсервіс\" Чемеровецької селищної ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 192472.5,
+    "currency": "UAH",
+    "deadline": "2026-07-20",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/630442dafb8d42b7ad4c07f0e4060136",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-15T11:46:07.848599"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -18902,7 +18923,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/a1c4894d6e964768a54d021d755e72ce",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-15T06:37:49.012530"
   },
@@ -18923,9 +18944,30 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/12c9be012c514f0594e255fb993a9f9d",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-15T06:58:27.675136"
+  },
+  {
+    "id": "UA-2026-07-15-000917-a",
+    "_raw_id": "37eacda7f6bf4a0a933e472c1a6a5e3b",
+    "title": "Джерела безперебійного живлення для обладнання спеціального призначення",
+    "org": "Головне управління урядового зв'язку Державної служби спеціального зв'язку та захисту інформації України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1653469.07,
+    "currency": "UAH",
+    "deadline": "2026-07-23",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/37eacda7f6bf4a0a933e472c1a6a5e3b",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-15T11:23:53.642311"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -20776,7 +20818,7 @@
     "cpv": "31720000-9",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/57b6f73fae7140a58ab0bb178dc2bf1a",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-07-15T06:27:24.019445"
   }
