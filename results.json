@@ -18886,6 +18886,48 @@
     "fetched_at": "2026-07-14T11:23:06.143547"
   },
   {
+    "id": "UA-2026-07-02-010060-a",
+    "_raw_id": "a1c4894d6e964768a54d021d755e72ce",
+    "title": "Джерело безперебійного живлення",
+    "org": "Інститут фізики конденсованих систем імені І.Р. Юхновського Національної академії наук  України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 350000.0,
+    "currency": "UAH",
+    "deadline": "2026-07-15",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/a1c4894d6e964768a54d021d755e72ce",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-15T06:37:49.012530"
+  },
+  {
+    "id": "UA-2026-07-15-000284-a",
+    "_raw_id": "12c9be012c514f0594e255fb993a9f9d",
+    "title": "Аккумуляторна батарея Victron Energy 12V-130 Ah Deep Cycle Batt",
+    "org": "Виконавчий комітет Межівської селищної ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 57472.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/12c9be012c514f0594e255fb993a9f9d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-15T06:58:27.675136"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -20716,5 +20758,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-07-14T06:27:28.387211"
+  },
+  {
+    "id": "UA-2026-07-09-009742-a",
+    "_raw_id": "57b6f73fae7140a58ab0bb178dc2bf1a",
+    "title": "Майстерня для обслуговування акумуляторних батарей",
+    "org": "Військова частина А4118",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1621226.0,
+    "currency": "UAH",
+    "deadline": "2026-07-17",
+    "cpvs": [
+      "31720000-9"
+    ],
+    "cpv": "31720000-9",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/57b6f73fae7140a58ab0bb178dc2bf1a",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-07-15T06:27:24.019445"
   }
 ]
