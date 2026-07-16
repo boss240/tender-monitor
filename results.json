@@ -12501,6 +12501,69 @@
     "fetched_at": "2026-07-15T11:46:07.848599"
   },
   {
+    "id": "UA-2026-06-25-006003-a",
+    "_raw_id": "b2c8bd41ac10430493e9506daac986cd",
+    "title": "Акумуляторні батареї",
+    "org": "Військова частина А4765",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 185000.0,
+    "currency": "UAH",
+    "deadline": "2026-07-08",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/b2c8bd41ac10430493e9506daac986cd",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-16T06:35:31.616128"
+  },
+  {
+    "id": "UA-2026-07-08-010275-a",
+    "_raw_id": "ae08d5923a5a4aa784d688e3fce059c2",
+    "title": "Акумуляторні батареї та пристрої безперебійного живлення",
+    "org": "Управління поліції охорони в Черкаській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 333333.33,
+    "currency": "UAH",
+    "deadline": "2026-07-16",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/ae08d5923a5a4aa784d688e3fce059c2",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-16T06:41:43.644136"
+  },
+  {
+    "id": "UA-2026-07-08-010835-a",
+    "_raw_id": "4c766a449475486e81d85302d069ca91",
+    "title": "Акумуляторна батарея 12V 200Ah (31440000-2) (ДК 021: 2015: 31440000-2 - Акумуляторні батареї)",
+    "org": "Комунальне некомерційне підприємство Ковельське міськрайонне територіальне медичне об'єднання Ковельської міської ради Волинської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 799900.0,
+    "currency": "UAH",
+    "deadline": "2026-07-16",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/4c766a449475486e81d85302d069ca91",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-16T06:48:00.555871"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
