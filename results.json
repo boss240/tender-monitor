@@ -3865,7 +3865,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/256c0e1a5b2e4938b435767c128d5396",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-07-17T11:58:36.860953"
   },
@@ -12664,7 +12664,7 @@
     "cpv": "09332000-5",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/e978dee7f53e4113a083ba9232da3dd8",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-17T11:50:05.679804"
   },
@@ -12685,7 +12685,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/abd0229b75a0488382dd42c631aa5ca3",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-17T11:51:27.558401"
   },
@@ -12706,7 +12706,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/b4ac31120bd14345ba71df211c88e024",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-17T12:23:46.450746"
   },
@@ -19196,7 +19196,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/3f0b2bc572a546a596e7a6fd8847f4e9",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-17T12:10:17.797094"
   },
@@ -19217,9 +19217,30 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/a203a41866264824a36d2197eb828e6c",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-17T12:17:38.537549"
+  },
+  {
+    "id": "UA-2026-07-09-002828-a",
+    "_raw_id": "466af609585f439ab74e2860dd9c5bac",
+    "title": "Універсальна мобільна батарея",
+    "org": "Київська обласна рада",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 324000.0,
+    "currency": "UAH",
+    "deadline": "2026-07-17",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/466af609585f439ab74e2860dd9c5bac",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-17T17:35:33.801328"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -19793,7 +19814,7 @@
     "cpv": "09330000-1",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6b9c56a79925463a9e842717c2637773",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-07-17T11:21:23.122133"
   },
