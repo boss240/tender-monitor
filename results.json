@@ -3849,6 +3849,27 @@
     "fetched_at": "2026-07-14T11:56:07.025966"
   },
   {
+    "id": "UA-2026-07-17-001971-a",
+    "_raw_id": "256c0e1a5b2e4938b435767c128d5396",
+    "title": "Комплекти резервного живлення інвертори Daxtromn + акумулятори Ameisentech 12V ",
+    "org": "Відділ освіти Куликівської селищної ради Львівського району Львівської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 76808.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/256c0e1a5b2e4938b435767c128d5396",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-07-17T11:58:36.860953"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -12627,6 +12648,69 @@
     "fetched_at": "2026-07-16T12:26:36.250166"
   },
   {
+    "id": "UA-2026-07-17-001640-a",
+    "_raw_id": "e978dee7f53e4113a083ba9232da3dd8",
+    "title": "Сонячні установки (сонячна гібридна електростанція з акумуляторною системою накопичення енергії).",
+    "org": "КРИВОРІЗЬКИЙ ФАХОВИЙ КОЛЕДЖ НАЦІОНАЛЬНОГО  УНІВЕРСИТЕТУ «КИЇВСЬКИЙ АВІАЦІЙНИЙ ІНСТИТУТ»",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1562750.0,
+    "currency": "UAH",
+    "deadline": "2026-07-28",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e978dee7f53e4113a083ba9232da3dd8",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-17T11:50:05.679804"
+  },
+  {
+    "id": "UA-2026-07-17-001712-a",
+    "_raw_id": "abd0229b75a0488382dd42c631aa5ca3",
+    "title": "Акумуляторні батареї ",
+    "org": "Військова частина А7047",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/abd0229b75a0488382dd42c631aa5ca3",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-17T11:51:27.558401"
+  },
+  {
+    "id": "UA-2026-07-14-011650-a",
+    "_raw_id": "b4ac31120bd14345ba71df211c88e024",
+    "title": "Акумуляторні батареї для обладнання спеціального призначення",
+    "org": "Головне управління урядового зв'язку Державної служби спеціального зв'язку та захисту інформації України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 193516.67,
+    "currency": "UAH",
+    "deadline": "2026-07-22",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/b4ac31120bd14345ba71df211c88e024",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-17T12:23:46.450746"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -19096,6 +19180,48 @@
     "fetched_at": "2026-07-15T11:23:53.642311"
   },
   {
+    "id": "UA-2026-07-17-001988-a",
+    "_raw_id": "3f0b2bc572a546a596e7a6fd8847f4e9",
+    "title": "Акамуляторні батареї \"Чапклун\"",
+    "org": "Військова частина А5088",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 201600.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/3f0b2bc572a546a596e7a6fd8847f4e9",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-17T12:10:17.797094"
+  },
+  {
+    "id": "UA-2026-07-16-010165-a",
+    "_raw_id": "a203a41866264824a36d2197eb828e6c",
+    "title": "Комплект резервного живлення",
+    "org": "Військова частина А2070",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 121991.2,
+    "currency": "UAH",
+    "deadline": "2026-07-25",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/a203a41866264824a36d2197eb828e6c",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-17T12:17:38.537549"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -19648,6 +19774,28 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-07-14T06:33:29.299492"
+  },
+  {
+    "id": "UA-2026-07-14-004077-a",
+    "_raw_id": "6b9c56a79925463a9e842717c2637773",
+    "title": "Гібридний інвертор в комплекті з АКБ",
+    "org": "Чернігівська філія ТОВ \"Газорозподільні мережі України\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 114654.06,
+    "currency": "UAH",
+    "deadline": "2026-07-24",
+    "cpvs": [
+      "09330000-1",
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/6b9c56a79925463a9e842717c2637773",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-07-17T11:21:23.122133"
   },
   {
     "id": "UA-2026-03-20-008862-a",
