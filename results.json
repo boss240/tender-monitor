@@ -12769,7 +12769,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/ad28e88771e7408facb273e9a35f3c6e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-18T10:25:56.722632"
   },
@@ -12790,7 +12790,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/72e43beb07a647389589352f9b5568ea",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-18T10:30:49.059958"
   },
@@ -12811,9 +12811,30 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/e3737c3ede1243df80566d7cd84f12c8",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-18T10:32:39.437457"
+  },
+  {
+    "id": "UA-2026-07-18-000385-a",
+    "_raw_id": "5c72b1f84c4f436ea4642ef27eb1942a",
+    "title": "Акумуляторна батарея 14S 58.8V 73Ah (3,2 kWt/h) до НРК «TerMIT», в кількості 8 (вісім) штук, код ДК 021-2015: 31440000-2 «Акумуляторні батареї»",
+    "org": "Військова частина А4948",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 332000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/5c72b1f84c4f436ea4642ef27eb1942a",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-18T16:19:33.780382"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -19367,6 +19388,48 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-18T06:13:05.670555"
+  },
+  {
+    "id": "UA-2026-07-18-000343-a",
+    "_raw_id": "686b3493991b4b77b559ff18533d30c9",
+    "title": "Пристрій безперебійного живлення Voltronic DC1018P 18W (DC1018P)",
+    "org": "Військова частина А1414",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/686b3493991b4b77b559ff18533d30c9",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-18T16:17:13.638626"
+  },
+  {
+    "id": "UA-2026-07-10-009201-a",
+    "_raw_id": "d6dfb6c3df2b49ccb8bc66633ab24952",
+    "title": "Комплект сонячної станції",
+    "org": "Військова частина 2138",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 245833.33,
+    "currency": "UAH",
+    "deadline": "2026-07-18",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/d6dfb6c3df2b49ccb8bc66633ab24952",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-18T16:23:12.577585"
   },
   {
     "id": "UA-2026-03-31-000589-a",
