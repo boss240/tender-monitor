@@ -3886,7 +3886,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/0593ad4f87ad4da48004e93be06b94fc",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-07-18T06:31:12.294995"
   },
@@ -12748,9 +12748,72 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/f9c3c7d588e144b19c3237e7d1713bca",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-18T06:16:23.940585"
+  },
+  {
+    "id": "UA-2026-07-18-000086-a",
+    "_raw_id": "ad28e88771e7408facb273e9a35f3c6e",
+    "title": "Акумулятор C R14 5000mah",
+    "org": "Військова частина Т0450",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 120800.0,
+    "currency": "UAH",
+    "deadline": "2026-07-28",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/ad28e88771e7408facb273e9a35f3c6e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-18T10:25:56.722632"
+  },
+  {
+    "id": "UA-2026-07-14-003895-a",
+    "_raw_id": "72e43beb07a647389589352f9b5568ea",
+    "title": "Акумуляторні батареї",
+    "org": "Військова частина А5750",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 209081.33,
+    "currency": "UAH",
+    "deadline": "2026-07-24",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/72e43beb07a647389589352f9b5568ea",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-18T10:30:49.059958"
+  },
+  {
+    "id": "UA-2026-07-10-005206-a",
+    "_raw_id": "e3737c3ede1243df80566d7cd84f12c8",
+    "title": "Акумуляторна батарея 6S1P 85000 (або еквівалент)",
+    "org": "Семенівська сільська рада",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 133000.0,
+    "currency": "UAH",
+    "deadline": "2026-07-18",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/e3737c3ede1243df80566d7cd84f12c8",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-18T10:32:39.437457"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -19301,7 +19364,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/9403f6cb87d04858b6d94353afbee6fd",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-18T06:13:05.670555"
   },
@@ -19898,7 +19961,7 @@
     "cpv": "09330000-1",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/8c4de136b1d741e18e9289fe68df9142",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-07-18T06:23:12.622236"
   },
