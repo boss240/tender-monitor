@@ -1749,6 +1749,27 @@
     "fetched_at": "2026-07-16T11:57:06.409955"
   },
   {
+    "id": "UA-2026-07-14-005617-a",
+    "_raw_id": "4e0d0500af1f4d4db9737728fd822ed0",
+    "title": "Гібридний інвертор (hybrid) Deye SUN-30K-SG02HP3-EU-AM3 30KW, EU,30кВт, трифазний (MPPT 150-850/75A/АКБ 160-700V)Parallel, Блок керування FelicityESS LiFePO4 FLH48100UCG1,BMS100A@, CAN&RS485, IP21, 6000Cycles, 482,6x565x150mm,10,3kg, Аккумулятор FelicityESS LiFePO4 FLH48100UMG1, 51.2V 100Аh, 5,12kW, CAN&RS485, IP21, 6000Cycles, 482,6x565x131mm,55kg (або еквівалент)",
+    "org": "ВІДДІЛ ОСВІТИ  СЛАВГОРОДСЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 324916.67,
+    "currency": "UAH",
+    "deadline": "2026-07-22",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/4e0d0500af1f4d4db9737728fd822ed0",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-07-19T10:40:40.605522"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
