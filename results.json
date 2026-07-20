@@ -12858,6 +12858,27 @@
     "fetched_at": "2026-07-18T16:19:33.780382"
   },
   {
+    "id": "UA-2026-07-20-001220-a",
+    "_raw_id": "04450bfde3024b4d93309896c3c073c3",
+    "title": "Акумуляторна батарея за кодом ДК 021:2015 – 31440000-2 «Акумуляторні батареї»",
+    "org": "КП \"Оржиця-водоканал\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 42699.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/04450bfde3024b4d93309896c3c073c3",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-20T12:27:23.706270"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -19453,6 +19474,27 @@
     "fetched_at": "2026-07-18T16:23:12.577585"
   },
   {
+    "id": "UA-2026-07-09-010468-a",
+    "_raw_id": "555c0ea337a64d9f8f5ab290b1746116",
+    "title": "MOES-UIHERP-C2-MERGERS-68 Закупівля cистем резервного живлення для Уманського національного університету",
+    "org": "Міністерство освіти і науки України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 382498.76,
+    "currency": "UAH",
+    "deadline": "2026-07-27",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/555c0ea337a64d9f8f5ab290b1746116",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-20T12:51:06.571204"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -21369,5 +21411,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-07-16T11:32:03.577032"
+  },
+  {
+    "id": "UA-2026-07-14-003569-a",
+    "_raw_id": "851f43415f22423682ee4fb8a83eebdf",
+    "title": "Акумулятор 12V/240Ah AGM Deep Cycle Battery (M8)  BAT412124081 Victron Energy",
+    "org": "Військова частина А1724",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 610000.0,
+    "currency": "UAH",
+    "deadline": "2026-07-24",
+    "cpvs": [
+      "31400000-0"
+    ],
+    "cpv": "31400000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/851f43415f22423682ee4fb8a83eebdf",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-07-20T13:06:28.807188"
   }
 ]
