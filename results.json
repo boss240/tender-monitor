@@ -3912,6 +3912,27 @@
     "fetched_at": "2026-07-18T06:31:12.294995"
   },
   {
+    "id": "UA-2026-07-13-010349-a",
+    "_raw_id": "00d494d98fea40afa95d6c43c9e72e60",
+    "title": "Акумуляторна батарея LiFePO4, 51.2 В",
+    "org": "Інститут магнетизму імені В.Г. Бар'яхтара Національної академії наук України ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 130183.33,
+    "currency": "UAH",
+    "deadline": "2026-07-21",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/00d494d98fea40afa95d6c43c9e72e60",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-07-21T06:59:40.676037"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -12877,6 +12898,27 @@
     "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-20T12:27:23.706270"
+  },
+  {
+    "id": "UA-2026-07-20-011419-a",
+    "_raw_id": "94e82175d5224283a1feb81197eaf6e0",
+    "title": "Акумуляторні батареї",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"УКРПОШТА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 288000.0,
+    "currency": "UAH",
+    "deadline": "2026-07-28",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/94e82175d5224283a1feb81197eaf6e0",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-21T06:32:46.937151"
   },
   {
     "id": "UA-2026-03-11-009316-a",
