@@ -3928,9 +3928,30 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/00d494d98fea40afa95d6c43c9e72e60",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-07-21T06:59:40.676037"
+  },
+  {
+    "id": "UA-2026-07-21-001788-a",
+    "_raw_id": "493dc15c5ab34804be6a3f3be6dde2bf",
+    "title": "Акумуляторна батарея 51.2V, 100Ah LiFePO4 5.12 kWh",
+    "org": "Комунальний заклад загальної середньої освіти «Гімназія № 23 Хмельницької міської ради»",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 32500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/493dc15c5ab34804be6a3f3be6dde2bf",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-07-21T12:12:33.933433"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -12916,7 +12937,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/94e82175d5224283a1feb81197eaf6e0",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-21T06:32:46.937151"
   },
