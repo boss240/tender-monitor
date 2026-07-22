@@ -1786,7 +1786,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/569e0f6d5f5849d5b4339b67af7a7427",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-07-22T07:29:53.968312"
   },
@@ -3991,7 +3991,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/ef0252aefc6a4245838a73f2a0cb6112",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-07-22T06:39:23.786290"
   },
@@ -13000,7 +13000,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/df5fd5f51edf46308125af1b365a8157",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-22T06:36:02.182918"
   },
@@ -13021,9 +13021,51 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/ca32a881ee7946358df5e9725957b24f",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-22T07:25:59.295529"
+  },
+  {
+    "id": "UA-2026-07-22-001072-a",
+    "_raw_id": "7660b89fa0294cdd88ae61256f9ffcd8",
+    "title": "Акумуляторні картриджі",
+    "org": "ДЕПАРТАМЕНТ ЗАБЕЗПЕЧЕННЯ ДЕРЖАВНОЇ СЛУЖБИ СПЕЦІАЛЬНОГО ЗВ'ЯЗКУ ТА ЗАХИСТУ ІНФОРМАЦІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 225816.0,
+    "currency": "UAH",
+    "deadline": "2026-07-31",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/7660b89fa0294cdd88ae61256f9ffcd8",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-22T11:42:23.943277"
+  },
+  {
+    "id": "UA-2026-07-20-003358-a",
+    "_raw_id": "302f3186d8764dc78d6495d746887e75",
+    "title": "Акумуляторні батареї",
+    "org": "військова частина А2120",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 284400.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/302f3186d8764dc78d6495d746887e75",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-22T11:43:15.683399"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -19658,9 +19700,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/eb768a796e4a45059274856689137a85",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-22T07:39:03.254696"
+  },
+  {
+    "id": "UA-2026-07-22-001256-a",
+    "_raw_id": "8b0f26c24b70457badab2c8209dfb4db",
+    "title": "Джерело безперебійного живлення",
+    "org": "Департамент цивільного захисту, оборонної роботи та взаємодії з правоохоронними органами Черкаської обласної державної адміністрації",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 348400.0,
+    "currency": "UAH",
+    "deadline": "2026-07-30",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/8b0f26c24b70457badab2c8209dfb4db",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-22T11:45:57.645360"
   },
   {
     "id": "UA-2026-03-31-000589-a",
