@@ -13042,7 +13042,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/7660b89fa0294cdd88ae61256f9ffcd8",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-22T11:42:23.943277"
   },
@@ -13063,7 +13063,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/302f3186d8764dc78d6495d746887e75",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-22T11:43:15.683399"
   },
@@ -19721,7 +19721,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/8b0f26c24b70457badab2c8209dfb4db",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-22T11:45:57.645360"
   },
