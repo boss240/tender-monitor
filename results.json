@@ -1828,7 +1828,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/ab894d6ea23943d6852fdb1dc2b958d7",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-07-23T12:02:04.766317"
   },
@@ -1849,7 +1849,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/4f8d311cce6a44688d8ca4738ccb928e",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-07-23T12:20:52.067326"
   },
@@ -4096,7 +4096,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/c760c02c52ef4b3ca18b6864ed8d04ac",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-07-23T12:00:21.853832"
   },
@@ -13231,7 +13231,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/f29ee8f3741248b0ab6eda74a6efebd2",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-23T11:54:08.216367"
   },
@@ -13252,7 +13252,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/f34b30d3f2de40ce883144c083beb63b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-23T11:54:10.467832"
   },
@@ -21873,5 +21873,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-07-20T13:06:28.807188"
+  },
+  {
+    "id": "UA-2026-07-23-003196-a",
+    "_raw_id": "094628339dcf493ea003771053b70dff",
+    "title": "Сонячна панель 625-670 Вт ",
+    "org": "Військова частина Т0160",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 959566.0,
+    "currency": "UAH",
+    "deadline": "2026-08-03",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/094628339dcf493ea003771053b70dff",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-07-23T18:09:11.043003"
   }
 ]
