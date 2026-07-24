@@ -108,6 +108,27 @@
     "fetched_at": "2026-06-30T07:57:47.671228"
   },
   {
+    "id": "UA-2026-07-16-003463-a",
+    "_raw_id": "3031cf5cd54e4d3c9a251f6d723e992f",
+    "title": "Комплект резервного живлення (гібридний інвертор та акумулятори) для закладів дошкільної освіти",
+    "org": "УПРАВЛІННЯ ОСВІТИ СОЛОМ'ЯНСЬКОЇ РАЙОННОЇ В МІСТІ КИЄВІ ДЕРЖАВНОЇ АДМІНІСТРАЦІЇ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 8582057.11,
+    "currency": "UAH",
+    "deadline": "2026-07-24",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/3031cf5cd54e4d3c9a251f6d723e992f",
+    "is_new": true,
+    "score": 85,
+    "fetched_at": "2026-07-24T06:46:57.918617"
+  },
+  {
     "id": "UA-2026-03-20-009920-a",
     "_raw_id": "aebdb5ec5893401faea13af58d9813ae",
     "title": "ДК 021:2015 31150000-2 Баласти для розрядних ламп чи трубок (комплект: сонячний інвертор Deye SUN-20K-SG05LP3-EU-SM2, 20 кВт, 3-фазний або «еквівалент»;  акумуляторна батарея Deye SE-G5.1Pro-B LiFePO4 51,2V/100AH, 5120W*h або «еквівалент») для Лебединського закладу загальної середньої освіти І-ІІІ ступенів № 7 Лебединської міської ради Сумської області\n",
@@ -13257,6 +13278,48 @@
     "fetched_at": "2026-07-23T11:54:10.467832"
   },
   {
+    "id": "UA-2026-07-20-006627-a",
+    "_raw_id": "68e24c0a22b347f4bee432f1da495faf",
+    "title": "Акумулятори",
+    "org": "Житомирська філія ТОВ \n\"Газорозподільні мережі України\"\n",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 138932.0,
+    "currency": "UAH",
+    "deadline": "2026-07-29",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/68e24c0a22b347f4bee432f1da495faf",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-24T06:38:18.917393"
+  },
+  {
+    "id": "UA-2026-07-24-000417-a",
+    "_raw_id": "f0f8dacd883f40b4a5849f91ba2a6014",
+    "title": "Акумуляторні батареї",
+    "org": "РЕГІОНАЛЬНИЙ СЕРВІСНИЙ ЦЕНТР ГСЦ МВС В РІВНЕНСЬКІЙ, ВОЛИНСЬКІЙ ТА ЖИТОМИРСЬКІЙ ОБЛАСТЯХ (ФІЛІЯ ГСЦ МВС)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 330000.0,
+    "currency": "UAH",
+    "deadline": "2026-08-06",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/f0f8dacd883f40b4a5849f91ba2a6014",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-24T07:15:35.488822"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -19936,6 +19999,27 @@
     "fetched_at": "2026-07-23T06:55:32.990034"
   },
   {
+    "id": "UA-2026-07-23-012661-a",
+    "_raw_id": "bf3f52924c0b44cc867e16c1f61ae1c2",
+    "title": "Система енергоживлення",
+    "org": "ЛКП \"Ратуша-сервіс\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 1473981.6,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/bf3f52924c0b44cc867e16c1f61ae1c2",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-24T06:30:19.215949"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -21891,7 +21975,7 @@
     "cpv": "09330000-1",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/094628339dcf493ea003771053b70dff",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-07-23T18:09:11.043003"
   }
