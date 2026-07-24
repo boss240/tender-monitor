@@ -124,7 +124,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/3031cf5cd54e4d3c9a251f6d723e992f",
-    "is_new": true,
+    "is_new": false,
     "score": 85,
     "fetched_at": "2026-07-24T06:46:57.918617"
   },
@@ -13294,7 +13294,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/68e24c0a22b347f4bee432f1da495faf",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-24T06:38:18.917393"
   },
@@ -13315,9 +13315,30 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/f0f8dacd883f40b4a5849f91ba2a6014",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-24T07:15:35.488822"
+  },
+  {
+    "id": "UA-2026-07-24-000869-a",
+    "_raw_id": "be4f6a8475784916ad586d1451283a34",
+    "title": "Інвертор гібридний SUN-16K-SG1LP1-EU",
+    "org": "ВОЗНЕСЕНСЬКИЙ ЛІЦЕЙ №10 ВОЗНЕСЕНСЬКОЇ МІСЬКОЇ РАДИ МИКОЛАЇВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 99900.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/be4f6a8475784916ad586d1451283a34",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-24T11:39:14.905436"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -20015,7 +20036,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/bf3f52924c0b44cc867e16c1f61ae1c2",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-24T06:30:19.215949"
   },
