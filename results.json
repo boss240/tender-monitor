@@ -1917,6 +1917,48 @@
     "fetched_at": "2026-07-27T08:00:02.164124"
   },
   {
+    "id": "UA-2026-07-22-007502-a",
+    "_raw_id": "ce565fe433c845e592b348703e9414ab",
+    "title": "Система накопичення енергії (у складі: гібридний інвертор, акумуляторні батареї з урахуванням витрат на встановлення та пусконалагодження)",
+    "org": "Регіональний сервісний центр ГСЦ МВС в Київській та Чернігівській областях (філія ГСЦ МВС)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 583333.33,
+    "currency": "UAH",
+    "deadline": "2026-07-30",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/ce565fe433c845e592b348703e9414ab",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-07-30T06:37:43.269798"
+  },
+  {
+    "id": "UA-2026-07-22-007863-a",
+    "_raw_id": "96f0cbae3d124b0caafeee51ec906045",
+    "title": "Система накопичення енергії (у складі: гібридний інвертор, акумуляторні батареї з урахуванням витрат на встановлення та пусконалагодження)",
+    "org": "Регіональний сервісний центр ГСЦ МВС в Київській та Чернігівській областях (філія ГСЦ МВС)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 583333.33,
+    "currency": "UAH",
+    "deadline": "2026-07-30",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/96f0cbae3d124b0caafeee51ec906045",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-07-30T06:37:44.214586"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -4330,6 +4372,48 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-07-29T12:16:30.672079"
+  },
+  {
+    "id": "UA-2026-07-24-008549-a",
+    "_raw_id": "8dbf80f9686b45148e5d0117add37429",
+    "title": "Код ДК 021:2015 - 31440000-2 — Акумуляторні батареї (Акумулятор літій-полімерний 1260110 10000mAh, Акумулятор Li-ion 18650 5000mAh із захистом (арт. WX 1440, WX1442), Акумулятор Volt Polska LiFePO4 12.8V 50Ah з BMS)",
+    "org": "Державна установа \"Центр обслуговування підрозділів Національної поліції України\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 95000.0,
+    "currency": "UAH",
+    "deadline": "2026-08-01",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/8dbf80f9686b45148e5d0117add37429",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-07-30T06:40:01.483152"
+  },
+  {
+    "id": "UA-2026-07-30-000463-a",
+    "_raw_id": "9d3b36ed884f4777a9ab4393838eb11e",
+    "title": "Лінійно-інтерактивний ДБЖ APC Easy UPS BV 1000VA (BV1000I-GR)",
+    "org": "Військова частина А4689",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 140537.0,
+    "currency": "UAH",
+    "deadline": "2026-08-11",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/9d3b36ed884f4777a9ab4393838eb11e",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-07-30T07:14:18.367856"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -13675,6 +13759,69 @@
     "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-29T12:19:16.253014"
+  },
+  {
+    "id": "UA-2026-07-22-002047-a",
+    "_raw_id": "59828b37b35c44f6ac6ad0d896dd8c60",
+    "title": "Системи безперебійного живлення",
+    "org": "Управління освіти Дніпровської районної в місті Києві державної адміністрації",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 17013009.33,
+    "currency": "UAH",
+    "deadline": "2026-07-30",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/59828b37b35c44f6ac6ad0d896dd8c60",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-30T06:49:39.578101"
+  },
+  {
+    "id": "UA-2026-07-22-011288-a",
+    "_raw_id": "2fa9829617c74a66b69c77f3d8a253e0",
+    "title": "Акумуляторна батарея 12 шт. з стійкою (12 модулів)",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"КОСТОПІЛЬСЬКИЙ ЦЕНТР ПЕРВИННОЇ МЕДИЧНОЇ ДОПОМОГИ\" КОСТОПІЛЬСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 583333.33,
+    "currency": "UAH",
+    "deadline": "2026-07-30",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/2fa9829617c74a66b69c77f3d8a253e0",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-30T06:51:27.789314"
+  },
+  {
+    "id": "UA-2026-07-30-000237-a",
+    "_raw_id": "9e4c0797b3524a3a90c59e3751b23a13",
+    "title": "Акумуляторна батарея Solax Power T-BAT-LVLD53",
+    "org": "КАТЕРИНІВСЬКА СІЛЬСЬКА РАДА КРОПИВНИЦЬКОГО РАЙОНУ КІРОВОГРАДСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 90422.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/9e4c0797b3524a3a90c59e3751b23a13",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-30T07:04:51.015935"
   },
   {
     "id": "UA-2026-03-11-009316-a",
