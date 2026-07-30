@@ -1933,7 +1933,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/ce565fe433c845e592b348703e9414ab",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-07-30T06:37:43.269798"
   },
@@ -1954,7 +1954,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/96f0cbae3d124b0caafeee51ec906045",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-07-30T06:37:44.214586"
   },
@@ -4390,7 +4390,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/8dbf80f9686b45148e5d0117add37429",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-07-30T06:40:01.483152"
   },
@@ -4411,7 +4411,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/9d3b36ed884f4777a9ab4393838eb11e",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-07-30T07:14:18.367856"
   },
@@ -13777,7 +13777,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/59828b37b35c44f6ac6ad0d896dd8c60",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-30T06:49:39.578101"
   },
@@ -13798,7 +13798,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/2fa9829617c74a66b69c77f3d8a253e0",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-30T06:51:27.789314"
   },
@@ -13819,9 +13819,177 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/9e4c0797b3524a3a90c59e3751b23a13",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-30T07:04:51.015935"
+  },
+  {
+    "id": "UA-2026-07-30-001124-a",
+    "_raw_id": "9cc7fd18ed8044a4b0c19f8b2640607b",
+    "title": "Акумуляторні батареї для безпілотних літальних апаратів",
+    "org": "Військова частина А4123",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 199999.85,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/9cc7fd18ed8044a4b0c19f8b2640607b",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-30T11:47:55.652456"
+  },
+  {
+    "id": "UA-2026-07-30-001054-a",
+    "_raw_id": "fbe079e2613d4cfdba93156fe1f58e6c",
+    "title": "Акумуляторні батареї",
+    "org": "Військова частина А5011",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 254880.0,
+    "currency": "UAH",
+    "deadline": "2026-08-11",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/fbe079e2613d4cfdba93156fe1f58e6c",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-30T12:01:23.352367"
+  },
+  {
+    "id": "UA-2026-07-30-001572-a",
+    "_raw_id": "1e5584053a3b4b3095b37783e09985e1",
+    "title": "Акумуляторні батареї",
+    "org": "Військова частина А5011",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 705000.0,
+    "currency": "UAH",
+    "deadline": "2026-08-11",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/1e5584053a3b4b3095b37783e09985e1",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-30T12:01:29.573818"
+  },
+  {
+    "id": "UA-2026-07-30-001700-a",
+    "_raw_id": "adc09a28ac0d49ec8f0fe00b950abd7a",
+    "title": "Акумуляторні батареї",
+    "org": "Військова частина А5011",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 999750.0,
+    "currency": "UAH",
+    "deadline": "2026-08-12",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/adc09a28ac0d49ec8f0fe00b950abd7a",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-30T12:04:41.311441"
+  },
+  {
+    "id": "UA-2026-07-30-002177-a",
+    "_raw_id": "7f1a975eaf0541169c3b25084c775d97",
+    "title": "товари спеціального призначення, а саме : Акумулятор 66000  mAh  6 S ",
+    "org": "Військова частина А4681",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1811466.67,
+    "currency": "UAH",
+    "deadline": "2026-08-08",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/7f1a975eaf0541169c3b25084c775d97",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-30T12:15:25.385242"
+  },
+  {
+    "id": "UA-2026-07-30-002487-a",
+    "_raw_id": "78c0a003929c4daa941dede6f657d5ca",
+    "title": "Акумуляторні батареї",
+    "org": "Військова частина А5011",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 860250.0,
+    "currency": "UAH",
+    "deadline": "2026-08-12",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/78c0a003929c4daa941dede6f657d5ca",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-30T12:22:27.270437"
+  },
+  {
+    "id": "UA-2026-07-30-002484-a",
+    "_raw_id": "a7f2dbaa3786410c915e40d3c3a64397",
+    "title": "Акумуляторні батареї Dnipro-M BP-240 4",
+    "org": "Військова частина А5092",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 75600.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/a7f2dbaa3786410c915e40d3c3a64397",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-30T12:22:50.296254"
+  },
+  {
+    "id": "UA-2026-07-30-002698-a",
+    "_raw_id": "1cf05b02443941b59842504207d8ea81",
+    "title": "Електричні акумулятори",
+    "org": "Вінницька філія ТОВ \"Газорозподільні мережі України\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 179805.5,
+    "currency": "UAH",
+    "deadline": "2026-08-13",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/1cf05b02443941b59842504207d8ea81",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-07-30T12:27:58.753785"
   },
   {
     "id": "UA-2026-03-11-009316-a",
