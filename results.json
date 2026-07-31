@@ -4517,7 +4517,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/ca0fba4eee2c4c638545a1e0767e6ad8",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-07-31T12:52:01.116506"
   },
@@ -14156,7 +14156,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/020a894ac2d94aa5b32292497fc1d2ac",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-07-31T12:44:47.023601"
   },
@@ -21045,9 +21045,30 @@
     "cpv": "09331200-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/e25b141f7c6248ee86821e4c0f6d0a39",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-07-31T12:35:00.154520"
+  },
+  {
+    "id": "UA-2026-07-31-002938-a",
+    "_raw_id": "ae060003b132440699ecc4b067e712ab",
+    "title": "Джерела безперебійного живлення",
+    "org": "Військова частина А1546",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 378222.0,
+    "currency": "UAH",
+    "deadline": "2026-08-12",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/ae060003b132440699ecc4b067e712ab",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-07-31T18:20:31.978025"
   },
   {
     "id": "UA-2026-03-31-000589-a",
