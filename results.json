@@ -2039,7 +2039,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/bd028273170843d29e08ca46c9816ba9",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-08-01T06:43:43.489494"
   },
@@ -14198,9 +14198,30 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/4c6eff2ac61c47d08ae58f22a488f903",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-01T06:43:16.083163"
+  },
+  {
+    "id": "UA-2026-07-23-004223-a",
+    "_raw_id": "89635170143149e88d1bdf63e3fe5ef1",
+    "title": "Інвертор NIKA DC/AC-48/220B-500Вт",
+    "org": "Управління Державної служби спеціального звязку та захисту інформації України в Житомирській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 140000.0,
+    "currency": "UAH",
+    "deadline": "2026-08-01",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/89635170143149e88d1bdf63e3fe5ef1",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-01T10:52:36.381850"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -21129,7 +21150,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/a072c5ce6d3d44d9b0b58e89c89934f3",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-01T06:33:14.372440"
   },
@@ -21150,7 +21171,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/b8ba03be6bfc4548bb1a1417415d4e30",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-01T06:37:26.077566"
   },
@@ -21171,9 +21192,30 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/52b8ac0de24c40abbe3524f21cf6a663",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-01T06:45:41.197039"
+  },
+  {
+    "id": "UA-2026-08-01-000140-a",
+    "_raw_id": "54f7d6a6d853441fa3cccdbd43e20443",
+    "title": "Комплект безперебійного живлення",
+    "org": "Військова частина А1283",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 287676.0,
+    "currency": "UAH",
+    "deadline": "2026-08-15",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/54f7d6a6d853441fa3cccdbd43e20443",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-01T10:51:31.872519"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -23216,7 +23258,7 @@
     "cpv": "09330000-1",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/56ad51999fe1440b9233260b8b440c85",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-01T06:35:07.595182"
   },
@@ -23237,7 +23279,7 @@
     "cpv": "09330000-1",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6ff5775a105f4175adde5a53f1dcf603",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-01T06:46:23.906391"
   }
