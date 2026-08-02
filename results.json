@@ -14224,6 +14224,27 @@
     "fetched_at": "2026-08-01T10:52:36.381850"
   },
   {
+    "id": "UA-2026-08-02-000031-a",
+    "_raw_id": "0c0d2537e5fb4851bfdd87081ac4fe08",
+    "title": "Система безперебійного живлення в комплекті (інвертор Growatt SPF3000TL LVM-24P + 2 батареї Vipow LoFePO4 25,6V 100Ah з вбудованою BMS платою 80А) ",
+    "org": "Військова частина А3130",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 125086.0,
+    "currency": "UAH",
+    "deadline": "2026-08-12",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/0c0d2537e5fb4851bfdd87081ac4fe08",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-02T06:41:10.489543"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
