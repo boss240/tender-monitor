@@ -14266,6 +14266,27 @@
     "fetched_at": "2026-08-02T10:46:02.367929"
   },
   {
+    "id": "UA-2026-08-03-000443-a",
+    "_raw_id": "7bad935532f64d51a6e1ef4c56154038",
+    "title": "Акумуляторні батареї ",
+    "org": "Військова частина А7047",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/7bad935532f64d51a6e1ef4c56154038",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-03T07:59:11.679678"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -21258,6 +21279,69 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-01T10:51:31.872519"
+  },
+  {
+    "id": "UA-2026-07-20-009368-a",
+    "_raw_id": "d7c285f587504b4d8afcaf4badec600d",
+    "title": "Джерело безперебійного живлення",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"УКРПОШТА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 462333.3,
+    "currency": "UAH",
+    "deadline": "2026-08-02",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/d7c285f587504b4d8afcaf4badec600d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-03T07:29:34.752595"
+  },
+  {
+    "id": "UA-2026-08-03-000621-a",
+    "_raw_id": "748d5452f6fb446cbb9eeb4684738358",
+    "title": "«Джерела безперебійного живлення» (ДК 021:2015 – 31154000-0)",
+    "org": "ВІДОКРЕМЛЕНИЙ СТРУКТУРНИЙ ПІДРОЗДІЛ \"ЗАПОРІЗЬКИЙ ЕЛЕКТРОТЕХНІЧНИЙ ФАХОВИЙ КОЛЕДЖ НАЦІОНАЛЬНОГО УНІВЕРСИТЕТУ \"ЗАПОРІЗЬКА ПОЛІТЕХНІКА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 2192250.0,
+    "currency": "UAH",
+    "deadline": "2026-08-11",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/748d5452f6fb446cbb9eeb4684738358",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-03T08:04:12.816535"
+  },
+  {
+    "id": "UA-2026-08-03-001098-a",
+    "_raw_id": "893c3cf3028b45cd83f23f0ed113a294",
+    "title": "Пристрій безперебійного живлення згідно коду  ДК 021:201 – 31150000-2 – Баласти  для розрядних ламп чи трубок, уточнюючий код  ДК 021:2015 – 31154000 – 0 Джерела  безперебійного  живлення",
+    "org": "ПРИВАТНЕ АКЦІОНЕРНЕ ТОВАРИСТВО \"ХАРКІВЕНЕРГОЗБУТ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 99750.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/893c3cf3028b45cd83f23f0ed113a294",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-03T08:16:57.226723"
   },
   {
     "id": "UA-2026-03-31-000589-a",
