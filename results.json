@@ -14308,6 +14308,111 @@
     "fetched_at": "2026-08-03T07:59:11.679678"
   },
   {
+    "id": "UA-2026-07-29-006867-a",
+    "_raw_id": "d5b8cd7b50924100b777d59dec8ff61d",
+    "title": "Акумулятор до рації Motorola R7 згідно з ДК 021:2015: 31440000-2 «Акумуляторні батареї»",
+    "org": "ВІЙСЬКОВА ЧАСТИНА А4122",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 450000.0,
+    "currency": "UAH",
+    "deadline": "2026-08-07",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/d5b8cd7b50924100b777d59dec8ff61d",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-04T06:37:35.439259"
+  },
+  {
+    "id": "UA-2026-07-29-010670-a",
+    "_raw_id": "fff9bce5b46d430b84bf8d3d2fec746b",
+    "title": "Акумуляторні батареї для транспортних засобів",
+    "org": "20 БРИГАДА ОПЕРАТИВНОГО ПРИЗНАЧЕННЯ НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ (ВІЙСЬКОВА ЧАСТИНА 3009)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 46845.0,
+    "currency": "UAH",
+    "deadline": "2026-08-07",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/fff9bce5b46d430b84bf8d3d2fec746b",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-04T06:38:32.455591"
+  },
+  {
+    "id": "UA-2026-07-15-004258-a",
+    "_raw_id": "e310a9edffb64f748b1f03fc4e290659",
+    "title": "Система високовольтних акумуляторів",
+    "org": "ВИКОНАВЧИЙ КОМІТЕТ КАЛИНІВСЬКОЇ СЕЛИЩНОЇ РАДИ БРОВАРСЬКОГО РАЙОНУ КИЇВСЬКОЇ ОБЛАСТІ (ВИКОНКОМ КАЛИНІВСЬКОЇ СЕЛИЩНОЇ РАДИ)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 553333.33,
+    "currency": "UAH",
+    "deadline": "2026-07-23",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/e310a9edffb64f748b1f03fc4e290659",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-04T06:39:51.308976"
+  },
+  {
+    "id": "UA-2026-08-04-000343-a",
+    "_raw_id": "8a392d20748d481da968a05e04c2acb2",
+    "title": "Джерело безперебійного живлення APC Smart-UPS X 2200VA (SMX2200HV)) (або аналог)",
+    "org": "ДОЧІРНЄ ПІДПРИЄМСТВО ЕЛЕКТРИЧНИХ МЕРЕЖ ПРИВАТНОГО АКЦІОНЕРНОГО ТОВАРИСТВА \"АТОМСЕРВІС\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 80450.0,
+    "currency": "UAH",
+    "deadline": "2026-08-12",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/8a392d20748d481da968a05e04c2acb2",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-04T07:04:11.184745"
+  },
+  {
+    "id": "UA-2026-08-04-000366-a",
+    "_raw_id": "f586df3684ad489fafdf56257b924a48",
+    "title": "ДК 021:2015: 31440000-2 - Акумуляторні батареї (акумуляторна батарея)",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО  ДУНАЄВЕЦЬКОЇ МІСЬКОЇ РАДИ \"ДУНАЄВЕЦЬКА БАГАТОПРОФІЛЬНА ЛІКАРНЯ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 32000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/f586df3684ad489fafdf56257b924a48",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-04T07:12:26.914616"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -21386,6 +21491,48 @@
     "fetched_at": "2026-08-03T13:25:27.653150"
   },
   {
+    "id": "UA-2026-07-21-007845-a",
+    "_raw_id": "438440cfc13a4614b43963bf241f870b",
+    "title": "Система безперебійного живлення",
+    "org": "МЕДИЧНИЙ РЕАБІЛІТАЦІЙНИЙ ЦЕНТР \"ОДЕСЬКИЙ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 355277.78,
+    "currency": "UAH",
+    "deadline": "2026-07-29",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/438440cfc13a4614b43963bf241f870b",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-04T06:34:09.826170"
+  },
+  {
+    "id": "UA-2026-07-27-010519-a",
+    "_raw_id": "846a9d0ea7504b6784e592197ced2001",
+    "title": "Система безперебійного живлення з монтажем та пусконалагодженням на місці її безпосередньої експлуатації",
+    "org": "УКРАЇНСЬКИЙ ДЕРЖАВНИЙ УНІВЕРСИТЕТ НАУКИ І ТЕХНОЛОГІЙ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 268500.0,
+    "currency": "UAH",
+    "deadline": "2026-08-04",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/846a9d0ea7504b6784e592197ced2001",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-04T07:10:19.524542"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -22023,6 +22170,27 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-07-28T06:55:02.496293"
+  },
+  {
+    "id": "UA-2026-07-23-006229-a",
+    "_raw_id": "c8944f0b5dfc42ba9901edb54ab0cb5e",
+    "title": "Система накопичення електроенергії у будівлі навчального корпусу  за адресою: 08205, Київська обл., Бучанський р-н, м. Ірпінь, вул. Драча Івана, 9, із використанням трифазного гібридного інвертора, акумуляторних батарей, блока керування, електрощитового обладнання та супутніх послуг з монтажу, пусконалагодження  і введення в експлуатацію",
+    "org": "Відокремлений структурний підрозділ \"Ірпінський фаховий коледж Національного університету біоресурсів і природокористування України\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1386100.0,
+    "currency": "UAH",
+    "deadline": "2026-08-03",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/c8944f0b5dfc42ba9901edb54ab0cb5e",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-08-04T06:34:23.465227"
   },
   {
     "id": "UA-2026-03-20-008862-a",
@@ -23471,5 +23639,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-02T10:46:09.168815"
+  },
+  {
+    "id": "UA-2026-08-03-011845-a",
+    "_raw_id": "13e7cac5ebf14daf9db578eddd01d72d",
+    "title": "Сонячна панель (код ДК 021:2015 - 09330000-1 - Сонячна енергія)\n\n\n",
+    "org": "МАШІВСЬКЕ ЖИТЛОВО - КОМУНАЛЬНЕ ГОСПОДАРСТВО",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 154914.03,
+    "currency": "UAH",
+    "deadline": "2026-08-11",
+    "cpvs": [
+      "09331000-8"
+    ],
+    "cpv": "09331000-8",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/13e7cac5ebf14daf9db578eddd01d72d",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-08-04T06:30:28.106242"
   }
 ]
