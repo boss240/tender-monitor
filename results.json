@@ -2081,9 +2081,30 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6c4e319f9b7e4661a035b44a386d59cf",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-08-06T07:21:42.099645"
+  },
+  {
+    "id": "UA-2026-08-06-001484-a",
+    "_raw_id": "2493be502ab945178bef862dc10dcab1",
+    "title": "Система безперебійного живлення в комплекті: Гібридний інвертор ANENJI-6.2 KW 48V MPPT Wі-Fi (6200Bт), Інвертор гібридний Deye SUN -15K-SG05LP3-EU-SM2(15кВт, 3 фази, 2MPPT,LV) Акумулятор 48 кВт Lg chem 12 kW 48V (Базовий) ( або еквівалент)",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"АНАНЬЇВ-ВОДОКАНАЛ АНАНЬЇВСЬКОЇ МІСЬКОЇ РАДИ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 372000.0,
+    "currency": "UAH",
+    "deadline": "2026-08-14",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/2493be502ab945178bef862dc10dcab1",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-08-06T12:07:30.217715"
   },
   {
     "id": "UA-2026-03-20-006846-a",
@@ -4625,6 +4646,27 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-05T07:20:35.194475"
+  },
+  {
+    "id": "UA-2026-08-06-002144-a",
+    "_raw_id": "b9cff094aaeb43c4874d16c1b5a1a5b8",
+    "title": "Інвертор гібридний DEYE SUN-20K-SG05LP3-EU-SM2",
+    "org": "КУ \"Центр з фінансового обслуговування закладів освіти, сім'ї, молоді, спорту, культури і туризму\" Станіславчицької сільської ради Жмеринського району Вінницької області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 119166.67,
+    "currency": "UAH",
+    "deadline": "2026-08-11",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/b9cff094aaeb43c4874d16c1b5a1a5b8",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-08-06T12:21:29.102127"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -14597,7 +14639,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/cab0e2670d7747629764e344a296571f",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-06T06:54:33.779676"
   },
@@ -14618,7 +14660,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/915b1c0787d74707af8bccd8175296b9",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-06T07:04:35.083385"
   },
@@ -21780,7 +21822,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/9f00c0189f1e4fa483ec3f6c1907e191",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-06T06:39:43.296676"
   },
@@ -21801,7 +21843,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/d64572a08c41460a88346cb75d6a94dd",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-06T06:52:20.292616"
   },
@@ -22464,6 +22506,29 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-08-04T06:34:23.465227"
+  },
+  {
+    "id": "UA-2026-08-06-001056-a",
+    "_raw_id": "450c6421f0d2456e8525bebd4a977d90",
+    "title": "Система зберігання енергії на базі гібридних інверторів з можливістю підключення сонячних полів ДК 021:2015 код 31680000-6 Електричне приладдя та супутні товари до електричного обладнання (з монтажем та пусконалагоджувальними роботами) ",
+    "org": "Відокремлений структурний підрозділ \"Глухівський агротехнічний фаховий коледж Сумського національного аграрного університету\" ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 2065333.33,
+    "currency": "UAH",
+    "deadline": "2026-08-16",
+    "cpvs": [
+      "31680000-6",
+      "31680000-6",
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/450c6421f0d2456e8525bebd4a977d90",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-08-06T11:56:31.192560"
   },
   {
     "id": "UA-2026-03-20-008862-a",
@@ -23972,8 +24037,29 @@
     "cpv": "09330000-1",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/833157fe17e845969aa35adf3b454bf2",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-06T07:25:52.598671"
+  },
+  {
+    "id": "UA-2026-08-06-002004-a",
+    "_raw_id": "6c7d40d451c04b04b1503bb484195f43",
+    "title": "«Система сонячної електростанції потужністю 20 кВт в комплекті : Сонячна панель Longi 620W Hi-MO 7 LR8-66HGD-620M bifacial (двостороння) Комплект для наземного встановлення Профіль оцинкований 40x40 (або еквівалент)",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"АНАНЬЇВ-ВОДОКАНАЛ АНАНЬЇВСЬКОЇ МІСЬКОЇ РАДИ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 155000.0,
+    "currency": "UAH",
+    "deadline": "2026-08-14",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/6c7d40d451c04b04b1503bb484195f43",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-08-06T12:18:07.304546"
   }
 ]
