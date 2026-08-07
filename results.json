@@ -2123,7 +2123,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/68cc53984c5e4740bb2ccde6c6ba375a",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-08-07T06:08:24.436806"
   },
@@ -14702,9 +14702,72 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/45ad8cff71ef414cb6f8b8d40ce39497",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-07T05:50:59.193020"
+  },
+  {
+    "id": "UA-2026-08-07-002093-a",
+    "_raw_id": "21684752700643f3bfd4afeeecd5093f",
+    "title": "Акумуляторні батареї",
+    "org": "КП \"Виробниче управління водопровідно-каналізаційного господарства міста Ужгорода\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 34590.18,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/21684752700643f3bfd4afeeecd5093f",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-07T11:10:34.580683"
+  },
+  {
+    "id": "UA-2026-08-07-002684-a",
+    "_raw_id": "94eefc816ee844908a421d75402bd5f4",
+    "title": "Інвертори",
+    "org": "КОМУНАЛЬНИЙ ЗАКЛАД \"ПОЛТАВСЬКА ДИТЯЧО-ЮНАЦЬКА СПОРТИВНА ШКОЛА \"ПОЛТАВА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 79350.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/94eefc816ee844908a421d75402bd5f4",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-07T11:26:12.521113"
+  },
+  {
+    "id": "UA-2026-08-07-002780-a",
+    "_raw_id": "87249d76944e445d8af9ba76e2c17c3d",
+    "title": "Акумуляторні батареї",
+    "org": "КОМУНАЛЬНИЙ ЗАКЛАД \"ПОЛТАВСЬКА ДИТЯЧО-ЮНАЦЬКА СПОРТИВНА ШКОЛА \"ПОЛТАВА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 97500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/87249d76944e445d8af9ba76e2c17c3d",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-07T11:28:19.997377"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -21906,9 +21969,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/544808ec5cf8497c8f0a2b6365b185bb",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-07T05:51:21.089474"
+  },
+  {
+    "id": "UA-2026-08-06-011170-a",
+    "_raw_id": "d7e7a0e816584de5b495dcbb684ed3f3",
+    "title": "Система потужного безперебійного живлення для навчального закладу",
+    "org": "КОМУНАЛЬНИЙ ЗАКЛАД \"ЖМЕРИНСЬКИЙ ЛІЦЕЙ №4\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 2500000.0,
+    "currency": "UAH",
+    "deadline": "2026-08-14",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/d7e7a0e816584de5b495dcbb684ed3f3",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-07T11:23:54.291019"
   },
   {
     "id": "UA-2026-03-31-000589-a",
