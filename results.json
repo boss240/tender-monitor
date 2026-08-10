@@ -4727,7 +4727,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/02191bdc96944f3f94a6b77af80376c0",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-10T05:31:22.677206"
   },
@@ -14912,7 +14912,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6f0154e672714486850bdf71a211419d",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-10T05:32:21.986795"
   },
@@ -14933,9 +14933,30 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/3ceb0b266c824866ae2a881f1881c72f",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-10T05:47:09.789017"
+  },
+  {
+    "id": "UA-2026-08-10-000144-a",
+    "_raw_id": "ffb994acea384f50abc526b9b2507c0e",
+    "title": "Акумуляторні батареї ",
+    "org": "Військова частина А7047",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/ffb994acea384f50abc526b9b2507c0e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-10T10:29:38.345022"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -22200,7 +22221,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/1a3c67859c4c4c37af6d80ff382fd2e9",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-10T05:31:39.255939"
   },
