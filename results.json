@@ -2144,7 +2144,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/89608f8e5e1441aebb45fa19d030eb45",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-08-09T15:43:26.677196"
   },
@@ -4709,6 +4709,27 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-06T12:21:29.102127"
+  },
+  {
+    "id": "UA-2026-07-31-006043-a",
+    "_raw_id": "02191bdc96944f3f94a6b77af80376c0",
+    "title": "Система резервного електроживлення у складі гібридного інвертора та двох акумуляторних батарей",
+    "org": "Закарпатський апеляційний суд",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 327750.0,
+    "currency": "UAH",
+    "deadline": "2026-08-10",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/02191bdc96944f3f94a6b77af80376c0",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-08-10T05:31:22.677206"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -14875,6 +14896,48 @@
     "fetched_at": "2026-08-09T05:08:33.894450"
   },
   {
+    "id": "UA-2026-08-04-005549-a",
+    "_raw_id": "6f0154e672714486850bdf71a211419d",
+    "title": "Акумуляторні батареї ",
+    "org": "Військова частина А3719",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 980000.0,
+    "currency": "UAH",
+    "deadline": "2026-08-12",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/6f0154e672714486850bdf71a211419d",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-10T05:32:21.986795"
+  },
+  {
+    "id": "UA-2026-07-31-004678-a",
+    "_raw_id": "3ceb0b266c824866ae2a881f1881c72f",
+    "title": "Акумулятори ",
+    "org": "ЧЕРНІГІВСЬКЕ ТРОЛЕЙБУСНЕ УПРАВЛІННЯ\" ЧЕРНІГІВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 340000.0,
+    "currency": "UAH",
+    "deadline": "2026-08-10",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/3ceb0b266c824866ae2a881f1881c72f",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-10T05:47:09.789017"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -22119,6 +22182,27 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-08T09:47:06.028791"
+  },
+  {
+    "id": "UA-2026-07-31-006929-a",
+    "_raw_id": "1a3c67859c4c4c37af6d80ff382fd2e9",
+    "title": "Джерело безперебійного живлення",
+    "org": "Регіональний сервісний центр ГСЦ МВС в Одеській, Миколаївській та Херсонській областях (філія ГСЦ МВС)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 300135.0,
+    "currency": "UAH",
+    "deadline": "2026-08-10",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/1a3c67859c4c4c37af6d80ff382fd2e9",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-10T05:31:39.255939"
   },
   {
     "id": "UA-2026-03-31-000589-a",
