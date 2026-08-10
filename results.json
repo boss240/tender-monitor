@@ -14954,9 +14954,72 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/ffb994acea384f50abc526b9b2507c0e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-10T10:29:38.345022"
+  },
+  {
+    "id": "UA-2026-08-05-010424-a",
+    "_raw_id": "f94beee006314014915bb85e8d234fd5",
+    "title": "Постачання, монтаж та введення в експлуатацію системи резервного електроживлення з акумуляторною системою накопичення енергії загальною потужністю 80 кВт та номінальною ємністю 240 кВт·год",
+    "org": "Відокремлений структурний підрозділ \"Техніко-економічний фаховий коледж Національного університету \"Львівська політехніка\"\n",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 2163681.67,
+    "currency": "UAH",
+    "deadline": "2026-08-13",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/f94beee006314014915bb85e8d234fd5",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-10T16:33:02.588624"
+  },
+  {
+    "id": "UA-2026-08-06-010929-a",
+    "_raw_id": "a613f78b271c48a686d76eeb5c9948b0",
+    "title": "Джерела безперебійного живлення",
+    "org": "ФІЛІЯ \"ДЕЛЬТА-ЛОЦМАН\" ДЕРЖАВНОГО ПІДПРИЄМСТВА \"АДМІНІСТРАЦІЯ МОРСЬКИХ ПОРТІВ УКРАЇНИ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 9624579.0,
+    "currency": "UAH",
+    "deadline": "2026-08-17",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/a613f78b271c48a686d76eeb5c9948b0",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-10T17:05:21.484434"
+  },
+  {
+    "id": "UA-2026-07-30-010027-a",
+    "_raw_id": "f655b6d656fa43399e6540f077dad242",
+    "title": "Акумуляторні батареї для резервного живлення обладнання комплексних автоматизованих систем безпеки - 31440000-2",
+    "org": "Національний Банк України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 343955.0,
+    "currency": "UAH",
+    "deadline": "2026-08-10",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/f655b6d656fa43399e6540f077dad242",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-10T17:22:06.256271"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -24460,5 +24523,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-08T09:55:46.347234"
+  },
+  {
+    "id": "UA-2026-08-10-001050-a",
+    "_raw_id": "b95f48a3a7b8492293d6c96f52a53850",
+    "title": "ДК 021:2015:31100000-7 Інвентори «Інвертор - Solis 12kWt (НИЗЬКОВОЛЬТНИЙ 48v) 3Ph hybrid inverter with DC, Wifi, CT (S6-EH3P12K02-NV-YD-L)».",
+    "org": "Відділ освіти, молоді та спорту Нехворощанської сільської ради Полтавського району Полтавської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 85000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31100000-7"
+    ],
+    "cpv": "31100000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/b95f48a3a7b8492293d6c96f52a53850",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-08-10T16:50:54.610272"
   }
 ]
