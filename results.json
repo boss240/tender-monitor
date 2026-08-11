@@ -4748,9 +4748,30 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/975ddd0fe1864679ac63403c8b2d2dab",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-11T05:21:33.338884"
+  },
+  {
+    "id": "UA-2026-08-11-002061-a",
+    "_raw_id": "60002cbd19a2468aa106b9cc661520b7",
+    "title": "ДК 021:2015-31440000-2Акамуляторні батареї. Акумуляторна стійка DEYE BOS-A-Rack 14. Відповідно до договору № 777 від 11.08.2026 року та додатків до нього. Додатково виділені кошти згідно рішення сімдесят восьмої сесії VІІІ скликання від 17 липня 2026 року за № 78/2026 «Про внесення змін до селищного бюджету Чемеровецької селищної",
+    "org": "Чемеровецький ліцей №1  Чемеровецької селищної ради Хмельницької області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 31455.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/60002cbd19a2468aa106b9cc661520b7",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-08-11T11:21:47.021541"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -15059,7 +15080,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/896548b075fd466b9c6d4e6aa667ca73",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-11T05:30:30.838153"
   },
@@ -15080,9 +15101,72 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/c95ff880edce4c74b79cbd03e9970715",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-11T05:30:58.411196"
+  },
+  {
+    "id": "UA-2026-07-31-007957-a",
+    "_raw_id": "4ab235b80f884a5a9c013c7cf59d0a84",
+    "title": "Система високовольтних акумуляторів",
+    "org": "ВИКОНАВЧИЙ КОМІТЕТ КАЛИНІВСЬКОЇ СЕЛИЩНОЇ РАДИ БРОВАРСЬКОГО РАЙОНУ КИЇВСЬКОЇ ОБЛАСТІ (ВИКОНКОМ КАЛИНІВСЬКОЇ СЕЛИЩНОЇ РАДИ)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 553333.33,
+    "currency": "UAH",
+    "deadline": "2026-08-11",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/4ab235b80f884a5a9c013c7cf59d0a84",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-11T10:25:46.926277"
+  },
+  {
+    "id": "UA-2026-08-03-008818-a",
+    "_raw_id": "cf98069e94f446bbbeac82b548a99024",
+    "title": "Код ДК 021:2015: 31440000-2 Акумуляторні батареї (Замінний акумуляторний картридж)",
+    "org": "Державна установа \"Центр обслуговування підрозділів Національної поліції України\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 212478.12,
+    "currency": "UAH",
+    "deadline": "2026-08-11",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/cf98069e94f446bbbeac82b548a99024",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-11T10:58:44.229350"
+  },
+  {
+    "id": "UA-2026-08-11-002067-a",
+    "_raw_id": "7d6999eaea58451680dde87a252021ff",
+    "title": "Акумуляторні батареї за кодом ДК 021:2015: 31440000-2",
+    "org": "Військова частина А4885",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 51217.0,
+    "currency": "UAH",
+    "deadline": "2026-08-20",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/7d6999eaea58451680dde87a252021ff",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-11T11:11:48.037001"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -22368,9 +22452,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/4207df9db53a490daa27bde1d0fea53e",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-11T05:37:02.772274"
+  },
+  {
+    "id": "UA-2026-08-06-002190-a",
+    "_raw_id": "cfbe670e2b6c4b029f756388fb8a7820",
+    "title": "комплект системи резервного електроживлення; комплект системи резервного електроживлення",
+    "org": "ВІДОКРЕМЛЕНИЙ СТРУКТУРНИЙ ПІДРОЗДІЛ \"ФАХОВИЙ КОЛЕДЖ КРЕМЕНЧУЦЬКОГО НАЦІОНАЛЬНОГО УНІВЕРСИТЕТУ ІМЕНІ МИХАЙЛА ОСТРОГРАДСЬКОГО\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 2287083.33,
+    "currency": "UAH",
+    "deadline": "2026-08-16",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/cfbe670e2b6c4b029f756388fb8a7820",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-11T11:01:15.203539"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -23072,7 +23177,7 @@
     "cpv": "31680000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/f4b743b7149b49f58090ab0d86dd37a9",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-08-11T05:45:45.290714"
   },
