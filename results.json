@@ -4732,6 +4732,27 @@
     "fetched_at": "2026-08-10T05:31:22.677206"
   },
   {
+    "id": "UA-2026-07-31-009072-a",
+    "_raw_id": "975ddd0fe1864679ac63403c8b2d2dab",
+    "title": "Система сонячної станції в комплекті, а саме: сонячні панелі, інвертор, блок керування кластером високовольтної батареї з акумуляторними батареями",
+    "org": "Комунальне некомерційне підприємство \"ЛИПОВЕЦЬКА МІСЬКА ЛІКАРНЯ\" ЛИПОВЕЦЬКОЇ МІСЬКОЇ РАДИ ВІННИЦЬКОГО РАЙОНУ ВІННИЦЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 816618.96,
+    "currency": "UAH",
+    "deadline": "2026-08-11",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/975ddd0fe1864679ac63403c8b2d2dab",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-08-11T05:21:33.338884"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -14975,7 +14996,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/f94beee006314014915bb85e8d234fd5",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-10T16:33:02.588624"
   },
@@ -14996,7 +15017,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/a613f78b271c48a686d76eeb5c9948b0",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-10T17:05:21.484434"
   },
@@ -15017,9 +15038,51 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/f655b6d656fa43399e6540f077dad242",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-10T17:22:06.256271"
+  },
+  {
+    "id": "UA-2026-08-06-008977-a",
+    "_raw_id": "896548b075fd466b9c6d4e6aa667ca73",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "Військова частина А5047",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 116600.0,
+    "currency": "UAH",
+    "deadline": "2026-08-11",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/896548b075fd466b9c6d4e6aa667ca73",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-11T05:30:30.838153"
+  },
+  {
+    "id": "UA-2026-08-06-010461-a",
+    "_raw_id": "c95ff880edce4c74b79cbd03e9970715",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "ВИКОНАВЧИЙ КОМІТЕТ ДРАБІВСЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 72000.0,
+    "currency": "UAH",
+    "deadline": "2026-08-11",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/c95ff880edce4c74b79cbd03e9970715",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-11T05:30:58.411196"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -22289,6 +22352,27 @@
     "fetched_at": "2026-08-10T05:31:39.255939"
   },
   {
+    "id": "UA-2026-08-03-011261-a",
+    "_raw_id": "4207df9db53a490daa27bde1d0fea53e",
+    "title": "Джерело безперебійного живлення",
+    "org": "Регіональний сервісний центр ГСЦ МВС в Одеській, Миколаївській та Херсонській областях (філія ГСЦ МВС)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 53833.0,
+    "currency": "UAH",
+    "deadline": "2026-08-11",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/4207df9db53a490daa27bde1d0fea53e",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-11T05:37:02.772274"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -22970,6 +23054,27 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-08-06T11:56:31.192560"
+  },
+  {
+    "id": "UA-2026-07-31-006416-a",
+    "_raw_id": "f4b743b7149b49f58090ab0d86dd37a9",
+    "title": "Система зберігання енергії на базі гібридних інверторів з можливістю підключення сонячних полів  (з монтажем та пусконалагоджувальними роботами)\n",
+    "org": "КОМУНАЛЬНА УСТАНОВА \"ЦЕНТР ОБСЛУГОВУВАННЯ ЗАКЛАДІВ ОСВІТИ\" ПАВЛОГРАДСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 194166.67,
+    "currency": "UAH",
+    "deadline": "2026-08-11",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/f4b743b7149b49f58090ab0d86dd37a9",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-08-11T05:45:45.290714"
   },
   {
     "id": "UA-2026-03-20-008862-a",
@@ -24541,7 +24646,7 @@
     "cpv": "31100000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/b95f48a3a7b8492293d6c96f52a53850",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-10T16:50:54.610272"
   }
