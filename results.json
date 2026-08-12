@@ -2186,9 +2186,51 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/c936b4aa85814bf38b1831e5a1c23041",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-08-12T05:47:30.889990"
+  },
+  {
+    "id": "UA-2026-08-12-002608-a",
+    "_raw_id": "ab9b3d25d3f64208b66a620d190abfb8",
+    "title": "Система накопичення енергії (у складі: гібридний інвертор, акумуляторні батареї з урахуванням витрат на встановлення та пусконалагодження)",
+    "org": "Регіональний сервісний центр ГСЦ МВС в Київській та Чернігівській областях (філія ГСЦ МВС)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 699000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/ab9b3d25d3f64208b66a620d190abfb8",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-08-12T11:39:50.759737"
+  },
+  {
+    "id": "UA-2026-08-12-002723-a",
+    "_raw_id": "3a57098d4fed4f86b92c9b02ca01a110",
+    "title": "Система накопичення енергії (у складі: гібридний інвертор, акумуляторні батареї з урахуванням витрат на встановлення та пусконалагодження)",
+    "org": "Регіональний сервісний центр ГСЦ МВС в Київській та Чернігівській областях (філія ГСЦ МВС)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 699000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/3a57098d4fed4f86b92c9b02ca01a110",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-08-12T11:42:40.504284"
   },
   {
     "id": "UA-2026-03-20-006846-a",
@@ -4832,7 +4874,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/faa69219ce514d8bb612555ade5ebeff",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-12T06:02:35.332636"
   },
@@ -15248,7 +15290,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/559fcd514fbd419ba57ebfbec12e869b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-12T05:47:26.742206"
   },
@@ -15269,7 +15311,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/fe144a572f424e1d9c1fbf2246f28442",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-12T05:48:04.215601"
   },
@@ -15290,7 +15332,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/2723791ba35e4624b48b1a5fdaacb4d2",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-12T05:53:19.308282"
   },
@@ -15311,9 +15353,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/eb776f22ffe040449c26b4a69c346b5b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-12T05:53:36.722572"
+  },
+  {
+    "id": "UA-2026-07-28-009504-a",
+    "_raw_id": "5e801075775345028c05bf42b9a89bd4",
+    "title": "Акумуляторні батареї",
+    "org": "ДП \"АМПУ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 444888.33,
+    "currency": "UAH",
+    "deadline": "2026-08-07",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/5e801075775345028c05bf42b9a89bd4",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-12T11:37:13.620317"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -22641,9 +22704,30 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/fc2d98d0988f4ec69915a84a5e781a68",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-12T05:49:16.453376"
+  },
+  {
+    "id": "UA-2026-08-12-002100-a",
+    "_raw_id": "0737f5c4f49143839512c872d534a842",
+    "title": "Джерело безперебійного живлення ",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"КАЛИНІВСЬКИЙ МІСЬКИЙ ЦЕНТР ПЕРВИННОЇ МЕДИКО-САНІТАРНОЇ ДОПОМОГИ\" КАЛИНІВСЬКОЇ МІСЬКОЇ РАДИ ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 32000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/0737f5c4f49143839512c872d534a842",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-12T11:28:11.285495"
   },
   {
     "id": "UA-2026-03-31-000589-a",
