@@ -4937,7 +4937,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/d19feed14c1640dcb2cbf2d999d167f0",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-13T10:36:25.400548"
   },
@@ -4958,9 +4958,30 @@
     "cpv": "31155000-7",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6fb6f5f72fa24885a4f4373b82b742af",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-13T11:11:18.606675"
+  },
+  {
+    "id": "UA-2026-08-13-002744-a",
+    "_raw_id": "4ea9bc312ae14d71b36560fa36ca668d",
+    "title": "Інвертор 8кВт Deye гібридний",
+    "org": "Виконавчий комітет Студениківської сільської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 78715.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/4ea9bc312ae14d71b36560fa36ca668d",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-08-13T17:09:36.976949"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -15521,7 +15542,7 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/d3116ce15d44492fb871fbd218871b5d",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-13T10:51:01.592082"
   },
@@ -15542,7 +15563,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/5146edf86a124deba6c39d045557c674",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-13T10:57:13.953402"
   },
@@ -22977,7 +22998,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/9067f4d62a7c447f86dcc68f2c01a0b0",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-13T10:50:27.834205"
   },
@@ -22998,7 +23019,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/124bc719d886442c9c1d4ab40f37cfa5",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-13T11:22:40.210244"
   },
@@ -25320,8 +25341,31 @@
     "cpv": "09330000-1",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/dcc5b167174f47c29dd2e74db3c1a3f8",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-13T10:44:35.462875"
+  },
+  {
+    "id": "UA-2026-08-07-004643-a",
+    "_raw_id": "00af95278d5140a8872cc922902b37b1",
+    "title": "Елемент живлення, акумулятори",
+    "org": "Державна установа \"Центр обслуговування підрозділів Міністерства внутрішніх справ України\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 699300.0,
+    "currency": "UAH",
+    "deadline": "2026-08-19",
+    "cpvs": [
+      "31410000-3",
+      "31410000-3",
+      "31410000-3"
+    ],
+    "cpv": "31410000-3",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/00af95278d5140a8872cc922902b37b1",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-08-13T17:11:51.698414"
   }
 ]
