@@ -4979,9 +4979,30 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/4ea9bc312ae14d71b36560fa36ca668d",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-13T17:09:36.976949"
+  },
+  {
+    "id": "UA-2026-08-06-010165-a",
+    "_raw_id": "738d73c04d6c46a7970303c5ebd44498",
+    "title": "Гібридний інвертор",
+    "org": "Міжрегіональний офіс захисних масивів дніпровських водосховищ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 97407.0,
+    "currency": "UAH",
+    "deadline": "2026-08-14",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/738d73c04d6c46a7970303c5ebd44498",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-08-14T06:08:40.671866"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -15568,6 +15589,27 @@
     "fetched_at": "2026-08-13T10:57:13.953402"
   },
   {
+    "id": "UA-2026-08-06-010923-a",
+    "_raw_id": "f11f25f8ae414fc9b4a9aae60d79062e",
+    "title": "Акумулятори",
+    "org": "Головне управління Національної поліції в Чернівецькій області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 195972.22,
+    "currency": "UAH",
+    "deadline": "2026-08-14",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/f11f25f8ae414fc9b4a9aae60d79062e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-14T05:51:06.554784"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -25364,7 +25406,7 @@
     "cpv": "31410000-3",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/00af95278d5140a8872cc922902b37b1",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-13T17:11:51.698414"
   }
