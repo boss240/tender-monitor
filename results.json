@@ -5021,7 +5021,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/6691fd0ced794c2b851daab03cc6375e",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-14T11:16:01.582351"
   },
@@ -23103,7 +23103,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/aa26c842ecf04338bece840041c1c646",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-14T10:24:32.037030"
   },
@@ -23124,7 +23124,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/c43de64bc950401b989a66fecb6321c2",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-14T10:34:20.164098"
   },
@@ -23145,7 +23145,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/d8c782b9b70c4e9a9cc3269562910604",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-14T10:36:58.589822"
   },
@@ -23871,7 +23871,7 @@
     "cpv": "31680000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/103ca029ea124981bf74902670bf1a4f",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-08-14T10:57:29.143459"
   },
@@ -23892,9 +23892,51 @@
     "cpv": "31680000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/c8f63d32967544de90a303a85b29c3f9",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-08-14T11:03:26.326784"
+  },
+  {
+    "id": "UA-2026-07-24-007462-a",
+    "_raw_id": "1dc4464f51064c4ea0364f1576c0c43a",
+    "title": "Гібридний інвертор, високовольтний трифазний, чиста синусоїда 25 кВт, за кодом ДК 021:2015 : 31680000-6 - Електричне приладдя та супутні товари до електричного обладнання",
+    "org": "Комунальне некомерційне підприємство \"Городнянська міська лікарня\" Городнянської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 84795.08,
+    "currency": "UAH",
+    "deadline": "2026-08-10",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/1dc4464f51064c4ea0364f1576c0c43a",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-08-14T17:05:46.185229"
+  },
+  {
+    "id": "UA-2026-07-24-009241-a",
+    "_raw_id": "e4420588f3054264a4e99e404fd2ee6d",
+    "title": "Акумуляторна батарея 5,12кВт/год для системи безперебійного живлення з повним набором кабелів живлення постійного струму, комунікаційних кабелів для підключення до гібридного інвертора та інших батарей, за  кодом ДК 021:2015 : 31680000-6- Електричне приладдя та супутні товари до електричного обладнання",
+    "org": "Комунальне некомерційне підприємство \"Городнянська міська лікарня\" Городнянської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 607360.0,
+    "currency": "UAH",
+    "deadline": "2026-08-10",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/e4420588f3054264a4e99e404fd2ee6d",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-08-14T17:09:18.032007"
   },
   {
     "id": "UA-2026-03-20-008862-a",
@@ -25554,7 +25596,7 @@
     "cpv": "31120000-3",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/147097042da94bf29179784a24013205",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-14T10:27:39.285871"
   }
