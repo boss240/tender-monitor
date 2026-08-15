@@ -2233,6 +2233,27 @@
     "fetched_at": "2026-08-12T11:42:40.504284"
   },
   {
+    "id": "UA-2026-08-11-006072-a",
+    "_raw_id": "e7a4f2be95a84b4382538c8611481add",
+    "title": "Гібридний інвертор Deye SUN-6K-SG05LP1-AM2-PLUS  або аналог",
+    "org": "Військова частина А4975",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 35700.0,
+    "currency": "UAH",
+    "deadline": "2026-08-15",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/e7a4f2be95a84b4382538c8611481add",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-08-15T15:53:54.381932"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -5063,7 +5084,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/2c047018c0ac46a1b4d18dac2f2dd940",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-15T09:32:43.847622"
   },
@@ -15757,6 +15778,69 @@
     "fetched_at": "2026-08-15T04:45:16.072282"
   },
   {
+    "id": "UA-2026-08-15-000371-a",
+    "_raw_id": "824445a7baad44748f8cfbe6b3451ee7",
+    "title": "Акумуляторні батареї",
+    "org": "Військова частина А4765",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1000000.0,
+    "currency": "UAH",
+    "deadline": "2026-08-25",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/824445a7baad44748f8cfbe6b3451ee7",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-15T15:42:51.196307"
+  },
+  {
+    "id": "UA-2026-08-06-005626-a",
+    "_raw_id": "9cb31269cdac4ec0aa5e1e3e263fb6a0",
+    "title": "Акумуляторна батарея SAMSUNG 50S INR21700 5000MAH 25А",
+    "org": "Військова частина А5074",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1600000.0,
+    "currency": "UAH",
+    "deadline": "2026-08-15",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/9cb31269cdac4ec0aa5e1e3e263fb6a0",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-15T15:43:42.177050"
+  },
+  {
+    "id": "UA-2026-08-07-009752-a",
+    "_raw_id": "9647b52ea1384c698b063ba003d01b57",
+    "title": "ДК 021:2015: 31440000-2 — Акумуляторні батареї (Акумулятори CSB GP1272F2-28W або еквівалент, для блока безперебійного живлення APC SYMMETRA PX 80KVA)",
+    "org": "Інститут фізики напівпровідників ім. В.Є. Лашкарьова НАН України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 354166.67,
+    "currency": "UAH",
+    "deadline": "2026-08-15",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/9647b52ea1384c698b063ba003d01b57",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-15T15:49:21.296297"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -25767,5 +25851,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-15T04:34:23.678018"
+  },
+  {
+    "id": "UA-2026-08-11-008226-a",
+    "_raw_id": "87982e1e1d8b42fb83098013fcdf0973",
+    "title": "Коаксіальний кабель Messi & Paoloni hyperflex 13/.500",
+    "org": "Військова частина А4788",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 120000.0,
+    "currency": "UAH",
+    "deadline": "2026-08-20",
+    "cpvs": [
+      "31330000-8"
+    ],
+    "cpv": "31330000-8",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/87982e1e1d8b42fb83098013fcdf0973",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-08-15T15:54:27.585117"
   }
 ]
