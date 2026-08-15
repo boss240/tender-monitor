@@ -5042,9 +5042,30 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/e32d8257536f45de851383200418aaa6",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-15T04:36:57.663225"
+  },
+  {
+    "id": "UA-2026-08-06-003872-a",
+    "_raw_id": "2c047018c0ac46a1b4d18dac2f2dd940",
+    "title": "Система резервного електроживлення будівлі навчального корпусу за адресою: 69091, м.Запоріжжя, вулиця Пластова, 71, із використанням систем зберігання електричної енергії (акумуляторні батареї, модульні системи), гібридного інверторного обладнання та супутніх послуг з монтажу, пусконалагодження  і введення в експлуатацію",
+    "org": "ВІДОКРЕМЛЕНИЙ СТРУКТУРНИЙ ПІДРОЗДІЛ \"ЗАПОРІЗЬКИЙ МЕТАЛУРГІЙНИЙ ФАХОВИЙ КОЛЕДЖ ЗАПОРІЗЬКОГО НАЦІОНАЛЬНОГО УНІВЕРСИТЕТУ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 2040950.0,
+    "currency": "UAH",
+    "deadline": "2026-08-14",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/2c047018c0ac46a1b4d18dac2f2dd940",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-08-15T09:32:43.847622"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -15668,7 +15689,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/a943ec9123444f4fa8cbffb9cb27b785",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-15T04:39:17.247400"
   },
@@ -15689,7 +15710,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/19828c2389ad482380c64162b83a292c",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-15T04:43:40.659571"
   },
@@ -15710,7 +15731,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/d3b241428bd04fd794c26aea0ebbe46f",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-15T04:44:45.707232"
   },
@@ -15731,7 +15752,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/fa5236857fd049bbad9b5a6df7a1b4a6",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-15T04:45:16.072282"
   },
@@ -23271,7 +23292,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/1e66f90ffa5f4905a65459f9cbb19c7b",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-15T04:54:48.133065"
   },
@@ -25743,7 +25764,7 @@
     "cpv": "09330000-1",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/3fb128a5501d41bc8cc4ab7311d28dae",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-15T04:34:23.678018"
   }
