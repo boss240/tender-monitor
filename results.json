@@ -5026,6 +5026,27 @@
     "fetched_at": "2026-08-14T11:16:01.582351"
   },
   {
+    "id": "UA-2026-08-14-011913-a",
+    "_raw_id": "e32d8257536f45de851383200418aaa6",
+    "title": "Інвертор Deye SUN-10K-SG05LP3-EU-SM2 Deye WiFi (10 kW, 3 фази, 2 MPPT, LV)  - 1 штука",
+    "org": "Подільський районний у м. Києві центр фізичного здоров'я населення \"Спорт для всіх\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 98070.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/e32d8257536f45de851383200418aaa6",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-08-15T04:36:57.663225"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -15631,6 +15652,90 @@
     "fetched_at": "2026-08-14T05:51:06.554784"
   },
   {
+    "id": "UA-2026-08-14-012022-a",
+    "_raw_id": "a943ec9123444f4fa8cbffb9cb27b785",
+    "title": "акумуляторні батареї",
+    "org": "ЗАКАРПАТСЬКА МИТНИЦЯ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 85825.0,
+    "currency": "UAH",
+    "deadline": "2026-08-22",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/a943ec9123444f4fa8cbffb9cb27b785",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-15T04:39:17.247400"
+  },
+  {
+    "id": "UA-2026-08-07-010365-a",
+    "_raw_id": "19828c2389ad482380c64162b83a292c",
+    "title": "Система резервного живлення на основі гібридного інвертора потужністю 30 кВт з системою накопичення  електричної  енергії",
+    "org": "Відокремлений структурний підрозділ «Ніжинський фаховий коледж Національного університету біоресурсів і природокористування України»",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 1300950.0,
+    "currency": "UAH",
+    "deadline": "2026-08-15",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/19828c2389ad482380c64162b83a292c",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-15T04:43:40.659571"
+  },
+  {
+    "id": "UA-2026-08-11-004619-a",
+    "_raw_id": "d3b241428bd04fd794c26aea0ebbe46f",
+    "title": "Акумуляторні батареї",
+    "org": "Військова частина А3297",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 999999.36,
+    "currency": "UAH",
+    "deadline": "2026-08-19",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/d3b241428bd04fd794c26aea0ebbe46f",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-15T04:44:45.707232"
+  },
+  {
+    "id": "UA-2026-08-11-009504-a",
+    "_raw_id": "fa5236857fd049bbad9b5a6df7a1b4a6",
+    "title": "Акумуляторні батареї ",
+    "org": "Військова частина А7383",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 280260.0,
+    "currency": "UAH",
+    "deadline": "2026-08-19",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/fa5236857fd049bbad9b5a6df7a1b4a6",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-15T04:45:16.072282"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -23150,6 +23255,27 @@
     "fetched_at": "2026-08-14T10:36:58.589822"
   },
   {
+    "id": "UA-2026-08-07-011020-a",
+    "_raw_id": "1e66f90ffa5f4905a65459f9cbb19c7b",
+    "title": "Система резервного електроживлення",
+    "org": "Відокремлений структурний підрозділ \"Морехідний фаховий коледж  ім. О.І. Маринеска Національного універсітету \"Одеська морська академія\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 1910166.67,
+    "currency": "UAH",
+    "deadline": "2026-08-15",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/1e66f90ffa5f4905a65459f9cbb19c7b",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-15T04:54:48.133065"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -23913,7 +24039,7 @@
     "cpv": "31680000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/1dc4464f51064c4ea0364f1576c0c43a",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-08-14T17:05:46.185229"
   },
@@ -23934,7 +24060,7 @@
     "cpv": "31680000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/e4420588f3054264a4e99e404fd2ee6d",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-08-14T17:09:18.032007"
   },
@@ -25599,5 +25725,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-14T10:27:39.285871"
+  },
+  {
+    "id": "UA-2026-08-14-011806-a",
+    "_raw_id": "3fb128a5501d41bc8cc4ab7311d28dae",
+    "title": "Комплект обладнання системи накопичення та резервного електроживлення на базі гібридного інвертора з фотоелектричними модулями",
+    "org": "Відокремлений структурний підрозділ «Львівський фаховий коледж Львівського національного  університету природокористування»",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 2070875.0,
+    "currency": "UAH",
+    "deadline": "2026-08-23",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/3fb128a5501d41bc8cc4ab7311d28dae",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-08-15T04:34:23.678018"
   }
 ]
