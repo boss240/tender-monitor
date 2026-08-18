@@ -5173,6 +5173,27 @@
     "fetched_at": "2026-08-17T11:02:47.224735"
   },
   {
+    "id": "UA-2026-08-18-001525-a",
+    "_raw_id": "0f3a4002927d41a7b2e348a04606ce8f",
+    "title": "Код ДК 021:2015 - 31440000-2 — Акумуляторні батареї (Акумулятор літій-полімерний 1260110 10000mAh, Акумулятор Li-ion 18650 5000mAh із захистом (арт. WX 1440, WX1442), Акумулятор Volt Polska LiFePO4 12.8V 50Ah з BMS)",
+    "org": "Державна установа \"Центр обслуговування підрозділів Національної поліції України\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/0f3a4002927d41a7b2e348a04606ce8f",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-08-18T10:22:49.600012"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -15983,7 +16004,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/ae6479f8c92d4ca2a9828fa566c94bc8",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-18T05:16:54.048575"
   },
@@ -16004,7 +16025,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/cd6899685d914c59af8c5c0dcc2ab8f7",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-18T05:18:56.111387"
   },
@@ -23650,9 +23671,51 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/5d25f36e5c5a45a7aa26513a878722ba",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-18T04:47:41.141844"
+  },
+  {
+    "id": "UA-2026-08-18-001819-a",
+    "_raw_id": "e4966d0e0bc64d42a28016ee1eccfad5",
+    "title": "Літієва батарея (LifeP04) ARUNA LFP 100-25.6,  25.6B",
+    "org": "КЛЕКОТИНСЬКИЙ ЗАКЛАД ДОШКІЛЬНОЇ ОСВІТИ МУРАФСЬКОЇ СІЛЬСЬКОЇ РАДИ ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 35000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/e4966d0e0bc64d42a28016ee1eccfad5",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-18T10:30:18.477040"
+  },
+  {
+    "id": "UA-2026-08-18-002480-a",
+    "_raw_id": "77200cdd44fd47699d379f8dc377256d",
+    "title": "Універсальна мобільна батарея",
+    "org": "Київська обласна рада",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 312000.0,
+    "currency": "UAH",
+    "deadline": "2026-08-26",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/77200cdd44fd47699d379f8dc377256d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-18T10:46:14.756040"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -24465,6 +24528,27 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-08-16T04:42:36.915447"
+  },
+  {
+    "id": "UA-2026-08-18-001840-a",
+    "_raw_id": "64a436b4edd44850b7e0b3b058f5d753",
+    "title": "Сонячна електростанція (СЕС) в комплекті, а саме: сонячні панелі, інвертор, блок керування кластером високовольтної батареї  з акумуляторними батареями.",
+    "org": "Комунальний заклад освіти \"Криворізький гірничий коледж\" ( КЗО \"КГК\" ДОР\")",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 2437951.67,
+    "currency": "UAH",
+    "deadline": "2026-08-26",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/64a436b4edd44850b7e0b3b058f5d753",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-08-18T10:32:30.800132"
   },
   {
     "id": "UA-2026-03-20-008862-a",
