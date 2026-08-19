@@ -2312,9 +2312,51 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/62a971c1c9fe484ab2fc46694ac84c13",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-08-19T04:55:26.024035"
+  },
+  {
+    "id": "UA-2026-08-11-011207-a",
+    "_raw_id": "caa699e237894be787df220ed8d39cfd",
+    "title": "Гібридний інвертор та Акумуляторна батарея",
+    "org": "ВІДДІЛ ОСВІТИ ТЕРНІВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 93697.09,
+    "currency": "UAH",
+    "deadline": "2026-08-19",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/caa699e237894be787df220ed8d39cfd",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-08-19T10:22:37.212797"
+  },
+  {
+    "id": "UA-2026-08-11-012085-a",
+    "_raw_id": "bb711d7a7c86448ca8cda8ee6b69eff3",
+    "title": "Гібридний інвертор та Акумуляторна батарея",
+    "org": "ВІДДІЛ ОСВІТИ ТЕРНІВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 250000.0,
+    "currency": "UAH",
+    "deadline": "2026-08-19",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/bb711d7a7c86448ca8cda8ee6b69eff3",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-08-19T10:23:47.663241"
   },
   {
     "id": "UA-2026-03-20-006846-a",
@@ -5231,7 +5273,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/5850ee3597f94e2ba497b5a41f9c851e",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-19T04:56:01.109202"
   },
@@ -16088,7 +16130,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/f77313ec38c2403385904c00f61ab520",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-19T04:39:22.069448"
   },
@@ -16109,7 +16151,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/d04407eef1bf443994edbfa9f76ccbb9",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-19T04:46:24.354099"
   },
@@ -16130,7 +16172,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/f9197fe0fb644767a7ebb99211c4e0f6",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-19T04:58:50.433248"
   },
@@ -16151,9 +16193,51 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/d3c35f955d214279bf232f6bd6bde5fe",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-19T05:14:10.832806"
+  },
+  {
+    "id": "UA-2026-07-27-005240-a",
+    "_raw_id": "0c0a2205472c4d568cc0f09a5f838216",
+    "title": "Акумуляторні батареї",
+    "org": "Військова частина 1474",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 80250.0,
+    "currency": "UAH",
+    "deadline": "2026-08-04",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/0c0a2205472c4d568cc0f09a5f838216",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-19T10:36:05.158516"
+  },
+  {
+    "id": "UA-2026-08-19-002678-a",
+    "_raw_id": "bdb1e9720fda4976a47cecd4f8534686",
+    "title": "Акумуляторні батареї",
+    "org": "Управління Служби безпеки України в Житомирській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 431250.0,
+    "currency": "UAH",
+    "deadline": "2026-08-27",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/bdb1e9720fda4976a47cecd4f8534686",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-19T10:48:52.613753"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -24693,7 +24777,7 @@
     "cpv": "09330000-1",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/699ae3786763486db7847dcf7e96cefe",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-08-19T04:54:29.758134"
   },
