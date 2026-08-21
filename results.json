@@ -16466,9 +16466,93 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/4697e821b8cc46839ae81f74e4c45c6f",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-21T05:00:55.353622"
+  },
+  {
+    "id": "UA-2026-08-18-005948-a",
+    "_raw_id": "5d82b393add74b9286fdac6b01396c58",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ПЕРВОМАЙСЬКИЙ МІСЬКИЙ ЦЕНТР ПЕРВИННОЇ МЕДИКО-САНІТАРНОЇ ДОПОМОГИ\" ПЕРВОМАЙСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 78750.0,
+    "currency": "UAH",
+    "deadline": "2026-08-21",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/5d82b393add74b9286fdac6b01396c58",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-21T09:45:38.420520"
+  },
+  {
+    "id": "UA-2026-08-21-001491-a",
+    "_raw_id": "14195c3839b54db5acde192d6594e1f8",
+    "title": "Установка зберігання енергії УЗЕ 125 КВТ / 240 КВТ·ГОД",
+    "org": "ДПТНЗ \"Конотопський професійний аграрний ліцей\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 2058333.33,
+    "currency": "UAH",
+    "deadline": "2026-08-29",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/14195c3839b54db5acde192d6594e1f8",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-21T10:34:28.007826"
+  },
+  {
+    "id": "UA-2026-08-21-001995-a",
+    "_raw_id": "981f86721a324f40bb2784785624eabc",
+    "title": "Акумуляторні збірки",
+    "org": "Військова частина А0666",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1110000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/981f86721a324f40bb2784785624eabc",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-21T10:50:33.154501"
+  },
+  {
+    "id": "UA-2026-08-18-012947-a",
+    "_raw_id": "b9734f9b491b42459831d1585ffbf454",
+    "title": "Система резервного електроживлення двох будівель навчальних корпусів (у складі: сонячні панелі, гібридні інвертори, модульні системи накопичення електроенергії, пристрої захисту та автоматики  та ін., з урахуванням витрат на монтаж та пусконалагодження, навчання персоналу)",
+    "org": "Київський фаховий коледж зв'язку",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 2218400.0,
+    "currency": "UAH",
+    "deadline": "2026-08-28",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/b9734f9b491b42459831d1585ffbf454",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-21T11:06:03.824681"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -24238,7 +24322,7 @@
     "cpv": "09331200-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/c992056354e446af997b66c376161ed2",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-21T04:40:37.005083"
   },
@@ -24259,7 +24343,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/7cea0a6a04d24aa99217b80939874335",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-21T04:51:24.012924"
   },
@@ -24280,9 +24364,30 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/0d7c2d63ba3e4188b1e0f35066840c26",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-21T05:27:34.103260"
+  },
+  {
+    "id": "UA-2026-08-21-000666-a",
+    "_raw_id": "03df3a277da245c6b889206cbc81ebfd",
+    "title": "Система автономного та резервного електроживлення від сонячної енергії",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 2195",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1012500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/03df3a277da245c6b889206cbc81ebfd",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-21T10:11:21.322304"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -26883,5 +26988,49 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-20T04:47:59.043607"
+  },
+  {
+    "id": "UA-2026-08-21-000707-a",
+    "_raw_id": "502c5e26b12e4041a5dafce32496bd4f",
+    "title": "Акумуляторна батарея 70Ah-12v (278x175x175), R, EN640; Акумуляторна батарея 75Ah-12v  (278х175х190), R, EN680; Акумуляторна батарея 83Ah-12v  (353х175х175), R, EN720; Акумуляторна батарея 92Ah-12v  (353x175x190),R,EN850; Акумуляторна батарея 95Ah-12v  (353х175х190), R, EN800; Акумуляторна батарея 190Ah-12v  (513х223х217), R, EN1250; Акумуляторна батарея 9Ah-12v (12N9-3B) (135х75х139) R, EN85",
+    "org": "військова частина 2197",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 147227.0,
+    "currency": "UAH",
+    "deadline": "2026-08-29",
+    "cpvs": [
+      "31420000-6",
+      "31420000-6",
+      "31420000-6"
+    ],
+    "cpv": "31420000-6",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/502c5e26b12e4041a5dafce32496bd4f",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-08-21T10:12:30.727089"
+  },
+  {
+    "id": "UA-2026-08-21-000748-a",
+    "_raw_id": "e422439f049d419fbc1ec8d0c6de40cd",
+    "title": "Придбання джерел резервного живлення та систем накопичування та зберігання енергії для забезпечення енергетичної стійкості закладів освіти Шосткинської міської ради Сумської області",
+    "org": "Управління освіти Шосткинської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 2160000.0,
+    "currency": "UAH",
+    "deadline": "2026-08-29",
+    "cpvs": [
+      "31681500-8"
+    ],
+    "cpv": "31681500-8",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e422439f049d419fbc1ec8d0c6de40cd",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-08-21T10:16:10.277481"
   }
 ]
