@@ -16613,9 +16613,30 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/29c1df0ddf3543e494b1ff8e83c709d8",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-22T09:45:32.649466"
+  },
+  {
+    "id": "UA-2026-08-22-000318-a",
+    "_raw_id": "43836cfa4054403e8bd0e7bb8f6fad88",
+    "title": "Джерело безперебійного живлення (ДБЖ)",
+    "org": "Військова частина 2161",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 819675.0,
+    "currency": "UAH",
+    "deadline": "2026-08-31",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/43836cfa4054403e8bd0e7bb8f6fad88",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-22T15:46:37.269643"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -24495,6 +24516,27 @@
     "fetched_at": "2026-08-22T05:05:58.922706"
   },
   {
+    "id": "UA-2026-08-14-009996-a",
+    "_raw_id": "7f144ea678d749a391b84c39297c1f7e",
+    "title": "джерела безперебійного живлення ",
+    "org": "ДЕПАРТАМЕНТ З ПИТАНЬ ВИКОНАННЯ КРИМІНАЛЬНИХ ПОКАРАНЬ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 534700.0,
+    "currency": "UAH",
+    "deadline": "2026-08-22",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/7f144ea678d749a391b84c39297c1f7e",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-22T15:49:42.851156"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -27155,8 +27197,30 @@
     "cpv": "09330000-1",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/6044c88876b24ed9838afde1c545c43b",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-22T09:42:56.383594"
+  },
+  {
+    "id": "UA-2026-08-14-008629-a",
+    "_raw_id": "a30664eb78074cc2a8bcfc129ef0c564",
+    "title": "Акумуляторні батареї (код за ДК 021:2015 Єдиного закупівельного словника - 31410000-3 гальванічні елементи)",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 1495",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 125000.0,
+    "currency": "UAH",
+    "deadline": "2026-08-22",
+    "cpvs": [
+      "31410000-3",
+      "31410000-3"
+    ],
+    "cpv": "31410000-3",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/a30664eb78074cc2a8bcfc129ef0c564",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-08-22T15:50:39.073833"
   }
 ]
