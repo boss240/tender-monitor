@@ -2438,7 +2438,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/64c61adc928e481fa01abb070b930076",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-08-22T04:37:34.487429"
   },
@@ -16592,9 +16592,30 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/f651f33724934ed7924cd02bcd90a62f",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-22T05:09:27.637173"
+  },
+  {
+    "id": "UA-2026-08-22-000167-a",
+    "_raw_id": "29c1df0ddf3543e494b1ff8e83c709d8",
+    "title": "Комплектуючі до безпілотних літальних апаратів спеціального призначення (акумулятори)",
+    "org": "ВІЙСЬКОВА ЧАСТИНА А5192",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 293376.66,
+    "currency": "UAH",
+    "deadline": "2026-09-02",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/29c1df0ddf3543e494b1ff8e83c709d8",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-22T09:45:32.649466"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -24448,7 +24469,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/013f88a259be41739ce14560247b25b8",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-22T04:51:52.877866"
   },
@@ -24469,7 +24490,7 @@
     "cpv": "31680000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/4970fda9e7d747999f5cb4dffecb9271",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-22T05:05:58.922706"
   },
@@ -27116,5 +27137,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-21T10:16:10.277481"
+  },
+  {
+    "id": "UA-2026-08-10-010916-a",
+    "_raw_id": "6044c88876b24ed9838afde1c545c43b",
+    "title": "Сонячна панель 625-670 Вт ",
+    "org": "Військова частина Т0160",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 959566.0,
+    "currency": "UAH",
+    "deadline": "2026-08-20",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/6044c88876b24ed9838afde1c545c43b",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-08-22T09:42:56.383594"
   }
 ]
