@@ -24537,6 +24537,27 @@
     "fetched_at": "2026-08-22T15:49:42.851156"
   },
   {
+    "id": "UA-2026-08-12-010294-a",
+    "_raw_id": "c35c0b4fc60d4c7f99c0f3f6eaadb02a",
+    "title": "Система безперебійного живлення.",
+    "org": "Відділ освіти виконавчого комітету Царичанської селищної ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 589166.66,
+    "currency": "UAH",
+    "deadline": "2026-08-24",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/c35c0b4fc60d4c7f99c0f3f6eaadb02a",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-24T05:08:33.075422"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
