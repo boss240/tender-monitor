@@ -5446,6 +5446,27 @@
     "fetched_at": "2026-08-20T10:53:38.267123"
   },
   {
+    "id": "UA-2026-08-23-000365-a",
+    "_raw_id": "a74f125479864efc9b4da6c43a312213",
+    "title": "Інвертори Deye  202/2026",
+    "org": "ВІЙСЬКОВА ЧАСТИНА А0237",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 125000.0,
+    "currency": "UAH",
+    "deadline": "2026-08-30",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/a74f125479864efc9b4da6c43a312213",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-08-24T11:07:23.559881"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -16639,6 +16660,69 @@
     "fetched_at": "2026-08-22T15:46:37.269643"
   },
   {
+    "id": "UA-2026-08-24-000473-a",
+    "_raw_id": "aaf9b918ae97499196d7cc6506d97b9f",
+    "title": "Інвертор Victron Energy EasySolar-II GX 48/3000/35-32 MPPT 250/70 сонячний однофазний чиста синусоїда",
+    "org": "Дергачівська міська рада",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 60899.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/aaf9b918ae97499196d7cc6506d97b9f",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-24T10:15:13.501045"
+  },
+  {
+    "id": "UA-2026-08-24-001145-a",
+    "_raw_id": "5d75426dbfe04c8bbc19d353dad31c3e",
+    "title": "31440000-2 Акумуляторні батареї (Акумуляторна батарея)",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО КАГАРЛИЦЬКОЇ МІСЬКОЇ РАДИ \"МІСЬКРЕМБУДСЕРВІС\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 90000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/5d75426dbfe04c8bbc19d353dad31c3e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-24T10:38:47.871372"
+  },
+  {
+    "id": "UA-2026-08-20-005126-a",
+    "_raw_id": "af5a3155e99644debce8fe5e4fd953ee",
+    "title": "Інвертор та акамуляторні батареї",
+    "org": "КОМУНАЛЬНИЙ КОНЦЕРН \"ЦЕНТР КОМУНАЛЬНОГО СЕРВІСУ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 339317.5,
+    "currency": "UAH",
+    "deadline": "2026-08-28",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/af5a3155e99644debce8fe5e4fd953ee",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-24T10:46:27.359396"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -24553,9 +24637,51 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/c35c0b4fc60d4c7f99c0f3f6eaadb02a",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-24T05:08:33.075422"
+  },
+  {
+    "id": "UA-2026-08-24-001019-a",
+    "_raw_id": "f617bc1d987149ed8d5a39dfdc8d080e",
+    "title": "Джерело безперебійного живлення",
+    "org": "УПРАВЛІННЯ СОЦІАЛЬНОЇ ПОЛІТИКИ БУЧАНСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 31000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/f617bc1d987149ed8d5a39dfdc8d080e",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-24T10:32:03.447295"
+  },
+  {
+    "id": "UA-2026-08-24-001991-a",
+    "_raw_id": "771be7c6b72047068ae69ed4474414ef",
+    "title": "Система безперебійного живлення - 1 комплект",
+    "org": "Комунальний заклад Київської обласної ради \"Мостищенська спеціальна школа\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 637500.0,
+    "currency": "UAH",
+    "deadline": "2026-09-01",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/771be7c6b72047068ae69ed4474414ef",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-24T11:07:34.709093"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -27243,5 +27369,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-22T15:50:39.073833"
+  },
+  {
+    "id": "UA-2026-08-18-012002-a",
+    "_raw_id": "90d574f49e1a44c5a75b949ea1714952",
+    "title": "Станція катодного захисту інверторного типу",
+    "org": "Львівська філія Товариства з обмеженою відповідальністю «Газорозподільні мережі України»",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 64800.0,
+    "currency": "UAH",
+    "deadline": "2026-08-29",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/90d574f49e1a44c5a75b949ea1714952",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-08-24T11:11:24.306634"
   }
 ]
