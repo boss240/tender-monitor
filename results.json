@@ -2459,7 +2459,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/b04bf0ec6c0c4d98bec84eefe51e5e16",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-08-25T09:48:47.273964"
   },
@@ -2480,9 +2480,30 @@
     "cpv": "31155000-7",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/ee8f5e6a692a4f4c827127f7df4e8999",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-08-25T11:02:08.568217"
+  },
+  {
+    "id": "UA-2026-08-25-002717-a",
+    "_raw_id": "41ba1868ac5040a895c71940b0c8e412",
+    "title": "Гібридний інвертор DEYE 6 кВт 1Ф, 48B, SUN-6K-SG05LP1-EU-AM2-PLUS",
+    "org": "ГУРІВСЬКА СІЛЬСЬКА РАДА КРОПИВНИЦЬКОГО РАЙОНУ КІРОВОГРАДСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 41748.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/41ba1868ac5040a895c71940b0c8e412",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-08-25T17:14:24.802679"
   },
   {
     "id": "UA-2026-03-20-006846-a",
@@ -5567,7 +5588,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/26e5454550e1453d951e973571d67b3d",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-25T10:11:34.517743"
   },
@@ -5588,7 +5609,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6cc9ea0435884e768699306cf38f9e59",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-25T11:05:40.630726"
   },
@@ -16907,7 +16928,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/d8f910633709437d9897e5f307e4a8a4",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-25T10:29:38.968350"
   },
@@ -24910,7 +24931,7 @@
     "cpv": "31155000-7",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/c3b345c177634ffdac45d9b5c46ad546",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-25T10:02:44.683275"
   },
