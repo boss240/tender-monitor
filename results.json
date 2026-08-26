@@ -2506,6 +2506,27 @@
     "fetched_at": "2026-08-25T17:14:24.802679"
   },
   {
+    "id": "UA-2026-08-26-001606-a",
+    "_raw_id": "6245ff06415f4f9ba0d91d862625479a",
+    "title": "Гібридний інвертор Deye SUN-12K-SG05LP3-EU 48V\nАкумуляторна батарея Biom Professional 48V BALFP -512314-V2 16кВтч",
+    "org": "Комунально-побутове підприємство \"Теплоенергопостач\" Ірпінської міської Ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1072000.0,
+    "currency": "UAH",
+    "deadline": "2026-09-03",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/6245ff06415f4f9ba0d91d862625479a",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-08-26T11:10:06.116793"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -5630,7 +5651,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/dab96e3cb0354c6d995844874834f80b",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-26T05:00:11.739094"
   },
@@ -5651,7 +5672,7 @@
     "cpv": "31155000-7",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/8c3feb003e58467ea2e12036e0328a2f",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-26T05:01:04.392772"
   },
@@ -16991,7 +17012,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/69501c24aa8a47a2aab49709e29bf7f7",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-26T04:49:22.711140"
   },
@@ -17012,9 +17033,72 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/1744906ab8d44a05ad560fc9c25ae3df",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-26T05:18:53.571104"
+  },
+  {
+    "id": "UA-2026-08-26-001360-a",
+    "_raw_id": "50c1676b428c4af8a5a8c19c4cbc34b2",
+    "title": "Сонячні установки (у складі: сонячні панелі, гібридні інвертори, модульні системи накопичення електроенергії, пристрої захисту та автоматики та ін., з урахуванням витрат на монтаж та пусконалагодження, навчання персоналу)",
+    "org": "ВІДОКРЕМЛЕНИЙ СТРУКТУРНИЙ ПІДРОЗДІЛ \"ГІРНИЧО-ЕЛЕКТРОМЕХАНІЧНИЙ ФАХОВИЙ КОЛЕДЖ КРИВОРІЗЬКОГО НАЦІОНАЛЬНОГО УНІВЕРСИТЕТУ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 2128083.33,
+    "currency": "UAH",
+    "deadline": "2026-09-03",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/50c1676b428c4af8a5a8c19c4cbc34b2",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-26T10:45:41.009472"
+  },
+  {
+    "id": "UA-2026-08-26-001497-a",
+    "_raw_id": "1f6804b2b4814d27ba0b70b48032c881",
+    "title": "Акумуляторні батареї",
+    "org": "Військова частина А5011",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1570000.0,
+    "currency": "UAH",
+    "deadline": "2026-09-04",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/1f6804b2b4814d27ba0b70b48032c881",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-26T10:48:09.072909"
+  },
+  {
+    "id": "UA-2026-08-26-001840-a",
+    "_raw_id": "23161dcea4c548e0bf150172fd167707",
+    "title": "ДК 021:2015:31440000-2 Акумуляторні батареї BYD BOX LV 5 кВт, 48 V, 100A.",
+    "org": "Відділ освіти, молоді та спорту Нехворощанської сільської ради Полтавського району Полтавської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 74000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/23161dcea4c548e0bf150172fd167707",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-26T11:13:01.321493"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -25020,6 +25104,69 @@
     "fetched_at": "2026-08-25T10:02:44.683275"
   },
   {
+    "id": "UA-2026-08-18-002932-a",
+    "_raw_id": "2063848a9a944d2eb7e676c83546952a",
+    "title": "ДК 021:2015 09330000-1 Сонячна енергія (Комплектуючі для встановлення сонячної установки (09332000-5 Сонячна установка))",
+    "org": "НАЦІОНАЛЬНИЙ УНІВЕРСИТЕТ ЦИВІЛЬНОГО ЗАХИСТУ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 211653.03,
+    "currency": "UAH",
+    "deadline": "2026-08-26",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/2063848a9a944d2eb7e676c83546952a",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-26T10:12:43.853936"
+  },
+  {
+    "id": "UA-2026-08-26-001042-a",
+    "_raw_id": "45975b92ef044717ae2f8fd94d508b40",
+    "title": "Блоки живлення лабораторні",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"УКPНAФТА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 30590.1,
+    "currency": "UAH",
+    "deadline": "2026-09-03",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/45975b92ef044717ae2f8fd94d508b40",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-26T10:34:10.405176"
+  },
+  {
+    "id": "UA-2026-08-26-001120-a",
+    "_raw_id": "3a9185cdfc764f8fb79e794c467e2431",
+    "title": "ДК 021:2015:31155000-7 Інвентори «Solis 12kWt (НИЗЬКОВОЛЬТНИЙ 48v) 3Ph hybrid inverter with DC, Wifi, CT (S6-EH3P12K02-NV-YD-L).",
+    "org": "Відділ освіти, молоді та спорту Нехворощанської сільської ради Полтавського району Полтавської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 85000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/3a9185cdfc764f8fb79e794c467e2431",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-26T10:45:00.785241"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -25890,7 +26037,7 @@
     "cpv": "09330000-1",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/8ad1ff97aff84d5f9fb0c682fdb2eb0b",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-08-26T05:28:10.601643"
   },
@@ -27788,7 +27935,7 @@
     "cpv": "31420000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/7bff2c84f5414c83af4e3a37ce11b1fd",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-26T05:00:13.755248"
   },
@@ -27809,7 +27956,7 @@
     "cpv": "31120000-3",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/0a989c5b16564026b1e8aad4e5f11a9c",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-26T05:13:19.988690"
   },
@@ -27830,7 +27977,7 @@
     "cpv": "31120000-3",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/2e384ba91e5d4b7e9eb0b286ba5f3e07",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-26T05:13:39.675915"
   },
@@ -27853,7 +28000,7 @@
     "cpv": "09330000-1",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/352add8b9a974208b0c1d5f577c66254",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-26T05:21:27.760591"
   },
@@ -27876,7 +28023,7 @@
     "cpv": "09330000-1",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/66e3bfb8c9bb4e0c8ffbc198fde3224e",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-26T05:21:39.615492"
   },
@@ -27899,7 +28046,7 @@
     "cpv": "09330000-1",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/0ff4107eb1184934a2c00604e13d6dfd",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-26T05:22:10.206709"
   }
