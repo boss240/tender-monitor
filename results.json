@@ -5677,6 +5677,27 @@
     "fetched_at": "2026-08-26T05:01:04.392772"
   },
   {
+    "id": "UA-2026-08-24-007852-a",
+    "_raw_id": "a43a1cb903b14515ae012c3f9a0a1037",
+    "title": "Інвертор DEYE (перетворювач) DC-AC",
+    "org": "ВІЙСЬКОВА ЧАСТИНА А5001",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 156751.1,
+    "currency": "UAH",
+    "deadline": "2026-08-27",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/a43a1cb903b14515ae012c3f9a0a1037",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-08-27T15:22:03.930893"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -17101,6 +17122,132 @@
     "fetched_at": "2026-08-26T11:13:01.321493"
   },
   {
+    "id": "UA-2026-08-27-000377-a",
+    "_raw_id": "86b43a80a9ec467597a351d063fa0615",
+    "title": "Акумуляторні батареї\n",
+    "org": "Рівненська філія ТОВ \"Газорозподільні мережі України\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 75934.9,
+    "currency": "UAH",
+    "deadline": "2026-09-05",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/86b43a80a9ec467597a351d063fa0615",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-27T15:16:23.495241"
+  },
+  {
+    "id": "UA-2026-08-20-013517-a",
+    "_raw_id": "cc035e6ca17c4f06a0649cd779d2fbf8",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "КОМУНАЛЬНИЙ ЗАКЛАД \"ГАЙВОРОНСЬКИЙ ЛІЦЕЙ №2\" ГАЙВОРОНСЬКОЇ МІСЬКОЇ РАДИ КІРОВОГРАДСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 270000.0,
+    "currency": "UAH",
+    "deadline": "2026-08-25",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/cc035e6ca17c4f06a0649cd779d2fbf8",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-27T15:50:56.392249"
+  },
+  {
+    "id": "UA-2026-08-27-001263-a",
+    "_raw_id": "1600bf7851fd4faab4eafa1e3fad539e",
+    "title": "ДК 021-2015:31155000-7 - Інвертори",
+    "org": "Комунальна установа \"Центр надання соціальних послуг\" Барської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 46500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/1600bf7851fd4faab4eafa1e3fad539e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-27T15:52:51.044563"
+  },
+  {
+    "id": "UA-2026-08-27-001940-a",
+    "_raw_id": "dd31b05a51b440679778c00ccdd7b94d",
+    "title": "Придбання навчальних засобів для навчання професії екстрених медичних техніків (Окуляри віртуальної реальності Pimax Crystal Light)    за «Єдиним закупівельним словником» ДК 021:2015: код CPV- 31440000-2 «Акумуляторні батареї».",
+    "org": "Заклад професійної освіти «Дніпровський професійний технологічний коледж»",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 30000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/dd31b05a51b440679778c00ccdd7b94d",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-27T16:03:49.003013"
+  },
+  {
+    "id": "UA-2026-08-27-002825-a",
+    "_raw_id": "6ef43310141f4e1aa82592c94066d6e1",
+    "title": "Інвертор гібридний",
+    "org": " ГОЛОВНЕ УПРАВЛІННЯ ДЕРЖАВНОЇ СЛУЖБИ УКРАЇНИ З НАДЗВИЧАЙНИХ СИТУАЦІЙ У ЧЕРКАСЬКІЙ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 123450.83,
+    "currency": "UAH",
+    "deadline": "2026-09-02",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/6ef43310141f4e1aa82592c94066d6e1",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-27T16:24:45.411644"
+  },
+  {
+    "id": "UA-2026-08-27-003026-a",
+    "_raw_id": "1031bed1afed471eb596f2c48fd31f4c",
+    "title": "Система резервного живлення на основі гібридного інвертора потужністю 30 кВт з системою накопичення  електричної  енергії",
+    "org": "Відокремлений структурний підрозділ «Ніжинський фаховий коледж Національного університету біоресурсів і природокористування України»",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 1501140.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/1031bed1afed471eb596f2c48fd31f4c",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-27T16:29:08.313165"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -25165,6 +25312,69 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-26T10:45:00.785241"
+  },
+  {
+    "id": "UA-2026-08-21-005964-a",
+    "_raw_id": "908fb0196cb6426f9ead6e126bf8af87",
+    "title": "Шафа для заряджання АКБ на 6 одиниць BCRL 0601 Україна, або еквівалент",
+    "org": "АВІАЦІЙНА БАЗА НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ (ВІЙСЬКОВА ЧАСТИНА 3074)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 142791.98,
+    "currency": "UAH",
+    "deadline": "2026-09-03",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/908fb0196cb6426f9ead6e126bf8af87",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-27T15:20:42.622479"
+  },
+  {
+    "id": "UA-2026-08-20-004721-a",
+    "_raw_id": "b75a441ee10a430fa860bec5587eb04d",
+    "title": "Системи безперебійного живлення",
+    "org": "КОМУНАЛЬНИЙ ЗАКЛАД \"ЛІЦЕЙ №39\" КАМ'ЯНСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 3467541.67,
+    "currency": "UAH",
+    "deadline": "2026-08-28",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/b75a441ee10a430fa860bec5587eb04d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-27T16:00:08.554786"
+  },
+  {
+    "id": "UA-2026-08-21-004859-a",
+    "_raw_id": "8d717bcc0e614a48ad787c09b919987d",
+    "title": "Системи безперебійного живлення",
+    "org": "Відділ освіти, молоді та спорту П’ятихатської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 2684208.33,
+    "currency": "UAH",
+    "deadline": "2026-08-29",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/8d717bcc0e614a48ad787c09b919987d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-27T16:06:27.115036"
   },
   {
     "id": "UA-2026-03-31-000589-a",
