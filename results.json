@@ -5693,7 +5693,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/a43a1cb903b14515ae012c3f9a0a1037",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-27T15:22:03.930893"
   },
@@ -17138,7 +17138,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/86b43a80a9ec467597a351d063fa0615",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-27T15:16:23.495241"
   },
@@ -17159,7 +17159,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/cc035e6ca17c4f06a0649cd779d2fbf8",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-27T15:50:56.392249"
   },
@@ -17180,7 +17180,7 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/1600bf7851fd4faab4eafa1e3fad539e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-27T15:52:51.044563"
   },
@@ -17201,7 +17201,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/dd31b05a51b440679778c00ccdd7b94d",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-27T16:03:49.003013"
   },
@@ -17222,7 +17222,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6ef43310141f4e1aa82592c94066d6e1",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-27T16:24:45.411644"
   },
@@ -17243,9 +17243,30 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/1031bed1afed471eb596f2c48fd31f4c",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-27T16:29:08.313165"
+  },
+  {
+    "id": "UA-2026-08-27-005619-a",
+    "_raw_id": "20198ec5708d4496bc6957670c9099d6",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "ПУТИВЛЬСЬКИЙ ЛІЦЕЙ № 1 ІМ. Р. РУДНЄВА ПУТИВЛЬСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 208333.0,
+    "currency": "UAH",
+    "deadline": "2026-09-01",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/20198ec5708d4496bc6957670c9099d6",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-27T20:48:59.108846"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -25330,7 +25351,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/908fb0196cb6426f9ead6e126bf8af87",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-27T15:20:42.622479"
   },
@@ -25351,7 +25372,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/b75a441ee10a430fa860bec5587eb04d",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-27T16:00:08.554786"
   },
@@ -25372,9 +25393,72 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/8d717bcc0e614a48ad787c09b919987d",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-27T16:06:27.115036"
+  },
+  {
+    "id": "UA-2026-08-27-003556-a",
+    "_raw_id": "42f812c673ce4dbcab22a611f1d0ca7b",
+    "title": "ДК 021:2015 31154000-0 — Джерела безперебійного живлення (система гарантованого живлення)",
+    "org": "ДЕРЖАВНА УСТАНОВА \"ІНСТИТУТ ЗАГАЛЬНОЇ ТА НЕВІДКЛАДНОЇ ХІРУРГІЇ ІМЕНІ В.Т.ЗАЙЦЕВА НАЦІОНАЛЬНОЇ АКАДЕМІЇ МЕДИЧНИХ НАУК УКРАЇНИ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1583333.33,
+    "currency": "UAH",
+    "deadline": "2026-09-04",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/42f812c673ce4dbcab22a611f1d0ca7b",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-27T20:01:42.878572"
+  },
+  {
+    "id": "UA-2026-08-24-004147-a",
+    "_raw_id": "02de8eb7382746b487aff1a3d236e352",
+    "title": "Система резервного живлення (для структурних підрозділів Івано-Франківського міжрегіонального управління Міністерства юстиції України, які територіально розміщені у Чернівецькій області)",
+    "org": "ІВАНО-ФРАНКІВСЬКЕ МІЖРЕГІОНАЛЬНЕ УПРАВЛІННЯ  МІНІСТЕРСТВА ЮСТИЦІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 193030.55,
+    "currency": "UAH",
+    "deadline": "2026-09-01",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/02de8eb7382746b487aff1a3d236e352",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-27T20:20:28.682974"
+  },
+  {
+    "id": "UA-2026-08-27-005338-a",
+    "_raw_id": "8aa51d4951f0414d979bf04a79e57c43",
+    "title": "Комплекти резервного живлення",
+    "org": "ПУТИВЛЬСЬКИЙ ЛІЦЕЙ № 1 ІМ. Р. РУДНЄВА ПУТИВЛЬСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 66667.0,
+    "currency": "UAH",
+    "deadline": "2026-09-01",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/8aa51d4951f0414d979bf04a79e57c43",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-27T20:43:11.824980"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -26250,6 +26334,27 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-08-26T05:28:10.601643"
+  },
+  {
+    "id": "UA-2026-08-27-003396-a",
+    "_raw_id": "9ff69f98b0654a29a740f68169a4d048",
+    "title": "«Система сонячної станції в комплекті, а саме: сонячні панелі з каркасом та фурнітурою для кріплення, гібридні інвертора, системи збереження електроенергії з акумуляторними батареями та комплектом для монтажу»",
+    "org": "Тростянецький ліцей  Тростянецької селищної ради Вінницької області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1574166.67,
+    "currency": "UAH",
+    "deadline": "2026-09-04",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/9ff69f98b0654a29a740f68169a4d048",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-08-27T20:36:18.006989"
   },
   {
     "id": "UA-2026-03-20-008862-a",
