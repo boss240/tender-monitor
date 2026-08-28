@@ -5735,7 +5735,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/2b772b1c027f496caa6f23fd791cfb27",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-28T17:06:50.622735"
   },
@@ -5756,9 +5756,51 @@
     "cpv": "31155000-7",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/d141ec02799d49f1a5f9314fcb66758c",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-28T17:34:44.139734"
+  },
+  {
+    "id": "UA-2026-08-21-006692-a",
+    "_raw_id": "489abd3f18fb497094f4224e858c7555",
+    "title": "Придбання та встановлення сонячних електростанцій з гібридним інвертором, акумуляторною системо накопичення електричної енергії та супутнім обладнанням в Криворізькому Покровському ліцеї",
+    "org": "ВІДДІЛ ОСВІТИ ВИКОНКОМУ ПОКРОВСЬКОЇ РАЙОННОЇ В МІСТІ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 3090395.83,
+    "currency": "UAH",
+    "deadline": "2026-09-02",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/489abd3f18fb497094f4224e858c7555",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-08-28T21:18:14.544767"
+  },
+  {
+    "id": "UA-2026-08-28-005817-a",
+    "_raw_id": "7d4b29b5bcb9449e8deb8d7680df5010",
+    "title": "Придбання та встановлення акумуляторної системи зберігання електричної енергії та супутнього обладнання (інвертор, зокрема гібридний) з можливістю підключення такої системи до джерела резервного електроживлення Петропільського ліцею Широківської сільської ради Запорізького району Запорізької області",
+    "org": "ПЕТРОПІЛЬСЬКИЙ ЛІЦЕЙ ШИРОКІВСЬКОЇ СІЛЬСЬКОЇ РАДИ ЗАПОРІЗЬКОГО РАЙОНУ ЗАПОРІЗЬКОЇ ОБЛАСТІ ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 2200000.0,
+    "currency": "UAH",
+    "deadline": "2026-09-05",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/7d4b29b5bcb9449e8deb8d7680df5010",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-08-28T21:28:16.483489"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -17390,7 +17432,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/ca740e34c9b544dea439b92a0718403b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-28T16:24:54.975639"
   },
@@ -17411,7 +17453,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/bd50386be4bc42afae133515deff3083",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-28T16:47:29.023596"
   },
@@ -17432,7 +17474,7 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/7b657368117746cfa78f7b08c457b124",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-28T16:56:43.181799"
   },
@@ -17453,9 +17495,72 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/3266a2e7b22948f9956801af079f3903",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-28T17:37:46.201498"
+  },
+  {
+    "id": "UA-2026-08-28-004454-a",
+    "_raw_id": "83c3b039ba04422a8b6fc2be426aad94",
+    "title": "Акумуляторні батареї для Муніципальної пересувної екологічної лабораторії м. Одеси",
+    "org": "Департамент екології та розвитку рекреаційних зон Одеської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 82890.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/83c3b039ba04422a8b6fc2be426aad94",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-28T20:54:47.194086"
+  },
+  {
+    "id": "UA-2026-08-28-005736-a",
+    "_raw_id": "2fdf9a3eb40544949ed37bcb27a6938c",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ПЕРВОМАЙСЬКИЙ МІСЬКИЙ ЦЕНТР ПЕРВИННОЇ МЕДИКО-САНІТАРНОЇ ДОПОМОГИ\" ПЕРВОМАЙСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 72325.0,
+    "currency": "UAH",
+    "deadline": "2026-09-02",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/2fdf9a3eb40544949ed37bcb27a6938c",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-28T21:26:19.924098"
+  },
+  {
+    "id": "UA-2026-08-25-007744-a",
+    "_raw_id": "482450b7d297473889ec9beb73a45e7b",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "Відділ житлово-комунального господарства Ямпільської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 39583.33,
+    "currency": "UAH",
+    "deadline": "2026-08-28",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/482450b7d297473889ec9beb73a45e7b",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-28T21:56:55.523909"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -25671,6 +25776,27 @@
     "fetched_at": "2026-08-28T00:35:02.067502"
   },
   {
+    "id": "UA-2026-08-19-009104-a",
+    "_raw_id": "5e1b3328ee1942e78f83d44add45f307",
+    "title": "Система накопичення енергії (стандартна система накопичення енергії) з монтажем та пусконалагодженням.",
+    "org": "Відокремлений структурний підрозділ \"Технологічний фаховий коледж Державного університету економіки і технологій\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 3093500.0,
+    "currency": "UAH",
+    "deadline": "2026-08-28",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/5e1b3328ee1942e78f83d44add45f307",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-28T21:52:00.907860"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -26565,6 +26691,27 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-08-27T20:36:18.006989"
+  },
+  {
+    "id": "UA-2026-08-28-004506-a",
+    "_raw_id": "066843b7ad5a41cdad7506e6da173d33",
+    "title": "Сонячна гібридна електростанція (у складі: гібридні інвертори, контролери заряду, акумуляторні батареї, сонячні панелі та ін., з урахуванням витрат на монтаж та пусконалагодження",
+    "org": "ВІДОКРЕМЛЕНИЙ СТРУКТУРНИЙ ПІДРОЗДІЛ \"ФАХОВИЙ КОЛЕДЖ ІНФОРМАЦІЙНИХ ТЕХНОЛОГІЙ НАЦІОНАЛЬНОГО УНІВЕРСИТЕТУ \"ЛЬВІВСЬКА ПОЛІТЕХНІКА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 2355841.71,
+    "currency": "UAH",
+    "deadline": "2026-09-05",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/066843b7ad5a41cdad7506e6da173d33",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-08-28T20:56:33.140431"
   },
   {
     "id": "UA-2026-03-20-008862-a",
@@ -28592,7 +28739,7 @@
     "cpv": "09330000-1",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/1bf3ede9e1c14751aa8cbacc0d472f9b",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-28T17:21:38.264995"
   },
@@ -28615,7 +28762,7 @@
     "cpv": "09330000-1",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/30425f30b9cd4258a66baab974d5ea5f",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-28T17:28:39.605835"
   }
