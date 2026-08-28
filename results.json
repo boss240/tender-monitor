@@ -5698,6 +5698,27 @@
     "fetched_at": "2026-08-27T15:22:03.930893"
   },
   {
+    "id": "UA-2026-08-27-010264-a",
+    "_raw_id": "0d886b58e27b4ea9ba9cbc3c9c4f769c",
+    "title": "Акумулятор BB HR 9-6; Акумуляторна батарея CSB UPS12580 (UPS12580F2); Акумуляторна батарея EnerGenie 12V 7Ah (BAT-12V7AH",
+    "org": "Територіальне управління Державної судової адміністрації України в Вінницькій області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 75500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/0d886b58e27b4ea9ba9cbc3c9c4f769c",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-08-28T00:54:22.577414"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -17264,9 +17285,51 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/20198ec5708d4496bc6957670c9099d6",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-27T20:48:59.108846"
+  },
+  {
+    "id": "UA-2026-08-27-010110-a",
+    "_raw_id": "9e897943fcb24f2d9cc5e373f1762ef2",
+    "title": "Закупівля акумуляторів",
+    "org": "Державне підприємство \"Мультимедійна платформа іномовлення України\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 62263.89,
+    "currency": "UAH",
+    "deadline": "2026-09-04",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/9e897943fcb24f2d9cc5e373f1762ef2",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-28T00:44:22.965618"
+  },
+  {
+    "id": "UA-2026-08-27-011935-a",
+    "_raw_id": "518241b935e4451fa99207c7fa10229e",
+    "title": "ДК 021:2015 (CPV) : 31440000-2 Акумуляторні батареї (універсальні мобільні батареї  (Power Bank) з нанесеним зображенням)",
+    "org": "ДЕПАРТАМЕНТ ІНВЕСТИЦІЙНОЇ ПОЛІТИКИ, ПРОЄКТІВ, МІЖНАРОДНИХ ЗВ'ЯЗКІВ, ТУРИЗМУ ТА ПРОМОЦІЙ МІСТА ІВАНО-ФРАНКІВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 74466.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/518241b935e4451fa99207c7fa10229e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-28T01:36:30.516194"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -25414,7 +25477,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/42f812c673ce4dbcab22a611f1d0ca7b",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-27T20:01:42.878572"
   },
@@ -25435,7 +25498,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/02de8eb7382746b487aff1a3d236e352",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-27T20:20:28.682974"
   },
@@ -25456,9 +25519,30 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/8aa51d4951f0414d979bf04a79e57c43",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-27T20:43:11.824980"
+  },
+  {
+    "id": "UA-2026-08-27-009765-a",
+    "_raw_id": "7827d4eebd7c4ca39e2c1307fdb546b5",
+    "title": "Сонячна гібридна електростанція потужністю 20 кВт ( у складі: сонячна панель, гібридний інвертор, акумуляторна батарея,модуль управління акумуляторами, стійка на 13 модулів, кріплення відповідно до конструкції даху,комплект з’єднання (перемички)+конектори, кабель солярний, захисна автоматика, силовий кабель, наконечники,стяжки,гофра)  з урахуванням витрат на встановлення та пусконалагодження",
+    "org": "Вінницький національний технічний університет",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1482395.17,
+    "currency": "UAH",
+    "deadline": "2026-09-04",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/7827d4eebd7c4ca39e2c1307fdb546b5",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-28T00:35:02.067502"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -26352,7 +26436,7 @@
     "cpv": "09330000-1",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/9ff69f98b0654a29a740f68169a4d048",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-08-27T20:36:18.006989"
   },
