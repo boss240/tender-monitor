@@ -5714,9 +5714,51 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/0d886b58e27b4ea9ba9cbc3c9c4f769c",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-28T00:54:22.577414"
+  },
+  {
+    "id": "UA-2026-08-28-001214-a",
+    "_raw_id": "2b772b1c027f496caa6f23fd791cfb27",
+    "title": "Акумуляторні батареї LiFePO4 ANERN AN-LPB-N-48100, 51,2В/100Агод/5,12 кВТ/год",
+    "org": "КП Комунальне некомерційне підприємство \"Центр первинної медико-санітарної допомоги\" Пірнівської сільської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 96500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/2b772b1c027f496caa6f23fd791cfb27",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-08-28T17:06:50.622735"
+  },
+  {
+    "id": "UA-2026-08-18-009738-a",
+    "_raw_id": "d141ec02799d49f1a5f9314fcb66758c",
+    "title": "Гібридний інвертор SUN-16K-SG01LPI-EU (1 фазний)",
+    "org": "К1412",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 312000.0,
+    "currency": "UAH",
+    "deadline": "2026-08-26",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/d141ec02799d49f1a5f9314fcb66758c",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-08-28T17:34:44.139734"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -17306,7 +17348,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/9e897943fcb24f2d9cc5e373f1762ef2",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-28T00:44:22.965618"
   },
@@ -17327,9 +17369,93 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/518241b935e4451fa99207c7fa10229e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-28T01:36:30.516194"
+  },
+  {
+    "id": "UA-2026-08-24-004340-a",
+    "_raw_id": "ca740e34c9b544dea439b92a0718403b",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ПЕРВОМАЙСЬКИЙ МІСЬКИЙ ЦЕНТР ПЕРВИННОЇ МЕДИКО-САНІТАРНОЇ ДОПОМОГИ\" ПЕРВОМАЙСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 78750.0,
+    "currency": "UAH",
+    "deadline": "2026-08-28",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/ca740e34c9b544dea439b92a0718403b",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-28T16:24:54.975639"
+  },
+  {
+    "id": "UA-2026-08-28-000633-a",
+    "_raw_id": "bd50386be4bc42afae133515deff3083",
+    "title": "Закупівля технічного обладнання - модуль літій-залізо-фосфатної акумуляторної батареї високої напруги ",
+    "org": "ПУТИВЛЬСЬКИЙ ЛІЦЕЙ № 1 ІМ. Р. РУДНЄВА ПУТИВЛЬСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 800000.0,
+    "currency": "UAH",
+    "deadline": "2026-09-11",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/bd50386be4bc42afae133515deff3083",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-28T16:47:29.023596"
+  },
+  {
+    "id": "UA-2026-08-28-000831-a",
+    "_raw_id": "7b657368117746cfa78f7b08c457b124",
+    "title": "Гібридні інвертори ANERN SCI-EVO-10200",
+    "org": "КП Комунальне некомерційне підприємство \"Центр первинної медико-санітарної допомоги\" Пірнівської сільської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 93200.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/7b657368117746cfa78f7b08c457b124",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-28T16:56:43.181799"
+  },
+  {
+    "id": "UA-2026-08-28-001990-a",
+    "_raw_id": "3266a2e7b22948f9956801af079f3903",
+    "title": "Акумуляторні батареї (акумулятор)",
+    "org": "Управління освіти, молоді та спорту Лозівської міської ради Харківскої області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 96500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/3266a2e7b22948f9956801af079f3903",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-28T17:37:46.201498"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -25540,7 +25666,7 @@
     "cpv": "09330000-1",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/7827d4eebd7c4ca39e2c1307fdb546b5",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-28T00:35:02.067502"
   },
@@ -28448,5 +28574,49 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-26T05:22:10.206709"
+  },
+  {
+    "id": "UA-2026-08-28-001557-a",
+    "_raw_id": "1bf3ede9e1c14751aa8cbacc0d472f9b",
+    "title": "Комплексна гібридна сонячна електростанція з акумуляторною системою накопичення енергії для Навчального корпусу №1 ВСП \"Класичний фаховий коледж Сумського державного університету\", що розташований за адресою вул. Садова, 39, м. Конотоп, Сумської області",
+    "org": "Сумський державний університет",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1300000.0,
+    "currency": "UAH",
+    "deadline": "2026-09-05",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/1bf3ede9e1c14751aa8cbacc0d472f9b",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-08-28T17:21:38.264995"
+  },
+  {
+    "id": "UA-2026-08-28-002196-a",
+    "_raw_id": "30425f30b9cd4258a66baab974d5ea5f",
+    "title": "Двостороння Сонячна панель DAH Solar DHN-72X16/DG-590W, BIFACIAL. Притиск кінцевий 30 мм комплект для сонячних панелей. Притиск міжпанельний 30 мм комплект для сонячних панелей.",
+    "org": "ДЕРЖАВНА УСТАНОВА \"БОЖКОВСЬКА ВИПРАВНА КОЛОНІЯ (№16)\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 161873.42,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "09330000-1",
+      "09330000-1",
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/30425f30b9cd4258a66baab974d5ea5f",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-08-28T17:28:39.605835"
   }
 ]
