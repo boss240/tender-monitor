@@ -5819,7 +5819,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/421c26a5130a4412b008e3897ebb2692",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-29T01:12:54.804503"
   },
@@ -5840,7 +5840,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/9f4685e401ab4f8ba5ee04817a57a9f9",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-29T01:27:16.693956"
   },
@@ -17621,9 +17621,51 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/bd5eea8bdeb84813b7be7aa1f93ae669",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-29T00:31:56.445471"
+  },
+  {
+    "id": "UA-2026-08-26-013796-a",
+    "_raw_id": "af5d2f4073b14a928967e219d0104278",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "Уланівський ліцей Уланівської сільської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 203088.33,
+    "currency": "UAH",
+    "deadline": "2026-08-29",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/af5d2f4073b14a928967e219d0104278",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-29T11:01:26.523823"
+  },
+  {
+    "id": "UA-2026-08-29-000316-a",
+    "_raw_id": "b79678b4890a46d986dedfe987704df3",
+    "title": "Акумуляторні батареї (блоки) для безпілотних літальних апаратів",
+    "org": "Військова частина А5196",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 460000.0,
+    "currency": "UAH",
+    "deadline": "2026-09-09",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/b79678b4890a46d986dedfe987704df3",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-29T11:09:04.006364"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -25876,7 +25918,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/8c7cc59740e24e14a27c4f044cfb198f",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-29T00:23:41.935474"
   },
@@ -25897,7 +25939,7 @@
     "cpv": "31680000-6",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/1a3e45f217494cb39a4eb27cc6e84742",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-29T00:36:42.952014"
   },
@@ -25918,9 +25960,30 @@
     "cpv": "09332000-5",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/c65b56a1c5e94becba48c727a2b922df",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-29T01:09:58.235668"
+  },
+  {
+    "id": "UA-2026-08-21-007110-a",
+    "_raw_id": "3e349de2cb384072929565b7ab12878e",
+    "title": "Системи безперебійного живлення",
+    "org": "ЗП (ПТ) О \"БІЛОЦЕРКІВСЬКИЙ ПРОФЕСІЙНИЙ КОЛЕДЖ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 637500.0,
+    "currency": "UAH",
+    "deadline": "2026-08-29",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/3e349de2cb384072929565b7ab12878e",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-08-29T10:57:43.840550"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -26856,7 +26919,7 @@
     "cpv": "09330000-1",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/4577db6f61ac490499924571c0adcd8b",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-08-29T01:17:15.178518"
   },
@@ -28930,7 +28993,7 @@
     "cpv": "31680000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/c25559e922634948a38a8dc77dc47cfa",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-29T00:00:58.485486"
   }
