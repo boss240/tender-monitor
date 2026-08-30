@@ -17689,6 +17689,27 @@
     "fetched_at": "2026-08-29T18:36:35.576251"
   },
   {
+    "id": "UA-2026-08-30-000715-a",
+    "_raw_id": "23f73edd081f4724a04ae3dbf6b8139a",
+    "title": "Акумуляторні батареї",
+    "org": "Військова частина А0693",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 231000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/23f73edd081f4724a04ae3dbf6b8139a",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-08-30T18:46:20.847074"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
