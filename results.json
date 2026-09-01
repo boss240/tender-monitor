@@ -2543,9 +2543,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/93549d3d5ec84ef0a7b7869443943fd1",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-08-31T21:27:40.091309"
+  },
+  {
+    "id": "UA-2026-08-31-004862-a",
+    "_raw_id": "08f5fe8287974629abafdb77a7a98294",
+    "title": "Комплект резервного живлення (гібридний інверторр, акумулятор, та інші комплектуючі)",
+    "org": "Заліщицький навчально-реабілітаційний центр Тернопільської обласної ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1200000.0,
+    "currency": "UAH",
+    "deadline": "2026-09-08",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/08f5fe8287974629abafdb77a7a98294",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-09-01T09:43:40.362443"
   },
   {
     "id": "UA-2026-03-20-006846-a",
@@ -5903,7 +5924,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/bbe75bb10d684d57bda0fa29f355ae29",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-31T21:46:03.896028"
   },
@@ -5924,7 +5945,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/7f45ca4f30f94fab9bea968a25701feb",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-31T21:47:16.175678"
   },
@@ -5945,7 +5966,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/eb810de4e7354ced91fd8a031db92c10",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-31T21:59:37.316957"
   },
@@ -5966,9 +5987,30 @@
     "cpv": "31155000-7",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/b92fe91644a0406bac3564bd768a89df",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-08-31T22:11:35.899406"
+  },
+  {
+    "id": "UA-2026-09-01-001848-a",
+    "_raw_id": "e2dc5eb812364f69bb709c41909cf461",
+    "title": "Гібридний інвертор LuxPower SNA6000 Wide PV",
+    "org": "УПРАВЛІННЯ 1 КОРПУСУ НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ \"АЗОВ\" (ВІЙСЬКОВА ЧАСТИНА 4110)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 568230.94,
+    "currency": "UAH",
+    "deadline": "2026-09-10",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e2dc5eb812364f69bb709c41909cf461",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-09-01T10:11:57.493537"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -17852,7 +17894,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/8a1709dec00e4d4c82cba624fc85424f",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-31T20:57:27.316076"
   },
@@ -17873,7 +17915,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/7ec0cf9cfc6d44b88e09e3cd88d34bbc",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-31T21:37:43.772414"
   },
@@ -17894,7 +17936,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/77cc73a1ebc24f3491282667ff6f510b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-31T21:51:11.008430"
   },
@@ -17915,7 +17957,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/168575f25b6d4dc5b236b020f1c71b0e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-31T21:53:25.973159"
   },
@@ -17936,9 +17978,51 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/f65a368adc0d47b89a42d883e1d9e80f",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-08-31T21:53:33.812229"
+  },
+  {
+    "id": "UA-2026-09-01-001870-a",
+    "_raw_id": "6865cd4ec1924edba8a03c038825a1a4",
+    "title": "Акумуляторні батареї",
+    "org": "Управління Служби безпеки України в Житомирській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 517500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/6865cd4ec1924edba8a03c038825a1a4",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-01T10:12:29.454034"
+  },
+  {
+    "id": "UA-2026-09-01-002432-a",
+    "_raw_id": "1019eddb75084c6a9d20476ad678e94c",
+    "title": "Акумуляторні батареї",
+    "org": "Департамент економіки та розвитку інфраструктури міста Білгород – Дністровської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 35000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/1019eddb75084c6a9d20476ad678e94c",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-01T10:25:25.167956"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -26338,7 +26422,7 @@
     "cpv": "09332000-5",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/c8d62832d18e4cbba6e7573fd3a04f0c",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-31T20:44:51.038087"
   },
@@ -26359,7 +26443,7 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/385d45f3ef574312985f82a0d0f8a7da",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-31T21:06:08.509981"
   },
@@ -26380,7 +26464,7 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/0b292ac17b564638a94944e1a9da7bb6",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-08-31T21:06:14.456495"
   },
@@ -29413,8 +29497,31 @@
     "cpv": "31680000-6",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/bb89a9ab6a134e6c9f49e25ec3a97550",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-08-31T21:10:37.047068"
+  },
+  {
+    "id": "UA-2026-09-01-001415-a",
+    "_raw_id": "838fe8443a7a416b876cfe293149e83f",
+    "title": "Стартер ГАЗ 53, -66, ПАЗ  Лiхтар задн. лiв. MITSUBISHI L 200 05- (DEPO) Лiхтар задн. пра. MITSUBISHI L 200 05- (DEPO) Стартер ГАЗ із дв.ЗМЗ 406 редукторний 1.7 kW (DECARO) Перемикач поворотів, світла, фар п/тум. DAEWOO LANOS (вир-во PMC-ESSENCE) Стартер ЗІЛ 130 431410 і їх модифікацій.  Свічка запалювання DAEWOO LANOS, CHEVROLET LACETTI, AVEO (вир-во CHAMPION) Дріт запалювання DAEWOO LANOS 8 кл. силикон компл. (DECARO)",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 3021 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31610000-5",
+      "31610000-5",
+      "31610000-5"
+    ],
+    "cpv": "31610000-5",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/838fe8443a7a416b876cfe293149e83f",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-09-01T10:02:36.599060"
   }
 ]
