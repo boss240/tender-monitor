@@ -18025,6 +18025,27 @@
     "fetched_at": "2026-09-01T10:25:25.167956"
   },
   {
+    "id": "UA-2026-08-21-003384-a",
+    "_raw_id": "3e9bc0af83d24d54a5644fd4238cf3e9",
+    "title": "Акумуляторні батареї  для джерела безперебійного живлення (Сумська область)",
+    "org": "Державна установа \"Центр пробації\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 33976.67,
+    "currency": "UAH",
+    "deadline": "2026-08-29",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/3e9bc0af83d24d54a5644fd4238cf3e9",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-01T19:34:30.407049"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -26469,6 +26490,27 @@
     "fetched_at": "2026-08-31T21:06:14.456495"
   },
   {
+    "id": "UA-2026-09-01-003107-a",
+    "_raw_id": "f726d470ea244b82aa7f51e709b50735",
+    "title": "ДК 021:2015 - 31154000-0 Джерела безперебійного живлення",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"ПІДБУЗЬКА ЛІКАРНЯ СХІДНИЦЬКОЇ ТЕРИТОРІАЛЬНОЇ ГРОМАДИ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 199900.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/f726d470ea244b82aa7f51e709b50735",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-01T19:28:40.771834"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -29523,5 +29565,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-09-01T10:02:36.599060"
+  },
+  {
+    "id": "UA-2026-09-01-003127-a",
+    "_raw_id": "d6f411d9a6c14fa28b8d3748d75827c7",
+    "title": "Електростанція інверторна бензинова (1Ф) – FG5500iE (4 кВт) (FORTE)",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 3041 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 53500.0,
+    "currency": "UAH",
+    "deadline": "2026-09-04",
+    "cpvs": [
+      "31120000-3"
+    ],
+    "cpv": "31120000-3",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/d6f411d9a6c14fa28b8d3748d75827c7",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-09-01T19:28:23.937751"
   }
 ]
