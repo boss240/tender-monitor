@@ -2632,6 +2632,27 @@
     "fetched_at": "2026-09-05T08:28:04.134343"
   },
   {
+    "id": "UA-2026-09-04-007242-a",
+    "_raw_id": "4d1fd764db6643ce91d8e87e439ed130",
+    "title": "Система накопичення електричної енергії (гібридний інвертор 30 кВт, акумуляторні батареї, комплект монтажних матеріалів) з монтажем, підключенням та пусконалагоджувальними роботами.",
+    "org": "ТЕРНОПІЛЬСЬКИЙ НАВЧАЛЬНО-РЕАБІЛІТАЦІЙНИЙ ЦЕНТР ТЕРНОПІЛЬСЬКОЇ ОБЛАСНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 833333.33,
+    "currency": "UAH",
+    "deadline": "2026-09-21",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/4d1fd764db6643ce91d8e87e439ed130",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-09-05T17:35:31.632626"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -6200,6 +6221,27 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-04T15:07:33.744926"
+  },
+  {
+    "id": "UA-2026-08-26-011820-a",
+    "_raw_id": "88563a3d76af46aeb40e1bcdda0eeb51",
+    "title": "Установки для зберігання енергії (акумуляторні батареї)",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"Борщівський комунальник\" Борщівської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1808783.33,
+    "currency": "UAH",
+    "deadline": "2026-09-05",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/88563a3d76af46aeb40e1bcdda0eeb51",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-09-05T17:33:27.389818"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -18461,9 +18503,30 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/92e31827cca74e5aa1399a9b51f817a0",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-05T12:43:53.311688"
+  },
+  {
+    "id": "UA-2026-09-01-009671-a",
+    "_raw_id": "49137ce5c8ea452a8b39eda9bcd7be0d",
+    "title": "Акумуляторна батарея",
+    "org": "Військова частина А1586",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 77700.0,
+    "currency": "UAH",
+    "deadline": "2026-09-09",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/49137ce5c8ea452a8b39eda9bcd7be0d",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-05T17:31:10.681730"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -27178,7 +27241,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/d33833b4bf2144eba5cc3f78d2a3c6f2",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-05T12:49:07.308863"
   },
@@ -27199,7 +27262,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/313dbcc3f38f4db1bb4ca9695c9ffdc0",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-05T12:51:37.371331"
   },
@@ -27220,9 +27283,30 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/71213a10fbbf47eeb6436f9b2c898de7",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-05T12:54:13.952150"
+  },
+  {
+    "id": "UA-2026-08-28-006579-a",
+    "_raw_id": "04ac373beb48472f9d846057793afe15",
+    "title": "Сонячна гібридна електростанція з урахуванням витрат на встановлення та пусконалагодження",
+    "org": "ВІДОКРЕМЛЕНИЙ СТРУКТУРНИЙ ПІДРОЗДІЛ \"ХМЕЛЬНИЦЬКИЙ ПОЛІТЕХНІЧНИЙ ФАХОВИЙ КОЛЕДЖ НАЦІОНАЛЬНОГО УНІВЕРСИТЕТУ \"ЛЬВІВСЬКА ПОЛІТЕХНІКА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1600000.0,
+    "currency": "UAH",
+    "deadline": "2026-09-05",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/04ac373beb48472f9d846057793afe15",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-05T17:33:47.911883"
   },
   {
     "id": "UA-2026-03-31-000589-a",
