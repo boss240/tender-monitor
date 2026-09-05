@@ -2627,7 +2627,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/2d8d77e9df7e47ffb129e02afdee1d2c",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-09-05T08:28:04.134343"
   },
@@ -18419,7 +18419,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/45979da057ee441a8a047d7ed0170000",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-05T08:10:20.740802"
   },
@@ -18440,9 +18440,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/637e2cbdb13a434ba2b2b55cd6aa2701",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-05T08:29:06.877175"
+  },
+  {
+    "id": "UA-2026-09-05-000233-a",
+    "_raw_id": "92e31827cca74e5aa1399a9b51f817a0",
+    "title": "Акумулятори EnerSys Genesis 12EP26 G26EP 0765-2001, AGM",
+    "org": "Військова частина А4466",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 173460.0,
+    "currency": "UAH",
+    "deadline": "2026-09-16",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/92e31827cca74e5aa1399a9b51f817a0",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-05T12:43:53.311688"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -27141,6 +27162,69 @@
     "fetched_at": "2026-09-04T14:58:09.722921"
   },
   {
+    "id": "UA-2026-09-05-000347-a",
+    "_raw_id": "d33833b4bf2144eba5cc3f78d2a3c6f2",
+    "title": "Комплект джерела безперебійного живлення  та інші комплектуючі",
+    "org": "ЛІЦЕЙ № 5 ІМЕНІ Р.К. РАПІЯ ОХТИРСЬКОЇ МІСЬКОЇ РАДИ СУМСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 823200.0,
+    "currency": "UAH",
+    "deadline": "2026-09-21",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/d33833b4bf2144eba5cc3f78d2a3c6f2",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-05T12:49:07.308863"
+  },
+  {
+    "id": "UA-2026-09-03-007330-a",
+    "_raw_id": "313dbcc3f38f4db1bb4ca9695c9ffdc0",
+    "title": "Обладнання для забезпечення безперебійного енергопостачання",
+    "org": "Дніпровський державний медичний університет",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 3647494.67,
+    "currency": "UAH",
+    "deadline": "2026-09-19",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/313dbcc3f38f4db1bb4ca9695c9ffdc0",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-05T12:51:37.371331"
+  },
+  {
+    "id": "UA-2026-09-04-011619-a",
+    "_raw_id": "71213a10fbbf47eeb6436f9b2c898de7",
+    "title": "Система резервного живлення",
+    "org": "Кілійський ліцей Кілійської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1700000.0,
+    "currency": "UAH",
+    "deadline": "2026-09-21",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/71213a10fbbf47eeb6436f9b2c898de7",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-05T12:54:13.952150"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -30255,7 +30339,7 @@
     "cpv": "09330000-1",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/8be0ee9dd5134e4abd19a7fe154605b2",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-09-05T08:24:46.731937"
   }
