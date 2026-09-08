@@ -6407,7 +6407,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/0d9251b4f1284546981bb062ef657dda",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-08T14:25:49.506311"
   },
@@ -18902,7 +18902,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/94754eba37fd4b149314cd58336ab67f",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-08T14:25:15.068926"
   },
@@ -27850,9 +27850,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/aa1317fae476496bbb66761409f64711",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-08T14:31:06.692263"
+  },
+  {
+    "id": "UA-2026-08-31-010624-a",
+    "_raw_id": "e592ed6d853a4061960fae04fd4310e9",
+    "title": "Джерела безперебійного живлення",
+    "org": "Державна установа \"Центр громадського здоров'я Міністерства охорони здоров'я України\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 261627.0,
+    "currency": "UAH",
+    "deadline": "2026-09-08",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/e592ed6d853a4061960fae04fd4310e9",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-08T19:23:53.858759"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -30990,7 +31011,7 @@
     "cpv": "31680000-6",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/66d90445eb4d40f39e92fa829691fdae",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-09-08T14:10:29.040207"
   }
