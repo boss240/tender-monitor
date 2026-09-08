@@ -2690,9 +2690,51 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/583f381e31c24adb977bcc18c9444d8a",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-09-07T20:19:41.516660"
+  },
+  {
+    "id": "UA-2026-08-31-013478-a",
+    "_raw_id": "28c9cd4918f94d608be76485ca2fd5d2",
+    "title": "Комплект резервного живлення (гібридний інвертор, акумулятор та інші комплектуючі)",
+    "org": "Управління освіти Заліщицької міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 800000.0,
+    "currency": "UAH",
+    "deadline": "2026-09-08",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/28c9cd4918f94d608be76485ca2fd5d2",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-09-08T09:09:50.925625"
+  },
+  {
+    "id": "UA-2026-09-08-000606-a",
+    "_raw_id": "9c3f4d1713044ad0aac993e55d25e722",
+    "title": "Комплект обладнання ( Гібридний інвертор Deye 6кВт, Акумулятор Deye 11.8 кВт)",
+    "org": "ВОРОНІВСЬКИЙ ЗАКЛАД ДОШКІЛЬНОЇ ОСВІТИ \"ДЮЙМОВОЧКА\" ОЛЕКСАНДРІВСЬКОЇ СЕЛИЩНОЇ РАДИ ВОЗНЕСЕНСЬКОГО \nРАЙОНУ МИКОЛАЇВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 159890.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/9c3f4d1713044ad0aac993e55d25e722",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-09-08T09:34:24.757633"
   },
   {
     "id": "UA-2026-03-20-006846-a",
@@ -6305,6 +6347,48 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-07T09:44:04.288537"
+  },
+  {
+    "id": "UA-2026-09-02-013067-a",
+    "_raw_id": "7f43b5d461f34591ac531f482fe1cd2f",
+    "title": "Акумуляторні батареї до ДБЖ",
+    "org": "Військова частина А0351",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 659068.0,
+    "currency": "UAH",
+    "deadline": "2026-09-10",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/7f43b5d461f34591ac531f482fe1cd2f",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-09-08T08:51:03.484453"
+  },
+  {
+    "id": "UA-2026-08-31-010667-a",
+    "_raw_id": "900d3d91681346fa9e6e838ce99e69de",
+    "title": "Установка накопичення енергії з використанням гібридного інвертора, акумуляторної батареї та супутнього обладнання для безперебійного водопостачання мешканців Богодухівської громади для водозабору вул. Воїнської Слави, 1Б",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"БОГОДУХІВВОДА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1886416.67,
+    "currency": "UAH",
+    "deadline": "2026-09-08",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/900d3d91681346fa9e6e838ce99e69de",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-09-08T09:06:45.319957"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -18692,9 +18776,93 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/1f405d37c9e640ffb680df4fcea7e177",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-07T19:57:56.058756"
+  },
+  {
+    "id": "UA-2026-08-31-006656-a",
+    "_raw_id": "f46d800e74f5426cb9dcda7dcea26903",
+    "title": "Системи безперебійного живлення",
+    "org": "Управління освіти Дніпровської районної в місті Києві державної адміністрації",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 14793000.0,
+    "currency": "UAH",
+    "deadline": "2026-09-08",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/f46d800e74f5426cb9dcda7dcea26903",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-08T09:06:25.489816"
+  },
+  {
+    "id": "UA-2026-08-31-008075-a",
+    "_raw_id": "e608adac37ac4b5a9c03268980487792",
+    "title": "код ДК 021:2015 -09330000-1 Сонячна енергія (Трифазна гібридна сонячна електростанція загальною встановленою потужністю 50 кВт з системою накопичення (LiFePO4) 61.44 кВт у комплекті)",
+    "org": "Вільховецька сільська рада Тячівського району Закарпатської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1426666.67,
+    "currency": "UAH",
+    "deadline": "2026-09-08",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/e608adac37ac4b5a9c03268980487792",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-08T09:07:32.811171"
+  },
+  {
+    "id": "UA-2026-08-31-006338-a",
+    "_raw_id": "af8ffd6fd3f6404c8ae876de92b20648",
+    "title": "Акумулятори",
+    "org": "Державна установа \"Держгідрографія\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 38340.0,
+    "currency": "UAH",
+    "deadline": "2026-09-08",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/af8ffd6fd3f6404c8ae876de92b20648",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-08T09:19:17.306087"
+  },
+  {
+    "id": "UA-2026-09-08-001510-a",
+    "_raw_id": "50d7f36e32a24a0fb2b44414f5e69edc",
+    "title": "ДК 021:2015:31440000-2 – «Акумуляторні батареї»",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО КРЕМЕНЕЦЬКОЇ МІСЬКОЇ РАДИ \"МІСЬКВОДГОСП\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 867375.0,
+    "currency": "UAH",
+    "deadline": "2026-09-24",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/50d7f36e32a24a0fb2b44414f5e69edc",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-08T10:04:43.665406"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -27538,6 +27706,90 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-07T16:01:05.534952"
+  },
+  {
+    "id": "UA-2026-08-31-002560-a",
+    "_raw_id": "a70188c2333f405fb37a2c44381a8327",
+    "title": "комплект системи безперебійного живлення",
+    "org": "Відділ освіти, молоді та спорту Гадяцької міської ради Полтавської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1250000.0,
+    "currency": "UAH",
+    "deadline": "2026-09-08",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/a70188c2333f405fb37a2c44381a8327",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-08T09:00:06.927354"
+  },
+  {
+    "id": "UA-2026-08-31-012556-a",
+    "_raw_id": "4d838d237f7a44429154c0dc922b37fd",
+    "title": "Джерела (пристрої) безперебійного живлення",
+    "org": "Національний університет \"Львівська політехніка\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 494000.0,
+    "currency": "UAH",
+    "deadline": "2026-09-08",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/4d838d237f7a44429154c0dc922b37fd",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-08T09:03:32.419671"
+  },
+  {
+    "id": "UA-2026-08-31-011902-a",
+    "_raw_id": "bc95eec0cd444fd2802f7ba0fdacb5a2",
+    "title": "Система резервного живлення (для структурних підрозділів Івано-Франківського міжрегіонального управління Міністерства юстиції України, які територіально розміщені в Івано-Франківській області)",
+    "org": "ІВАНО-ФРАНКІВСЬКЕ МІЖРЕГІОНАЛЬНЕ УПРАВЛІННЯ  МІНІСТЕРСТВА ЮСТИЦІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 474107.78,
+    "currency": "UAH",
+    "deadline": "2026-09-08",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/bc95eec0cd444fd2802f7ba0fdacb5a2",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-08T09:10:11.970141"
+  },
+  {
+    "id": "UA-2026-08-31-010158-a",
+    "_raw_id": "0e9ffaac4ec2488ebefd2763c3e1ce89",
+    "title": "Комплект для садової техніки",
+    "org": "Клінічна лікарня \"Феофанія\" Державного управління справами",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 48551.89,
+    "currency": "UAH",
+    "deadline": "2026-09-08",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/0e9ffaac4ec2488ebefd2763c3e1ce89",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-08T09:35:45.788249"
   },
   {
     "id": "UA-2026-03-31-000589-a",
