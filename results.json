@@ -2711,7 +2711,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/28c9cd4918f94d608be76485ca2fd5d2",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-09-08T09:09:50.925625"
   },
@@ -2732,7 +2732,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/9c3f4d1713044ad0aac993e55d25e722",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-09-08T09:34:24.757633"
   },
@@ -6365,7 +6365,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/7f43b5d461f34591ac531f482fe1cd2f",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-08T08:51:03.484453"
   },
@@ -6386,9 +6386,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/900d3d91681346fa9e6e838ce99e69de",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-08T09:06:45.319957"
+  },
+  {
+    "id": "UA-2026-09-03-015242-a",
+    "_raw_id": "0d9251b4f1284546981bb062ef657dda",
+    "title": "1.\tАкумуляторні батареї LP LiFePO4 12,8V – 100 Ah (1280Wh) (BMS 100A/50A) 2.\tАкумуляторні батареї LP LiFePO4 25,6V – 100 Ah (2560Wh) (BMS 100A/50A)  3. Акумуляторна батарея LP LiFePO4 51,2V-100AH (5120Wh) (BMS JK 100A/50a) RM BL",
+    "org": "Військова частина А2171",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 363000.0,
+    "currency": "UAH",
+    "deadline": "2026-09-14",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/0d9251b4f1284546981bb062ef657dda",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-09-08T14:25:49.506311"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -18797,7 +18818,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/f46d800e74f5426cb9dcda7dcea26903",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-08T09:06:25.489816"
   },
@@ -18818,7 +18839,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/e608adac37ac4b5a9c03268980487792",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-08T09:07:32.811171"
   },
@@ -18839,7 +18860,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/af8ffd6fd3f6404c8ae876de92b20648",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-08T09:19:17.306087"
   },
@@ -18860,9 +18881,30 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/50d7f36e32a24a0fb2b44414f5e69edc",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-08T10:04:43.665406"
+  },
+  {
+    "id": "UA-2026-09-08-002474-a",
+    "_raw_id": "94754eba37fd4b149314cd58336ab67f",
+    "title": "Акумуляторні батареї",
+    "org": "Виконавчий комітет Оболонської сільської ради Кременчуцького району Полтавської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 38600.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/94754eba37fd4b149314cd58336ab67f",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-08T14:25:15.068926"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -27724,7 +27766,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/a70188c2333f405fb37a2c44381a8327",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-08T09:00:06.927354"
   },
@@ -27745,7 +27787,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/4d838d237f7a44429154c0dc922b37fd",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-08T09:03:32.419671"
   },
@@ -27766,7 +27808,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/bc95eec0cd444fd2802f7ba0fdacb5a2",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-08T09:10:11.970141"
   },
@@ -27787,9 +27829,30 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/0e9ffaac4ec2488ebefd2763c3e1ce89",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-08T09:35:45.788249"
+  },
+  {
+    "id": "UA-2026-08-25-009602-a",
+    "_raw_id": "aa1317fae476496bbb66761409f64711",
+    "title": "Система безперебійного живлення",
+    "org": "Державний професійно-технічний навчальний заклад \"Яготинський центр професійно-технічної освіти\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 637500.0,
+    "currency": "UAH",
+    "deadline": "2026-09-02",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/aa1317fae476496bbb66761409f64711",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-08T14:31:06.692263"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -30909,5 +30972,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-09-05T08:24:46.731937"
+  },
+  {
+    "id": "UA-2026-09-08-001894-a",
+    "_raw_id": "66d90445eb4d40f39e92fa829691fdae",
+    "title": "Бочковий насос JESSBERGER JP280-PP(HC)1200, 41mm",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО БРОВАРСЬКОЇ МІСЬКОЇ РАДИ БРОВАРСЬКОГО РАЙОНУ КИЇВСЬКОЇ ОБЛАСТІ \"БРОВАРИТЕПЛОВОДОЕНЕРГІЯ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 57798.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/66d90445eb4d40f39e92fa829691fdae",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-09-08T14:10:29.040207"
   }
 ]
