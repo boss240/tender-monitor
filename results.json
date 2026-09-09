@@ -18907,6 +18907,69 @@
     "fetched_at": "2026-09-08T14:25:15.068926"
   },
   {
+    "id": "UA-2026-09-03-014635-a",
+    "_raw_id": "c3a9fc0db2c64517927a96fbf8fd1177",
+    "title": "Акумуляторна батарея для наземного роботизованого комплексу 13S1P 60Аг",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 3005 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 170741.6,
+    "currency": "UAH",
+    "deadline": "2026-09-12",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/c3a9fc0db2c64517927a96fbf8fd1177",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-09T08:49:47.961524"
+  },
+  {
+    "id": "UA-2026-09-04-011750-a",
+    "_raw_id": "d586b4a616014ac08f6145de3969ad21",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "ВИКОНАВЧИЙ КОМІТЕТ КОСТЯНТИНІВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 220883.33,
+    "currency": "UAH",
+    "deadline": "2026-09-09",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/d586b4a616014ac08f6145de3969ad21",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-09T09:22:43.753121"
+  },
+  {
+    "id": "UA-2026-09-09-001266-a",
+    "_raw_id": "8973716d1d014be0b9489f9c4f304554",
+    "title": " Інвертори",
+    "org": "Комунальне некомерційне підприємство \"Городищенський центр первинної медико-санітарної допомоги\" Городищенської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 69800.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/8973716d1d014be0b9489f9c4f304554",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-09T09:37:17.273907"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -27871,9 +27934,72 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/e592ed6d853a4061960fae04fd4310e9",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-08T19:23:53.858759"
+  },
+  {
+    "id": "UA-2026-08-31-009288-a",
+    "_raw_id": "b7086ab22c444cff8b022be264a92f04",
+    "title": "Система безперебійного живлення",
+    "org": "ВІДДІЛ КУЛЬТУРИ, ТУРИЗМУ ТА ОХОРОНИ КУЛЬТУРНОЇ СПАДЩИНИ ДМИТРІВСЬКОЇ СІЛЬСЬКОЇ РАДИ КРОПИВНИЦЬКОГО РАЙОНУ КІРОВОГРАДСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 291666.67,
+    "currency": "UAH",
+    "deadline": "2026-09-09",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/b7086ab22c444cff8b022be264a92f04",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-09T08:59:31.582576"
+  },
+  {
+    "id": "UA-2026-09-08-009730-a",
+    "_raw_id": "53f0e04baf944f3391979cfd422c8be3",
+    "title": "Комплект джерела безперебійного живлення",
+    "org": "Комунальний заклад Сумської обласної ради \"Шосткинське вище професійне училище\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 932291.67,
+    "currency": "UAH",
+    "deadline": "2026-09-24",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/53f0e04baf944f3391979cfd422c8be3",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-09T09:00:53.933942"
+  },
+  {
+    "id": "UA-2026-08-31-012427-a",
+    "_raw_id": "401cb02e6b74429b8d612c7192a04fa1",
+    "title": "Джерела безперебійного живлення для потреб Вищого антикорупційного суду",
+    "org": "ВИЩИЙ АНТИКОРУПЦІЙНИЙ СУД",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 154666.67,
+    "currency": "UAH",
+    "deadline": "2026-09-09",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/401cb02e6b74429b8d612c7192a04fa1",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-09T09:49:26.602777"
   },
   {
     "id": "UA-2026-03-31-000589-a",
