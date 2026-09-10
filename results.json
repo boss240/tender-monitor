@@ -6534,7 +6534,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/5cf8166befe0493d96bec2a9d7cf8363",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-10T09:09:59.371737"
   },
@@ -6555,9 +6555,30 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/0f3cadaabb95420ea749791e7f86bf77",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-10T09:47:27.000060"
+  },
+  {
+    "id": "UA-2026-09-10-001820-a",
+    "_raw_id": "77bb05c8da944a6fa3309c7937b747cb",
+    "title": "Придбання предметів довгострокового користування —джерел резервного живлення - комплект: інвертор 6.2 кВт та акумулятор  51.2V 100Ah, BMS, для резервного живлення (31155000-7)",
+    "org": "КЗ Лубенська школа мистецтв",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 60000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/77bb05c8da944a6fa3309c7937b747cb",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-09-10T14:36:50.518260"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -19134,7 +19155,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/31e78294bbdb4136a0dd46906d4415ea",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-10T08:48:05.825656"
   },
@@ -19155,7 +19176,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/c0b6153701ca4984b503941982691653",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-10T09:17:07.543476"
   },
@@ -19176,7 +19197,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/20857ea95aef41cfb60c1cb043e00a2b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-10T09:27:14.950429"
   },
@@ -19197,7 +19218,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6e660e225b244e2381c62b6f82aef26e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-10T09:44:47.083744"
   },
@@ -28271,7 +28292,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/198ea27603d44088a96af89867992e45",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-10T08:47:13.234481"
   },
@@ -28292,7 +28313,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/6ffcd019084c47a097095d79cf64d656",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-10T08:59:32.230849"
   },
@@ -28313,7 +28334,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/18f162ef56b14261a04b706302d3a519",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-10T09:55:15.970384"
   },
@@ -29295,7 +29316,7 @@
     "cpv": "31680000-6",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/633f444d09d1491bb529380fdc943266",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-09-10T09:08:43.291556"
   },
@@ -31518,7 +31539,7 @@
     "cpv": "31680000-6",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/172dff40e5654fe9955f63c983da2358",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-09-10T09:09:18.089413"
   }
