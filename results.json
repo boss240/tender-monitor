@@ -2775,7 +2775,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/50dd4c1d034b43fb90ea3c75f1f5e701",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-09-11T09:52:30.088896"
   },
@@ -6618,7 +6618,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/03a7ba67b96f4d5f9ae1347d5a931c72",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-11T08:46:06.970166"
   },
@@ -19281,7 +19281,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/08f42a5132ce4ff8888fe16103369599",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-11T08:52:44.981919"
   },
@@ -19302,7 +19302,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/832e88689ec14cc1bb08fa7ae154b366",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-11T09:27:52.230090"
   },
@@ -19323,7 +19323,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/29612b6366964fd292e19e31119d39a8",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-11T09:49:59.074715"
   },
@@ -19344,7 +19344,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/3553d65ad61c45e591bf7c3099e28da7",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-11T10:00:03.848699"
   },
@@ -19365,7 +19365,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/8feee794b9444eb79ed97250de9c2173",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-11T10:01:29.956405"
   },
@@ -19386,9 +19386,51 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/f3f706e9a51a4715b6d578cdf3932ce8",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-11T10:11:50.176921"
+  },
+  {
+    "id": "UA-2026-09-11-002372-a",
+    "_raw_id": "88092bbe59ab491bb4191a7ed1ef8cfa",
+    "title": "Інвертор комплект",
+    "org": "КОМУНАЛЬНИЙ ЗАКЛАД СУМСЬКОЇ ОБЛАСНОЇ РАДИ \"ЛЕБЕДИНСЬКИЙ ПЕДАГОГІЧНИЙ ФАХОВИЙ КОЛЕДЖ ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 199863.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/88092bbe59ab491bb4191a7ed1ef8cfa",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-11T14:22:14.819239"
+  },
+  {
+    "id": "UA-2026-09-11-002817-a",
+    "_raw_id": "4f108b0ddef14689b6d5096720798ddc",
+    "title": "Акумуляторний блок Sofar BTS 5K",
+    "org": "КП Нехворощанський сільський комунгосп",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 87500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/4f108b0ddef14689b6d5096720798ddc",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-11T14:25:54.676054"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -28523,7 +28565,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/d8e370a901194e629cdb0073ad6756c3",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-11T09:20:49.277146"
   },
@@ -28544,7 +28586,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/f5714100c2f24f659e3ef6183116a2d7",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-11T09:28:22.396325"
   },
@@ -31752,5 +31794,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-09-10T09:09:18.089413"
+  },
+  {
+    "id": "UA-2026-09-11-002177-a",
+    "_raw_id": "ed813270d1394617b0145ed4ed403645",
+    "title": "код ДК 021:2015 - 09330000-1 - Сонячна енергія, Сонячна панель, потужність 620 Вт (24шт)\n\n",
+    "org": "Відділ освіти, культури, молоді та спорту Злинської сільської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 162000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/ed813270d1394617b0145ed4ed403645",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-09-11T14:21:08.268893"
   }
 ]
