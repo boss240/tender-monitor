@@ -6681,7 +6681,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/d2969e4746924e7cb8051abfe42dc0fe",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-12T13:01:54.305520"
   },
@@ -19554,7 +19554,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/c00624afa48047eb9dc5aa25d7ba5186",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-12T12:55:59.756865"
   },
@@ -19575,7 +19575,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/853733234b0241d6bff2c9fade892702",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-12T12:57:59.680926"
   },
@@ -19596,7 +19596,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/a0e79049c01044598e4617529194fa5e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-12T13:02:40.333024"
   },
@@ -28796,9 +28796,30 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/597d1c3068ad430ba18693de06be8603",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-12T13:01:19.541239"
+  },
+  {
+    "id": "UA-2026-09-12-000626-a",
+    "_raw_id": "63afc8c4f2da406fbeafee097455bbdc",
+    "title": "Автономна система електроживлення з монтажем та пусконалагодженням",
+    "org": "Комунальне підприємство \"Водно - інформаційний центр\" виконавчого органу Київської міської ради (Київської міської державної адміністрації)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 270000.0,
+    "currency": "UAH",
+    "deadline": "2026-09-28",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/63afc8c4f2da406fbeafee097455bbdc",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-12T17:59:00.197984"
   },
   {
     "id": "UA-2026-03-31-000589-a",
