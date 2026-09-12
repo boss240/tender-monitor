@@ -2796,7 +2796,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/fd1061a046c14177b481ea36d9d0e9a0",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-09-12T08:33:45.296831"
   },
@@ -6663,6 +6663,27 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-11T19:19:56.103008"
+  },
+  {
+    "id": "UA-2026-09-12-000469-a",
+    "_raw_id": "d2969e4746924e7cb8051abfe42dc0fe",
+    "title": "Гібридний інвертор",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"ЦЕНТР ПЕРВИННОЇ МЕДИКО-САНІТАРНОЇ ДОПОМОГИ\" ПЕТРІВСЬКОЇ СІЛЬСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 163400.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/d2969e4746924e7cb8051abfe42dc0fe",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-09-12T13:01:54.305520"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -19491,7 +19512,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/14b7d74d19bd4a228e9621f615ee5a0e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-12T08:30:41.740308"
   },
@@ -19512,9 +19533,72 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/25b6dcc3601f447381dcbb346c49d9dd",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-12T08:37:43.788487"
+  },
+  {
+    "id": "UA-2026-09-12-000299-a",
+    "_raw_id": "c00624afa48047eb9dc5aa25d7ba5186",
+    "title": "Акумуляторні батареї до автотехніки",
+    "org": "Військова частина А5092",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 574430.5,
+    "currency": "UAH",
+    "deadline": "2026-09-22",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/c00624afa48047eb9dc5aa25d7ba5186",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-12T12:55:59.756865"
+  },
+  {
+    "id": "UA-2026-09-12-000352-a",
+    "_raw_id": "853733234b0241d6bff2c9fade892702",
+    "title": "Акумуляторні батареї для Motorola R7",
+    "org": "Військова частина Т0940",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 63000.0,
+    "currency": "UAH",
+    "deadline": "2026-09-22",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/853733234b0241d6bff2c9fade892702",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-12T12:57:59.680926"
+  },
+  {
+    "id": "UA-2026-09-12-000495-a",
+    "_raw_id": "a0e79049c01044598e4617529194fa5e",
+    "title": "Акумуляторна батарея",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"ЦЕНТР ПЕРВИННОЇ МЕДИКО-САНІТАРНОЇ ДОПОМОГИ\" ПЕТРІВСЬКОЇ СІЛЬСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 99500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/a0e79049c01044598e4617529194fa5e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-12T13:02:40.333024"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -28691,9 +28775,30 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/933464d38f7a4232a0d9486129197ed3",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-12T08:38:18.881414"
+  },
+  {
+    "id": "UA-2026-09-11-013471-a",
+    "_raw_id": "597d1c3068ad430ba18693de06be8603",
+    "title": "Джерело безперебійного живлення Eaton 5E1200UD 1200VA",
+    "org": "Військова частина А3628",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 97174.0,
+    "currency": "UAH",
+    "deadline": "2026-09-22",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/597d1c3068ad430ba18693de06be8603",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-12T13:01:19.541239"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -31940,7 +32045,7 @@
     "cpv": "09330000-1",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6bf4bd89805b4837bf364b8181da536a",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-09-12T08:47:31.775266"
   }
