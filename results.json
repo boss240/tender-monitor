@@ -6686,6 +6686,48 @@
     "fetched_at": "2026-09-12T13:01:54.305520"
   },
   {
+    "id": "UA-2026-09-14-000929-a",
+    "_raw_id": "04e72333092e441ea3947d107a4a16be",
+    "title": "Гібридний сонячний інвертор (hybrid) Deye SUN-6K",
+    "org": "Територіальний центр надання соціальних послуг м.Черкаси",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 43750.0,
+    "currency": "UAH",
+    "deadline": "2026-09-21",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/04e72333092e441ea3947d107a4a16be",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-09-14T10:11:35.919234"
+  },
+  {
+    "id": "UA-2026-09-14-001294-a",
+    "_raw_id": "1b11335feb8846288c60d8cf18ec0614",
+    "title": "Обладнання для підготовки до опалювального періоду та забезпечення енергонезалежності  (Гібридний трифазний інвертор Deye SUN-15K-SG05LP3-EU)",
+    "org": "ТРЕТІЙ АПЕЛЯЦІЙНИЙ АДМІНІСТРАТИВНИЙ СУД",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 115000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/1b11335feb8846288c60d8cf18ec0614",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-09-14T10:20:02.775148"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -19622,6 +19664,90 @@
     "fetched_at": "2026-09-13T09:16:33.698380"
   },
   {
+    "id": "UA-2026-09-14-001307-a",
+    "_raw_id": "ce9f4237e04f40888eac590bcd6a50da",
+    "title": "EXT 6CT-100(0) Акумуляторна батарея 100А EXT 6CT-185A(3) Акумуляторна батарея 185A EXT 6CT-100(0) Акумуляторна батарея 100А",
+    "org": "Військова частина А2215",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/ce9f4237e04f40888eac590bcd6a50da",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-14T10:24:10.267340"
+  },
+  {
+    "id": "UA-2026-09-14-001532-a",
+    "_raw_id": "a41cf37e0fa64accbd085472192f335f",
+    "title": " Гібридний низьковольтний инвертор Deye SUN-15K-SG05LP3-EU-SM2 15кВт - 3-фазний(або еквівалент) ",
+    "org": "Олександрівська селищна рада",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 412500.0,
+    "currency": "UAH",
+    "deadline": "2026-09-17",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/a41cf37e0fa64accbd085472192f335f",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-14T10:28:58.875374"
+  },
+  {
+    "id": "UA-2026-09-14-001762-a",
+    "_raw_id": "0ff1a349d35f4a9395c915e58c7387bf",
+    "title": "Акумуляторні блоки",
+    "org": "ГОЛОВНИЙ ЦЕНТР ПІДГОТОВКИ ОСОБОВОГО СКЛАДУ ДЕРЖАВНОЇ ПРИКОРДОННОЇ СЛУЖБИ УКРАЇНИ ІМЕНІ ГЕНЕРАЛ-МАЙОРА ІГОРЯ МОМОТА(ВІЙСЬКОВА ЧАСТИНА 9930)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 822886.32,
+    "currency": "UAH",
+    "deadline": "2026-09-30",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/0ff1a349d35f4a9395c915e58c7387bf",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-14T10:32:47.501428"
+  },
+  {
+    "id": "UA-2026-09-14-001969-a",
+    "_raw_id": "64c6e80bec9a4f9fbcef639dfe692d88",
+    "title": "31155000-7 Інвертори",
+    "org": "ПІЩАНОБРІДСЬКЕ КОМУНАЛЬНЕ ПІДПРИЄМСТВО ПІЩАНОБРІДСЬКОЇ СІЛЬСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 101500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/64c6e80bec9a4f9fbcef639dfe692d88",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-14T10:38:36.112447"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -28843,6 +28969,27 @@
     "fetched_at": "2026-09-12T17:59:00.197984"
   },
   {
+    "id": "UA-2026-09-14-000545-a",
+    "_raw_id": "0c7ecc9b75f943ccac91bfbc4e0d300f",
+    "title": "Система накопичення електричної енергії (згідно специфікації)",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ІНФО-РАДА-ДНІПРО\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 357393.33,
+    "currency": "UAH",
+    "deadline": "2026-09-30",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/0c7ecc9b75f943ccac91bfbc4e0d300f",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-14T10:01:31.223933"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -32090,5 +32237,27 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-09-12T08:47:31.775266"
+  },
+  {
+    "id": "UA-2026-09-14-002826-a",
+    "_raw_id": "81350b88beb548e78f2ec77bcf298a1d",
+    "title": "Електричне приладдя та супутні товари до електричного обладнання (BMS DEYE BOS-G PRO 200-1000Vdc 120A (BOS-G-PDU-2), Deye 3U-HRack-2G 13 floors для 12 вв батарей)",
+    "org": "Уланівський ліцей Уланівської сільської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 70943.34,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31680000-6",
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/81350b88beb548e78f2ec77bcf298a1d",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-09-14T10:58:19.285250"
   }
 ]
