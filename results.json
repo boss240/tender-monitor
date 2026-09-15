@@ -2838,7 +2838,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/a93764bcf35c472aa222451cb7f1b662",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-09-15T15:18:26.766933"
   },
@@ -32490,5 +32490,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-09-14T10:58:19.285250"
+  },
+  {
+    "id": "UA-2026-09-15-004791-a",
+    "_raw_id": "074a2473ef6a4e48b623ba3312d12667",
+    "title": "Сонячна панель- 465Вт",
+    "org": "Дергачівська міська рада",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 73125.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/074a2473ef6a4e48b623ba3312d12667",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-09-15T19:57:54.792625"
   }
 ]
