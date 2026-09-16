@@ -6786,7 +6786,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/a4aaaa9c3c824210b87586cb0c55d65d",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-16T10:11:22.050464"
   },
@@ -19932,7 +19932,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/b063553d7743425d9180c6bbf34adf73",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-16T09:49:24.096279"
   },
@@ -19953,9 +19953,30 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/7e24a8896ad24d7cb04b60e1ad82d417",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-16T09:57:23.364467"
+  },
+  {
+    "id": "UA-2026-09-03-013920-a",
+    "_raw_id": "cd7e09809a0c4f588f7939b5ffd235b8",
+    "title": "Система зберігання енергії",
+    "org": "Регіональний сервісний центр ГСЦ МВС в Харківській, Полтавській та Сумській областях (філія ГСЦ МВС) ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 145668.54,
+    "currency": "UAH",
+    "deadline": "2026-09-14",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/cd7e09809a0c4f588f7939b5ffd235b8",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-16T15:13:24.852385"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -29300,7 +29321,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/4854c4ecdcee4647a6dde5aca65ddc45",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-16T09:30:28.234414"
   },
@@ -29321,9 +29342,30 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/243f6a464eb84602bb5b999491eab05e",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-16T10:05:37.701587"
+  },
+  {
+    "id": "UA-2026-09-16-003311-a",
+    "_raw_id": "3312f628800545969a412542dd5ac122",
+    "title": "Системи безперебійного живлення ",
+    "org": "Комунальне некомерційне підприємство \"Амбулаторія загальної практики-сімейної медицини\" Кожанської селищної ради Фастівського району Київської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 59700.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/3312f628800545969a412542dd5ac122",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-16T15:15:18.794811"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -32616,5 +32658,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-09-15T19:57:54.792625"
+  },
+  {
+    "id": "UA-2026-09-16-003277-a",
+    "_raw_id": "20d05bb18c2e47f5b948b895ef1e3eea",
+    "title": "Комплект обладнання для гібридної сонячної електростанції потужністю не менше 50 кВт з акумуляторними батареями не менше ємністю 53 кВт*год з монтажем та пусконалагодженням на місці її безпосередньої експлуатації (код ДК 021:2015 (CPV): 09330000-1 - Сонячна енергія)",
+    "org": "Гуманітарне управління Городоцької міської ради Львівської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1502009.33,
+    "currency": "UAH",
+    "deadline": "2026-10-02",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/20d05bb18c2e47f5b948b895ef1e3eea",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-09-16T15:14:39.044328"
   }
 ]
