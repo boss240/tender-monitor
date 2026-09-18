@@ -2880,7 +2880,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/43abb4dedeb0484bb864818c052f4a01",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-09-18T14:18:11.627440"
   },
@@ -2901,7 +2901,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/998f4757de344e48b021b353f3cf6b64",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-09-18T14:18:23.922225"
   },
@@ -6912,7 +6912,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/5776849413bb42229b4aafc811a9aa3b",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-18T13:32:10.652281"
   },
@@ -6933,7 +6933,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/1c94eef823d048f8bb8bfccb50634391",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-18T13:42:00.405144"
   },
@@ -20289,7 +20289,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/9d4f87fee8244073bef5dd2f16b505b9",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-18T13:40:32.763623"
   },
@@ -20310,7 +20310,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/d12ead6733f3423d8bb7481c690b3318",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-18T13:49:54.226027"
   },
@@ -20331,7 +20331,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/57a94d0f36374cffa1fc0c294a913c55",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-18T14:15:11.947267"
   },
@@ -29804,7 +29804,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/413cbf05ee2946559d8c9fae9ffccf29",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-18T13:50:53.575245"
   },
@@ -29825,7 +29825,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/30625968f49e499ebc789a5d256f0a06",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-18T13:59:38.890129"
   },
@@ -29846,7 +29846,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6c33044a0afa435cb91f3004952f3051",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-18T13:59:55.993980"
   },
@@ -29867,7 +29867,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/9b4936a3a2a94578a5aad154f09e9077",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-18T14:06:59.243808"
   },
@@ -29888,7 +29888,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/de2f301919774e8bb55f33ced71e1b38",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-18T14:34:13.554680"
   },
@@ -29909,9 +29909,51 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/a13bdd40924e41558b1b5d23eaafe8fd",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-18T14:46:27.572897"
+  },
+  {
+    "id": "UA-2026-09-18-004173-a",
+    "_raw_id": "a872b6703ea547ee97aa0ffda06c118d",
+    "title": "Комплект для відновлення роботи підлого мийних машин Gansow CT 40",
+    "org": "Клінічна лікарня \"Феофанія\" Державного управління справами",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 118016.67,
+    "currency": "UAH",
+    "deadline": "2026-10-05",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/a872b6703ea547ee97aa0ffda06c118d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-18T19:32:03.092019"
+  },
+  {
+    "id": "UA-2026-09-18-004203-a",
+    "_raw_id": "5a57495a0c7643e895d1a0ee93d57919",
+    "title": "Джерело безперебійного живлення",
+    "org": "Навчально-науковий комплекс \"Інститут прикладного системного аналізу\" Національного технічного університету України \"Київський політехнічний інститут імені Ігоря Сікорського\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 31576.5,
+    "currency": "UAH",
+    "deadline": "2026-10-04",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/5a57495a0c7643e895d1a0ee93d57919",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-18T19:33:35.468302"
   },
   {
     "id": "UA-2026-03-31-000589-a",
