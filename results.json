@@ -6849,7 +6849,7 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/313eedef221948f88b146fd9f94d3d3c",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-17T19:51:19.896880"
   },
@@ -20079,7 +20079,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/7bddd11d42714cbfbfae47b1aa4b8250",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-17T19:03:06.797199"
   },
@@ -20100,7 +20100,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/3b353aaba37d496eacb6ab26d9f8c26b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-17T19:07:07.512369"
   },
@@ -20121,7 +20121,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/16bd3368b6dc4e339af06dad981891fe",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-17T19:11:15.806527"
   },
@@ -20142,7 +20142,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/dacee92bed1c4e229471059e5724a9a5",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-17T19:14:13.768293"
   },
@@ -20163,7 +20163,7 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/b579bec90da54c7c92cad3c1b3be1f79",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-17T19:17:48.787862"
   },
@@ -20184,7 +20184,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6546be742b3a46329fc239f804e18873",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-17T19:41:26.666937"
   },
@@ -29594,7 +29594,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/68d766dfb2054c15b83641652ba96805",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-17T19:15:25.636566"
   },
@@ -29615,7 +29615,7 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/c136141b7a0e4874b59cd774a56c033d",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-17T19:22:19.401603"
   },
@@ -29636,7 +29636,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/808cdfbaf0f247b1862a099de64e8bf6",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-17T19:24:04.775157"
   },
@@ -32991,7 +32991,7 @@
     "cpv": "31400000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/92213cdfc265423a82fabeabd40e2309",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-09-17T19:23:20.715970"
   },
@@ -33012,8 +33012,29 @@
     "cpv": "09330000-1",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/01f1a26e30de4afdaf712617608e6a8a",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-09-17T19:32:59.955615"
+  },
+  {
+    "id": "UA-2026-09-02-014426-a",
+    "_raw_id": "5c58b1a624d04fb1a675c8953c4b55aa",
+    "title": "Джерело резервного живлення (сонячна електростанція потужністю сонячного поля 30,24 кВт. та акумуляторних батарей потужністю 30,72 кВт.)",
+    "org": "ВІДОКРЕМЛЕНИЙ СТРУКТУРНИЙ ПІДРОЗДІЛ ДУНАЙСЬКИЙ ФАХОВИЙ КОЛЕДЖ НАЦІОНАЛЬНОГО УНІВЕРСИТЕТУ \"ОДЕСЬКА МОРСЬКА АКАДЕМІЯ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1214991.56,
+    "currency": "UAH",
+    "deadline": "2026-09-18",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/5c58b1a624d04fb1a675c8953c4b55aa",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-09-18T09:05:33.192839"
   }
 ]
