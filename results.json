@@ -20352,7 +20352,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/7de7aaf1a07d4a07bc3844c1d1717767",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-19T08:44:37.087812"
   },
@@ -20373,7 +20373,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/e64d9c69436347298afe3b48f7fd1301",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-19T08:45:05.413912"
   },
@@ -20394,7 +20394,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/3bc1d2c070924cd3a59c420791e11295",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-19T08:52:40.237076"
   },
@@ -20415,7 +20415,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/a7a81fa3b2d747e68c575f266711e3a0",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-19T09:05:45.788980"
   },
@@ -30056,7 +30056,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/6586ae1d7728496582af1c7a12420d0d",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-19T08:40:46.575757"
   },
@@ -30077,7 +30077,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/0a8b2d2e35ae479cbc376a061620d079",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-19T08:43:42.079906"
   },
@@ -30098,7 +30098,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/69be3674dc1f4fdca811a6251db4c89c",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-19T08:52:27.049481"
   },
@@ -30119,9 +30119,51 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/7855388a10a84d98bd507cb2831f36c0",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-19T09:04:58.280851"
+  },
+  {
+    "id": "UA-2026-09-19-000298-a",
+    "_raw_id": "34deb358f1b44a6282d8ad41016f4d84",
+    "title": "Джерела безперебійного живлення",
+    "org": "Військова частина А4995",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 377824.4,
+    "currency": "UAH",
+    "deadline": "2026-09-29",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/34deb358f1b44a6282d8ad41016f4d84",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-19T13:15:37.024063"
+  },
+  {
+    "id": "UA-2026-09-19-000393-a",
+    "_raw_id": "fe2b3992e6f7494685156564b07045b6",
+    "title": "Джерела безперебійного живлення тип 3, джерела безперебійного живлення тип 4",
+    "org": "Військова частина А7382",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 590946.66,
+    "currency": "UAH",
+    "deadline": "2026-09-29",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/fe2b3992e6f7494685156564b07045b6",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-19T13:19:58.531000"
   },
   {
     "id": "UA-2026-03-31-000589-a",
