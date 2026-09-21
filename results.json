@@ -7022,6 +7022,27 @@
     "fetched_at": "2026-09-20T18:19:40.133462"
   },
   {
+    "id": "UA-2026-09-21-005560-a",
+    "_raw_id": "a7bb65c9f966400d9f48b3bd44402bab",
+    "title": "Гібридний інвертор",
+    "org": "Регіональний сервісний центр ГСЦ МВС в Харківській, Полтавській та Сумській областях (філія ГСЦ МВС) ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 55825.0,
+    "currency": "UAH",
+    "deadline": "2026-10-07",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/a7bb65c9f966400d9f48b3bd44402bab",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-09-21T20:42:07.822477"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -20672,6 +20693,111 @@
     "fetched_at": "2026-09-21T11:06:52.603727"
   },
   {
+    "id": "UA-2026-09-21-004344-a",
+    "_raw_id": "243d32feeb324479a353313e4298bf40",
+    "title": "31440000-2 Акумуляторні батареї",
+    "org": "ГОЛОВНЕ УПРАВЛІННЯ ДЕРЖАВНОЇ СЛУЖБИ УКРАЇНИ З НАДЗВИЧАЙНИХ СИТУАЦІЙ В ОДЕСЬКІЙ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 83150.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/243d32feeb324479a353313e4298bf40",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-21T20:20:16.613039"
+  },
+  {
+    "id": "UA-2026-09-21-004846-a",
+    "_raw_id": "cc8fe9a601554a13af41e4530fb8b220",
+    "title": "ДБЖ",
+    "org": "Військова частина 2138",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 104000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/cc8fe9a601554a13af41e4530fb8b220",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-21T20:25:28.420179"
+  },
+  {
+    "id": "UA-2026-09-21-005077-a",
+    "_raw_id": "392a1928196a48d49c09bec8a4a274e9",
+    "title": "Акумуляторні батареї",
+    "org": "КП Старосинявський центральний Водоканал №1 Старосинявської селищної ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 77590.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/392a1928196a48d49c09bec8a4a274e9",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-21T20:44:42.239778"
+  },
+  {
+    "id": "UA-2026-09-21-006243-a",
+    "_raw_id": "9fef03c917504de696e31c9baf97d6b8",
+    "title": "придбання гібридного інвертора",
+    "org": "Центр соціальних служб Корсунь-Шевченківської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 46545.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/9fef03c917504de696e31c9baf97d6b8",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-21T20:52:52.414912"
+  },
+  {
+    "id": "UA-2026-09-21-006419-a",
+    "_raw_id": "456fbc951ee14b0e8e41a648b8b12df7",
+    "title": "придбання акумуляторної батареї",
+    "org": "Центр соціальних служб Корсунь-Шевченківської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 44130.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/456fbc951ee14b0e8e41a648b8b12df7",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-21T20:56:33.919730"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -30479,6 +30605,48 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-21T10:07:26.070568"
+  },
+  {
+    "id": "UA-2026-09-04-006077-a",
+    "_raw_id": "c81884641a794f75888eaf9ecc558e4c",
+    "title": "Джерело безперебійного живлення (код 31150000-2 національного класифікатора України ДК 021:2015 «Єдиний закупівельний словник»)",
+    "org": "НАЦІОНАЛЬНЕ АНТИКОРУПЦІЙНЕ БЮРО УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 207044.17,
+    "currency": "UAH",
+    "deadline": "2026-09-21",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/c81884641a794f75888eaf9ecc558e4c",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-21T20:35:28.341649"
+  },
+  {
+    "id": "UA-2026-09-04-012326-a",
+    "_raw_id": "f292068a95af496e982066adbaab66a0",
+    "title": "Сонячна електростанція (придбання та встановлення джерел резервного живлення)\n",
+    "org": "Адміністрація Шевченківського району Дніпровської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 3714949.3,
+    "currency": "UAH",
+    "deadline": "2026-09-21",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/f292068a95af496e982066adbaab66a0",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-21T21:01:56.033254"
   },
   {
     "id": "UA-2026-03-31-000589-a",
