@@ -7038,9 +7038,30 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/a7bb65c9f966400d9f48b3bd44402bab",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-21T20:42:07.822477"
+  },
+  {
+    "id": "UA-2026-09-15-014737-a",
+    "_raw_id": "c2ef9c7f8e474e20b166b5ae1b138aa3",
+    "title": "Гібридний сонячний інвертор 6 кВт., гібридний сонячний інвертор 20 кВт.,  акумуляторна батарея 16 кВт., акумуляторна батарея 61,2 кВт.",
+    "org": "КП \"Кролевецька ЖЕК\" Кролевецької міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 670833.33,
+    "currency": "UAH",
+    "deadline": "2026-10-01",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/c2ef9c7f8e474e20b166b5ae1b138aa3",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-09-22T09:52:27.517918"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -20709,7 +20730,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/243d32feeb324479a353313e4298bf40",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-21T20:20:16.613039"
   },
@@ -20730,7 +20751,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/cc8fe9a601554a13af41e4530fb8b220",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-21T20:25:28.420179"
   },
@@ -20751,7 +20772,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/392a1928196a48d49c09bec8a4a274e9",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-21T20:44:42.239778"
   },
@@ -20772,7 +20793,7 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/9fef03c917504de696e31c9baf97d6b8",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-21T20:52:52.414912"
   },
@@ -20793,9 +20814,72 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/456fbc951ee14b0e8e41a648b8b12df7",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-21T20:56:33.919730"
+  },
+  {
+    "id": "UA-2026-09-09-009622-a",
+    "_raw_id": "ebc567ed7c854cc98dc9cf4fd59c8601",
+    "title": "Інвертор гібридний",
+    "org": " ГОЛОВНЕ УПРАВЛІННЯ ДЕРЖАВНОЇ СЛУЖБИ УКРАЇНИ З НАДЗВИЧАЙНИХ СИТУАЦІЙ У ЧЕРКАСЬКІЙ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 150162.92,
+    "currency": "UAH",
+    "deadline": "2026-09-15",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/ebc567ed7c854cc98dc9cf4fd59c8601",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-22T09:54:57.921791"
+  },
+  {
+    "id": "UA-2026-09-22-001760-a",
+    "_raw_id": "419409cd73ed40fea1f62b2519faa64a",
+    "title": "Акумуляторні батареї",
+    "org": "КНП \"Болградський районний центр ПМСД\" Болградської міської ради Одеської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 53080.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/419409cd73ed40fea1f62b2519faa64a",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-22T10:13:36.393454"
+  },
+  {
+    "id": "UA-2026-09-22-003190-a",
+    "_raw_id": "2af4ea9de5dc4b10b8e33eb16eb7fefe",
+    "title": "Акумулятори",
+    "org": "Державне підприємство \"СЕТАМ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 138000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/2af4ea9de5dc4b10b8e33eb16eb7fefe",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-22T10:34:47.105201"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -30623,7 +30707,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/c81884641a794f75888eaf9ecc558e4c",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-21T20:35:28.341649"
   },
@@ -30644,7 +30728,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/f292068a95af496e982066adbaab66a0",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-21T21:01:56.033254"
   },
@@ -34065,5 +34149,47 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-09-18T09:05:33.192839"
+  },
+  {
+    "id": "UA-2026-09-22-001303-a",
+    "_raw_id": "e25a2005ccfe42fcbe17467c93916f39",
+    "title": "Сонячна панель 620 Вт Trina Solar TSM-NE 19R",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ГЛОБИНСЬКЕ\" ГЛОБИНСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 90272.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/e25a2005ccfe42fcbe17467c93916f39",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-09-22T09:54:21.152511"
+  },
+  {
+    "id": "UA-2026-09-22-003031-a",
+    "_raw_id": "ce3d87a9645748a99d97eb86823a7b3d",
+    "title": "Електронне обладнання - за ДК 021:2015 - 31710000-6 (Інверторний вузол мамографічної системи Melody IIID TS в комплекті - за ДК 021:2015 - 31711100-4 Електронні компоненти)",
+    "org": "ДЕРЖАВНА НАУКОВА УСТАНОВА ЦЕНТР ІННОВАЦІЙНИХ ТЕХНОЛОГІЙ ОХОРОНИ ЗДОРОВ'Я ДЕРЖАВНОГО УПРАВЛІННЯ СПРАВАМИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 741580.0,
+    "currency": "UAH",
+    "deadline": "2026-10-08",
+    "cpvs": [
+      "31710000-6"
+    ],
+    "cpv": "31710000-6",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/ce3d87a9645748a99d97eb86823a7b3d",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-09-22T10:31:21.383229"
   }
 ]
