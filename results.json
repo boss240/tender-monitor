@@ -7059,7 +7059,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/c2ef9c7f8e474e20b166b5ae1b138aa3",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-22T09:52:27.517918"
   },
@@ -20835,7 +20835,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/ebc567ed7c854cc98dc9cf4fd59c8601",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-22T09:54:57.921791"
   },
@@ -20856,7 +20856,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/419409cd73ed40fea1f62b2519faa64a",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-22T10:13:36.393454"
   },
@@ -20877,9 +20877,30 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/2af4ea9de5dc4b10b8e33eb16eb7fefe",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-22T10:34:47.105201"
+  },
+  {
+    "id": "UA-2026-09-22-003317-a",
+    "_raw_id": "be391e0410684bdcb73cc48a108ceeb4",
+    "title": "Система резервного електроживлення будівлі навчального корпусу із використанням систем накопичення електричної енергії, гібридних інверторів, електрощитового обладнання та супутніх послуг з проєктування, монтажу, пусконалагодження і введення в експлуатацію",
+    "org": "ВІДОКРЕМЛЕНИЙ СТРУКТУРНИЙ ПІДРОЗДІЛ \"ВОЛИНСЬКИЙ ФАХОВИЙ КОЛЕДЖ НАЦІОНАЛЬНОГО УНІВЕРСИТЕТУ ХАРЧОВИХ ТЕХНОЛОГІЙ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 2661204.44,
+    "currency": "UAH",
+    "deadline": "2026-10-08",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/be391e0410684bdcb73cc48a108ceeb4",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-22T15:21:49.238687"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -34167,7 +34188,7 @@
     "cpv": "09330000-1",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/e25a2005ccfe42fcbe17467c93916f39",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-09-22T09:54:21.152511"
   },
@@ -34188,7 +34209,7 @@
     "cpv": "31710000-6",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/ce3d87a9645748a99d97eb86823a7b3d",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-09-22T10:31:21.383229"
   }
