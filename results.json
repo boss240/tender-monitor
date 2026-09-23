@@ -7080,7 +7080,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/c93bb53121bd4b22aece21ea10999009",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-22T19:45:22.139657"
   },
@@ -20940,7 +20940,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/882045e3222e4521acfe35fc11e74289",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-22T19:29:38.102831"
   },
@@ -20961,7 +20961,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/1d6b7de23e0041d5a18e30caf83f2c26",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-22T19:35:07.851521"
   },
@@ -20982,9 +20982,72 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/68e4e2c7252247abb48032ed3d291859",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-22T19:50:11.924406"
+  },
+  {
+    "id": "UA-2026-09-23-000866-a",
+    "_raw_id": "3064898280f54b08af33c8e4a57a5819",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "Військова частина А1964",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 65833.33,
+    "currency": "UAH",
+    "deadline": "2026-09-28",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/3064898280f54b08af33c8e4a57a5819",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-23T09:37:43.430944"
+  },
+  {
+    "id": "UA-2026-09-17-001280-a",
+    "_raw_id": "e2205d40d75e4873bdae1f5a5b69efbd",
+    "title": "Гібридний сонячний інвертор (hybrid) Europower RTSWm-MPPT-1000LCD  ",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 69000.0,
+    "currency": "UAH",
+    "deadline": "2026-09-27",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e2205d40d75e4873bdae1f5a5b69efbd",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-23T09:43:52.073978"
+  },
+  {
+    "id": "UA-2026-09-23-002143-a",
+    "_raw_id": "95014814ba384bc08489dbffceebd5ca",
+    "title": "ДК 021:2015 код 31440000-2 Акумуляторні батареї (акумуляторні батареї)",
+    "org": "ЧЕРНІВЕЦЬКИЙ ТОРГОВЕЛЬНО - ЕКОНОМІЧНИЙ ІНСТИТУТ ДЕРЖАВНОГО ТОРГОВЕЛЬНО - ЕКОНОМІЧНОГО УНІВЕРСИТЕТУ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 80649.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/95014814ba384bc08489dbffceebd5ca",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-23T10:07:40.706177"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -30854,7 +30917,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/890935a91b3449dcbec21783c9f8f23d",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-22T19:36:29.994159"
   },
@@ -30875,9 +30938,32 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6acd7385c9e54469a72264d21cb4b104",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-22T19:43:44.012532"
+  },
+  {
+    "id": "UA-2026-09-07-009698-a",
+    "_raw_id": "56e51f7cc073436a95c3a051ee5af3bb",
+    "title": "Інвертор Deye SUN-20K-SG01HP3-EU-AM2 - 1 шт.; акумуляторна батарея Deye BOS-GPack5.1 - 5 шт.;BMS- контролер Deye BOS-G-PDU-2 - 1 шт.; стійка стандартна Deye 3U-HRACK 19-дюймова - 1 шт.,Сонячна панель Longi Solar LR8-66HGD-615M Bifacial - 20 шт. (ДК 021:2015:09330000-1 Сонячна енергія)",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"ЦЕНТР ПЕРВИННОЇ МЕДИКО-САНІТАРНОЇ ДОПОМОГИ\" ГАЙВОРОНСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 500000.0,
+    "currency": "UAH",
+    "deadline": "2026-09-23",
+    "cpvs": [
+      "09330000-1",
+      "09330000-1",
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/56e51f7cc073436a95c3a051ee5af3bb",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-23T10:01:37.248318"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -34338,5 +34424,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-09-22T10:31:21.383229"
+  },
+  {
+    "id": "UA-2026-09-17-001561-a",
+    "_raw_id": "dfe243a80100429f82304eb9d47f3a9b",
+    "title": "Монокристалічна сонячна панель Longi Solar LR8-66HGD-615M в комплекті з 2 кабе-лями для сонячних панелей чорний та червоний (6мм) довжиною 6 метрів з конектора-ми MC4, IP67 ",
+    "org": "Військова частина А7040",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 39000.0,
+    "currency": "UAH",
+    "deadline": "2026-09-27",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/dfe243a80100429f82304eb9d47f3a9b",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-09-23T09:49:42.952029"
   }
 ]
