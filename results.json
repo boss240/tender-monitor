@@ -7122,7 +7122,7 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/8aa7c466b1a74cf6a5b111a5fbcde50e",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-24T09:29:09.823709"
   },
@@ -7143,7 +7143,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/98fc5416e46c430e95072904bc97d4c8",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-24T09:39:08.142177"
   },
@@ -21150,7 +21150,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/77c9d48c9dca43918385da3e5db181d7",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-24T09:22:35.465818"
   },
@@ -21171,7 +21171,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/cc3507f7d4124220b52eb148f02579b8",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-24T09:22:37.189800"
   },
@@ -21192,9 +21192,30 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/d840a90ad8e2470785bd5f1b126105ae",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-24T09:39:16.323725"
+  },
+  {
+    "id": "UA-2026-09-08-010250-a",
+    "_raw_id": "7e1ab32ec2ab4947910cd0f6401c0ab1",
+    "title": "Акумуляторні батареї згідно ДК 021:2015: 31440000-2 – Акумуляторні батареї",
+    "org": "ГОЛОВНЕ УПРАВЛІННЯ НАЦІОНАЛЬНОЇ ПОЛІЦІЇ В ЧЕРНІГІВСЬКІЙ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 130500.0,
+    "currency": "UAH",
+    "deadline": "2026-09-24",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/7e1ab32ec2ab4947910cd0f6401c0ab1",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-24T15:09:07.399479"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -31129,7 +31150,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/7856654f19934cbb83c5d2127759da29",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-24T09:06:50.132626"
   },
@@ -31150,7 +31171,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/1a11e2c4433b4046945d72e49f0f6ac5",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-24T09:10:35.164304"
   },
@@ -31171,7 +31192,7 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/1eb87ee114b646d391fb2e6bb3eeea1b",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-24T09:36:28.957751"
   },
@@ -32177,6 +32198,29 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-09-21T10:58:59.745712"
+  },
+  {
+    "id": "UA-2026-09-21-014536-a",
+    "_raw_id": "5d7a87f11f774d9ab7a67d8375c2893e",
+    "title": "31680000-6 Електричне приладдя та супутні товари до електричного обладнання ДБЖ для організації другого плеча живлення ЛАЗ РДЦ і АУ",
+    "org": "ПРИВАТНЕ АКЦІОНЕРНЕ ТОВАРИСТВО \"НАЦІОНАЛЬНА ЕНЕРГЕТИЧНА КОМПАНІЯ \"УКРЕНЕРГО\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 41166000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-07",
+    "cpvs": [
+      "31682530-4",
+      "31682530-4",
+      "31682530-4"
+    ],
+    "cpv": "31682530-4",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/5d7a87f11f774d9ab7a67d8375c2893e",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-09-24T15:05:51.375078"
   },
   {
     "id": "UA-2026-03-20-008862-a",
@@ -34694,7 +34738,7 @@
     "cpv": "31410000-3",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/c4361f744bff4ab4ad229a4e6081a99a",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-09-24T09:39:24.323216"
   }
