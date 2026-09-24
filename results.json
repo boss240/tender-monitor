@@ -7101,9 +7101,51 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/89dae72f2c014d67b461a49d1e6d147b",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-23T19:43:56.735417"
+  },
+  {
+    "id": "UA-2026-09-24-000745-a",
+    "_raw_id": "8aa7c466b1a74cf6a5b111a5fbcde50e",
+    "title": "ДК 021:2015 31155000-7 - Інвертори та ДК 021:2015 31440000-2 - Акумуляторні батареї",
+    "org": "КОМУНАЛЬНИЙ ЗАКЛАД ФІЗИЧНОЇ КУЛЬТУРИ І СПОРТУ \"КРЕМЕНЧУЦЬКА МІСЬКА СПЕЦІАЛІЗОВАНА ДИТЯЧО-ЮНАЦЬКА СПОРТИВНА ШКОЛА З БОРОТЬБИ ДЗЮДО\" КРЕМЕНЧУЦЬКОЇ МІСЬКОЇ РАДИ КРЕМЕНЧУЦЬКОГО РАЙОНУ ПОЛТАВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 163440.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/8aa7c466b1a74cf6a5b111a5fbcde50e",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-09-24T09:29:09.823709"
+  },
+  {
+    "id": "UA-2026-09-23-007868-a",
+    "_raw_id": "98fc5416e46c430e95072904bc97d4c8",
+    "title": " гібридний сонячний інвертор PowMr POW‑HVM10.2M 10.2 кВт 48v,  гібридний інвертор POW-HV6.2K-48V E 6200Bт",
+    "org": "Військова частина А 3425",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 100500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/98fc5416e46c430e95072904bc97d4c8",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-09-24T09:39:08.142177"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -21087,9 +21129,72 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/938c2043944e448fad3deeefda2b3272",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-23T20:13:23.781912"
+  },
+  {
+    "id": "UA-2026-09-18-013028-a",
+    "_raw_id": "77c9d48c9dca43918385da3e5db181d7",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "КОМУНАЛЬНИЙ ЗАКЛАД \"СОКИРИНЕЦЬКИЙ ЗАКЛАД ДОШКІЛЬНОЇ ОСВІТИ \"ДЗВІНОЧОК\" ЛУКА-МЕЛЕШКІВСЬКОЇ СІЛЬСЬКОЇ РАДИ ВІННИЦЬКОГО РАЙОНУ ВІННИЦЬКОЇ ОБЛАСТІ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 85925.0,
+    "currency": "UAH",
+    "deadline": "2026-09-24",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/77c9d48c9dca43918385da3e5db181d7",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-24T09:22:35.465818"
+  },
+  {
+    "id": "UA-2026-09-18-009859-a",
+    "_raw_id": "cc3507f7d4124220b52eb148f02579b8",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "КОМУНАЛЬНИЙ ЗАКЛАД \"ЛУКА-МЕЛЕШКІВСЬКИЙ ЛІЦЕЙ ЛУКА-МЕЛЕШКІВСЬКОЇ СІЛЬСЬКОЇ РАДИ ВІННИЦЬКОЇ ОБЛАСТІ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 82500.0,
+    "currency": "UAH",
+    "deadline": "2026-09-24",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/cc3507f7d4124220b52eb148f02579b8",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-24T09:22:37.189800"
+  },
+  {
+    "id": "UA-2026-09-24-001245-a",
+    "_raw_id": "d840a90ad8e2470785bd5f1b126105ae",
+    "title": "товари спеціального призначення, а саме : Акумуляторні батареї літій-іонні 8S1P, 39 А·год ",
+    "org": "Військова частина А4681",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 342000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/d840a90ad8e2470785bd5f1b126105ae",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-24T09:39:16.323725"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -31008,6 +31113,69 @@
     "fetched_at": "2026-09-23T10:01:37.248318"
   },
   {
+    "id": "UA-2026-09-24-000083-a",
+    "_raw_id": "7856654f19934cbb83c5d2127759da29",
+    "title": "Аккумулятор Autel Battery for EVO MAX 4T/4N (102002188) Premium 9248 mAh",
+    "org": "військова частина А0932",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 4305000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-05",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/7856654f19934cbb83c5d2127759da29",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-24T09:06:50.132626"
+  },
+  {
+    "id": "UA-2026-09-08-004909-a",
+    "_raw_id": "1a11e2c4433b4046945d72e49f0f6ac5",
+    "title": "Система гарантованого живлення потужністю  5 кВт з комплектом літій залізо фосфатних батарей",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"МИКОЛАЇВОБЛЕНЕРГО\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 143485.0,
+    "currency": "UAH",
+    "deadline": "2026-09-24",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/1a11e2c4433b4046945d72e49f0f6ac5",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-24T09:10:35.164304"
+  },
+  {
+    "id": "UA-2026-09-24-001140-a",
+    "_raw_id": "1eb87ee114b646d391fb2e6bb3eeea1b",
+    "title": "31154000-0 Джерела безперебійного живлення",
+    "org": "ВІДДІЛ КУЛЬТУРИ, МОЛОДІ ТА СПОРТУ ВИКОНАВЧОГО КОМІТЕТУ ЧУТІВСЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 54625.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/1eb87ee114b646d391fb2e6bb3eeea1b",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-24T09:36:28.957751"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -34505,8 +34673,29 @@
     "cpv": "09330000-1",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/11713b5685204244b8cfb8fc6819a7ba",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-09-23T19:44:41.413926"
+  },
+  {
+    "id": "UA-2026-09-24-001239-a",
+    "_raw_id": "c4361f744bff4ab4ad229a4e6081a99a",
+    "title": "Акумуляторна батарея ",
+    "org": "Головне управління Національної поліції в Миколаївській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 95988.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31410000-3"
+    ],
+    "cpv": "31410000-3",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/c4361f744bff4ab4ad229a4e6081a99a",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-09-24T09:39:24.323216"
   }
 ]
