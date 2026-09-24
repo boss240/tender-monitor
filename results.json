@@ -2969,6 +2969,27 @@
     "fetched_at": "2026-09-21T10:12:16.493625"
   },
   {
+    "id": "UA-2026-09-24-003326-a",
+    "_raw_id": "a32f5de146c64d1487f71935898f14c8",
+    "title": "Гібридний інвертор Deye SUN-6KSG03LP1-EU. Акумуляторна Deye LFP 100A.51.2V SE-F 5-PRO-C",
+    "org": "СМЕРЕКІВСЬКИЙ ЗАКЛАД ДОШКІЛЬНОЇ ОСВІТИ КУЛИКІВСЬКОЇ СЕЛИЩНОЇ РАДИ ЛЬВІВСЬКОГО РАЙОНУ ЛЬВІВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 107618.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/a32f5de146c64d1487f71935898f14c8",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-09-24T19:35:50.017236"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -21213,9 +21234,51 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/7e1ab32ec2ab4947910cd0f6401c0ab1",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-24T15:09:07.399479"
+  },
+  {
+    "id": "UA-2026-09-07-010621-a",
+    "_raw_id": "b4b75a5e1c424df8bf6d340b70c0a808",
+    "title": "Акумуляторні батареї",
+    "org": "Департамент патрульної поліції",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 429166.67,
+    "currency": "UAH",
+    "deadline": "2026-09-23",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/b4b75a5e1c424df8bf6d340b70c0a808",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-24T20:02:02.521453"
+  },
+  {
+    "id": "UA-2026-09-24-004726-a",
+    "_raw_id": "a0edf183187244ebbb8f574b1d7017c6",
+    "title": "Акумуляторні батареї за кодом ДК 021:2015  31440000-2 \"Акумуляторні батареї",
+    "org": "ФУРСІВСЬКА СІЛЬСЬКА РАДА",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 98000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/a0edf183187244ebbb8f574b1d7017c6",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-24T20:04:43.789295"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -31197,6 +31260,48 @@
     "fetched_at": "2026-09-24T09:36:28.957751"
   },
   {
+    "id": "UA-2026-09-24-003329-a",
+    "_raw_id": "60ace83359634a398183257afb41c42b",
+    "title": "«Комплект резервного живлення  з встановленням» (потужність не менше 6 кВт)\n",
+    "org": "ДЕПАРТАМЕНТ ГУМАНІТАРНОЇ ПОЛІТИКИ ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 233333.33,
+    "currency": "UAH",
+    "deadline": "2026-10-12",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/60ace83359634a398183257afb41c42b",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-24T19:35:20.992614"
+  },
+  {
+    "id": "UA-2026-09-10-015473-a",
+    "_raw_id": "e139b4ef003c42ec8a2bc0bb2935793f",
+    "title": "Комплект обладнання для збірно-розбірної споруди «сонячної електростанції» з послугами монтажу та пусконалагодження",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 3018 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 674423.33,
+    "currency": "UAH",
+    "deadline": "2026-09-21",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/e139b4ef003c42ec8a2bc0bb2935793f",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-24T19:56:04.716493"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -32218,7 +32323,7 @@
     "cpv": "31682530-4",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/5d7a87f11f774d9ab7a67d8375c2893e",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-09-24T15:05:51.375078"
   },
