@@ -3006,7 +3006,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/9759b47d5c2143f29f29fad4ef6f73f6",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-09-25T09:32:16.362238"
   },
@@ -7206,7 +7206,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/4c960b19ae4d4b57b94f9b4ae2f7aec0",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-25T09:29:18.834728"
   },
@@ -7227,7 +7227,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/1be5bbf3aca74e3194d5d6c964ae1319",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-25T10:24:15.067156"
   },
@@ -21360,7 +21360,7 @@
     "cpv": "31155000-7",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/b9add7603598475d987480c8d4ec7ab8",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-25T09:28:53.520493"
   },
@@ -21381,9 +21381,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/395e845999fb41a8a33043c55d2b8e84",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-25T09:49:18.534317"
+  },
+  {
+    "id": "UA-2026-09-25-003166-a",
+    "_raw_id": "8f3fccf020cd4eb89086fab78609ca01",
+    "title": "АКУМУЛЯТОРНІ БАТАРЕЇ",
+    "org": "МАШІВСЬКЕ ЖИТЛОВО - КОМУНАЛЬНЕ ГОСПОДАРСТВО",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 229000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/8f3fccf020cd4eb89086fab78609ca01",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-25T15:38:52.527569"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -31423,7 +31444,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/c09c1196067847f19c2101aa1195990b",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-25T09:40:50.813492"
   },
@@ -31444,7 +31465,7 @@
     "cpv": "31155000-7",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/5e2061db0d2749109f2c5a3ab3219e75",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-25T09:47:07.571429"
   },
@@ -31465,7 +31486,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/84c047a9add24f5ab571a142e7073e38",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-25T10:19:07.377692"
   },
@@ -31486,9 +31507,30 @@
     "cpv": "09332000-5",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/fc63bc5308c641b28e3b0d14aae7a327",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-25T10:33:23.157147"
+  },
+  {
+    "id": "UA-2026-09-25-002896-a",
+    "_raw_id": "6c340614601849c59bcfa5d60e1d919e",
+    "title": "Джерело безперебійного живлення",
+    "org": "Регіональний сервісний центр ГСЦ МВС у Дніпропетровській та Запорізькій областях (філія ГСЦ МВС)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 241477.5,
+    "currency": "UAH",
+    "deadline": "2026-10-12",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/6c340614601849c59bcfa5d60e1d919e",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-25T15:38:14.678808"
   },
   {
     "id": "UA-2026-03-31-000589-a",
