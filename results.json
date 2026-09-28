@@ -3090,7 +3090,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/542c46a584ad492cbcf62eaa624dfe71",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-09-28T10:54:12.957708"
   },
@@ -7374,7 +7374,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/f13cdb99f4bd4fbfb42c55dd40605044",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-28T11:26:39.605668"
   },
@@ -21675,7 +21675,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/eec87939525049b1b124b1b830fa0609",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-28T11:06:59.428097"
   },
@@ -31969,7 +31969,7 @@
     "cpv": "09330000-1",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/48d92f145fb146cfa399367f7f4c1a1c",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-28T11:31:02.111034"
   },
@@ -31990,7 +31990,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/739481dd10a0455ea8def2dc4d42a7bf",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-28T11:31:48.412544"
   },
@@ -35644,5 +35644,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-09-27T14:49:07.042699"
+  },
+  {
+    "id": "UA-2026-09-11-012848-a",
+    "_raw_id": "6db4d90fdb124e6d8f6f9610319c2062",
+    "title": "Гібридна сонячна електростанція з фотоелектричними модулями, гібридним інвертором і системою накопичення електричної енергії з монтажем, підключенням та пусконалагоджувальними роботами",
+    "org": "Головне управління ДСНС України у Тернопільській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 1093441.67,
+    "currency": "UAH",
+    "deadline": "2026-09-28",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/6db4d90fdb124e6d8f6f9610319c2062",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-09-28T18:48:26.634659"
   }
 ]
