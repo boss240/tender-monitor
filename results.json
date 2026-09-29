@@ -3111,7 +3111,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/d99e34617d7e4e3886ed8a2a351cccfb",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-09-28T22:19:39.812253"
   },
@@ -7416,7 +7416,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/0bdcbf65ca984f2188ac2d28403703f9",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-28T21:37:54.914207"
   },
@@ -7437,7 +7437,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/24a83c750eeb4eb5b295dd656af74b42",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-28T22:19:28.849447"
   },
@@ -21759,7 +21759,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/3e8f9faec8ef4dff8348d92d3825b1c8",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-28T21:20:29.830618"
   },
@@ -21780,7 +21780,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/3023f197ee094ce0b7e81d61f8ca581c",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-28T21:36:21.272828"
   },
@@ -21801,7 +21801,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/693d5858942b41828094b1c184f6e0f4",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-28T21:44:09.842413"
   },
@@ -21822,7 +21822,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/27f594d364ed4897a6e3cdb7810bf395",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-28T21:57:41.930253"
   },
@@ -21843,7 +21843,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/9b3ca88366104fffaaf08a4d0f49ef2e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-28T21:59:46.691415"
   },
@@ -21864,9 +21864,51 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/70034fdcd23c437fb36d22cba2e63285",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-28T22:29:40.884592"
+  },
+  {
+    "id": "UA-2026-09-22-006900-a",
+    "_raw_id": "e5470d27a75a487085861a046e1ff88a",
+    "title": "Сонячна гібридна електростанція з акумуляторною системою накопичення енергії",
+    "org": "ГОЛОВАНІВСЬКИЙ ЛІЦЕЙ ІМ. Т.Г. ШЕВЧЕНКА ГОЛОВАНІВСЬКОЇ СЕЛИЩНОЇ  РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1083333.33,
+    "currency": "UAH",
+    "deadline": "2026-10-08",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e5470d27a75a487085861a046e1ff88a",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-29T11:46:31.334692"
+  },
+  {
+    "id": "UA-2026-09-23-014222-a",
+    "_raw_id": "8298b183a6cf4c059dee628740ff29a5",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "КЗ КИЇВСЬКИЙ ПАЛАЦ ДІТЕЙ ТА ЮНАЦТВА",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 250092.5,
+    "currency": "UAH",
+    "deadline": "2026-09-28",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/8298b183a6cf4c059dee628740ff29a5",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-29T11:47:24.130897"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -32200,7 +32242,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/b54bf05ec155451490d16356715d6b1b",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-28T21:29:49.317905"
   },
@@ -32221,7 +32263,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/cb18ec657b6b423f8d39205e8cc3d117",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-28T21:31:52.517228"
   },
@@ -32242,7 +32284,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/f5eee4cbb7e249b1a63a6fdcf9cc69f2",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-28T21:33:39.017114"
   },
@@ -32263,9 +32305,72 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/aa79f8a4f4c649599927a70b0c4cfd16",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-28T21:40:01.923635"
+  },
+  {
+    "id": "UA-2026-09-29-001959-a",
+    "_raw_id": "b6e4d1dd4bb94f4096fbe9c78c9247b5",
+    "title": "Системи резервного живлення",
+    "org": "ФІЛІЯ «ВІДОКРЕМЛЕНИЙ ПІДРОЗДІЛ  «ХМЕЛЬНИЦЬКА АТОМНА ЕЛЕКТРИЧНА СТАНЦІЯ» АКЦІОНЕРНОГО ТОВАРИСТВА «НАЦІОНАЛЬНА АТОМНА ЕНЕРГОГЕНЕРУЮЧА КОМПАНІЯ «ЕНЕРГОАТОМ»",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 670000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-16",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/b6e4d1dd4bb94f4096fbe9c78c9247b5",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-29T11:25:13.535548"
+  },
+  {
+    "id": "UA-2026-09-29-002632-a",
+    "_raw_id": "0b973809497f4f4aa9743e4a505f73a6",
+    "title": "Джерело безперебійного живлення  PECRON (F3000LFP)",
+    "org": "Заклад фахової передвищої освіти \"Київський фаховий медичний коледж ім.П.І.Гаврося\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 59980.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/0b973809497f4f4aa9743e4a505f73a6",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-29T11:43:38.530900"
+  },
+  {
+    "id": "UA-2026-09-29-002700-a",
+    "_raw_id": "ccf0e6580c4d4bdebf5605686b29e820",
+    "title": "Джерело безперебійного живлення",
+    "org": "Кіптівська сільська рада",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 34920.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/ccf0e6580c4d4bdebf5605686b29e820",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-29T11:46:26.466531"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -35956,7 +36061,7 @@
     "cpv": "31680000-6",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/4116046632fe42818639c83e74d7bdca",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-09-28T21:25:15.016715"
   },
@@ -35977,7 +36082,7 @@
     "cpv": "31410000-3",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/f72e853f429b48ba9c57b5173fe1c94e",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-09-28T21:30:23.351850"
   },
@@ -35998,8 +36103,29 @@
     "cpv": "09330000-1",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/5f112ddeff104a09aaeb9df57b8ea02d",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-09-28T21:31:29.967256"
+  },
+  {
+    "id": "UA-2026-09-29-001552-a",
+    "_raw_id": "acc71acfe9d242b7b9ed1154c35d0208",
+    "title": "Витратні матеріали для комутації інвертору та АКБ",
+    "org": "Комунальне некомерційне підприємство \"Південнівська міська лікарня\" Південнівської міської ради.",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 73945.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31210000-1"
+    ],
+    "cpv": "31210000-1",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/acc71acfe9d242b7b9ed1154c35d0208",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-09-29T11:15:19.659242"
   }
 ]
