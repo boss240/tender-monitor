@@ -21911,6 +21911,111 @@
     "fetched_at": "2026-09-29T11:47:24.130897"
   },
   {
+    "id": "UA-2026-09-29-003268-a",
+    "_raw_id": "68e76c5a663449ea85fdded6093dbd9f",
+    "title": "Акумуляторна батарея",
+    "org": "Комунальний заклад \"Концертний заклад культури \"Київський академічний муніципальний духовий оркестр\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 99000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/68e76c5a663449ea85fdded6093dbd9f",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-29T20:06:50.372614"
+  },
+  {
+    "id": "UA-2026-09-29-004941-a",
+    "_raw_id": "7a4e94ca70c947169dd5cf29763dbbbd",
+    "title": "Система зберігання енергії ",
+    "org": "Опорний заклад загальної середньої освіти \"Прилісненський ліцей Прилісненської сільської ради Волинської області\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 1125000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-15",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/7a4e94ca70c947169dd5cf29763dbbbd",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-29T20:41:26.445189"
+  },
+  {
+    "id": "UA-2026-09-29-005049-a",
+    "_raw_id": "cb1201e53e2a4ce8ba340350b96ba71b",
+    "title": "Залізофосфатна акумуляторна батарея",
+    "org": "Комунальний заклад Львівської обласної ради \"Центр моніторингу соціальних програм та контролю за призначенням і виплатою допомог\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 59600.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/cb1201e53e2a4ce8ba340350b96ba71b",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-29T20:44:11.751011"
+  },
+  {
+    "id": "UA-2026-09-29-004333-a",
+    "_raw_id": "92d5c3ed79fe48ddb9f82667c0bfc29f",
+    "title": "Акумуляторна збірка ",
+    "org": "ПрАТ \"Кіровоградобленерго\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 100000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/92d5c3ed79fe48ddb9f82667c0bfc29f",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-29T20:59:14.721135"
+  },
+  {
+    "id": "UA-2026-09-29-005952-a",
+    "_raw_id": "a3c7aba8b91a4b468755a8ccf061df60",
+    "title": "Придбання: Акумулятор у кількості 40 (сорок) штук;",
+    "org": "Військова частина А4706",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1701600.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/a3c7aba8b91a4b468755a8ccf061df60",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-29T21:05:36.246025"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -32371,6 +32476,27 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-29T11:46:26.466531"
+  },
+  {
+    "id": "UA-2026-09-29-004437-a",
+    "_raw_id": "37d2db07d9ff4e33bc0a1ca872fc0386",
+    "title": "Джерело безперебійного живлення",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО ЛЬВІВСЬКОЇ ОБЛАСНОЇ РАДИ \"ЛЬВІВСЬКИЙ ОБЛАСНИЙ ГОСПІТАЛЬ ВЕТЕРАНІВ ВІЙН ТА РЕПРЕСОВАНИХ ІМ.Ю.ЛИПИ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 87648.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/37d2db07d9ff4e33bc0a1ca872fc0386",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-29T20:30:10.096445"
   },
   {
     "id": "UA-2026-03-31-000589-a",
