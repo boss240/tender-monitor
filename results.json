@@ -3132,7 +3132,7 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/95e89c686bb04ba8a6ab5829eaecf990",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-09-30T11:13:03.999202"
   },
@@ -7479,7 +7479,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/ab97c0b9dd7f451b830f8413f94dad84",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-30T11:08:45.861532"
   },
@@ -22074,7 +22074,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/f1f932cc6e004f0483d29a1eed4a9a1d",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-30T10:41:52.731111"
   },
@@ -22095,7 +22095,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/1825509903f04565846b5a05c0b9be96",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-30T10:53:26.170694"
   },
@@ -22116,7 +22116,7 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/b2c6e985982244a2bb356c5d872f6456",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-30T10:54:49.533605"
   },
@@ -22137,7 +22137,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/60cc19af84ff477a94285931aa6f4523",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-30T11:12:08.891067"
   },
@@ -22158,9 +22158,30 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/a0a3311327b043e6a569e10813477095",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-30T11:15:48.083859"
+  },
+  {
+    "id": "UA-2026-09-30-001730-a",
+    "_raw_id": "f07bb20e88c7467c99a4c9065fafaaaf",
+    "title": "Акумулятор EDON ED-110Ah (код ДК 021:2015 31440000-2 - Акумуляторні батареї)",
+    "org": "Відділ культури ,сім`ї,молоді,та спорту Городнянської міської ради.",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 49990.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/f07bb20e88c7467c99a4c9065fafaaaf",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-30T17:02:48.133278"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -32662,7 +32683,7 @@
     "cpv": "31155000-7",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/d3584f9a3a2640e9948da5ba1808873d",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-30T10:57:43.074788"
   },
@@ -32683,7 +32704,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/8a13ba1175f64b4fa5b031213b9dc19a",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-30T11:05:00.597938"
   },
@@ -32704,7 +32725,7 @@
     "cpv": "09332000-5",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/e8606bcc465c44d8b82b5cde0ee53534",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-30T11:24:58.189011"
   },
