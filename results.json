@@ -3116,6 +3116,27 @@
     "fetched_at": "2026-09-28T22:19:39.812253"
   },
   {
+    "id": "UA-2026-09-30-001523-a",
+    "_raw_id": "95e89c686bb04ba8a6ab5829eaecf990",
+    "title": "Гібридний інвертор Deye.",
+    "org": "КП Господарник",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 92032.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/95e89c686bb04ba8a6ab5829eaecf990",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-09-30T11:13:03.999202"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -7440,6 +7461,27 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-09-28T22:19:28.849447"
+  },
+  {
+    "id": "UA-2026-09-30-000876-a",
+    "_raw_id": "ab97c0b9dd7f451b830f8413f94dad84",
+    "title": "31440000-2 Акумуляторні батареї (Акумулятори до ДБЖ)",
+    "org": "ДП \"УКРМЕТРТЕСТСТАНДАРТ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 94800.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/ab97c0b9dd7f451b830f8413f94dad84",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-09-30T11:08:45.861532"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -21927,7 +21969,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/68e76c5a663449ea85fdded6093dbd9f",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-29T20:06:50.372614"
   },
@@ -21948,7 +21990,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/7a4e94ca70c947169dd5cf29763dbbbd",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-29T20:41:26.445189"
   },
@@ -21969,7 +22011,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/cb1201e53e2a4ce8ba340350b96ba71b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-29T20:44:11.751011"
   },
@@ -21990,7 +22032,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/92d5c3ed79fe48ddb9f82667c0bfc29f",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-29T20:59:14.721135"
   },
@@ -22011,9 +22053,114 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/a3c7aba8b91a4b468755a8ccf061df60",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-29T21:05:36.246025"
+  },
+  {
+    "id": "UA-2026-09-21-010695-a",
+    "_raw_id": "f1f932cc6e004f0483d29a1eed4a9a1d",
+    "title": "Акумуляторних батарей код за ДК 021:2015: 31440000-2 «Акумуляторні батареї»",
+    "org": "А5025",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 145942.67,
+    "currency": "UAH",
+    "deadline": "2026-09-30",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/f1f932cc6e004f0483d29a1eed4a9a1d",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-30T10:41:52.731111"
+  },
+  {
+    "id": "UA-2026-09-30-001116-a",
+    "_raw_id": "1825509903f04565846b5a05c0b9be96",
+    "title": "Акумулятори ",
+    "org": "КП ВМР \"ВАСИЛЬКІВТЕПЛОМЕРЕЖА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 121684.15,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/1825509903f04565846b5a05c0b9be96",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-30T10:53:26.170694"
+  },
+  {
+    "id": "UA-2026-09-30-001177-a",
+    "_raw_id": "b2c6e985982244a2bb356c5d872f6456",
+    "title": "Пристрій безперебійного живлення APC Back-UPS 750VA (BX750MI-GR)",
+    "org": "Військова частина А2622",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/b2c6e985982244a2bb356c5d872f6456",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-30T10:54:49.533605"
+  },
+  {
+    "id": "UA-2026-09-30-001835-a",
+    "_raw_id": "60cc19af84ff477a94285931aa6f4523",
+    "title": "Акумуляторні батареї",
+    "org": "ДП \"АМПУ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 444888.33,
+    "currency": "UAH",
+    "deadline": "2026-10-16",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/60cc19af84ff477a94285931aa6f4523",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-30T11:12:08.891067"
+  },
+  {
+    "id": "UA-2026-09-10-013207-a",
+    "_raw_id": "a0a3311327b043e6a569e10813477095",
+    "title": "Сонячна гібридна електростанція з акумуляторною системою накопичення енергії",
+    "org": "Інститут фізики конденсованих систем імені І.Р. Юхновського Національної академії наук  України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1416666.67,
+    "currency": "UAH",
+    "deadline": "2026-09-28",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/a0a3311327b043e6a569e10813477095",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-30T11:15:48.083859"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -32494,9 +32641,72 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/37d2db07d9ff4e33bc0a1ca872fc0386",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-29T20:30:10.096445"
+  },
+  {
+    "id": "UA-2026-09-17-014416-a",
+    "_raw_id": "d3584f9a3a2640e9948da5ba1808873d",
+    "title": "Комплектна трифазна гібридна система для перетворення електроенергії та резервного живлення навантаження",
+    "org": "Управління освіти, культури, молоді, спорту та туризму Шумської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 884446.66,
+    "currency": "UAH",
+    "deadline": "2026-10-05",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/d3584f9a3a2640e9948da5ba1808873d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-30T10:57:43.074788"
+  },
+  {
+    "id": "UA-2026-08-31-011692-a",
+    "_raw_id": "8a13ba1175f64b4fa5b031213b9dc19a",
+    "title": "Закупівля додаткової батареї ECOFLOW smart extra battery Delta3 max plus",
+    "org": "ІНСТИТУТ АРХЕОЛОГІЇ НАЦІОНАЛЬНОЇ АКАДЕМІЇ НАУК УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 88333.33,
+    "currency": "UAH",
+    "deadline": "2026-09-30",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/8a13ba1175f64b4fa5b031213b9dc19a",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-30T11:05:00.597938"
+  },
+  {
+    "id": "UA-2026-09-30-002266-a",
+    "_raw_id": "e8606bcc465c44d8b82b5cde0ee53534",
+    "title": "Комплект обладнання сонячної гібридної електростанції з супутніми послугами зі встановлення та пусконалагодження на базі ДНЗ \"Ніжинський професійний аграрний ліцей Чернігівської області\"",
+    "org": "ДЕРЖАВНИЙ НАВЧАЛЬНИЙ ЗАКЛАД \"НІЖИНСЬКИЙ ПРОФЕСІЙНИЙ АГРАРНИЙ ЛІЦЕЙ ЧЕРНІГІВСЬКОЇ ОБЛАСТІ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 2082805.56,
+    "currency": "UAH",
+    "deadline": "2026-10-16",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e8606bcc465c44d8b82b5cde0ee53534",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-30T11:24:58.189011"
   },
   {
     "id": "UA-2026-03-31-000589-a",
