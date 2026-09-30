@@ -7484,6 +7484,27 @@
     "fetched_at": "2026-09-30T11:08:45.861532"
   },
   {
+    "id": "UA-2026-09-30-005318-a",
+    "_raw_id": "7fb7341da1714a009739f2850c0a7a46",
+    "title": "Гібридний інвертор",
+    "org": "МИКОЛАЇВСЬКЕ УПРАВЛІННЯ ДЕРЖАВНОЇ КАЗНАЧЕЙСЬКОЇ СЛУЖБИ УКРАЇНИ МИКОЛАЇВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 51360.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/7fb7341da1714a009739f2850c0a7a46",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-09-30T20:56:28.652854"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -22179,9 +22200,72 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/f07bb20e88c7467c99a4c9065fafaaaf",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-09-30T17:02:48.133278"
+  },
+  {
+    "id": "UA-2026-09-30-003189-a",
+    "_raw_id": "7a609ee87c2c44efaea4434acdd796fc",
+    "title": "Акумуляторна батарея CSB AGM до джерела безперебійного живлення з напругою 12 Вольт та ємністю 9 А/год (HR1234WF2)",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТР ОРГАНІЗАЦІЇ ДОРОЖНЬОГО РУХУ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 88200.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/7a609ee87c2c44efaea4434acdd796fc",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-30T20:01:06.176122"
+  },
+  {
+    "id": "UA-2026-09-30-004026-a",
+    "_raw_id": "dc2a6720df6342b7aebe10d7de4e656d",
+    "title": "АКБ “ a mega EFB SHD 6CT-240-F3(3) (Код згідно ДК 021:2015 «Єдиний закупівельний словник» 31440000-2 - Акумуляторні батареї)",
+    "org": "КНЯЖИЦЬКИЙ ЛІЦЕЙ БРОВАРСЬКОЇ МІСЬКОЇ РАДИ БРОВАРСЬКОГО РАЙОНУ КИЇВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 39200.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/dc2a6720df6342b7aebe10d7de4e656d",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-30T20:21:17.272808"
+  },
+  {
+    "id": "UA-2026-09-14-012805-a",
+    "_raw_id": "3c855f64fb7d4001b36cc56250af37d3",
+    "title": "Код ДК 021:2015 31440000-2 Акумуляторні батареї (Акумуляторні батареї різні)",
+    "org": "Комунальне некомерційне підприємство \"Обласний центр екcтреної медичної допомоги та медицини катастроф Черкаської обласної ради\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 172200.0,
+    "currency": "UAH",
+    "deadline": "2026-09-30",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/3c855f64fb7d4001b36cc56250af37d3",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-09-30T21:15:19.295227"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -32728,6 +32812,27 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-09-30T11:24:58.189011"
+  },
+  {
+    "id": "UA-2026-09-30-004434-a",
+    "_raw_id": "ccc77c0d24b64fe8b8e3aa9f1b0fc828",
+    "title": "Пристрій безперебійного живлення Europower ",
+    "org": "Військова частина А2042",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/ccc77c0d24b64fe8b8e3aa9f1b0fc828",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-09-30T20:31:15.189623"
   },
   {
     "id": "UA-2026-03-31-000589-a",
