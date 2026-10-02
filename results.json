@@ -7715,6 +7715,27 @@
     "fetched_at": "2026-10-02T11:12:07.077616"
   },
   {
+    "id": "UA-2026-09-16-007227-a",
+    "_raw_id": "e5f15c37c7d542a5a8db18a57408cffd",
+    "title": "Шафа ДБЖ Frame StratusPower 4xSM-S IB320 з акумуляторними батареями 320 шт",
+    "org": "Державна організація \"Український національний офіс інтелектуальної власності та інновацій\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1343305.83,
+    "currency": "UAH",
+    "deadline": "2026-10-02",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/e5f15c37c7d542a5a8db18a57408cffd",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-10-02T21:14:30.296259"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -22793,6 +22814,48 @@
     "fetched_at": "2026-10-02T11:28:27.776874"
   },
   {
+    "id": "UA-2026-10-02-003899-a",
+    "_raw_id": "4e0d6d0ab10349c7b0163805585a02fe",
+    "title": "Акумуляторні батареї",
+    "org": "УПРАВЛІННЯ ПОЛІЦІЇ ОХОРОНИ У ЛЬВІВСЬКІЙ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 47647.08,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/4e0d6d0ab10349c7b0163805585a02fe",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-02T20:17:20.643459"
+  },
+  {
+    "id": "UA-2026-10-02-005885-a",
+    "_raw_id": "dd3a0b016d094719b2b3befdb269c07d",
+    "title": "Сонячні установки (у складі: сонячні панелі, гібридні інвертори, модульні системи накопичення електроенергії, пристрої захисту та автоматики та ін., з урахуванням витрат на монтаж та пусконалагодження, навчання персоналу)",
+    "org": "ВІДОКРЕМЛЕНИЙ СТРУКТУРНИЙ ПІДРОЗДІЛ \"ГІРНИЧО-ЕЛЕКТРОМЕХАНІЧНИЙ ФАХОВИЙ КОЛЕДЖ КРИВОРІЗЬКОГО НАЦІОНАЛЬНОГО УНІВЕРСИТЕТУ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 2118000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-18",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/dd3a0b016d094719b2b3befdb269c07d",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-02T21:07:40.002952"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -33549,6 +33612,174 @@
     "fetched_at": "2026-10-02T11:17:24.032883"
   },
   {
+    "id": "UA-2026-10-01-009928-a",
+    "_raw_id": "9a46589d1efd4b4da7064cf6b6d7aa2f",
+    "title": "Система резервного електроживлення (постачання, монтаж, підключення та введення в експлуатацію)",
+    "org": "ВСП\"Барський фаховий коледж транспорту та будівництва національного транспортного університету\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1523000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-17",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/9a46589d1efd4b4da7064cf6b6d7aa2f",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-02T20:17:34.982083"
+  },
+  {
+    "id": "UA-2026-10-01-009681-a",
+    "_raw_id": "870a0f0b366f46b290e90f20dcc8a17d",
+    "title": "Джерела резервного живлення ",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЕНЕРГОДІМ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1430000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-19",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/870a0f0b366f46b290e90f20dcc8a17d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-02T20:25:35.921816"
+  },
+  {
+    "id": "UA-2026-10-01-010127-a",
+    "_raw_id": "6e5c191f43434ef29c829c83a2819c05",
+    "title": "Джерела резервного живлення ",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЕНЕРГОДІМ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1430000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-19",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/6e5c191f43434ef29c829c83a2819c05",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-02T20:25:38.021795"
+  },
+  {
+    "id": "UA-2026-10-01-009971-a",
+    "_raw_id": "5dae253297ea4868b139a8a4069e34c2",
+    "title": "Джерела резервного живлення ",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЕНЕРГОДІМ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1430000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-19",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/5dae253297ea4868b139a8a4069e34c2",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-02T20:25:39.218812"
+  },
+  {
+    "id": "UA-2026-10-01-009851-a",
+    "_raw_id": "81e31d16fb6e4335b231260c8e7f4612",
+    "title": "Джерела резервного живлення ",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЕНЕРГОДІМ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1430000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-19",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/81e31d16fb6e4335b231260c8e7f4612",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-02T20:25:42.162215"
+  },
+  {
+    "id": "UA-2026-09-23-007107-a",
+    "_raw_id": "16699c02101144e78284c783531ec6d1",
+    "title": "Блок живлення StarLink Gen 3 Rev 4, Starlink Power Supply",
+    "org": "Військова частина А5100",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 75741.75,
+    "currency": "UAH",
+    "deadline": "2026-10-02",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/16699c02101144e78284c783531ec6d1",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-02T20:27:28.320563"
+  },
+  {
+    "id": "UA-2026-09-16-008473-a",
+    "_raw_id": "759b97e04a324025bb94a5c6ebfbffb1",
+    "title": "Придбання джерела резервного живлення із монтажем та пусконалагодженням для критичної інфраструктури ГУ ДПС у Запорізькій області за адресою: м. Запоріжжя, проспект Соборний, 166",
+    "org": "Головне управління ДПС у Запорізькій області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 1058538.19,
+    "currency": "UAH",
+    "deadline": "2026-10-02",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/759b97e04a324025bb94a5c6ebfbffb1",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-02T20:42:37.413686"
+  },
+  {
+    "id": "UA-2026-09-15-009719-a",
+    "_raw_id": "01a99988519143409e80a621d6f72dd0",
+    "title": "Система резервного електроживлення будівлі",
+    "org": "Комунальний заклад вищої освіти \"Хортицька національна навчально-реабілітаційна академія\" Запорізької обласної ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 3069189.97,
+    "currency": "UAH",
+    "deadline": "2026-10-01",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/01a99988519143409e80a621d6f72dd0",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-02T21:12:34.374621"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -37346,5 +37577,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-10-01T11:53:01.588337"
+  },
+  {
+    "id": "UA-2026-09-28-013577-a",
+    "_raw_id": "2f23667ff43c49c490546639c9afe797",
+    "title": "31430000-9 - Електричні акумулятори",
+    "org": "Військова частина А4007",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 109999.0,
+    "currency": "UAH",
+    "deadline": "2026-10-07",
+    "cpvs": [
+      "31120000-3"
+    ],
+    "cpv": "31120000-3",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/2f23667ff43c49c490546639c9afe797",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-10-02T20:41:04.786185"
   }
 ]
