@@ -7626,7 +7626,7 @@
     "cpv": "31155000-7",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6ae59f841290423a8188a3ad7a40583e",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-10-01T20:39:04.660171"
   },
@@ -7647,9 +7647,72 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/69f08601fddd4aafb80cbd4cb83175e2",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-10-01T21:05:02.487138"
+  },
+  {
+    "id": "UA-2026-10-01-010172-a",
+    "_raw_id": "1f8e4743c9f144249fdfa995cf10021e",
+    "title": "Гібридна інверторна система резервного живлення потужністю 30 кВт у комплекті з акумуляторними батареями та супутнім обладнанням, монтажними роботами та пусконалагодженням під ключ",
+    "org": "Чортківський гуманітарно-педагогічний фаховий коледж ім.О.Барвінського",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 845970.83,
+    "currency": "UAH",
+    "deadline": "2026-10-17",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/1f8e4743c9f144249fdfa995cf10021e",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-10-02T10:35:14.691972"
+  },
+  {
+    "id": "UA-2026-10-02-001463-a",
+    "_raw_id": "fe7ee4573e6b4411b29ac0d3b1b89213",
+    "title": "Інвертор гібридний 50 кВт у складі: високовольтний модуль керування, акумуляторна батарея, стійка",
+    "org": "Регіональний сервісний центр ГСЦ МВС у Дніпропетровській та Запорізькій областях (філія ГСЦ МВС)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 805275.0,
+    "currency": "UAH",
+    "deadline": "2026-10-19",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/fe7ee4573e6b4411b29ac0d3b1b89213",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-10-02T11:00:54.031220"
+  },
+  {
+    "id": "UA-2026-10-01-007418-a",
+    "_raw_id": "a772cd74cd63474daf431e418728dc84",
+    "title": "Гібридний інвертор в комплекті",
+    "org": "ВИКОНАВЧИЙ КОМІТЕТ ПАЛАНСЬКОЇ СІЛЬСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 708333.33,
+    "currency": "UAH",
+    "deadline": "2026-10-19",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/a772cd74cd63474daf431e418728dc84",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-10-02T11:12:07.077616"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -22599,7 +22662,7 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/0d9d6fed7e4248e6afce5dc3fe786617",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-01T20:27:14.099361"
   },
@@ -22620,7 +22683,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/b12cddd53bb141fc95a11ba59a7254a4",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-01T20:43:48.875922"
   },
@@ -22641,9 +22704,93 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/d6590bb309104309bf6fbb26f6b85203",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-01T21:36:30.049747"
+  },
+  {
+    "id": "UA-2026-10-02-000216-a",
+    "_raw_id": "bb0bd799e23948dba4b0b478eabf08d4",
+    "title": "Акумуляторні батареї для  КГУ",
+    "org": "МКП \"Хмельницьктеплокомуненерго\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 157026.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/bb0bd799e23948dba4b0b478eabf08d4",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-02T10:29:34.972274"
+  },
+  {
+    "id": "UA-2026-10-02-000478-a",
+    "_raw_id": "6216ec91d5424336bbfdf93a705044f4",
+    "title": "Акумуляторні батареї",
+    "org": "Військова частина А5011",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 424800.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/6216ec91d5424336bbfdf93a705044f4",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-02T10:36:05.974418"
+  },
+  {
+    "id": "UA-2026-10-02-001103-a",
+    "_raw_id": "465d13e2ea73420a85009034d124f048",
+    "title": "акумуляторна батарея",
+    "org": "КОМУНАЛЬНА ОРГАНІЗАЦІЯ (УСТАНОВА, ЗАКЛАД) \"Центр надання соціальних послуг Кам'янської міської ради Черкаської області\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 39990.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/465d13e2ea73420a85009034d124f048",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-02T10:51:46.752968"
+  },
+  {
+    "id": "UA-2026-09-28-009277-a",
+    "_raw_id": "7b5b9e9c231541d3aa6070fa415b4597",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "Комунальне некомерційне підприємство \"Обласний центр екcтреної медичної допомоги та медицини катастроф Черкаської обласної ради\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 70833.33,
+    "currency": "UAH",
+    "deadline": "2026-10-02",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/7b5b9e9c231541d3aa6070fa415b4597",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-02T11:28:27.776874"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -33271,7 +33418,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/07c362167e484f28b70fc526c6e5acf9",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-01T21:13:47.351362"
   },
@@ -33292,9 +33439,114 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/9bf8e52ba4b44281b5d271dd0ee630a6",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-01T21:16:52.518591"
+  },
+  {
+    "id": "UA-2026-09-14-009557-a",
+    "_raw_id": "51a3d45c8f5c48c788fac541442b4fd4",
+    "title": "Сонячні панелі (фотоелектричні модулі) до гібридної сонячної електростанції (СЕС) на 35 кВт з можливістю збільшення до 50 кВт (Код за ЄЗС ДК 021:2015: 09330000-1 «Сонячна енергія»)",
+    "org": "Сновський ліцей № 3 Сновської міської ради Корюківського району Чернігівської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 400000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-02",
+    "cpvs": [
+      "09331200-0"
+    ],
+    "cpv": "09331200-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/51a3d45c8f5c48c788fac541442b4fd4",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-02T10:23:33.270218"
+  },
+  {
+    "id": "UA-2026-09-28-004659-a",
+    "_raw_id": "b6d16424a3114a82b582f633d99580a3",
+    "title": "Джерело безперебійного живлення ",
+    "org": "Управління державної охорони України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 350000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-07",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/b6d16424a3114a82b582f633d99580a3",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-02T10:36:11.550274"
+  },
+  {
+    "id": "UA-2026-10-02-002127-a",
+    "_raw_id": "fa14c041569b4ed29c1dc33708f553df",
+    "title": "Комплект енергонезалежності (Гібридний інвертор Deye SUN-8K-SG06LP1-EU-BM3 + АКБ Deye SE-F16-С 16kWh) за кодом ДК 021:2015: 31680000-6 - Електричне приладдя та супутні товари до електричного обладнання, Єдиного закупівельного словника",
+    "org": "КОМУНАЛЬНИЙ ЗАКЛАД \"МОЛОДІЖНИЙ ЦЕНТР\" СМАРТ\" СЛОБОЖАНСЬКОЇ СЕЛИЩНОЇ РАДИ\n",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 169999.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/fa14c041569b4ed29c1dc33708f553df",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-02T11:13:40.032589"
+  },
+  {
+    "id": "UA-2026-10-02-002182-a",
+    "_raw_id": "eede60ef53ab48a887add10a5803b39b",
+    "title": "Джерело безперебійного живлення",
+    "org": "Головне управління Пенсійного фонду України у Київській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 264045.0,
+    "currency": "UAH",
+    "deadline": "2026-10-18",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/eede60ef53ab48a887add10a5803b39b",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-02T11:14:42.159272"
+  },
+  {
+    "id": "UA-2026-10-02-002340-a",
+    "_raw_id": "cfcd8205b4e146aba5d891cbd489c8d5",
+    "title": "Джерела безперебійного живлення",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"ДНІПРОВСЬКИЙ ЦЕНТР ПЕРВИННОЇ МЕДИКО - САНІТАРНОЇ ДОПОМОГИ №1\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ \"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 45000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/cfcd8205b4e146aba5d891cbd489c8d5",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-02T11:17:24.032883"
   },
   {
     "id": "UA-2026-03-31-000589-a",
