@@ -22935,7 +22935,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/fff971c842ee486ea1f989b070937dba",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-03T14:31:08.968206"
   },
@@ -33904,6 +33904,27 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-03T09:59:43.171882"
+  },
+  {
+    "id": "UA-2026-09-17-011061-a",
+    "_raw_id": "eba75f1689554322a6725ec2bba05cb7",
+    "title": "Комплекти обладнання систем збереження електричної енергії та безперебійного живлення",
+    "org": "Відокремлений структурний підрозділ \"Кам'янець-Подільський фаховий коледж Закладу вищої освіти \"Подільський державний університет\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1726833.34,
+    "currency": "UAH",
+    "deadline": "2026-10-03",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/eba75f1689554322a6725ec2bba05cb7",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-03T18:53:18.806236"
   },
   {
     "id": "UA-2026-03-31-000589-a",
