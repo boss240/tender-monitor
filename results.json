@@ -7752,7 +7752,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/8af142df5eb5458fbeb37d6b42df540e",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-10-03T09:44:09.333760"
   },
@@ -22893,7 +22893,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/de80f427fc224ad7b6d64765fac99263",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-03T09:44:10.498233"
   },
@@ -22914,9 +22914,30 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/7dc690a4f10447e6ba2572af0dc06269",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-03T09:50:30.051946"
+  },
+  {
+    "id": "UA-2026-10-03-000373-a",
+    "_raw_id": "fff971c842ee486ea1f989b070937dba",
+    "title": "Акумуляторні батареї",
+    "org": "МІЖНАРОДНИЙ МІЖВІДОМЧИЙ БАГАТОПРОФІЛЬНИЙ НАВЧАЛЬНО-БОЙОВИЙ ЦЕНТР ПІДГОТОВКИ ПІДРОЗДІЛІВ НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ (ВІЙСЬКОВА ЧАСТИНА 3070)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/fff971c842ee486ea1f989b070937dba",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-03T14:31:08.968206"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -33859,7 +33880,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/febd6dfa699b4d1884a0c586e516563d",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-03T09:52:32.055553"
   },
@@ -33880,7 +33901,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/f25f6842957c45daa2d8bc57abb8cf93",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-03T09:59:43.171882"
   },
