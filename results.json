@@ -7731,9 +7731,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/e5f15c37c7d542a5a8db18a57408cffd",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-10-02T21:14:30.296259"
+  },
+  {
+    "id": "UA-2026-09-17-008781-a",
+    "_raw_id": "8af142df5eb5458fbeb37d6b42df540e",
+    "title": "Акумуляторна батарея Deye SE-F16-С або еквівалент, код за Єдиним закупівельним словником ДК 021:2015 – 31440000-2 «Акумуляторні батареї»",
+    "org": "Національна бібліотека України ім. В.І.Вернадського",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 337533.33,
+    "currency": "UAH",
+    "deadline": "2026-10-03",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/8af142df5eb5458fbeb37d6b42df540e",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-10-03T09:44:09.333760"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -22830,7 +22851,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/4e0d6d0ab10349c7b0163805585a02fe",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-02T20:17:20.643459"
   },
@@ -22851,9 +22872,51 @@
     "cpv": "09332000-5",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/dd3a0b016d094719b2b3befdb269c07d",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-02T21:07:40.002952"
+  },
+  {
+    "id": "UA-2026-10-03-000044-a",
+    "_raw_id": "de80f427fc224ad7b6d64765fac99263",
+    "title": "Батарея акумуляторна резервного живлення",
+    "org": "ФІЛІЯ ПРОЕКТНО-ВИШУКУВАЛЬНИЙ ІНСТИТУТ ЗАЛІЗНИЧНОГО ТРАНСПОРТУ АКЦІОНЕРНОГО ТОВАРИСТВА УКРАЇНСЬКА ЗАЛІЗНИЦЯ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 357756.56,
+    "currency": "UAH",
+    "deadline": "2026-10-19",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/de80f427fc224ad7b6d64765fac99263",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-03T09:44:10.498233"
+  },
+  {
+    "id": "UA-2026-09-25-011842-a",
+    "_raw_id": "7dc690a4f10447e6ba2572af0dc06269",
+    "title": "Код ДК 021:2015: 31440000-2 - Акумуляторні батареї (Акумулятор)",
+    "org": "Державна установа \"Центр обслуговування підрозділів Національної поліції України\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 955654.0,
+    "currency": "UAH",
+    "deadline": "2026-10-03",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/7dc690a4f10447e6ba2572af0dc06269",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-03T09:50:30.051946"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -33628,7 +33691,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/9a46589d1efd4b4da7064cf6b6d7aa2f",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-02T20:17:34.982083"
   },
@@ -33649,7 +33712,7 @@
     "cpv": "09332000-5",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/870a0f0b366f46b290e90f20dcc8a17d",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-02T20:25:35.921816"
   },
@@ -33670,7 +33733,7 @@
     "cpv": "09332000-5",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6e5c191f43434ef29c829c83a2819c05",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-02T20:25:38.021795"
   },
@@ -33691,7 +33754,7 @@
     "cpv": "09332000-5",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/5dae253297ea4868b139a8a4069e34c2",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-02T20:25:39.218812"
   },
@@ -33712,7 +33775,7 @@
     "cpv": "09332000-5",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/81e31d16fb6e4335b231260c8e7f4612",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-02T20:25:42.162215"
   },
@@ -33733,7 +33796,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/16699c02101144e78284c783531ec6d1",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-02T20:27:28.320563"
   },
@@ -33754,7 +33817,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/759b97e04a324025bb94a5c6ebfbffb1",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-02T20:42:37.413686"
   },
@@ -33775,9 +33838,51 @@
     "cpv": "31155000-7",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/01a99988519143409e80a621d6f72dd0",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-02T21:12:34.374621"
+  },
+  {
+    "id": "UA-2026-09-11-012812-a",
+    "_raw_id": "febd6dfa699b4d1884a0c586e516563d",
+    "title": "Сонячна гібридна електростанція з урахуванням витрат на встановлення та пусконалагодження",
+    "org": "ВІДОКРЕМЛЕНИЙ СТРУКТУРНИЙ ПІДРОЗДІЛ \"ХМЕЛЬНИЦЬКИЙ ПОЛІТЕХНІЧНИЙ ФАХОВИЙ КОЛЕДЖ НАЦІОНАЛЬНОГО УНІВЕРСИТЕТУ \"ЛЬВІВСЬКА ПОЛІТЕХНІКА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1600000.0,
+    "currency": "UAH",
+    "deadline": "2026-09-28",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/febd6dfa699b4d1884a0c586e516563d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-03T09:52:32.055553"
+  },
+  {
+    "id": "UA-2026-09-17-007119-a",
+    "_raw_id": "f25f6842957c45daa2d8bc57abb8cf93",
+    "title": "Автономна сонячна станція 6 кВт ",
+    "org": "ДЕРЖАВНИЙ НАВЧАЛЬНИЙ ЗАКЛАД \"ЗАПОРІЗЬКИЙ ПРОМИСЛОВИЙ ЦЕНТР ПРОФЕСІЙНО-ТЕХНІЧНОЇ ОСВІТИ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 253233.33,
+    "currency": "UAH",
+    "deadline": "2026-10-03",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/f25f6842957c45daa2d8bc57abb8cf93",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-03T09:59:43.171882"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -37595,7 +37700,7 @@
     "cpv": "31120000-3",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/2f23667ff43c49c490546639c9afe797",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-10-02T20:41:04.786185"
   }
