@@ -3174,7 +3174,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/11f0e827bc8f4149b22a7cd80890f6fc",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-10-04T10:34:31.577030"
   },
@@ -22959,6 +22959,48 @@
     "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-03T14:31:08.968206"
+  },
+  {
+    "id": "UA-2026-10-04-000255-a",
+    "_raw_id": "132f306abdbb4fb3822449572652053a",
+    "title": "Акумуляторні батареї",
+    "org": "ЦЕНТРАЛЬНА БАЗА ЗАБЕЗПЕЧЕННЯ І РЕМОНТУ БРОНЕТАНКОВОГО ОЗБРОЄННЯ, АВТОМОБІЛЬНОЇ ТА БРОНЕТАНКОВОЇ ТЕХНІКИ НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ (ВІЙСЬКОВА ЧАСТИНА 3076)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/132f306abdbb4fb3822449572652053a",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-04T14:50:40.150283"
+  },
+  {
+    "id": "UA-2026-10-04-000259-a",
+    "_raw_id": "6ad6c2f949d846c290054d18a5b783c2",
+    "title": "Акумуляторні батареї",
+    "org": "ЦЕНТРАЛЬНА БАЗА ЗАБЕЗПЕЧЕННЯ І РЕМОНТУ БРОНЕТАНКОВОГО ОЗБРОЄННЯ, АВТОМОБІЛЬНОЇ ТА БРОНЕТАНКОВОЇ ТЕХНІКИ НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ (ВІЙСЬКОВА ЧАСТИНА 3076)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/6ad6c2f949d846c290054d18a5b783c2",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-04T14:50:46.332268"
   },
   {
     "id": "UA-2026-03-11-009316-a",
