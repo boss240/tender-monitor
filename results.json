@@ -3195,7 +3195,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/ea4dba06c1cb41deb26afcc91f8cd39c",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-10-05T11:17:30.915610"
   },
@@ -3216,7 +3216,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/6bf9de76df954e3bb8f23f04dedab10e",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-10-05T11:35:34.168629"
   },
@@ -7836,7 +7836,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/b29e6c6e943346898fb130ca971f156e",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-10-05T11:15:27.883828"
   },
@@ -7857,7 +7857,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/d7f2007ae7434f689b724d5a750c0f42",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-10-05T11:15:29.362642"
   },
@@ -23103,7 +23103,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/2b3ac3296a3e4c70a2cd8dad42ce787c",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-05T11:22:04.466904"
   },
@@ -23124,9 +23124,51 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/8e8af26c9f2248d287bef959f411dc8e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-05T11:46:49.030090"
+  },
+  {
+    "id": "UA-2026-10-05-002822-a",
+    "_raw_id": "1248b2c92b3043f59a2f4af3dfd95b24",
+    "title": "ДК 021:2015: 31440000-2 — Акумуляторні батареї: Акумуляторна батарея LOGICPOWER AGM LPM 12V-9ah.",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"ГАЙСИНСЬКА ЦЕНТРАЛЬНА РАЙОННА ЛІКАРНЯ ГАЙСИНСЬКОЇ МІСЬКОЇ РАДИ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 95000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/1248b2c92b3043f59a2f4af3dfd95b24",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-05T19:14:02.678846"
+  },
+  {
+    "id": "UA-2026-09-11-013520-a",
+    "_raw_id": "5de68f7ae0ac48e0a9b895bc7e17a8fd",
+    "title": "Код ДК 021:2015 31440000-2 Акумуляторні батареї (Акумуляторні батареї різні)",
+    "org": "Комунальне некомерційне підприємство \"Обласний центр екcтреної медичної допомоги та медицини катастроф Черкаської обласної ради\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 143500.0,
+    "currency": "UAH",
+    "deadline": "2026-09-28",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/5de68f7ae0ac48e0a9b895bc7e17a8fd",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-05T19:30:55.227037"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -34132,7 +34174,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/77295d847bcf4da9b7b99bde6f5c9b9e",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-05T11:47:28.734536"
   },
@@ -34153,9 +34195,30 @@
     "cpv": "09331200-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/6ab3f1324adc45aea0bd6d45303afad8",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-05T11:54:44.787409"
+  },
+  {
+    "id": "UA-2026-10-05-003666-a",
+    "_raw_id": "54b4ec183c8f4748b67143c1b40f343c",
+    "title": "павербанк 20000",
+    "org": "Відділ культури Павлоградської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 132000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/54b4ec183c8f4748b67143c1b40f343c",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-05T19:35:10.854663"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -37997,5 +38060,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-10-02T20:41:04.786185"
+  },
+  {
+    "id": "UA-2026-09-18-008194-a",
+    "_raw_id": "a0016309a26d44df83fa0edb2659d20c",
+    "title": "31680000-6 Електричне приладдя та супутні товари до електричного обладнання Плата мережевого керування ДБЖ (Східне ТУОМ)",
+    "org": "ПРИВАТНЕ АКЦІОНЕРНЕ ТОВАРИСТВО \"НАЦІОНАЛЬНА ЕНЕРГЕТИЧНА КОМПАНІЯ \"УКРЕНЕРГО\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 71545.55,
+    "currency": "UAH",
+    "deadline": "2026-10-05",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/a0016309a26d44df83fa0edb2659d20c",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-10-05T19:15:57.839918"
   }
 ]
