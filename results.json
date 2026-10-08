@@ -3284,6 +3284,48 @@
     "fetched_at": "2026-10-07T12:08:27.770536"
   },
   {
+    "id": "UA-2026-09-22-008990-a",
+    "_raw_id": "898c45dd6d3f4c6fb5b21c8395507168",
+    "title": "Система накопичення електричної енергії (гібридний інвертор 30 кВт, акумуляторні батареї, комплект монтажних матеріалів) з монтажем, підключенням та пусконалагоджувальними роботами",
+    "org": "ТЕРНОПІЛЬСЬКИЙ НАВЧАЛЬНО-РЕАБІЛІТАЦІЙНИЙ ЦЕНТР ТЕРНОПІЛЬСЬКОЇ ОБЛАСНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 833333.33,
+    "currency": "UAH",
+    "deadline": "2026-10-08",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/898c45dd6d3f4c6fb5b21c8395507168",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-10-08T11:32:26.697311"
+  },
+  {
+    "id": "UA-2026-09-21-012078-a",
+    "_raw_id": "12e963182c524a9aa596f219cb1a29d4",
+    "title": "Акумуляторні батареї Deye BOS-G PRO 5.12 кВтгод LiFePO4 51.2 V 100 Ah 5.12 kWh  (або «ЕКВІВАЛЕНТ»)\n\n",
+    "org": "Державна установа \"Кагарлицька виправна колонія (№115)\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 228000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-07",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/12e963182c524a9aa596f219cb1a29d4",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-10-08T12:34:04.968153"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -23607,9 +23649,30 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/82e54d4542ad4210a81829b500bbb507",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-07T21:36:04.687226"
+  },
+  {
+    "id": "UA-2026-10-02-007411-a",
+    "_raw_id": "5aa573b538cc43cd83bfe5cedef6953b",
+    "title": "Акумуляторні батареї (блоки) для безпілотних літальних апаратів",
+    "org": "Військова частина А5196",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 450000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-13",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/5aa573b538cc43cd83bfe5cedef6953b",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-08T11:21:26.338957"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -34951,7 +35014,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/94ff268ce67e440587327251985392a5",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-07T21:34:50.748994"
   },
@@ -34972,7 +35035,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/6e9fc327739f434db73800c6a4557540",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-07T21:35:47.491441"
   },
@@ -34993,7 +35056,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/b7b3a462178a4247a9afd65e821f756d",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-07T21:37:42.871405"
   },
@@ -35014,9 +35077,30 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/08c89c0379c34bcc95ee2e485ab459f5",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-07T21:38:41.967991"
+  },
+  {
+    "id": "UA-2026-10-08-000855-a",
+    "_raw_id": "1c8851ab9ce5471ca19de9390bcbbb36",
+    "title": "джерела безперебійного живлення",
+    "org": "ОДЕСЬКА ОБЛАСНА ПРОКУРАТУРА",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 191700.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/1c8851ab9ce5471ca19de9390bcbbb36",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-08T11:39:43.313928"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -38961,7 +39045,7 @@
     "cpv": "31520000-7",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/85bb933fc2ac48a083c05ae63db53031",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-10-07T21:22:12.927591"
   }
