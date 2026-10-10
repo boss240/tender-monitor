@@ -23943,7 +23943,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/1a8feb015b704ba4b6930f68714d0b6b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-09T20:58:33.100668"
   },
@@ -23964,9 +23964,93 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/798b3e97f17046fdb7fd6f3083ab84e1",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-09T21:05:20.634013"
+  },
+  {
+    "id": "UA-2026-10-06-012786-a",
+    "_raw_id": "e3f5bbb214e341388546cc454936f145",
+    "title": "ДБЖ RITAR GP-33-30KVA",
+    "org": "ДП \"Військова частина А2166\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 230000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-14",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e3f5bbb214e341388546cc454936f145",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-10T10:30:48.034131"
+  },
+  {
+    "id": "UA-2026-10-06-012024-a",
+    "_raw_id": "cec0f377f5f14c06832126009e5c846e",
+    "title": "Акумуляторні батареї",
+    "org": "Головне управління ДПС у Луганській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 41800.0,
+    "currency": "UAH",
+    "deadline": "2026-10-15",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/cec0f377f5f14c06832126009e5c846e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-10T10:30:57.820364"
+  },
+  {
+    "id": "UA-2026-09-23-015123-a",
+    "_raw_id": "f0d223e9c8064ec696d3629410c7e0ff",
+    "title": "Акумуляторні батареї за ДК 021:2015 – 31440000-2 Акумуляторні батареї \n",
+    "org": "Головне управління Національної поліції у Львівській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 79166.67,
+    "currency": "UAH",
+    "deadline": "2026-10-10",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/f0d223e9c8064ec696d3629410c7e0ff",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-10T10:42:19.746095"
+  },
+  {
+    "id": "UA-2026-10-10-000378-a",
+    "_raw_id": "e8a3e87ca60f4a80a354d36adc011ce7",
+    "title": "ДК 021:2015 код 31440000-2- Акумуляторні батареї ",
+    "org": "Військова частина А7013 ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/e8a3e87ca60f4a80a354d36adc011ce7",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-10T10:43:16.765896"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -35497,7 +35581,7 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/a1aca3c620d34dc28c6f3e9573e903e3",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-09T20:16:25.614562"
   },
@@ -35518,7 +35602,7 @@
     "cpv": "09330000-1",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/c87f4c6e5f094d2c8d97e57061e7e344",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-09T20:17:45.879707"
   },
@@ -35539,7 +35623,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/a820c4b1425b48228e7e660105737953",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-09T20:33:00.271225"
   },
@@ -35560,7 +35644,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/8381ebfc84b44c458410fddea32c708a",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-09T20:38:53.517473"
   },
@@ -35581,7 +35665,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/ccfcb99a8d1b4f969de8b38400c9686e",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-09T20:39:06.084956"
   },
@@ -35602,9 +35686,30 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/cd25910a72c749e3b572b3d11c295564",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-09T20:44:49.160748"
+  },
+  {
+    "id": "UA-2026-10-10-000204-a",
+    "_raw_id": "29e0f752323f447a8ade61c4f86d31ee",
+    "title": "Джерела безперебійного живлення (APC Smart)",
+    "org": "Житомирський державний університет імені Івана Франка",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 154080.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/29e0f752323f447a8ade61c4f86d31ee",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-10T10:36:53.397013"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -39614,7 +39719,7 @@
     "cpv": "31680000-6",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/e4a65bf9d1c948c5a05739e20611803c",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-10-09T20:18:46.301178"
   }
