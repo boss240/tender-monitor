@@ -23985,7 +23985,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/e3f5bbb214e341388546cc454936f145",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-10T10:30:48.034131"
   },
@@ -24006,7 +24006,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/cec0f377f5f14c06832126009e5c846e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-10T10:30:57.820364"
   },
@@ -24027,7 +24027,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/f0d223e9c8064ec696d3629410c7e0ff",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-10T10:42:19.746095"
   },
@@ -24048,9 +24048,51 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/e8a3e87ca60f4a80a354d36adc011ce7",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-10T10:43:16.765896"
+  },
+  {
+    "id": "UA-2026-10-06-007041-a",
+    "_raw_id": "816265df7d7d4a47acb8ff6ab5103078",
+    "title": "Збірка (спарка) акумуляторна Sky Battery 5S1P 11000 мА·год з інтегрованою платою “ідеальний діод”",
+    "org": "Військова частина А4217",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 210000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-14",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/816265df7d7d4a47acb8ff6ab5103078",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-10T15:25:30.074251"
+  },
+  {
+    "id": "UA-2026-10-10-000489-a",
+    "_raw_id": "abdebb8091ae4a9aa6d76b093e29dc30",
+    "title": "ДК 021:2015: 31154000-0 — Джерела безперебійного живлення (Система резервного електроживлення будівлі навчального корпусу за адресою: 69091, м. Запоріжжя, вул. Пластова, 71, із використанням систем зберігання електричної енергії, гібридного інверторного обладнання та супутніх послуг з монтажу, пусконалагодження і введення в експлуатацію).",
+    "org": "ВІДОКРЕМЛЕНИЙ СТРУКТУРНИЙ ПІДРОЗДІЛ \"ЗАПОРІЗЬКИЙ МЕТАЛУРГІЙНИЙ ФАХОВИЙ КОЛЕДЖ ЗАПОРІЗЬКОГО НАЦІОНАЛЬНОГО УНІВЕРСИТЕТУ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 2040950.0,
+    "currency": "UAH",
+    "deadline": "2026-10-26",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/abdebb8091ae4a9aa6d76b093e29dc30",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-10T15:28:16.612005"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -35707,7 +35749,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/29e0f752323f447a8ade61c4f86d31ee",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-10T10:36:53.397013"
   },
