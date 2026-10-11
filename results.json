@@ -24095,6 +24095,27 @@
     "fetched_at": "2026-10-10T15:28:16.612005"
   },
   {
+    "id": "UA-2026-10-07-009737-a",
+    "_raw_id": "4614ea9414ec493bb1e473da7810be36",
+    "title": "MOES-UIHERP-C2-MERGERS-83 Закупівля мережевого обладнання",
+    "org": "Міністерство освіти і науки України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 16392653.0,
+    "currency": "UAH",
+    "deadline": "2026-10-21",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/4614ea9414ec493bb1e473da7810be36",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-11T15:39:23.027307"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
