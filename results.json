@@ -8256,9 +8256,72 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/81ae69658cbf41c797423cd0cc87b6ec",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-10-12T12:46:35.562757"
+  },
+  {
+    "id": "UA-2026-09-24-008980-a",
+    "_raw_id": "b32e0bafef3d47ca8209abdf2cb02bb1",
+    "title": "Гібридний інвертор з монтажним комплектом та встановленням",
+    "org": "Відділ освіти, молоді і спорту Карпівської сільської ради Криворізького району Дніпропетровської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 344616.67,
+    "currency": "UAH",
+    "deadline": "2026-10-10",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/b32e0bafef3d47ca8209abdf2cb02bb1",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-10-12T19:36:55.436022"
+  },
+  {
+    "id": "UA-2026-10-07-014915-a",
+    "_raw_id": "9ea38a69e6ae4175821bc945a6f80c9b",
+    "title": "Акумуляторні батареї до БпАК типу Вампір (Vampire)",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 2382",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 6010200.0,
+    "currency": "UAH",
+    "deadline": "2026-10-16",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/9ea38a69e6ae4175821bc945a6f80c9b",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-10-12T19:40:11.131244"
+  },
+  {
+    "id": "UA-2026-10-12-002543-a",
+    "_raw_id": "1e454bd0149d4236af0174fa08e4ea77",
+    "title": "Комплект системи зберігання та безперебійного живлення від Altek на базі гібридного (ALL in ONE) інвертора потужністю 50кВт і акумуляторної шафи ємністю 100кВт/год з підігрівом та охолодженням та додатковим захистом по змінному струму\n",
+    "org": "Полицький ліцей Полицької сільської ради Вараського району Рівненської області\n",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 902777.78,
+    "currency": "UAH",
+    "deadline": "2026-10-28",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/1e454bd0149d4236af0174fa08e4ea77",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-10-12T19:49:30.052124"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -24153,7 +24216,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/729b3da748254722bf1f5b2dfd069aff",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-12T11:49:50.637683"
   },
@@ -24174,7 +24237,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/676e2b40e3674664a3e66710f5744357",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-12T11:55:51.243722"
   },
@@ -24195,7 +24258,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/f76c1ae1878b4dbb8ce6dc193ff3061b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-12T11:57:55.641364"
   },
@@ -24216,7 +24279,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/8e5ccd49bf0547f5930c237868266f38",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-12T12:47:18.383526"
   },
@@ -24237,9 +24300,30 @@
     "cpv": "31155000-7",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/61aee8477dc14f67b9f0d42c938f7f55",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-12T12:57:34.374998"
+  },
+  {
+    "id": "UA-2026-10-12-003653-a",
+    "_raw_id": "1bc0553608774f71b6e0e88250be43a4",
+    "title": "Акумуляторні батареї",
+    "org": "ДП \"Тернопільський національний педагогічний університет ім. В.Гнатюка\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 78500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/1bc0553608774f71b6e0e88250be43a4",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-12T19:42:02.029417"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -35917,7 +36001,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/ba43c5dc8b014b74a0ae30280fe8652e",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-12T12:19:14.440036"
   },
@@ -35938,9 +36022,93 @@
     "cpv": "31155000-7",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/174ff6fdd81b40dd8152085edfb020bd",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-12T12:56:39.048727"
+  },
+  {
+    "id": "UA-2026-10-06-010580-a",
+    "_raw_id": "dcb147a8515048589805b993b73a8dd5",
+    "title": "Джерела резервного живлення",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЕНЕРГОДІМ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1165000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-22",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/dcb147a8515048589805b993b73a8dd5",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-12T19:28:54.205000"
+  },
+  {
+    "id": "UA-2026-09-18-013729-a",
+    "_raw_id": "64037b5f5462468a93742d0917642ee3",
+    "title": "Система безперебійного живлення з встановленням",
+    "org": "НО­ВО­СІЛ­КІВ­СЬКИЙ АКАДЕМІЧНИЙ ЛІЦЕЙ «ЕРУДИТ» ЧАБАНІВСЬКОЇ СЕЛИЩНОЇ РАДИ ФАСТІВСЬКОГО РАЙОНУ КИЇВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 1041666.67,
+    "currency": "UAH",
+    "deadline": "2026-10-08",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/64037b5f5462468a93742d0917642ee3",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-12T19:35:15.873139"
+  },
+  {
+    "id": "UA-2026-09-30-008163-a",
+    "_raw_id": "a0d7f7c7a58b48a985583fee4de0f66f",
+    "title": "“Комплект накопичення електричної енергії в Опорному закладі Демидівському ліцеї Демидівської селищної ради Рівненської області\n по вул. Богдана Хмельницького, 10, с-ще Демидівка, Рівненська область”\n\n\n",
+    "org": "Опорний заклад Демидівський ліцей  Демидівської селищної ради Рівненської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1250362.5,
+    "currency": "UAH",
+    "deadline": "2026-10-19",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/a0d7f7c7a58b48a985583fee4de0f66f",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-12T19:47:44.734591"
+  },
+  {
+    "id": "UA-2026-10-12-003990-a",
+    "_raw_id": "b222eb033a974f20b6a11b88a13a5b0f",
+    "title": "Пристрій безперебійного живлення",
+    "org": "Державна установа \"Територіальне медичне об'єднання Міністерства внутрішніх справ України по Херсонській області\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 47000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/b222eb033a974f20b6a11b88a13a5b0f",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-12T19:48:44.331737"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -39973,7 +40141,7 @@
     "cpv": "09330000-1",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/f2c63c113eab4fea9b11a55841a9b754",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-10-12T12:56:11.176638"
   }
