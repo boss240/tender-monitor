@@ -3453,6 +3453,27 @@
     "fetched_at": "2026-10-13T21:08:26.181778"
   },
   {
+    "id": "UA-2026-10-14-004474-a",
+    "_raw_id": "f262caae0a35468a833850ae57fd12a2",
+    "title": "Гібридний інвертор Deye SUN-15K-SG05LP3-EU-SM2 15 кВт, 3 фази, 48В",
+    "org": "Управління соціальної та ветеранської політики Лубенської міської ради Лубенського району Полтавської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 95000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/f262caae0a35468a833850ae57fd12a2",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-10-14T20:10:09.809609"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -24789,6 +24810,69 @@
     "fetched_at": "2026-10-14T10:04:42.535161"
   },
   {
+    "id": "UA-2026-10-14-003919-a",
+    "_raw_id": "07151e6265724a61941acd411a683086",
+    "title": "акумуляторні батареї",
+    "org": "Комунальне виробниче підприємство \"Теплоенерго\"м. Горішні Плавні\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 434925.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/07151e6265724a61941acd411a683086",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-14T20:02:24.511668"
+  },
+  {
+    "id": "UA-2026-10-14-004998-a",
+    "_raw_id": "284ebfeadcc14a9cb08090bc7480eee9",
+    "title": " Акумуляторні батареї",
+    "org": "Державне міжрайонне підприємство водопровідно-каналізаційного господарства \"Дніпро-Західний Донбас\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 81635.5,
+    "currency": "UAH",
+    "deadline": "2026-10-30",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/284ebfeadcc14a9cb08090bc7480eee9",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-14T20:21:20.072109"
+  },
+  {
+    "id": "UA-2026-10-14-005245-a",
+    "_raw_id": "e43c68736a574761943966b97af83d75",
+    "title": "реалізація проєкту \"Модернізація простору тривалого безпечного перебування населення на базі Найпростішого укриття та пункту незламності\" DCA/NCA (гібридний сонячний інвертор Midea ME12-HS6L) за кошти міжнародних організацій\r\n",
+    "org": "КЗ \"ПК \"ПІВНІЧНИЙ\" КМР",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 42990.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/e43c68736a574761943966b97af83d75",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-14T20:27:13.825962"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -36763,6 +36847,48 @@
     "fetched_at": "2026-10-14T10:16:22.341550"
   },
   {
+    "id": "UA-2026-09-25-011308-a",
+    "_raw_id": "0e9cbbdac03741b2aaae8321228b0d55",
+    "title": "Джерело безперебійного живлення",
+    "org": "КП «Тернопільський інформаційно-аналітичний центр» Тернопільської обласної ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 741067.0,
+    "currency": "UAH",
+    "deadline": "2026-10-12",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/0e9cbbdac03741b2aaae8321228b0d55",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-14T19:59:59.212643"
+  },
+  {
+    "id": "UA-2026-09-18-012807-a",
+    "_raw_id": "64a6a8c1fcec4666b6d66e566f86bee1",
+    "title": "\"Комплект резервного живлення з встановленням\"",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 833333.33,
+    "currency": "UAH",
+    "deadline": "2026-10-04",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/64a6a8c1fcec4666b6d66e566f86bee1",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-14T20:05:11.429727"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -37916,6 +38042,29 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-10-14T09:36:09.480230"
+  },
+  {
+    "id": "UA-2026-10-14-004482-a",
+    "_raw_id": "583e2e3ef0654505a3228226018731f2",
+    "title": "Комплект обладнання для сонячної електростанції: Сонячна панель Longi LR-66HGD 620 W BF; Інвертор гібридний FOX 6000W H1-6.0-E-G2$; АКБ FOX EP6 5.8kW/h high voltage battery sustem (високовольтна) ( за ДК 021-2015 (CPV)- 09330000-1 - Сонячна енергія)",
+    "org": "КУ Відділ з питань соціальної політики Чемеровецької селищної ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 113068.8,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "09330000-1",
+      "09330000-1",
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/583e2e3ef0654505a3228226018731f2",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-10-14T20:18:08.391625"
   },
   {
     "id": "UA-2026-03-20-008862-a",
@@ -40882,5 +41031,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-10-13T21:17:47.553814"
+  },
+  {
+    "id": "UA-2026-10-14-003997-a",
+    "_raw_id": "d17e335328564de59e653c8f545482d7",
+    "title": "Сонячна панель Longi HI-MO X10 LR7-72HVH-645 Wсонячних панелей Longi HI-MO X10 LR7-72HVH-645 W",
+    "org": "Управління соціальної та ветеранської політики Лубенської міської ради Лубенського району Полтавської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 144980.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "09331000-8"
+    ],
+    "cpv": "09331000-8",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/d17e335328564de59e653c8f545482d7",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-10-14T20:01:05.940156"
   }
 ]
