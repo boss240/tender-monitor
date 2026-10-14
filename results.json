@@ -88,6 +88,28 @@
     "fetched_at": "2026-06-26T09:06:15.436234"
   },
   {
+    "id": "UA-2026-10-12-010908-a",
+    "_raw_id": "26ea9e001a524255a5a8ca8869f9b3ab",
+    "title": "Гібридний інвертор та система накопичення енергії",
+    "org": "Управління освіти і науки Білоцерківської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1666565.0,
+    "currency": "UAH",
+    "deadline": "2026-10-28",
+    "cpvs": [
+      "31154000-0",
+      "31155000-7"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/26ea9e001a524255a5a8ca8869f9b3ab",
+    "is_new": true,
+    "score": 90,
+    "fetched_at": "2026-10-14T10:17:05.472951"
+  },
+  {
     "id": "UA-2026-03-26-010121-a",
     "_raw_id": "809c4a2a0dd94edbada96fea12d92318",
     "title": "ДК 021:2015 - 31150000-2 - Баласти для розрядних ламп чи трубок (Гібридний інвертор та акумуляторні батареї)",
@@ -3426,7 +3448,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/b5c0432ba1634ff19f07931ffa1f8517",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-10-13T21:08:26.181778"
   },
@@ -8466,9 +8488,30 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/94ad609c1d1c4aba839477cc624a30b5",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-10-13T20:58:17.113229"
+  },
+  {
+    "id": "UA-2026-10-13-013660-a",
+    "_raw_id": "a68f3e851eff4708af814a7b14256311",
+    "title": "Гібридний низьковольтний трифазний інвертор Deye SUN-15K-SG05LP3-EU-SM2 (Або еквівалент)",
+    "org": "4 ДЕРЖАВНИЙ ПОЖЕЖНО-РЯТУВАЛЬНИЙ ЗАГІН ГОЛОВНОГО УПРАВЛІННЯ ДЕРЖАВНОЇ СЛУЖБИ УКРАЇНИ З НАДЗВИЧАЙНИХ СИТУАЦІЙ У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ (4 ДПРЗ ГУ ДСНС УКРАЇНИ У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 569088.33,
+    "currency": "UAH",
+    "deadline": "2026-10-29",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/a68f3e851eff4708af814a7b14256311",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-10-14T10:19:17.316845"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -24657,7 +24700,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/fedb333c8d0248c197ee86ddf7ce26a7",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-13T21:15:52.062924"
   },
@@ -24678,7 +24721,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/ad135a226d614fa9821f5139a40169a3",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-13T21:32:15.083383"
   },
@@ -24699,9 +24742,51 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/6483dee9854147bb9d489e6716e4d225",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-13T21:47:37.759316"
+  },
+  {
+    "id": "UA-2026-10-14-000519-a",
+    "_raw_id": "ffa4aec908c046acb7e5413e6cedf130",
+    "title": "Інвертор гібридний однофазний",
+    "org": "Кінологічний навчальний центр Державної прикордонної служби України (військова частина 2418)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 60000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/ffa4aec908c046acb7e5413e6cedf130",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-14T09:33:25.479370"
+  },
+  {
+    "id": "UA-2026-10-12-012078-a",
+    "_raw_id": "a4e04770f7604977b8d99b25f618b779",
+    "title": "Резервне електроживлення (блок керування акумуляторною системою високої напруги (BMS), акумуляторний модуль (АКБ) (код ДК 021:2015: 31440000-2 — Акумуляторні батареї)",
+    "org": "Київський фаховий коледж прикладних наук",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 830787.5,
+    "currency": "UAH",
+    "deadline": "2026-10-28",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/a4e04770f7604977b8d99b25f618b779",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-14T10:04:42.535161"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -36631,9 +36716,51 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/befe5ff5a4d546628fb2ed8f7d8937f5",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-13T21:13:50.264761"
+  },
+  {
+    "id": "UA-2026-09-28-011850-a",
+    "_raw_id": "42959426ff5b42dca7c6a8842344c592",
+    "title": "Комплект сонячних панелей (фотоелектричних модулів)",
+    "org": "КРИЖОПІЛЬСЬКА СЕЛИЩНА РАДА",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 264102.12,
+    "currency": "UAH",
+    "deadline": "2026-10-14",
+    "cpvs": [
+      "09331200-0"
+    ],
+    "cpv": "09331200-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/42959426ff5b42dca7c6a8842344c592",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-14T10:02:32.399344"
+  },
+  {
+    "id": "UA-2026-10-14-002158-a",
+    "_raw_id": "335cd4ffb7cf43bc83d099a198a01588",
+    "title": "Система автономного резервного живлення в зборі",
+    "org": "КОМУНАЛЬНА УСТАНОВА \"ПАВЛОГРАДСЬКИЙ ІНКЛЮЗИВНО-РЕСУРСНИЙ ЦЕНТР\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 98197.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/335cd4ffb7cf43bc83d099a198a01588",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-14T10:16:22.341550"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -37766,6 +37893,29 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-10-12T22:37:09.848921"
+  },
+  {
+    "id": "UA-2026-09-28-008943-a",
+    "_raw_id": "3e9ff3e40aed42669653326fb17b9b2f",
+    "title": "Установки зберігання енергії",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ТОВАРИСТВО «ПЕРШЕ КЛІНІЧНЕ ТЕРИТОРІАЛЬНЕ МЕДИЧНЕ ОБ'ЄДНАННЯ М. ЛЬВОВА»",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 27500000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-14",
+    "cpvs": [
+      "31680000-6",
+      "31680000-6",
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/3e9ff3e40aed42669653326fb17b9b2f",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-10-14T09:36:09.480230"
   },
   {
     "id": "UA-2026-03-20-008862-a",
@@ -40729,7 +40879,7 @@
     "cpv": "09330000-1",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/f514e9bf693e42678ec357393ef3a94f",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-10-13T21:17:47.553814"
   }
