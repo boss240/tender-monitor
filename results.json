@@ -3490,7 +3490,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/901e97d111f5417ca124122757a48ca5",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-10-15T09:14:05.032092"
   },
@@ -3511,7 +3511,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/610f585ef7e04186acd14a2fb2933c02",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-10-15T10:06:22.217992"
   },
@@ -24931,7 +24931,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/dc92dc6f4ccf497caf217fa2aa82a3c0",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-15T09:09:05.493843"
   },
@@ -24952,7 +24952,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/9461de248ff54e09b1cd00f90c06ca4d",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-15T09:13:02.132172"
   },
@@ -24973,7 +24973,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/1625fdd4ab2348ea8d07cdac8011da56",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-15T09:46:10.049098"
   },
@@ -24994,7 +24994,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/8568d563fdfd4b1ba211ae1d387725bb",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-15T09:53:23.280563"
   },
@@ -25015,7 +25015,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/944bc8bfb58040da9d1ee09204a14f2e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-15T09:54:38.412799"
   },
@@ -25036,9 +25036,30 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/2f2a28627a924bbbb3301d8f5f795171",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-15T10:17:32.725050"
+  },
+  {
+    "id": "UA-2026-10-15-002353-a",
+    "_raw_id": "c25ee154ab4b467d9a824a5c5131276f",
+    "title": "Лінійно-інтерактивне ДБЖ Armac Home Line-Interactive 650E Led (H/6508/Led)",
+    "org": "Інститут народознавства НАН України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 40032.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/c25ee154ab4b467d9a824a5c5131276f",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-15T15:02:31.289763"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -37073,7 +37094,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/ae9f98924b014566ac9be4dff56e36d8",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-15T09:19:32.698757"
   },
@@ -37094,9 +37115,198 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/71ae91cebf1d4c87a21e33bb3d2d9632",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-15T10:04:30.578445"
+  },
+  {
+    "id": "UA-2026-10-05-011446-a",
+    "_raw_id": "5348a9d6c4f9443e9250763fd63da6b8",
+    "title": "Джерела резервного живлення",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЕНЕРГОДІМ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1165000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-22",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/5348a9d6c4f9443e9250763fd63da6b8",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-15T15:00:44.732458"
+  },
+  {
+    "id": "UA-2026-10-06-009410-a",
+    "_raw_id": "3117085ee5894b57a41bd98a9e8ed11d",
+    "title": "Джерела резервного живлення",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЕНЕРГОДІМ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1165000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-22",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/3117085ee5894b57a41bd98a9e8ed11d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-15T15:00:59.465814"
+  },
+  {
+    "id": "UA-2026-10-06-009625-a",
+    "_raw_id": "c2f17cca14c548aeae447040e0fe32e5",
+    "title": "Джерела резервного живлення",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЕНЕРГОДІМ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1165000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-22",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/c2f17cca14c548aeae447040e0fe32e5",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-15T15:01:13.751474"
+  },
+  {
+    "id": "UA-2026-10-06-009761-a",
+    "_raw_id": "6355f4caaaff44399f4e9cd24df7fdb6",
+    "title": "Джерела резервного живлення",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЕНЕРГОДІМ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1165000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-22",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/6355f4caaaff44399f4e9cd24df7fdb6",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-15T15:01:21.793857"
+  },
+  {
+    "id": "UA-2026-10-06-010210-a",
+    "_raw_id": "b83d5452a90046008207d5a363c2e96d",
+    "title": "Джерела резервного живлення",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЕНЕРГОДІМ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1165000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-22",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/b83d5452a90046008207d5a363c2e96d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-15T15:01:41.809095"
+  },
+  {
+    "id": "UA-2026-10-06-010308-a",
+    "_raw_id": "e0cc8051d72e415a9854c4c915c0970f",
+    "title": "Джерела резервного живлення",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЕНЕРГОДІМ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1165000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-22",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e0cc8051d72e415a9854c4c915c0970f",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-15T15:01:47.335277"
+  },
+  {
+    "id": "UA-2026-10-06-010384-a",
+    "_raw_id": "64167b8173cc434198af46706ce9e794",
+    "title": "Джерела резервного живлення",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЕНЕРГОДІМ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1165000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-22",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/64167b8173cc434198af46706ce9e794",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-15T15:01:52.890723"
+  },
+  {
+    "id": "UA-2026-10-06-010493-a",
+    "_raw_id": "8f38cf87b6b04dbdac939345b49f06ae",
+    "title": "Джерела резервного живлення",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЕНЕРГОДІМ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1165000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-22",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/8f38cf87b6b04dbdac939345b49f06ae",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-15T15:01:59.900808"
+  },
+  {
+    "id": "UA-2026-09-17-015226-a",
+    "_raw_id": "7acf3cc2ba884330a67a14b93b68c5b4",
+    "title": "«Комплект резервного живлення з встановленням» (потужність не менше 15 кВт)",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 416666.67,
+    "currency": "UAH",
+    "deadline": "2026-10-03",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/7acf3cc2ba884330a67a14b93b68c5b4",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-15T15:10:49.736245"
   },
   {
     "id": "UA-2026-03-31-000589-a",
