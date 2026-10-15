@@ -8577,6 +8577,27 @@
     "fetched_at": "2026-10-14T10:19:17.316845"
   },
   {
+    "id": "UA-2026-10-15-003358-a",
+    "_raw_id": "f174584f71fe422ab887b3644315db9e",
+    "title": "Акумулятор для ДБЖ Ritar R-LFP 12.8V 18Ah",
+    "org": "\t\nКОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"ДИТЯЧА ЛІКАРНЯ НАДВІРНЯНСЬКОГО РАЙОНУ\" НАДВІРНЯНСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 37500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/f174584f71fe422ab887b3644315db9e",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-10-15T19:33:36.795181"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -25057,9 +25078,51 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/c25ee154ab4b467d9a824a5c5131276f",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-15T15:02:31.289763"
+  },
+  {
+    "id": "UA-2026-10-15-004327-a",
+    "_raw_id": "0f928eec700a409a84c16494a1ce290d",
+    "title": "ДК 021:2015 код 31440000-2 Акумуляторні батареї (Акумулятори)",
+    "org": "Державне спеціалізоване підприємство «Чорнобильська АЕС»",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 131460.0,
+    "currency": "UAH",
+    "deadline": "2026-11-02",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/0f928eec700a409a84c16494a1ce290d",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-15T19:50:59.852924"
+  },
+  {
+    "id": "UA-2026-10-15-004643-a",
+    "_raw_id": "23998b17509c4d59b3ea95731f918c34",
+    "title": "Акумуляторні батареї",
+    "org": "Управління державної охорони України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1338400.0,
+    "currency": "UAH",
+    "deadline": "2026-10-24",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/23998b17509c4d59b3ea95731f918c34",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-15T19:56:54.296401"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -37136,7 +37199,7 @@
     "cpv": "09332000-5",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/5348a9d6c4f9443e9250763fd63da6b8",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-15T15:00:44.732458"
   },
@@ -37157,7 +37220,7 @@
     "cpv": "09332000-5",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/3117085ee5894b57a41bd98a9e8ed11d",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-15T15:00:59.465814"
   },
@@ -37178,7 +37241,7 @@
     "cpv": "09332000-5",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/c2f17cca14c548aeae447040e0fe32e5",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-15T15:01:13.751474"
   },
@@ -37199,7 +37262,7 @@
     "cpv": "09332000-5",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6355f4caaaff44399f4e9cd24df7fdb6",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-15T15:01:21.793857"
   },
@@ -37220,7 +37283,7 @@
     "cpv": "09332000-5",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/b83d5452a90046008207d5a363c2e96d",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-15T15:01:41.809095"
   },
@@ -37241,7 +37304,7 @@
     "cpv": "09332000-5",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/e0cc8051d72e415a9854c4c915c0970f",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-15T15:01:47.335277"
   },
@@ -37262,7 +37325,7 @@
     "cpv": "09332000-5",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/64167b8173cc434198af46706ce9e794",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-15T15:01:52.890723"
   },
@@ -37283,7 +37346,7 @@
     "cpv": "09332000-5",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/8f38cf87b6b04dbdac939345b49f06ae",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-15T15:01:59.900808"
   },
@@ -37304,9 +37367,51 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/7acf3cc2ba884330a67a14b93b68c5b4",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-15T15:10:49.736245"
+  },
+  {
+    "id": "UA-2026-09-17-015157-a",
+    "_raw_id": "8704b403cadc4c23a9dc01160eb5a674",
+    "title": "«Комплект резервного живлення з встановленням» (потужність не менше 15 кВт)",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 416666.67,
+    "currency": "UAH",
+    "deadline": "2026-10-03",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/8704b403cadc4c23a9dc01160eb5a674",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-15T19:52:30.169405"
+  },
+  {
+    "id": "UA-2026-10-05-012292-a",
+    "_raw_id": "c9085b3611da4e76959b8f815f8a3714",
+    "title": "Система накопичення електроенергії",
+    "org": "КНП \"Городоцька центральна лікарня\" Городоцької міської ради Львівської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 4354541.31,
+    "currency": "UAH",
+    "deadline": "2026-10-21",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/c9085b3611da4e76959b8f815f8a3714",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-15T20:04:43.307580"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -38485,6 +38590,27 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-10-14T20:18:08.391625"
+  },
+  {
+    "id": "UA-2026-10-15-004162-a",
+    "_raw_id": "84cb4d4a3a0e44f4ad87be79c89eadaf",
+    "title": "Акумулятор LiFePO4 280Ah",
+    "org": "Інститут молекулярної біології і генетики Національної академії наук України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 76968.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31420000-6"
+    ],
+    "cpv": "31420000-6",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/84cb4d4a3a0e44f4ad87be79c89eadaf",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-10-15T19:48:51.526464"
   },
   {
     "id": "UA-2026-03-20-008862-a",
