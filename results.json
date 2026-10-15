@@ -3469,9 +3469,51 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/f262caae0a35468a833850ae57fd12a2",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-10-14T20:10:09.809609"
+  },
+  {
+    "id": "UA-2026-09-29-011715-a",
+    "_raw_id": "901e97d111f5417ca124122757a48ca5",
+    "title": "Гібридний інвертор у комплекті з акумуляторними батареями",
+    "org": " ВІДДІЛ ОСВІТИ БАРСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1666666.67,
+    "currency": "UAH",
+    "deadline": "2026-10-15",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/901e97d111f5417ca124122757a48ca5",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-10-15T09:14:05.032092"
+  },
+  {
+    "id": "UA-2026-10-15-001656-a",
+    "_raw_id": "610f585ef7e04186acd14a2fb2933c02",
+    "title": "Гібридний інвертор Deye",
+    "org": "Військова частина А7400",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 71812.5,
+    "currency": "UAH",
+    "deadline": "2026-10-20",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/610f585ef7e04186acd14a2fb2933c02",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-10-15T10:06:22.217992"
   },
   {
     "id": "UA-2026-03-20-006846-a",
@@ -24826,7 +24868,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/07151e6265724a61941acd411a683086",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-14T20:02:24.511668"
   },
@@ -24847,7 +24889,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/284ebfeadcc14a9cb08090bc7480eee9",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-14T20:21:20.072109"
   },
@@ -24868,9 +24910,135 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/e43c68736a574761943966b97af83d75",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-14T20:27:13.825962"
+  },
+  {
+    "id": "UA-2026-10-12-012598-a",
+    "_raw_id": "dc92dc6f4ccf497caf217fa2aa82a3c0",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "ТЕРИТОРІАЛЬНЕ УПРАВЛІННЯ ДЕРЖАВНОГО БЮРО РОЗСЛІДУВАНЬ, РОЗТАШОВАНЕ У МІСТІ КИЄВІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 50000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-15",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/dc92dc6f4ccf497caf217fa2aa82a3c0",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-15T09:09:05.493843"
+  },
+  {
+    "id": "UA-2026-09-29-010381-a",
+    "_raw_id": "9461de248ff54e09b1cd00f90c06ca4d",
+    "title": "Закупівля акумуляторних батарей до джерел безперебійного живлення",
+    "org": "Державне підприємство \"Мультимедійна платформа іномовлення України\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 620399.17,
+    "currency": "UAH",
+    "deadline": "2026-10-15",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/9461de248ff54e09b1cd00f90c06ca4d",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-15T09:13:02.132172"
+  },
+  {
+    "id": "UA-2026-10-15-000621-a",
+    "_raw_id": "1625fdd4ab2348ea8d07cdac8011da56",
+    "title": "Акумуляторні батареі (ДК 021:2015-31440000-2 Акумаляторна батарея ємністю від 14кВт/год 48вольт)",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ІЛАРІОНІВСЬКИЙ КОМУНГОСП\" ІЛАРІОНІВСЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 68500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/1625fdd4ab2348ea8d07cdac8011da56",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-15T09:46:10.049098"
+  },
+  {
+    "id": "UA-2026-10-15-001158-a",
+    "_raw_id": "8568d563fdfd4b1ba211ae1d387725bb",
+    "title": "Акумулятор 6СТ-90, Акумулятор 6СТ-75, Акумулятор 6СТ-140",
+    "org": "Військова частина А3435",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 203000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-24",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/8568d563fdfd4b1ba211ae1d387725bb",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-15T09:53:23.280563"
+  },
+  {
+    "id": "UA-2026-10-14-013123-a",
+    "_raw_id": "944bc8bfb58040da9d1ee09204a14f2e",
+    "title": "Система високовольтних акумуляторів",
+    "org": "ВИКОНАВЧИЙ КОМІТЕТ КАЛИНІВСЬКОЇ СЕЛИЩНОЇ РАДИ БРОВАРСЬКОГО РАЙОНУ КИЇВСЬКОЇ ОБЛАСТІ (ВИКОНКОМ КАЛИНІВСЬКОЇ СЕЛИЩНОЇ РАДИ)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1374758.1,
+    "currency": "UAH",
+    "deadline": "2026-10-30",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/944bc8bfb58040da9d1ee09204a14f2e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-15T09:54:38.412799"
+  },
+  {
+    "id": "UA-2026-10-14-003161-a",
+    "_raw_id": "2f2a28627a924bbbb3301d8f5f795171",
+    "title": "Акумуляторні батареї, код ДК 021:2015: 31440000-2 — Акумуляторні батареї",
+    "org": "Управління освіти Енергодарської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 398000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-30",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/2f2a28627a924bbbb3301d8f5f795171",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-15T10:17:32.725050"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -36863,7 +37031,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/0e9cbbdac03741b2aaae8321228b0d55",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-14T19:59:59.212643"
   },
@@ -36884,9 +37052,51 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/64a6a8c1fcec4666b6d66e566f86bee1",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-14T20:05:11.429727"
+  },
+  {
+    "id": "UA-2026-09-29-009069-a",
+    "_raw_id": "ae9f98924b014566ac9be4dff56e36d8",
+    "title": "Джерело резервного живлення (Комплект автономного енергопостачання)\n",
+    "org": "Виконавчий комітет Могилівської сільської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 292436.67,
+    "currency": "UAH",
+    "deadline": "2026-10-15",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/ae9f98924b014566ac9be4dff56e36d8",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-15T09:19:32.698757"
+  },
+  {
+    "id": "UA-2026-10-12-012458-a",
+    "_raw_id": "71ae91cebf1d4c87a21e33bb3d2d9632",
+    "title": "Комплекти резервного живлення",
+    "org": "КОМУНАЛЬНИЙ ЗАКЛАД \"ГАЙВОРОНСЬКИЙ ЛІЦЕЙ №2\" ГАЙВОРОНСЬКОЇ МІСЬКОЇ РАДИ КІРОВОГРАДСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 40000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-15",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/71ae91cebf1d4c87a21e33bb3d2d9632",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-15T10:04:30.578445"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -38062,7 +38272,7 @@
     "cpv": "09330000-1",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/583e2e3ef0654505a3228226018731f2",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-10-14T20:18:08.391625"
   },
@@ -41049,7 +41259,7 @@
     "cpv": "09331000-8",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/d17e335328564de59e653c8f545482d7",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-10-14T20:01:05.940156"
   }
