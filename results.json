@@ -3538,6 +3538,27 @@
     "fetched_at": "2026-10-16T09:07:14.527640"
   },
   {
+    "id": "UA-2026-10-16-003557-a",
+    "_raw_id": "fad14d65510a42b786b5dbfcb7a90447",
+    "title": "Гібридний інвертор DEYE SUN",
+    "org": "Великоомелянська сільська рада",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 169200.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/fad14d65510a42b786b5dbfcb7a90447",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-10-16T19:26:41.003531"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -8678,7 +8699,7 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/95004d6a246042b58dbbfcfe8ee49475",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-10-16T14:59:40.420465"
   },
@@ -8699,9 +8720,51 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/b97cb127070c4c059482bc96408201f2",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-10-16T15:09:37.725145"
+  },
+  {
+    "id": "UA-2026-10-16-003583-a",
+    "_raw_id": "22b2d330df0246348997b8da18e99d8a",
+    "title": "Акумуляторна батарея Dyness Power Brick Plus",
+    "org": "Великоомелянська сільська рада",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 159000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/22b2d330df0246348997b8da18e99d8a",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-10-16T19:26:42.467780"
+  },
+  {
+    "id": "UA-2026-09-24-005711-a",
+    "_raw_id": "bb09ab2c659e4d709b698be367718361",
+    "title": "Система безперебійного живлення (акумулятор та інвертор), силовий інверторний модуль",
+    "org": "Інститут металофізики ім. Г.В. Курдюмова НАН України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 189554.93,
+    "currency": "UAH",
+    "deadline": "2026-10-10",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/bb09ab2c659e4d709b698be367718361",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-10-16T19:31:44.095240"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -25268,9 +25331,30 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/9bc855bc48584a66a99de3737105a11b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-16T14:57:49.920696"
+  },
+  {
+    "id": "UA-2026-10-16-003222-a",
+    "_raw_id": "49804c32592d4691b721e11ff8f7b781",
+    "title": "Акумуляторні батареі (ДК 021:2015-31440000-2 Акумаляторна батарея ємністю від 14кВт/год 48вольт)",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ІЛАРІОНІВСЬКИЙ КОМУНГОСП\" ІЛАРІОНІВСЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 68500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/49804c32592d4691b721e11ff8f7b781",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-16T19:21:41.364572"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -37662,7 +37746,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/3a49dc9167364136a9233e4d299b80f0",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-16T14:53:40.825104"
   },
@@ -37683,7 +37767,7 @@
     "cpv": "09332000-5",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/81cd4fd3386348b0a2b0239b63734f44",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-16T14:56:07.789510"
   },
@@ -37706,7 +37790,7 @@
     "cpv": "31730000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/8b7e0a798e1048dba4e13ebb22e91b29",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-16T15:01:15.179885"
   },
@@ -37727,9 +37811,30 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/7005abf445244a20aee4c1cec474603b",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-16T15:03:11.166353"
+  },
+  {
+    "id": "UA-2026-09-25-011743-a",
+    "_raw_id": "35dbf668390d4a9d9632978207ad2f5d",
+    "title": "Гібридний інвертор 6кВт Deye SUN-6K-SG05LP1-EU-AM2-P; Акумуляторна батарея літієва ALFP-48200H LiFePO4 51.2V 200Ah\n",
+    "org": "Комунальне некомерційне підприємство \"Клінічна лікарня швидкої медичної допомоги\" Дніпровської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 118000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-11",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/35dbf668390d4a9d9632978207ad2f5d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-16T19:26:44.935194"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -41916,5 +42021,49 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-10-14T20:01:05.940156"
+  },
+  {
+    "id": "UA-2026-10-16-003751-a",
+    "_raw_id": "fa1875d06b5046bcb54cfdf06285146b",
+    "title": "Сонячні панелі (сонячна панель EcoFlow 160W Solar Panel (EFSOLAR160W))",
+    "org": "КІЛІЙСЬКЕ МІЖРАЙОННЕ УПРАВЛІННЯ ВОДНОГО ГОСПОДАРСТВА",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 55800.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "09331000-8"
+    ],
+    "cpv": "09331000-8",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/fa1875d06b5046bcb54cfdf06285146b",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-10-16T19:45:24.348344"
+  },
+  {
+    "id": "UA-2026-10-16-004781-a",
+    "_raw_id": "4cf275998eb8481a9602b0f93c4bfbb5",
+    "title": "Лампи електричні (світлодіодні, акумуляторні, розжарення), код за ЄЗС ДК 021:2015 (CPV) –  31510000-4 Електричні лампи розжарення",
+    "org": "Автопідприємство Господарсько-фінансового департаменту Секретаріату Кабінету Міністрів України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 75050.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31510000-4",
+      "31510000-4",
+      "31510000-4"
+    ],
+    "cpv": "31510000-4",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/4cf275998eb8481a9602b0f93c4bfbb5",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-10-16T19:48:37.462554"
   }
 ]
