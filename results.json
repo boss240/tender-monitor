@@ -3516,6 +3516,28 @@
     "fetched_at": "2026-10-15T10:06:22.217992"
   },
   {
+    "id": "UA-2026-09-30-012181-a",
+    "_raw_id": "27798c3d44cb4d19ab77be121f179538",
+    "title": "Обладнання для забезпечення резервного електроживлення",
+    "org": "Головне управління Національної поліції в Харківській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1716977.5,
+    "currency": "UAH",
+    "deadline": "2026-10-16",
+    "cpvs": [
+      "31154000-0",
+      "31155000-7"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/27798c3d44cb4d19ab77be121f179538",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-10-16T09:07:14.527640"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -8593,9 +8615,51 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/f174584f71fe422ab887b3644315db9e",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-10-15T19:33:36.795181"
+  },
+  {
+    "id": "UA-2026-10-07-012326-a",
+    "_raw_id": "3ab514322bfd44af98b4744a84aa062e",
+    "title": "Акумулятор LiFePO4",
+    "org": "Центральна база підтримки системи зв'язку та спеціальних комплексів Національної гвардії України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 222256.25,
+    "currency": "UAH",
+    "deadline": "2026-10-16",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/3ab514322bfd44af98b4744a84aa062e",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-10-16T08:57:17.589644"
+  },
+  {
+    "id": "UA-2026-10-13-009194-a",
+    "_raw_id": "36d2cec2530d4628bf024e8ac496e04b",
+    "title": "Гібридний інвертор для Ліцею № 123 «Романо-германський»",
+    "org": "Управління освіти Подільської районної в місті Києві державної адміністрації",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 104000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-16",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/36d2cec2530d4628bf024e8ac496e04b",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-10-16T09:18:50.726425"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -25099,7 +25163,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/0f928eec700a409a84c16494a1ce290d",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-15T19:50:59.852924"
   },
@@ -25120,9 +25184,30 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/23998b17509c4d59b3ea95731f918c34",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-15T19:56:54.296401"
+  },
+  {
+    "id": "UA-2026-09-30-007240-a",
+    "_raw_id": "2335543ac776432ab573f21a0430b2b5",
+    "title": "Акумуляторні батареї",
+    "org": "Інститут металофізики ім. Г.В. Курдюмова НАН України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 288642.5,
+    "currency": "UAH",
+    "deadline": "2026-10-16",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/2335543ac776432ab573f21a0430b2b5",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-16T09:05:08.607831"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -37388,7 +37473,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/8704b403cadc4c23a9dc01160eb5a674",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-15T19:52:30.169405"
   },
@@ -37409,9 +37494,93 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/c9085b3611da4e76959b8f815f8a3714",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-15T20:04:43.307580"
+  },
+  {
+    "id": "UA-2026-09-30-008725-a",
+    "_raw_id": "f3de160e10e845d996240e54d236395b",
+    "title": "Джерело альтернативного живлення",
+    "org": "Відділ освіти Рогатинської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 818541.67,
+    "currency": "UAH",
+    "deadline": "2026-10-16",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/f3de160e10e845d996240e54d236395b",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-16T08:52:01.813190"
+  },
+  {
+    "id": "UA-2026-09-29-012501-a",
+    "_raw_id": "2e9ddf23a8944d5bb65c6f2c0979fbdf",
+    "title": "блок живлення для оптичного приймача/передавача",
+    "org": "Служба зовнішньої розвідки України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 31408.32,
+    "currency": "UAH",
+    "deadline": "2026-10-16",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/2e9ddf23a8944d5bb65c6f2c0979fbdf",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-16T08:54:14.736119"
+  },
+  {
+    "id": "UA-2026-09-30-012190-a",
+    "_raw_id": "baf01392fa2d40da870bb745c741c9a8",
+    "title": "Джерела безперебійного живлення (ДК 021:2015:31150000-2)",
+    "org": "ХМЕЛЬНИЦЬКЕ МІЖРЕГІОНАЛЬНЕ УПРАВЛІННЯ МІНІСТЕРСТВА ЮСТИЦІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 731083.33,
+    "currency": "UAH",
+    "deadline": "2026-10-16",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/baf01392fa2d40da870bb745c741c9a8",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-16T09:06:35.780760"
+  },
+  {
+    "id": "UA-2026-09-30-009724-a",
+    "_raw_id": "d0e3395925e74132a184e6cfb2b3bc23",
+    "title": "Комплектна трифазна гібридна система для перетворення електроенергії та резервного живлення навантаження",
+    "org": "Державний навчальний заклад \"Бучацьке професійно-технічне училище\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 1250000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-16",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/d0e3395925e74132a184e6cfb2b3bc23",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-16T09:11:49.631664"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -38608,7 +38777,7 @@
     "cpv": "31420000-6",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/84cb4d4a3a0e44f4ad87be79c89eadaf",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-10-15T19:48:51.526464"
   },
