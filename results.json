@@ -3554,9 +3554,30 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/fad14d65510a42b786b5dbfcb7a90447",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-10-16T19:26:41.003531"
+  },
+  {
+    "id": "UA-2026-10-13-009983-a",
+    "_raw_id": "30e2f941c5ef4ba49d361f252657cd37",
+    "title": "Комплект системи резервного електроживлення (гібридний інвертор з акумуляторними батареями),",
+    "org": "Військова частина А1964",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 149000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-21",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/30e2f941c5ef4ba49d361f252657cd37",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-10-17T08:24:53.488837"
   },
   {
     "id": "UA-2026-03-20-006846-a",
@@ -8741,7 +8762,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/22b2d330df0246348997b8da18e99d8a",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-10-16T19:26:42.467780"
   },
@@ -8762,7 +8783,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/bb09ab2c659e4d709b698be367718361",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-10-16T19:31:44.095240"
   },
@@ -25352,9 +25373,51 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/49804c32592d4691b721e11ff8f7b781",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-16T19:21:41.364572"
+  },
+  {
+    "id": "UA-2026-10-13-010622-a",
+    "_raw_id": "5a88b784c48e4ec4bfb5a347f0187f2d",
+    "title": "Акумуляторна батарея\nHYH POWER 360 Втч/кг, твердотільна, 10C, 3.7В, 13000 mAh, 600 циклов\n",
+    "org": "Військова частина А 4349",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 295500.0,
+    "currency": "UAH",
+    "deadline": "2026-10-21",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/5a88b784c48e4ec4bfb5a347f0187f2d",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-17T08:24:32.753872"
+  },
+  {
+    "id": "UA-2026-10-08-012819-a",
+    "_raw_id": "d5b2a8e7e3b74945a7cc362449af5777",
+    "title": "Акумуляторні батареї для транспортних засобів",
+    "org": "20 БРИГАДА ОПЕРАТИВНОГО ПРИЗНАЧЕННЯ НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ (ВІЙСЬКОВА ЧАСТИНА 3009)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 61217.0,
+    "currency": "UAH",
+    "deadline": "2026-10-17",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/d5b2a8e7e3b74945a7cc362449af5777",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-17T08:25:19.325952"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -37832,9 +37895,30 @@
     "cpv": "31680000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/35dbf668390d4a9d9632978207ad2f5d",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-16T19:26:44.935194"
+  },
+  {
+    "id": "UA-2026-10-06-013934-a",
+    "_raw_id": "daa885158695474b8fa6645081a38789",
+    "title": "Комплект резервного живлення ",
+    "org": "Одеський національний університет імені І. І. Мечникова",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 1197666.67,
+    "currency": "UAH",
+    "deadline": "2026-10-22",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/daa885158695474b8fa6645081a38789",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-17T08:39:07.742710"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -39034,6 +39118,27 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-10-15T19:48:51.526464"
+  },
+  {
+    "id": "UA-2026-10-01-010641-a",
+    "_raw_id": "a415c6e7f506474fa996e4635d9fe81e",
+    "title": "ДК 021:2015: 09330000-1 – Сонячна енергія. (Комплексна гібридна сонячна електростанція з (у складі: гібридні інвертори, акумуляторні батареї, сонячні панелі та ін., з урахуванням витрат на встановлення та пусконалагодження для Нехворощанського ліцею Нехворощанської сільської ради Полтавської області).",
+    "org": "Відділ освіти, молоді та спорту Нехворощанської сільської ради Полтавського району Полтавської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1666666.67,
+    "currency": "UAH",
+    "deadline": "2026-10-17",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/a415c6e7f506474fa996e4635d9fe81e",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-10-17T08:21:53.022682"
   },
   {
     "id": "UA-2026-03-20-008862-a",
@@ -42039,7 +42144,7 @@
     "cpv": "09331000-8",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/fa1875d06b5046bcb54cfdf06285146b",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-10-16T19:45:24.348344"
   },
@@ -42062,7 +42167,7 @@
     "cpv": "31510000-4",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/4cf275998eb8481a9602b0f93c4bfbb5",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-10-16T19:48:37.462554"
   }
