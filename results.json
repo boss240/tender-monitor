@@ -42233,5 +42233,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-10-16T19:48:37.462554"
+  },
+  {
+    "id": "UA-2026-10-18-000376-a",
+    "_raw_id": "4647cf069a8743cb9a18cdda0ecbfa3c",
+    "title": "Системи зберігання енергії (31680000-6– «Електричне приладдя та супутні товари до електричного обладнання»)",
+    "org": "ІНСТИТУТ МАТЕМАТИКИ НАЦІОНАЛЬНОЇ АКАДЕМІЇ НАУК УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 206208.33,
+    "currency": "UAH",
+    "deadline": "2026-11-03",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/4647cf069a8743cb9a18cdda0ecbfa3c",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-10-18T18:05:33.530564"
   }
 ]
