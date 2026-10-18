@@ -25436,9 +25436,30 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/3f6c5a4838834fb5a2b29e2920719e4d",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-17T18:08:57.521382"
+  },
+  {
+    "id": "UA-2026-10-02-010439-a",
+    "_raw_id": "58dd1a7a13194b9bb228f054a7189e2d",
+    "title": "Промислова гібридна система зберігання енергії",
+    "org": " ВІДДІЛ ОСВІТИ БАРСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 2029166.67,
+    "currency": "UAH",
+    "deadline": "2026-10-18",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/58dd1a7a13194b9bb228f054a7189e2d",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-18T08:47:08.292829"
   },
   {
     "id": "UA-2026-03-11-009316-a",
