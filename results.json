@@ -3580,6 +3580,70 @@
     "fetched_at": "2026-10-17T08:24:53.488837"
   },
   {
+    "id": "UA-2026-10-13-005846-a",
+    "_raw_id": "a10c370880a246ee91f07f786fe96cdb",
+    "title": "Комплект резервного живлення з витратними матеріалами, монтажем та підключенням до існуючої системи сонячних панелей",
+    "org": "Автозаводська районна адміністрація Кременчуцької міської ради Кременчуцького району Полтавської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 350550.0,
+    "currency": "UAH",
+    "deadline": "2026-10-29",
+    "cpvs": [
+      "31150000-2",
+      "31154000-0"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/a10c370880a246ee91f07f786fe96cdb",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-10-19T09:43:23.079177"
+  },
+  {
+    "id": "UA-2026-10-16-009662-a",
+    "_raw_id": "6b6a2be6b4e24ae68c7ca478d40b85e9",
+    "title": "Джерело резервного живлення :інвертор ANENJI 6.2 KW, акумуляторна батарея Deye",
+    "org": "ДЕРЖАВНА УСТАНОВА \"РОМЕНСЬКА ВИПРАВНА КОЛОНІЯ (№56)\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 75750.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/6b6a2be6b4e24ae68c7ca478d40b85e9",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-10-19T09:49:46.733526"
+  },
+  {
+    "id": "UA-2026-10-19-001689-a",
+    "_raw_id": "070ebd2b072e47be9e7150fcbb30c498",
+    "title": "Гібридний інвертор Deye SUN-20SG05LP3-EU-SM2",
+    "org": "Виконавчий комітет Лебединської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 130350.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/070ebd2b072e47be9e7150fcbb30c498",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-10-19T10:36:37.183207"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -8786,6 +8850,27 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-10-16T19:31:44.095240"
+  },
+  {
+    "id": "UA-2026-10-02-005638-a",
+    "_raw_id": "575c0e1b91734c78b4b99f228cb6429e",
+    "title": "Гібридний інвертор 50 кВт",
+    "org": "Регіональний сервісний центр ГСЦ МВС у Дніпропетровській та Запорізькій областях (філія ГСЦ МВС)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 209515.83,
+    "currency": "UAH",
+    "deadline": "2026-10-19",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/575c0e1b91734c78b4b99f228cb6429e",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-10-19T09:58:32.614112"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -25462,6 +25547,90 @@
     "fetched_at": "2026-10-18T08:47:08.292829"
   },
   {
+    "id": "UA-2026-10-19-000257-a",
+    "_raw_id": "6155cd0413744f3880c3e0c9c527d5aa",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "Комунальне некомерційне підприємство \"Обласний центр екcтреної медичної допомоги та медицини катастроф Черкаської обласної ради\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 91666.67,
+    "currency": "UAH",
+    "deadline": "2026-10-22",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/6155cd0413744f3880c3e0c9c527d5aa",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-19T09:53:55.430739"
+  },
+  {
+    "id": "UA-2026-10-02-007826-a",
+    "_raw_id": "8d4af840fa014fde9129f32d7d39e039",
+    "title": "Акумулятори для приладів охоронної сигналізації",
+    "org": "УПРАВЛІННЯ ПОЛІЦІЇ ОХОРОНИ В СУМСЬКІЙ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 787669.64,
+    "currency": "UAH",
+    "deadline": "2026-10-19",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/8d4af840fa014fde9129f32d7d39e039",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-19T09:58:22.222646"
+  },
+  {
+    "id": "UA-2026-10-14-012005-a",
+    "_raw_id": "a01a351518224df8985fdc347ad89b60",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "Полтавський державний аграрний університет",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 96666.67,
+    "currency": "UAH",
+    "deadline": "2026-10-19",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/a01a351518224df8985fdc347ad89b60",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-19T10:09:05.649715"
+  },
+  {
+    "id": "UA-2026-10-19-001117-a",
+    "_raw_id": "8d3617731ec64f95a1daf7cc8dfc8d66",
+    "title": "Акумуляторні батареї",
+    "org": "Комунальне підприємство \"Теплоенергетик\" КМР\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 114756.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/8d3617731ec64f95a1daf7cc8dfc8d66",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-19T10:21:05.314011"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -37963,6 +38132,27 @@
     "fetched_at": "2026-10-17T08:39:07.742710"
   },
   {
+    "id": "UA-2026-10-19-000251-a",
+    "_raw_id": "92318efd2aa9452bb43d37c2c2c6b389",
+    "title": "Джерело безперебійного живлення 3000V A",
+    "org": "військова частина А3723",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 84834.0,
+    "currency": "UAH",
+    "deadline": "2026-10-28",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/92318efd2aa9452bb43d37c2c2c6b389",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-19T09:54:41.198413"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -42251,8 +42441,29 @@
     "cpv": "31680000-6",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/4647cf069a8743cb9a18cdda0ecbfa3c",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-10-18T18:05:33.530564"
+  },
+  {
+    "id": "UA-2026-10-02-009693-a",
+    "_raw_id": "69728e65c8264db995d43508ac5a65cd",
+    "title": "Гібридна сонячна електростанція з фотоелектричними модулями, гібридним інвертором і системою накопичення електричної енергії з монтажем, підключенням та пусконалагоджувальними роботами",
+    "org": "Головне управління ДСНС України у Тернопільській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 1093441.67,
+    "currency": "UAH",
+    "deadline": "2026-10-19",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/69728e65c8264db995d43508ac5a65cd",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-10-19T10:58:40.680394"
   }
 ]
