@@ -3644,6 +3644,69 @@
     "fetched_at": "2026-10-19T10:36:37.183207"
   },
   {
+    "id": "UA-2026-10-15-012166-a",
+    "_raw_id": "851818d7cf0e42f58f27d2bd57f4acd0",
+    "title": "Гібридний інвертор DEYE SUN-12K-SG02LP1-EU-AM3 Deye WiFi (12 kW, 1 фаза, 3 MPPT, LV)",
+    "org": "Військова частина 3052 Національної гвардії України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 67083.33,
+    "currency": "UAH",
+    "deadline": "2026-10-20",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/851818d7cf0e42f58f27d2bd57f4acd0",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-10-20T09:19:06.561791"
+  },
+  {
+    "id": "UA-2026-10-20-000855-a",
+    "_raw_id": "99a1eb7b6c3847b4bf2db88e96c9b5d3",
+    "title": "НАЦІОНАЛЬНИЙ КЛАСИФІКАТОР УКРАЇНИ Єдиний закупівельний словник ДК 021:2015: 31440000-2 - Акумуляторні батареї (Акумуляторна батарея LiFePO4 51.2V 100 Ah 5.12 kWh V-TAC VT-5139; Інвертор гібридний з зарядкою MUST PV-18-1012VPM II, 1000W, 12V, ток зарядка 20А, 160-275V, МРРТ (45А, 105 Vdc); Інвертор гібридний з зарядкою Feliciti IVEM6048-II 6KVA 48V (Gen-port), 6000W 48V; Акумуляторна батарея LiFePO4 12.8V 100 Ah 1.28 kWh Eco-Worth (BT+BMS 50/100А))",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"ВІННИЦЬКА ОБЛАСНА КЛІНІЧНА ЛІКАРНЯ ІМ. М.І. ПИРОГОВА ВІННИЦЬКОЇ ОБЛАСНОЇ РАДИ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 125060.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/99a1eb7b6c3847b4bf2db88e96c9b5d3",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-10-20T09:42:21.883522"
+  },
+  {
+    "id": "UA-2026-10-20-001291-a",
+    "_raw_id": "015b10e86e114ca6aa4adebc6391a060",
+    "title": "Гібридний інвертор DEYE SUN-20K-SG05LP3-EU-SM2",
+    "org": "Комунальне некомерційне підприємство \"Копайгородський центр первинної медико-санітарної допомоги Копайгородської селищної ради\" ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 108333.0,
+    "currency": "UAH",
+    "deadline": "2026-10-23",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/015b10e86e114ca6aa4adebc6391a060",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-10-20T09:53:40.141269"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -8871,6 +8934,27 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-10-19T09:58:32.614112"
+  },
+  {
+    "id": "UA-2026-10-02-007984-a",
+    "_raw_id": "9cdb76a2d53d475aaf9b8b6e42dc775a",
+    "title": " Код ДК 021:2015 – 31440000-2 – Акумуляторні батареї (Акумулятор LiFePO4)",
+    "org": "Чернівецький національний університет імені Юрія Федьковича",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 112500.0,
+    "currency": "UAH",
+    "deadline": "2026-10-20",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/9cdb76a2d53d475aaf9b8b6e42dc775a",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-10-20T09:59:49.353048"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -25647,7 +25731,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/0897ee57e1a544ad80ef2bb6bbcef319",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-19T20:40:54.282197"
   },
@@ -25668,7 +25752,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/4e79404647c14ea8b249811c683b7767",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-19T20:48:20.498580"
   },
@@ -25689,9 +25773,93 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/2eb9588d607a47939dc7b98c53d0c539",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-19T21:19:51.550617"
+  },
+  {
+    "id": "UA-2026-10-15-012974-a",
+    "_raw_id": "ac9cca82152d40089ff8fe2c8d4a3998",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 3027 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 76719.17,
+    "currency": "UAH",
+    "deadline": "2026-10-20",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/ac9cca82152d40089ff8fe2c8d4a3998",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-20T09:19:19.137249"
+  },
+  {
+    "id": "UA-2026-10-14-013559-a",
+    "_raw_id": "adfc2b86021f4452bbddea137386b7c9",
+    "title": "Джерела безперебійного живлення (ДБЖ) для забезпечення стабільної роботи обладнання робочих місць диспетчерів з прийому викликів Центральної обласної диспетчерської",
+    "org": "Комунальне некомерційне товариство «Обласний центр екстреної медичної допомоги та медицини катастроф» Дніпропетровської обласної ради» ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 41660.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/adfc2b86021f4452bbddea137386b7c9",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-20T10:16:03.637631"
+  },
+  {
+    "id": "UA-2026-10-20-002324-a",
+    "_raw_id": "ec2a080c5f4f4d5a93f480e84dd2dcbd",
+    "title": "Аккумулятор LP LiFePO4 51,2V - 315 Ah (16128Wh) (BMS SP 200A/100А) RM RS485/CAN LCD BL або еквівалент ",
+    "org": "Військова частина А5100",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 270000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-28",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/ec2a080c5f4f4d5a93f480e84dd2dcbd",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-20T10:18:05.828563"
+  },
+  {
+    "id": "UA-2026-10-20-002376-a",
+    "_raw_id": "537d5fdc365f4b27ad56f57b7b7650c6",
+    "title": "Акумуляторні батареї",
+    "org": "Комунальне підприємство \"Житомиртеплокомуненерго\" Житомирської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 30504.6,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/537d5fdc365f4b27ad56f57b7b7650c6",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-20T10:20:00.209837"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -38232,7 +38400,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/15fc0e4d9a3e467e99b3924c9ffd50c2",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-19T21:03:24.822629"
   },
@@ -38253,7 +38421,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/e175247a577944428a935cf380e1e0bd",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-19T21:05:35.545869"
   },
@@ -38274,9 +38442,30 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/f63023daf9614a4685a478fdecd5542f",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-19T21:34:21.207086"
+  },
+  {
+    "id": "UA-2026-10-20-001605-a",
+    "_raw_id": "eba793dfdcbe465091120f7d636be42a",
+    "title": "Придбання сонячної електростанції для закладу освіти м.Дніпра зі встановленням - заходи з енергозбереження",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1728784.17,
+    "currency": "UAH",
+    "deadline": "2026-11-05",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/eba793dfdcbe465091120f7d636be42a",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-20T10:01:44.545875"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -39536,9 +39725,30 @@
     "cpv": "09330000-1",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/9de4176fb4fc4d22b4b1e89c8c143dc7",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-10-19T21:21:35.089220"
+  },
+  {
+    "id": "UA-2026-10-13-008765-a",
+    "_raw_id": "4c32cf79ac6f4b8791d30d339e538f0c",
+    "title": "Гібридний інвертор, високовольтний трифазний, чиста синусоїда 80 кВт",
+    "org": "Комунальне некомерційне підприємство \"Городнянська міська лікарня\" Городнянської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 331550.4,
+    "currency": "UAH",
+    "deadline": "2026-10-29",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/4c32cf79ac6f4b8791d30d339e538f0c",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-10-20T10:26:58.250730"
   },
   {
     "id": "UA-2026-03-20-008862-a",
