@@ -3749,6 +3749,27 @@
     "fetched_at": "2026-10-20T20:31:27.355757"
   },
   {
+    "id": "UA-2026-10-19-012216-a",
+    "_raw_id": "e7e43823fcf44366b86c5dd115b6c8eb",
+    "title": "Сонячний інвертор Deye SUN-6K-SG05LP1-EU- AM2-P 6кВт (або еквівалент ) в комплекті з двома батареями LiFePo4 Deye SE-G5.1 Pro, 51.2V -100Ah (або еквівалент )",
+    "org": "Військова частина 2193",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 117000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-04",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e7e43823fcf44366b86c5dd115b6c8eb",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-10-21T16:01:44.684817"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -9057,7 +9078,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/c06e7253c8c74265aa21989b9862d8b1",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-10-21T09:35:29.454814"
   },
@@ -38652,7 +38673,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6096991bad384831bff2068b1163a371",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-21T09:49:12.478499"
   },
@@ -38673,7 +38694,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/8d47b07da4924bc9a965a293816cb5ea",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-21T10:28:37.598668"
   },
@@ -38694,9 +38715,30 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/2da5ccc384994d4f98a58c6c0f38127b",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-21T10:36:16.194880"
+  },
+  {
+    "id": "UA-2026-10-15-014389-a",
+    "_raw_id": "63539030c8f84331900be457124f751d",
+    "title": "Сонячні панелі (фотоелектричні модулі) до гібридної сонячної електростанції (СЕС) на 35 кВт з можливістю збільшення до 50 кВт (Код за ЄЗС ДК 021:2015: 09330000-1 «Сонячна енергія»)",
+    "org": "Сновський ліцей № 3 Сновської міської ради Корюківського району Чернігівської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 390000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "09331200-0"
+    ],
+    "cpv": "09331200-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/63539030c8f84331900be457124f751d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-21T15:58:40.368043"
   },
   {
     "id": "UA-2026-03-31-000589-a",
