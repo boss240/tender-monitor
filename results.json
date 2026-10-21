@@ -3765,9 +3765,30 @@
     "cpv": "31155000-7",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/e7e43823fcf44366b86c5dd115b6c8eb",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-10-21T16:01:44.684817"
+  },
+  {
+    "id": "UA-2026-10-20-008239-a",
+    "_raw_id": "f665abcc4e074403ba288ee227c2dca7",
+    "title": "Система резервного живлення   у складі : гібридний інвертор ,акумуляторні батареї ,стійка 19-дюймова для установки 12 батарей +1 блоку керування та блоки керування високовольтною батареєю .",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"АКВАТЕРМО\" КРОЛЕВЕЦЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1179000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-05",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/f665abcc4e074403ba288ee227c2dca7",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-10-21T20:06:59.758610"
   },
   {
     "id": "UA-2026-03-20-006846-a",
@@ -38736,9 +38757,51 @@
     "cpv": "09331200-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/63539030c8f84331900be457124f751d",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-21T15:58:40.368043"
+  },
+  {
+    "id": "UA-2026-09-29-006384-a",
+    "_raw_id": "170a85abfa7a4bc6bff4e9c93b80de75",
+    "title": "Блок резервного живлення з вбудованим АКБ",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"УКPНAФТА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 1084958.3,
+    "currency": "UAH",
+    "deadline": "2026-10-15",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/170a85abfa7a4bc6bff4e9c93b80de75",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-21T20:31:35.052818"
+  },
+  {
+    "id": "UA-2026-10-21-005616-a",
+    "_raw_id": "c27664fe284a4add9185d5c34417b947",
+    "title": "Джерела безперебійного живлення ",
+    "org": "Дніпропетровський науково-дослідний інститут судових експертиз Міністерства юстиції України ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 198534.6,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/c27664fe284a4add9185d5c34417b947",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-21T20:46:42.513848"
   },
   {
     "id": "UA-2026-03-31-000589-a",
