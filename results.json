@@ -26088,7 +26088,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/3f4b97c9fa7d430192100502d3422a8b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-22T11:28:58.627266"
   },
@@ -38841,9 +38841,30 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/13eaf66fe4204f0cb3ab4c46ac22bd99",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-22T11:02:58.127466"
+  },
+  {
+    "id": "UA-2026-10-22-003793-a",
+    "_raw_id": "fd733045e77541768b651a463a69844f",
+    "title": "Джерело безперебійного живлення",
+    "org": "Територіальне управління БЕБ у  Львівській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 108000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/fd733045e77541768b651a463a69844f",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-22T16:37:11.836800"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -43239,7 +43260,7 @@
     "cpv": "31680000-6",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/3cb041453ecc41b4be4af5c0d6d218b4",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-10-22T11:22:38.986217"
   }
