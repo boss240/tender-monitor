@@ -3786,7 +3786,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/f665abcc4e074403ba288ee227c2dca7",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-10-21T20:06:59.758610"
   },
@@ -26072,6 +26072,27 @@
     "fetched_at": "2026-10-20T20:20:42.876273"
   },
   {
+    "id": "UA-2026-10-22-003350-a",
+    "_raw_id": "3f4b97c9fa7d430192100502d3422a8b",
+    "title": "Акумуляторні батареї",
+    "org": "ВЕЛИКООМЕЛЯНСЬКИЙ ЛІЦЕЙ ВЕЛИКООМЕЛЯНСЬКОЇ СІЛЬСЬКОЇ РАДИ РІВНЕНСЬКОГО РАЙОНУ РІВНЕНСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 159000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/3f4b97c9fa7d430192100502d3422a8b",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-22T11:28:58.627266"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -38778,7 +38799,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/170a85abfa7a4bc6bff4e9c93b80de75",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-21T20:31:35.052818"
   },
@@ -38799,9 +38820,30 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/c27664fe284a4add9185d5c34417b947",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-21T20:46:42.513848"
+  },
+  {
+    "id": "UA-2026-10-22-002749-a",
+    "_raw_id": "13eaf66fe4204f0cb3ab4c46ac22bd99",
+    "title": "Джерело безперебійного живлення",
+    "org": "АВАРІЙНО-РЯТУВАЛЬНИЙ ЗАГІН СПЕЦІАЛЬНОГО ПРИЗНАЧЕННЯ ГОЛОВНОГО УПРАВЛІННЯ ДЕРЖАВНОЇ СЛУЖБИ УКРАЇНИ З НАДЗВИЧАЙНИХ СИТУАЦІЙ У КИЇВСЬКІЙ ОБЛАСТІ ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 54849.73,
+    "currency": "UAH",
+    "deadline": "2026-11-07",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/13eaf66fe4204f0cb3ab4c46ac22bd99",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-22T11:02:58.127466"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -43179,5 +43221,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-10-20T20:11:08.029375"
+  },
+  {
+    "id": "UA-2026-10-22-003182-a",
+    "_raw_id": "3cb041453ecc41b4be4af5c0d6d218b4",
+    "title": "Стійка для гібридного інвертора",
+    "org": "Регіональний сервісний центр ГСЦ МВС у Дніпропетровській та Запорізькій областях (філія ГСЦ МВС)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 41724.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/3cb041453ecc41b4be4af5c0d6d218b4",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-10-22T11:22:38.986217"
   }
 ]
