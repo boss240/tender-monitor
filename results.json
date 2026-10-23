@@ -26303,6 +26303,69 @@
     "fetched_at": "2026-10-23T11:24:05.616845"
   },
   {
+    "id": "UA-2026-10-22-004518-a",
+    "_raw_id": "1e9f21a8011649f2926cd32063bb6bb0",
+    "title": "Акумуляторна батарея ",
+    "org": "ДЕРЖАВНА УСТАНОВА \"СУМСЬКИЙ СЛІДЧИЙ ІЗОЛЯТОР\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 46500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/1e9f21a8011649f2926cd32063bb6bb0",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-23T20:01:16.918189"
+  },
+  {
+    "id": "UA-2026-10-22-004286-a",
+    "_raw_id": "6568970e131a4b8d8a8ce790b487cda1",
+    "title": "Акумуляторна батарея",
+    "org": "ДЕРЖАВНА УСТАНОВА \"СУМСЬКИЙ СЛІДЧИЙ ІЗОЛЯТОР\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 46500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/6568970e131a4b8d8a8ce790b487cda1",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-23T20:01:51.324505"
+  },
+  {
+    "id": "UA-2026-10-23-003695-a",
+    "_raw_id": "810122dba471478ab35992033323fc94",
+    "title": "Акумулятор\n",
+    "org": "Відділ освіти Попільнянської селищної ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 35500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/810122dba471478ab35992033323fc94",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-23T20:01:53.219654"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -39180,6 +39243,27 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-23T10:23:40.838962"
+  },
+  {
+    "id": "UA-2026-10-23-003528-a",
+    "_raw_id": "cb67d7f73dd4403a98f0187bd23e6d12",
+    "title": "Система безперебійного живлення з монтажем та пусконалагодженням на місці її безпосередньої експлуатації",
+    "org": "УКРАЇНСЬКИЙ ДЕРЖАВНИЙ УНІВЕРСИТЕТ НАУКИ І ТЕХНОЛОГІЙ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 268500.0,
+    "currency": "UAH",
+    "deadline": "2026-11-09",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/cb67d7f73dd4403a98f0187bd23e6d12",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-23T20:00:49.114670"
   },
   {
     "id": "UA-2026-03-31-000589-a",
