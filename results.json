@@ -9230,6 +9230,27 @@
     "fetched_at": "2026-10-23T10:24:40.597807"
   },
   {
+    "id": "UA-2026-10-24-000846-a",
+    "_raw_id": "98473afd6f2b4743ae15c6b1a35d8270",
+    "title": "Інвертор гібридний Deye SUN-6K-SG05LP1-EU",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 3035 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 34800.0,
+    "currency": "UAH",
+    "deadline": "2026-10-28",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/98473afd6f2b4743ae15c6b1a35d8270",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-10-24T09:20:07.544802"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -26319,7 +26340,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/1e9f21a8011649f2926cd32063bb6bb0",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-23T20:01:16.918189"
   },
@@ -26340,7 +26361,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/6568970e131a4b8d8a8ce790b487cda1",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-23T20:01:51.324505"
   },
@@ -26361,9 +26382,30 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/810122dba471478ab35992033323fc94",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-23T20:01:53.219654"
+  },
+  {
+    "id": "UA-2026-10-08-012201-a",
+    "_raw_id": "6ac1428c5e2443a9a0d0ed51ea8d6655",
+    "title": "Комплект резервного живлення 1200ВА/1000Вт з АКБ LiFePO4 12.8V 100Ah , або еквівалент",
+    "org": "Головне управління Національної поліції в Чернівецькій області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 544491.6,
+    "currency": "UAH",
+    "deadline": "2026-10-24",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/6ac1428c5e2443a9a0d0ed51ea8d6655",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-24T08:49:09.326026"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -39261,9 +39303,72 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/cb67d7f73dd4403a98f0187bd23e6d12",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-23T20:00:49.114670"
+  },
+  {
+    "id": "UA-2026-10-08-003422-a",
+    "_raw_id": "b714e441ddb44a43bd19b276a8eac833",
+    "title": "Гібридна сонячна електростанція",
+    "org": "Гощанський академічний ліцей Гощанської селищної ради Рівненської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1245779.17,
+    "currency": "UAH",
+    "deadline": "2026-10-24",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/b714e441ddb44a43bd19b276a8eac833",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-24T08:46:28.415914"
+  },
+  {
+    "id": "UA-2026-10-08-012124-a",
+    "_raw_id": "2a401200f0f74fac9bf2fac4150a16e8",
+    "title": "Комплект обладнання сонячної електростанції",
+    "org": "ВІДДІЛ ОСВІТИ, МОЛОДІ ТА СПОРТУ ЧЕМЕРОВЕЦЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1547127.1,
+    "currency": "UAH",
+    "deadline": "2026-10-24",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/2a401200f0f74fac9bf2fac4150a16e8",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-24T08:49:17.642860"
+  },
+  {
+    "id": "UA-2026-10-15-008801-a",
+    "_raw_id": "3b04b4a8e8c64917bf5b2e7fa6778581",
+    "title": "Система безперебійного живлення",
+    "org": "Військова частина А1937",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 158394.18,
+    "currency": "UAH",
+    "deadline": "2026-10-24",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/3b04b4a8e8c64917bf5b2e7fa6778581",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-24T08:59:33.928378"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -40547,6 +40652,27 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-10-20T10:26:58.250730"
+  },
+  {
+    "id": "UA-2026-10-08-013077-a",
+    "_raw_id": "1113f311637a46d88514e8569dc438bf",
+    "title": "Сонячна   електростанція (СЕС) в   комплекті (а саме: сонячні панелі, інвертор, блок керування кластером високовольтної батареї  з акумуляторними батареями) та встановлення сонячної електростанції з монтажем та пусконаладкою  на місці її безпосередньої експлуатації",
+    "org": "Академічний ліцей \"Європейський\" Лубенської міської ради Лубенського району  Полтавської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 2166666.67,
+    "currency": "UAH",
+    "deadline": "2026-10-24",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/1113f311637a46d88514e8569dc438bf",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-10-24T08:49:29.421950"
   },
   {
     "id": "UA-2026-03-20-008862-a",
