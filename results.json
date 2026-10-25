@@ -9414,9 +9414,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/c05e053b2c894418a8b6e4aae86a58d4",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-10-25T13:45:45.589749"
+  },
+  {
+    "id": "UA-2026-10-19-012928-a",
+    "_raw_id": "40dde1aeeed24ce08eae27eb336f8ee4",
+    "title": "гібридний сонячний інвертор Deye SUN-6.6K-OG03LP1-EU-AM2 - 4 шт; аккумуляторна батарея Deye SE-F12-С 51.2V 230Ah – 7 шт.",
+    "org": "Військова частина А 1008",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 709000.0,
+    "currency": "UAH",
+    "deadline": "2026-10-28",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/40dde1aeeed24ce08eae27eb336f8ee4",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-10-25T18:36:21.583123"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -26634,7 +26655,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/40e30d4a9cf34375992d572ae312eeb4",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-25T13:48:25.912632"
   },
@@ -39639,7 +39660,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/a3e8cd5f220a4cbd9fc4118148b855db",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-25T13:47:51.785297"
   },
