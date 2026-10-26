@@ -9462,6 +9462,48 @@
     "fetched_at": "2026-10-25T18:36:21.583123"
   },
   {
+    "id": "UA-2026-10-26-003963-a",
+    "_raw_id": "8e9992bfe2d3489babf535e66b21c33d",
+    "title": "Інвертор гібридний 8k W Deye SUN-8K-SG05LP1 EUAM2-P однофазний",
+    "org": "Чернеччинська сільська рада",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 61000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/8e9992bfe2d3489babf535e66b21c33d",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-10-26T21:17:58.372549"
+  },
+  {
+    "id": "UA-2026-10-26-004211-a",
+    "_raw_id": "d77066a3506c4f879ad38f35e3304ea1",
+    "title": "Акумуляторна батарея Deye SE-F16 51.2V 314Ah",
+    "org": "Чернеччинська сільська рада",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 98500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/d77066a3506c4f879ad38f35e3304ea1",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-10-26T21:21:59.087275"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -26971,7 +27013,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/dc25ca93ab004b749f0b8fdd6428a0ec",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-26T17:22:09.183563"
   },
@@ -26992,9 +27034,51 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/fe204c53333647d4ba271ffb28dd7f79",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-26T17:30:31.275262"
+  },
+  {
+    "id": "UA-2026-10-26-003688-a",
+    "_raw_id": "56d19a666b2d4db0835425392249f7ae",
+    "title": "Акумуляторні батареї",
+    "org": "Головне управління справами Міністерства оборони України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 99000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/56d19a666b2d4db0835425392249f7ae",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-26T21:09:41.271817"
+  },
+  {
+    "id": "UA-2026-10-26-005151-a",
+    "_raw_id": "16d0801373414b2ca25ccfdd28c9b43e",
+    "title": "Акумулятор тяговый гелєвий 12В AGM 110Ah  760А або вище, NATO клеми R+\nОрієнтовні розміри: висота 220 см, довжина 280 см, ширина 260 см (15 шт.)",
+    "org": "ВІЙСЬКОВА ЧАСТИНА А1232",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 270000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-03",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/16d0801373414b2ca25ccfdd28c9b43e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-26T21:43:19.093848"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -40024,6 +40108,27 @@
     "fetched_at": "2026-10-26T12:06:32.113637"
   },
   {
+    "id": "UA-2026-10-26-003870-a",
+    "_raw_id": "ebf927ad3da241ddae40fbe5691b771c",
+    "title": "Інвентор",
+    "org": "Комплексна дитячо-юнацька спортивна школа \"Арго\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 99250.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/ebf927ad3da241ddae40fbe5691b771c",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-26T21:08:02.931920"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -44525,5 +44630,47 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-10-26T11:04:04.657927"
+  },
+  {
+    "id": "UA-2026-10-06-010466-a",
+    "_raw_id": "81d044a265d14f4fae1407bd90ca5580",
+    "title": "ДК 021:2015: 31680000-6 — «Електричне приладдя та супутні товари до електричного обладнання» (Обладнання системи резервного електроживлення з використанням гібридного інвертора)",
+    "org": "Дніпровське міжрегіональне управління Міністерства юстиції України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 691666.67,
+    "currency": "UAH",
+    "deadline": "2026-10-22",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/81d044a265d14f4fae1407bd90ca5580",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-10-26T20:59:33.831462"
+  },
+  {
+    "id": "UA-2026-10-20-010857-a",
+    "_raw_id": "713842e1301541f7b95bf9fa70cce222",
+    "title": "Код ДК 021:2015 - 31710000-6 Електронне обладнання (Система сонячної електростанції потужністю 40 кВт: в комплекті 65 панелей 610-650Вт( сонячна панель LONGi LR8-66HG-620M BIFACIAL) профіль кріплення)) код ДК 021:2015 - 31712300‑4 — Сонячні батареї.",
+    "org": "Комунальна установа \"Ананьївський ліцей №1 Ананьївської міської ради\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 544000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-05",
+    "cpvs": [
+      "31710000-6"
+    ],
+    "cpv": "31710000-6",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/713842e1301541f7b95bf9fa70cce222",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-10-26T21:04:34.653687"
   }
 ]
