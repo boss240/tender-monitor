@@ -9525,6 +9525,27 @@
     "fetched_at": "2026-10-27T09:45:40.283326"
   },
   {
+    "id": "UA-2026-10-27-003526-a",
+    "_raw_id": "04f82396d3fd43519c9e583c43f19501",
+    "title": "ДК 021:2015: 31440000-2 Акумуляторні батареї  Батарея до ДБЖ 12В 9Ar CSB (HR1234WF2) ",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"ХЕРСОНСЬКА МІСЬКА КЛІНІЧНА ЛІКАРНЯ ІМ. Є. Є. КАРАБЕЛЕША\" ХЕРСОНСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 40230.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/04f82396d3fd43519c9e583c43f19501",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-10-27T20:33:50.360483"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -27244,9 +27265,72 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/69875343ae6e47bc93cb294ab388761c",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-27T16:24:43.996357"
+  },
+  {
+    "id": "UA-2026-09-21-011396-a",
+    "_raw_id": "d38a299bfa924c9d8da544f75614fcb9",
+    "title": "31440000-2 «Акумуляторні батареї» (Акумуляторні батареї літій-іонні)",
+    "org": "ГОЛОВНЕ УПРАВЛІННЯ НАЦІОНАЛЬНОЇ ПОЛІЦІЇ В КИЇВСЬКІЙ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 760550.0,
+    "currency": "UAH",
+    "deadline": "2026-10-07",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/d38a299bfa924c9d8da544f75614fcb9",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-27T20:50:39.077984"
+  },
+  {
+    "id": "UA-2026-10-27-004947-a",
+    "_raw_id": "dc204fcba9a347fea50f4ef26dae4223",
+    "title": "Комплект акумуляторної батареї",
+    "org": "Інститут радіофізики та електроніки ім. О.Я. Усикова Національної академії наук України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 42000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/dc204fcba9a347fea50f4ef26dae4223",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-27T21:02:24.967499"
+  },
+  {
+    "id": "UA-2026-10-27-003034-a",
+    "_raw_id": "5f1b41ae2c9d494fa1d31650931a47b3",
+    "title": "Акумуляторні батареї",
+    "org": "ВІЙСЬКОВА ЧАСТИНА Т0300",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/5f1b41ae2c9d494fa1d31650931a47b3",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-27T21:12:12.428359"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -40355,9 +40439,30 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/caf0fa1889fe4275a47812ab64e2a5ca",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-27T16:25:13.166933"
+  },
+  {
+    "id": "UA-2026-10-27-003546-a",
+    "_raw_id": "4510850273484bcfb61b72c884078557",
+    "title": "комплект обладнання системи резервного живлення",
+    "org": "МАШІВСЬКЕ ЖИТЛОВО - КОМУНАЛЬНЕ ГОСПОДАРСТВО",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 77280.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/4510850273484bcfb61b72c884078557",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-27T20:34:06.798869"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -44943,7 +45048,7 @@
     "cpv": "09330000-1",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/65807f0e760d4570b4c4b7009cd8f148",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-10-27T16:35:56.509635"
   }
