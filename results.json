@@ -27349,7 +27349,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/61540235dc4940bc947c1be33dae5404",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-28T10:35:58.213472"
   },
@@ -27370,7 +27370,7 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/8fd0def009f34312953c4eafb6c7cfd2",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-28T10:50:26.522423"
   },
@@ -27391,7 +27391,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/588384a984e74ae687dd0dd4a0c95567",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-28T11:22:08.234678"
   },
@@ -27412,7 +27412,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/9c5ef8f59c444c779e3613b276fdbfd5",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-28T11:38:26.667471"
   },
@@ -27433,9 +27433,30 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/84c89820a33e4029839bb764f07d17cb",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-28T11:44:20.591739"
+  },
+  {
+    "id": "UA-2026-10-08-012118-a",
+    "_raw_id": "d70ff224f9a44cca83dd51b26feafc58",
+    "title": "Літій-залізо-фосфатні акумуляторні батареї",
+    "org": "ФІЛІЯ \"КАРПАТСЬКИЙ ЛІСОВИЙ ОФІС\" ДЕРЖАВНОГО СПЕЦІАЛІЗОВАНОГО ГОСПОДАРСЬКОГО ПІДПРИЄМСТВА \"ЛІСИ УКРАЇНИ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 585041.67,
+    "currency": "UAH",
+    "deadline": "2026-10-26",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/d70ff224f9a44cca83dd51b26feafc58",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-28T17:15:50.828139"
   },
   {
     "id": "UA-2026-03-11-009316-a",
