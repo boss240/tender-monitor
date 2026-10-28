@@ -9541,7 +9541,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/04f82396d3fd43519c9e583c43f19501",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-10-27T20:33:50.360483"
   },
@@ -27286,7 +27286,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/d38a299bfa924c9d8da544f75614fcb9",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-27T20:50:39.077984"
   },
@@ -27307,7 +27307,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/dc204fcba9a347fea50f4ef26dae4223",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-27T21:02:24.967499"
   },
@@ -27328,9 +27328,114 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/5f1b41ae2c9d494fa1d31650931a47b3",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-27T21:12:12.428359"
+  },
+  {
+    "id": "UA-2026-10-27-012642-a",
+    "_raw_id": "61540235dc4940bc947c1be33dae5404",
+    "title": "Акумуляторні батареї (Код ДК 021:2015: 31440000-2 Акумуляторні батареї)",
+    "org": "ЦЕНТР КОМПЛЕКСНОЇ РЕАБІЛІТАЦІЇ ДІТЕЙ З ІНВАЛІДНІСТЮ М.МИРГОРОДА",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 145120.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/61540235dc4940bc947c1be33dae5404",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-28T10:35:58.213472"
+  },
+  {
+    "id": "UA-2026-10-28-000466-a",
+    "_raw_id": "8fd0def009f34312953c4eafb6c7cfd2",
+    "title": "Лінійно-інтерактивне ДБЖ LP U850VA (510Вт)",
+    "org": "ВІДДІЛ ОСВІТИ, МОЛОДІ ТА СПОРТУ ВИКОНАВЧОГО КОМІТЕТУ ПІЩАНСЬКОЇ СІЛЬСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 39500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/8fd0def009f34312953c4eafb6c7cfd2",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-28T10:50:26.522423"
+  },
+  {
+    "id": "UA-2026-10-28-001147-a",
+    "_raw_id": "588384a984e74ae687dd0dd4a0c95567",
+    "title": "Акумуляторні батареї 5s1p 10 000 mАh SSBLi-HV ",
+    "org": "ГЛЕЮВАТСЬКА СІЛЬСЬКА РАДА",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 185472.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/588384a984e74ae687dd0dd4a0c95567",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-28T11:22:08.234678"
+  },
+  {
+    "id": "UA-2026-10-27-011021-a",
+    "_raw_id": "9c5ef8f59c444c779e3613b276fdbfd5",
+    "title": "Акумуляторні батареї",
+    "org": "Військова частина А2595 МО України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 40000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-04",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/9c5ef8f59c444c779e3613b276fdbfd5",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-28T11:38:26.667471"
+  },
+  {
+    "id": "UA-2026-10-22-013989-a",
+    "_raw_id": "84c89820a33e4029839bb764f07d17cb",
+    "title": "Акумуляторна батарея код ДК 021:2015 «31440000-2 – Акумуляторні батареї»",
+    "org": "Військова частина Т0330",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 31968.0,
+    "currency": "UAH",
+    "deadline": "2026-11-05",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/84c89820a33e4029839bb764f07d17cb",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-28T11:44:20.591739"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -40460,7 +40565,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/4510850273484bcfb61b72c884078557",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-27T20:34:06.798869"
   },
