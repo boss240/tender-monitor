@@ -3976,7 +3976,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/ac76543334b34a46b685df23958869cf",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-10-29T11:58:14.353746"
   },
@@ -27601,7 +27601,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/440163a1cd0e452d9abb728cc30875ec",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-29T11:50:53.501227"
   },
@@ -27622,7 +27622,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/a1f2f1eedfa347eeae5794f2ce54bd90",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-29T12:15:27.353774"
   },
@@ -27643,7 +27643,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/de4ee4eaaee541f59ea5a68cf96426d9",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-29T12:16:53.443574"
   },
@@ -27664,7 +27664,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/f2436f03e4cb4999a0cd9f0d75d3beca",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-29T12:25:39.371899"
   },
@@ -27685,9 +27685,30 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/e1386fd66f8544f187b2504dcbd72cb5",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-29T12:28:41.355574"
+  },
+  {
+    "id": "UA-2026-10-29-002801-a",
+    "_raw_id": "0b72a3630c944e238c76a4aa3e0c852e",
+    "title": "Акумуляторна батарея 12HVR200CG 12V200Ah",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ВИРОБНИЧЕ УПРАВЛІННЯ КОМУНАЛЬНОГО ГОСПОДАРСТВА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 33700.01,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/0b72a3630c944e238c76a4aa3e0c852e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-29T17:29:42.704324"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -40859,7 +40880,7 @@
     "cpv": "09331200-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/9ce69bbe39dd4bf8b5838c0a39e5c94f",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-29T11:43:42.199586"
   },
@@ -40880,7 +40901,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/10c23291b3d04890b5afb97f1bcd34e2",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-29T12:24:33.982419"
   },
