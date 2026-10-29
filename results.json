@@ -9567,6 +9567,27 @@
     "fetched_at": "2026-10-27T20:33:50.360483"
   },
   {
+    "id": "UA-2026-10-29-003228-a",
+    "_raw_id": "27e687d488b74b179da5d6ad0704be0a",
+    "title": "Акумуляторна батарея Dyness POWER Plus",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"ПІДВОЛОЧИСЬКА  ЦЕНТРАЛЬНА  ЛІКАРНЯ\" ПІДВОЛОЧИСЬКОЇ СЕЛИЩНОЇ РАДИ ТЕРНОПІЛЬСЬКОГО РАЙОНУ ТЕРНОПІЛЬСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 157110.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/27e687d488b74b179da5d6ad0704be0a",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-10-29T20:41:33.418186"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -27706,7 +27727,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/0b72a3630c944e238c76a4aa3e0c852e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-29T17:29:42.704324"
   },
@@ -40906,6 +40927,27 @@
     "fetched_at": "2026-10-29T12:24:33.982419"
   },
   {
+    "id": "UA-2026-10-29-004953-a",
+    "_raw_id": "4dca2c4063f048d5a13c400250082f4a",
+    "title": "Пристрій безперебійного живлення",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО ВАШКІВЕЦЬКОЇ МІСЬКОЇ РАДИ \"ВАШКІВЕЦЬКА ЛІКАРНЯ РЕАБІЛІТАЦІЇ ТА ПАЛІАТИВНОЇ ДОПОМОГИ З ПОЛІКЛІНІЧНИМ ВІДДІЛЕННЯМ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 43996.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/4dca2c4063f048d5a13c400250082f4a",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-29T21:19:22.299415"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -45513,5 +45555,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-10-28T20:35:48.058480"
+  },
+  {
+    "id": "UA-2026-10-28-012350-a",
+    "_raw_id": "a8b292ec95564efc8faa59a003a2395d",
+    "title": "Сонячна панель",
+    "org": "Державна установа \"Бердичівська виправна колонія (№70)\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 49400.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/a8b292ec95564efc8faa59a003a2395d",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-10-29T21:15:11.610919"
   }
 ]
