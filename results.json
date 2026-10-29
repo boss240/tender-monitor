@@ -3960,6 +3960,27 @@
     "fetched_at": "2026-10-26T12:13:23.900349"
   },
   {
+    "id": "UA-2026-10-29-001794-a",
+    "_raw_id": "ac76543334b34a46b685df23958869cf",
+    "title": "Гібридний інвертор у комплекті з акумуляторними батареями (з монтажем та пусконалагоджувальними роботами)",
+    "org": "Комунальне некомерційне підприємство “Центр первинної медико-санітарної допомоги № 1” Солом’янського району м. Києва",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 400215.0,
+    "currency": "UAH",
+    "deadline": "2026-11-14",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/ac76543334b34a46b685df23958869cf",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-10-29T11:58:14.353746"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -27475,7 +27496,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/597039dfcfa14b36bf3ecd16df8b8ed6",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-28T20:31:47.532225"
   },
@@ -27496,7 +27517,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/73ab131214414bba8512c3d7097ac56c",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-28T21:08:34.847707"
   },
@@ -27517,7 +27538,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/0d5d5d897b364522892a07dc9de72568",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-28T21:08:56.311345"
   },
@@ -27538,7 +27559,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/e083f3c205a54527b0838113c69cb7b7",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-28T21:18:48.296688"
   },
@@ -27559,9 +27580,114 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/0af16922741e4a46a03f91e9cf21582e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-28T21:28:28.861030"
+  },
+  {
+    "id": "UA-2026-10-26-013607-a",
+    "_raw_id": "440163a1cd0e452d9abb728cc30875ec",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "Військова частина А5047",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 55371.38,
+    "currency": "UAH",
+    "deadline": "2026-10-29",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/440163a1cd0e452d9abb728cc30875ec",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-29T11:50:53.501227"
+  },
+  {
+    "id": "UA-2026-10-23-006397-a",
+    "_raw_id": "a1f2f1eedfa347eeae5794f2ce54bd90",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"МІСЬКА ПОЛІКЛІНІКА №24\" ХАРКІВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 216400.0,
+    "currency": "UAH",
+    "deadline": "2026-10-28",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/a1f2f1eedfa347eeae5794f2ce54bd90",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-29T12:15:27.353774"
+  },
+  {
+    "id": "UA-2026-10-29-002131-a",
+    "_raw_id": "de4ee4eaaee541f59ea5a68cf96426d9",
+    "title": "комплект джерела безперебійного живлення",
+    "org": "Територіальне управління Державної судової адміністрації України в Сумській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 6125000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-14",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/de4ee4eaaee541f59ea5a68cf96426d9",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-29T12:16:53.443574"
+  },
+  {
+    "id": "UA-2026-10-29-002548-a",
+    "_raw_id": "f2436f03e4cb4999a0cd9f0d75d3beca",
+    "title": "Інвертори",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ВИРОБНИЧЕ УПРАВЛІННЯ КОМУНАЛЬНОГО ГОСПОДАРСТВА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 35449.98,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/f2436f03e4cb4999a0cd9f0d75d3beca",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-29T12:25:39.371899"
+  },
+  {
+    "id": "UA-2026-10-29-002648-a",
+    "_raw_id": "e1386fd66f8544f187b2504dcbd72cb5",
+    "title": "Акумуляторні батареї (Код за ДК 021:2015 31440000-2 Акумуляторні батареї)",
+    "org": "Комунальне підприємство \"Шляхово-експлуатаційне управління по ремонту та утриманню автомобільних шляхів та споруд на них Печерського району\" м. Києва",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 198523.2,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/e1386fd66f8544f187b2504dcbd72cb5",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-29T12:28:41.355574"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -40712,9 +40838,51 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/b49abd562cab42f7aedfd8dd3126168a",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-28T21:14:21.302283"
+  },
+  {
+    "id": "UA-2026-10-29-001461-a",
+    "_raw_id": "9ce69bbe39dd4bf8b5838c0a39e5c94f",
+    "title": "Сонячні панелі",
+    "org": "Комунальне некомерційне підприємство \"Обласний центр екcтреної медичної допомоги та медицини катастроф Черкаської обласної ради\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 176052.34,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "09331200-0"
+    ],
+    "cpv": "09331200-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/9ce69bbe39dd4bf8b5838c0a39e5c94f",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-29T11:43:42.199586"
+  },
+  {
+    "id": "UA-2026-10-29-002468-a",
+    "_raw_id": "10c23291b3d04890b5afb97f1bcd34e2",
+    "title": "Гібридна система зберігання електроенергії із монтажем для ТСЦ 6844 \n(м. Старокостянтинів).",
+    "org": "Регіональний сервісний центр ГСЦ МВС в Хмельницькій, Тернопільській та Чернівецькій областях (філія ГСЦ МВС)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 333333.33,
+    "currency": "UAH",
+    "deadline": "2026-11-14",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/10c23291b3d04890b5afb97f1bcd34e2",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-29T12:24:33.982419"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -45321,7 +45489,7 @@
     "cpv": "31210000-1",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/18fb56de6ac442708c857b4b2c2ba06b",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-10-28T20:35:48.058480"
   }
