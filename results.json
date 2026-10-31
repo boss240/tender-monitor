@@ -4018,7 +4018,7 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/60d2b562a11641e28b8a9b593127bd70",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-10-30T20:49:36.578931"
   },
@@ -9670,6 +9670,48 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-10-30T12:20:08.021288"
+  },
+  {
+    "id": "UA-2026-10-31-000140-a",
+    "_raw_id": "854e14c75e2f4a8d86979fdd0b57a9af",
+    "title": "Інвертор гібридний Deye SUN-6K-SG05LP1-EU",
+    "org": "Військова частина А1736",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 100000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-12",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/854e14c75e2f4a8d86979fdd0b57a9af",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-10-31T10:22:49.048503"
+  },
+  {
+    "id": "UA-2026-10-31-000155-a",
+    "_raw_id": "df308a8c355c438ca6fbd81f8b2c0047",
+    "title": "Акумулятор LP LiFePO4 25,6V - 315 Ah (8064Wh) (BMS JK 200A/100A) RM RS485/CAN BL ",
+    "org": "Військова частина А5100",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 4345999.8,
+    "currency": "UAH",
+    "deadline": "2026-11-10",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/df308a8c355c438ca6fbd81f8b2c0047",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-10-31T10:23:13.049041"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -27979,7 +28021,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/ff164a61c1ee431291d663c67a4d3a9c",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-10-30T20:36:27.084846"
   },
@@ -41363,7 +41405,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/0806fef0af2b4997a96c77367ce27fc4",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-30T20:43:00.886795"
   },
@@ -41384,9 +41426,30 @@
     "cpv": "09331200-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/beb279d33d514bbfa33831c4bd788700",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-30T20:50:08.836999"
+  },
+  {
+    "id": "UA-2026-10-28-014574-a",
+    "_raw_id": "e9d6b599e0a54e538f8c7fe84d67e502",
+    "title": "Комплект гібридної сонячної електростанції з системою накопичення енергії.",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 1141 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1000000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-07",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e9d6b599e0a54e538f8c7fe84d67e502",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-31T10:30:47.236512"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -46059,5 +46122,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-10-30T10:47:13.651289"
+  },
+  {
+    "id": "UA-2026-10-30-007169-a",
+    "_raw_id": "29446aa5d84c43ad9a695aba14269e55",
+    "title": "Обладнання системи резервного електроживлення з використанням гібридного інвертора",
+    "org": "Дніпровське міжрегіональне управління Міністерства юстиції України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 2252322.63,
+    "currency": "UAH",
+    "deadline": "2026-11-15",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/29446aa5d84c43ad9a695aba14269e55",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-10-31T10:18:46.001555"
   }
 ]
