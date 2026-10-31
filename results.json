@@ -9688,7 +9688,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/854e14c75e2f4a8d86979fdd0b57a9af",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-10-31T10:22:49.048503"
   },
@@ -9709,7 +9709,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/df308a8c355c438ca6fbd81f8b2c0047",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-10-31T10:23:13.049041"
   },
@@ -28026,6 +28026,27 @@
     "fetched_at": "2026-10-30T20:36:27.084846"
   },
   {
+    "id": "UA-2026-10-22-014920-a",
+    "_raw_id": "8e071cdb10164851b57df7905647c0ea",
+    "title": "Батарея до ДБЖ Ritar AGM RA12-100, 12V 100Ah або аналогічна",
+    "org": "ДП \"Військова частина А2166\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 332224.52,
+    "currency": "UAH",
+    "deadline": "2026-10-31",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/8e071cdb10164851b57df7905647c0ea",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-10-31T15:37:22.644141"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -41447,9 +41468,51 @@
     "cpv": "09332000-5",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/e9d6b599e0a54e538f8c7fe84d67e502",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-10-31T10:30:47.236512"
+  },
+  {
+    "id": "UA-2026-10-31-000402-a",
+    "_raw_id": "278f775b94994baeaffcc2be87d0af6b",
+    "title": "Джерела безперебійного живлення",
+    "org": "Військова частина А0515",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 927518.0,
+    "currency": "UAH",
+    "deadline": "2026-11-11",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/278f775b94994baeaffcc2be87d0af6b",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-31T15:30:25.272014"
+  },
+  {
+    "id": "UA-2026-10-31-000494-a",
+    "_raw_id": "4dfd0976d7084737aa6ddf2103108084",
+    "title": "Комплект обладнання для системи накопичення електричної енергії",
+    "org": "Управління освіти Голосіївської районної в місті Києві державної адміністрації",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 810658.33,
+    "currency": "UAH",
+    "deadline": "2026-11-16",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/4dfd0976d7084737aa6ddf2103108084",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-10-31T15:34:04.660896"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -46140,7 +46203,7 @@
     "cpv": "31680000-6",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/29446aa5d84c43ad9a695aba14269e55",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-10-31T10:18:46.001555"
   }
