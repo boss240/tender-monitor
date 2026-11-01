@@ -9730,7 +9730,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/c3cc9f8d2582412a91365aa4ce12ce3b",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-01T11:17:20.952415"
   },
@@ -28068,6 +28068,27 @@
     "fetched_at": "2026-10-31T15:37:22.644141"
   },
   {
+    "id": "UA-2026-11-01-000401-a",
+    "_raw_id": "5a0f8f9bb8474136a0a5051f44116563",
+    "title": "Акумуляторні батареї (4 лоти)",
+    "org": "Військова частина А4438",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 2712403.0,
+    "currency": "UAH",
+    "deadline": "2026-11-10",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/5a0f8f9bb8474136a0a5051f44116563",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-01T16:07:08.766045"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -41552,7 +41573,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/86499d75b56f4393b05385e101b21c2e",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-01T11:08:01.437875"
   },
@@ -41573,9 +41594,30 @@
     "cpv": "31155000-7",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/44b09cdfcb394b21b8121a4dad643a48",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-01T11:11:11.530196"
+  },
+  {
+    "id": "UA-2026-11-01-000257-a",
+    "_raw_id": "8e5228f776ce49da8a2e381587546fc0",
+    "title": "Джерело безперебійного живлення",
+    "org": "Регіональний сервісний центр ГСЦ МВС у Дніпропетровській та Запорізькій областях (філія ГСЦ МВС)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 275651.83,
+    "currency": "UAH",
+    "deadline": "2026-11-17",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/8e5228f776ce49da8a2e381587546fc0",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-01T16:06:52.060373"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -42965,6 +43007,28 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-10-30T12:06:34.068646"
+  },
+  {
+    "id": "UA-2026-10-16-012597-a",
+    "_raw_id": "5d94aaab1c8340138a426cb09ac8ea9e",
+    "title": "Система зберігання енергії на базі гібридного інвертора потужністю 30кВт з можливістю підключення сонячних полів ДК 021:2015 код - 31680000-6 Електричне приладдя та супутні товари до електричного обладнання (з монтажем та пусконалагоджувальними роботами)",
+    "org": "Відокремлений структурний підрозділ \"Глухівський агротехнічний фаховий коледж Сумського національного аграрного університету\" ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 544366.0,
+    "currency": "UAH",
+    "deadline": "2026-11-01",
+    "cpvs": [
+      "31680000-6",
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/5d94aaab1c8340138a426cb09ac8ea9e",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-11-01T16:08:09.975874"
   },
   {
     "id": "UA-2026-03-20-008862-a",
