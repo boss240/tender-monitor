@@ -28084,9 +28084,30 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/5a0f8f9bb8474136a0a5051f44116563",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-01T16:07:08.766045"
+  },
+  {
+    "id": "UA-2026-11-01-000456-a",
+    "_raw_id": "557a4ec5ba9c4f0caf447fb7d989b475",
+    "title": "Акумуляторні батареї для безпілотних літальних апаратів",
+    "org": "Військова частина А4123",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 175440.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/557a4ec5ba9c4f0caf447fb7d989b475",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-01T19:38:59.321517"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -41615,7 +41636,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/8e5228f776ce49da8a2e381587546fc0",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-01T16:06:52.060373"
   },
@@ -43026,7 +43047,7 @@
     "cpv": "31680000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/5d94aaab1c8340138a426cb09ac8ea9e",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-11-01T16:08:09.975874"
   },
