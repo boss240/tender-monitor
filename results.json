@@ -4039,9 +4039,30 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/0a4f48fb41de48169459201b1f8cd90f",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-11-02T13:39:05.055677"
+  },
+  {
+    "id": "UA-2026-11-02-003665-a",
+    "_raw_id": "8887d2d895aa4d358d422ca0f2ed7c41",
+    "title": "Гібридний інвертор Growatt  в комплекті з акумуляторною батерейою Growatt",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО КАЛИНІВСЬКОЇ СЕЛИЩНОЇ РАДИ \"ДЖЕРЕЛО-20\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 72435.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/8887d2d895aa4d358d422ca0f2ed7c41",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-11-02T20:41:31.036958"
   },
   {
     "id": "UA-2026-03-20-006846-a",
@@ -9772,7 +9793,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/2fe338dd3ccc4c67971d056e4f71016f",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-02T13:15:43.689982"
   },
@@ -9793,9 +9814,30 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/6260ef3e65d94e44880cb6721307f185",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-02T13:29:56.655861"
+  },
+  {
+    "id": "UA-2026-11-02-003327-a",
+    "_raw_id": "5d7fc2a9c1db46cb8fec3e56b46ebc68",
+    "title": "Акумуляторна батарея Dyness DL5.OC (5.12 кВт год/51.2 В)",
+    "org": "ГОЛОВНЕ УПРАВЛІННЯ ДЕРЖПРОДСПОЖИВСЛУЖБИ У ВІННИЦЬКІЙ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 111648.16,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/5d7fc2a9c1db46cb8fec3e56b46ebc68",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-02T20:33:18.024616"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -28189,7 +28231,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/4175b27c9a804f018a0703c1cbc640fe",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-02T13:29:47.355624"
   },
@@ -28210,9 +28252,30 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/9479303e56194e9696961d549ba392fe",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-02T13:44:24.840713"
+  },
+  {
+    "id": "UA-2026-11-02-003710-a",
+    "_raw_id": "d0b69ea58e2e455d8812a65a418542bc",
+    "title": "Інвертор гібридний LuxPower SNA6000 Wide PV (6 кВт, 1 фаза)",
+    "org": "ГОЛОВНЕ УПРАВЛІННЯ ДЕРЖПРОДСПОЖИВСЛУЖБИ У ВІННИЦЬКІЙ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 30053.02,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/d0b69ea58e2e455d8812a65a418542bc",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-02T20:42:30.593130"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -41762,9 +41825,30 @@
     "cpv": "31155000-7",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/bd6376eda976466ca021de38bad32272",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-02T12:47:34.267901"
+  },
+  {
+    "id": "UA-2026-11-02-003046-a",
+    "_raw_id": "17a64e7aa32b4fa49a0dfd2f746fb1d7",
+    "title": "Комплект обладнання для системи накопичення електричної енергії для                                    Закладу дошкільної освіти (ясла-садок) № 150 м. Києва",
+    "org": "Управління освіти Голосіївської районної в місті Києві державної адміністрації",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 810658.33,
+    "currency": "UAH",
+    "deadline": "2026-11-18",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/17a64e7aa32b4fa49a0dfd2f746fb1d7",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-02T20:27:08.539019"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -46498,7 +46582,7 @@
     "cpv": "31680000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/beecf02b7ebc478bb51e8312e075e47d",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-11-02T13:39:31.695660"
   }
