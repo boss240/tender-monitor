@@ -4081,9 +4081,30 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/c46eaa453dfe49ddbc5014a06d58f875",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-11-02T23:02:05.472044"
+  },
+  {
+    "id": "UA-2026-11-03-002688-a",
+    "_raw_id": "40d0d15703924fcba6e81b65f6652e8e",
+    "title": "Джерело резервного живлення - акумуляторна батарея Deye SE-G5.1Pro-B (LiFePO4 51.2V 100Ah)",
+    "org": "Берестинське управління Державної казначейської служби України Харківської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 86000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/40d0d15703924fcba6e81b65f6652e8e",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-11-03T13:22:51.375488"
   },
   {
     "id": "UA-2026-03-20-006846-a",
@@ -9859,6 +9880,48 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-02T20:33:18.024616"
+  },
+  {
+    "id": "UA-2026-11-03-001444-a",
+    "_raw_id": "ab6cc462ef6e4070a0dd009f44d5c4dc",
+    "title": "Гібридний інвертор 6кВт",
+    "org": "Національний історико-культурний заповідник \"Качанівка\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 38500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/ab6cc462ef6e4070a0dd009f44d5c4dc",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-03T12:36:41.694401"
+  },
+  {
+    "id": "UA-2026-11-03-002168-a",
+    "_raw_id": "4c340bd9aea44eafba5118857bb4a229",
+    "title": "Інвертор Deye SUN-12K-SG02LP1-EU-AM3",
+    "org": "Ушомирська сільська рада",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 99000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/4c340bd9aea44eafba5118857bb4a229",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-03T13:03:48.672965"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -28315,7 +28378,7 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/2d55cd2d36de4c96b921824c3bb36034",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-02T23:12:06.702018"
   },
@@ -28336,7 +28399,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/30d287d5042042e7bf3b591edce320f1",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-02T23:30:53.604505"
   },
@@ -28357,7 +28420,7 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/b8307b2e9b684c5eb9c7665fcba81c58",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-02T23:38:24.022901"
   },
@@ -28378,7 +28441,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/e53ab67ae3404634a402589cbacaf8db",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-03T00:03:22.203171"
   },
@@ -28399,9 +28462,72 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/5c17ed0682c24a92815be6129207eb8e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-03T00:07:30.261086"
+  },
+  {
+    "id": "UA-2026-11-03-000369-a",
+    "_raw_id": "456c4d5c6d584dd9ae7ea6ef776263ba",
+    "title": "Акумулятори",
+    "org": "ВІДДІЛ ОСВІТИ, КУЛЬТУРИ, МОЛОДІ ТА СПОРТУ ХРИСТИНІВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 41303.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/456c4d5c6d584dd9ae7ea6ef776263ba",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-03T12:00:56.777586"
+  },
+  {
+    "id": "UA-2026-10-29-008661-a",
+    "_raw_id": "bfb6304cba1249a79aa042f61ccf4b1d",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"БЛАГОУСТРІЙ НАСЕЛЕННЯ НОВОАРХАНГЕЛЬСЬКОЇ СЕЛИЩНОЇ ТЕРИТОРІАЛЬНОЇ ГРОМАДИ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 198316.67,
+    "currency": "UAH",
+    "deadline": "2026-11-03",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/bfb6304cba1249a79aa042f61ccf4b1d",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-03T12:06:24.748035"
+  },
+  {
+    "id": "UA-2026-11-02-014048-a",
+    "_raw_id": "e50d06337515491693b246111ca4c8d2",
+    "title": "Акумуляторні батареї 12V 7Ah",
+    "org": "АКЦІОНЕРНЕ ТОВАРИСТВО \"УКРПОШТА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 160800.0,
+    "currency": "UAH",
+    "deadline": "2026-11-19",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e50d06337515491693b246111ca4c8d2",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-03T12:58:45.316096"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -41993,7 +42119,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/b433e5689f0543f5a4c1fe0b97ba412c",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-02T23:18:11.939611"
   },
@@ -42014,7 +42140,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/82c3f58c05cc453fb1be98803b8473fb",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-02T23:34:04.049618"
   },
@@ -42035,7 +42161,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/b3a8ea5ac549486fa5ec171be271f645",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-02T23:34:44.014241"
   },
@@ -42056,7 +42182,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/81b5e5eec8dc4953b3494827436f2005",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-03T00:05:18.115349"
   },
@@ -42077,9 +42203,51 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/4fffa8994e6c4a82b7e94beec932bd4e",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-03T00:12:48.657675"
+  },
+  {
+    "id": "UA-2026-10-14-008220-a",
+    "_raw_id": "14e5c243204c4dc0802fabfe386cd74f",
+    "title": "Джерело безперебійного живлення",
+    "org": "Науково-дослідний інститут ВР",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 140910.0,
+    "currency": "UAH",
+    "deadline": "2026-10-23",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/14e5c243204c4dc0802fabfe386cd74f",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-03T12:59:44.539894"
+  },
+  {
+    "id": "UA-2026-11-03-002593-a",
+    "_raw_id": "4486a5b1b8c1491c8922f70df97c6c4b",
+    "title": "Комплект резервного живлення 12B100A 300W",
+    "org": "Ушомирська сільська рада",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 80000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/4486a5b1b8c1491c8922f70df97c6c4b",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-03T13:21:38.809801"
   },
   {
     "id": "UA-2026-03-31-000589-a",
