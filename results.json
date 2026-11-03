@@ -4102,7 +4102,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/40d0d15703924fcba6e81b65f6652e8e",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-11-03T13:22:51.375488"
   },
@@ -9898,7 +9898,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/ab6cc462ef6e4070a0dd009f44d5c4dc",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-03T12:36:41.694401"
   },
@@ -9919,7 +9919,7 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/4c340bd9aea44eafba5118857bb4a229",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-03T13:03:48.672965"
   },
@@ -28483,7 +28483,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/456c4d5c6d584dd9ae7ea6ef776263ba",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-03T12:00:56.777586"
   },
@@ -28504,7 +28504,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/bfb6304cba1249a79aa042f61ccf4b1d",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-03T12:06:24.748035"
   },
@@ -28525,7 +28525,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/e50d06337515491693b246111ca4c8d2",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-03T12:58:45.316096"
   },
@@ -42224,7 +42224,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/14e5c243204c4dc0802fabfe386cd74f",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-03T12:59:44.539894"
   },
@@ -42245,9 +42245,30 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/4486a5b1b8c1491c8922f70df97c6c4b",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-03T13:21:38.809801"
+  },
+  {
+    "id": "UA-2026-11-03-003179-a",
+    "_raw_id": "73ea46d8f0064f578dec7527700b79d9",
+    "title": "Пристрій безперебійного живлення (4)",
+    "org": "Державне спеціалізоване підприємство \"Екоцентр\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 36156.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/73ea46d8f0064f578dec7527700b79d9",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-03T18:05:21.062146"
   },
   {
     "id": "UA-2026-03-31-000589-a",
