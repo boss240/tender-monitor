@@ -4107,6 +4107,27 @@
     "fetched_at": "2026-11-03T13:22:51.375488"
   },
   {
+    "id": "UA-2026-11-03-006183-a",
+    "_raw_id": "7864277057ea4b60ac51365c2e4481aa",
+    "title": "Акумуляторна батарея LifePO4 Deye 51.2 V-314 Ah.16 kW",
+    "org": "Комунальне підприємство \"Київжитлоспецексплуатація\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 102599.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/7864277057ea4b60ac51365c2e4481aa",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-11-03T22:01:02.395965"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -9922,6 +9943,27 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-03T13:03:48.672965"
+  },
+  {
+    "id": "UA-2026-11-03-006298-a",
+    "_raw_id": "f09dff91c6d84dabb62a28024eb7cc75",
+    "title": "«Акумулятори LiFePO4» ДК 021:2015: 31440000-2 Акумуляторні батареї",
+    "org": "Ізмаїльська гімназія № 10 з початковою школою Ізмаїльського району Одеської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 50000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/f09dff91c6d84dabb62a28024eb7cc75",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-03T22:05:13.899990"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -28530,6 +28572,153 @@
     "fetched_at": "2026-11-03T12:58:45.316096"
   },
   {
+    "id": "UA-2026-10-15-011623-a",
+    "_raw_id": "a0d8625e358e4a388974c8d273106af3",
+    "title": "Акумуляторна батарея",
+    "org": "Регіональний сервісний центр ГСЦ МВС в Одеській, Миколаївській та Херсонській областях (філія ГСЦ МВС)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 38225.0,
+    "currency": "UAH",
+    "deadline": "2026-10-31",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/a0d8625e358e4a388974c8d273106af3",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-03T21:08:29.294659"
+  },
+  {
+    "id": "UA-2026-11-03-003561-a",
+    "_raw_id": "7d9163e9ac62450f9fcc5dc6fbb46ed6",
+    "title": "Акумуляторні батареї",
+    "org": "Київський  науково-дослідний експертно-криміналістичний центр МВС України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 46040.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/7d9163e9ac62450f9fcc5dc6fbb46ed6",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-03T21:08:37.799055"
+  },
+  {
+    "id": "UA-2026-11-03-004745-a",
+    "_raw_id": "30dc8c3bab4a4ef69b4d6368fe182679",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"БЛАГОУСТРІЙ НАСЕЛЕННЯ НОВОАРХАНГЕЛЬСЬКОЇ СЕЛИЩНОЇ ТЕРИТОРІАЛЬНОЇ ГРОМАДИ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 198316.67,
+    "currency": "UAH",
+    "deadline": "2026-11-06",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/30dc8c3bab4a4ef69b4d6368fe182679",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-03T21:26:29.058433"
+  },
+  {
+    "id": "UA-2026-11-03-004876-a",
+    "_raw_id": "9fd08383841d4437ad829ce224d04ee5",
+    "title": "Комплекти автономного енергоживлення та інвертори",
+    "org": "Національна академія Служби безпеки України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 1642540.44,
+    "currency": "UAH",
+    "deadline": "2026-11-19",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/9fd08383841d4437ad829ce224d04ee5",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-03T21:30:44.477289"
+  },
+  {
+    "id": "UA-2026-11-03-004941-a",
+    "_raw_id": "4dc775b61415452ea4ef51ab98b9ec8b",
+    "title": "Блок керування кластером високовольтної батареї BOS-G PBU 2 Deye",
+    "org": "КП Нововолинськводоканал НМР",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 403800.0,
+    "currency": "UAH",
+    "deadline": "2026-11-06",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/4dc775b61415452ea4ef51ab98b9ec8b",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-03T21:35:29.733147"
+  },
+  {
+    "id": "UA-2026-10-30-007821-a",
+    "_raw_id": "50a7b4474b77407581ed2facb748015a",
+    "title": "придбання джерел резервного живлення (джерела резервного (безперебійного) живлення та акумулятори для джерела резервного (безперебійного) живлення згідно специфікації)",
+    "org": "Запорізький окружний адміністративний суд",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 57327.9,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/50a7b4474b77407581ed2facb748015a",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-03T21:40:08.191744"
+  },
+  {
+    "id": "UA-2026-11-03-005849-a",
+    "_raw_id": "b0fa8ea3ffbc4bec9259e25092b6e5ea",
+    "title": "31440000-2 Акумуляторні батареї (Акумулятори)",
+    "org": "ГОЛОВНЕ УПРАВЛІННЯ НАЦІОНАЛЬНОЇ ПОЛІЦІЇ В КИЇВСЬКІЙ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 199945.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/b0fa8ea3ffbc4bec9259e25092b6e5ea",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-03T21:55:14.672004"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -42266,9 +42455,51 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/73ea46d8f0064f578dec7527700b79d9",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-03T18:05:21.062146"
+  },
+  {
+    "id": "UA-2026-10-29-011276-a",
+    "_raw_id": "80f1985b51804000aff4206c1f780ce3",
+    "title": "Комплекти резервного живлення (для структурних підрозділів Івано-Франківського міжрегіонального управління Міністерства юстиції України, які територіально розміщені в Івано-Франківській та Чернівецькій областях)",
+    "org": "ІВАНО-ФРАНКІВСЬКЕ МІЖРЕГІОНАЛЬНЕ УПРАВЛІННЯ  МІНІСТЕРСТВА ЮСТИЦІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 1464800.0,
+    "currency": "UAH",
+    "deadline": "2026-11-14",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/80f1985b51804000aff4206c1f780ce3",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-03T22:03:33.382240"
+  },
+  {
+    "id": "UA-2026-11-03-006343-a",
+    "_raw_id": "842bc26dfc12475984bbc90418e111f3",
+    "title": "Стартовий пристрій",
+    "org": "Військова частина А1225",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 52840.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/842bc26dfc12475984bbc90418e111f3",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-03T22:06:27.049466"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -43680,6 +43911,48 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-11-01T16:08:09.975874"
+  },
+  {
+    "id": "UA-2026-11-03-006029-a",
+    "_raw_id": "e7ac7534586c4fe6ab719d04fe0a56bf",
+    "title": "Сонячний інвертор DEYE SUN-10K-SG05LP3-EU-SM2 WIFI.10 кВт гібридний 3 фази",
+    "org": "Комунальне підприємство \"Київжитлоспецексплуатація\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 101520.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/e7ac7534586c4fe6ab719d04fe0a56bf",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-11-03T21:57:16.194777"
+  },
+  {
+    "id": "UA-2026-10-07-010158-a",
+    "_raw_id": "52ef94756233412e9b41f897593dcb93",
+    "title": "ДК 021:2015: 09330000-1 Сонячна енергія (Сонячна гібридна електростанція (у складі: гібридні інвертори, акумуляторні батареї, сонячні панелі та ін., з урахуванням витрат на встановлення та пусконалагодження в Старосамбірському ОЗЗСО І-ІІІ ступенів ім. Героя України Богдана Сольчаника Старосамбірської міської ради Самбірського району Львівської області, а також гарантійного і сервісного обслуговування)",
+    "org": "Старосамбірський опорний заклад загальної середньої освіти І-ІІІ ступенів  № 1 імені Героя України Богдана Сольчаника Старосамбірської міської ради Самбірського району Львівської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1766666.67,
+    "currency": "UAH",
+    "deadline": "2026-10-23",
+    "cpvs": [
+      "09331000-8"
+    ],
+    "cpv": "09331000-8",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/52ef94756233412e9b41f897593dcb93",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-11-03T21:59:03.541152"
   },
   {
     "id": "UA-2026-03-20-008862-a",
