@@ -4128,6 +4128,48 @@
     "fetched_at": "2026-11-03T22:01:02.395965"
   },
   {
+    "id": "UA-2026-11-04-004618-a",
+    "_raw_id": "824c01e3c2ed4223b655e58a7c961dfe",
+    "title": "Гібридний інвертор DEYE SUN-10K-SG04LPI-EU10W 48V 2 ОДНОФАЗНИЙ",
+    "org": "Ясінянська селищна рада",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 89000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/824c01e3c2ed4223b655e58a7c961dfe",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-11-04T21:21:09.817410"
+  },
+  {
+    "id": "UA-2026-11-04-005699-a",
+    "_raw_id": "5681895703084bfc8634164dbaff4216",
+    "title": "Система автономного живлення у складі : гібридний інвертор  та акумуляторна батарея  .",
+    "org": "Управління культури Ізюмської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 72435.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/5681895703084bfc8634164dbaff4216",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-11-04T21:45:00.933877"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -9982,7 +10024,7 @@
     "cpv": "09332000-5",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/40a8f7ddbd4c482287978d474925388e",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-04T18:17:38.181717"
   },
@@ -10003,9 +10045,93 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/6e0cad8dbfea469d80726d54c2fed3ca",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-04T18:18:14.270223"
+  },
+  {
+    "id": "UA-2026-10-30-008309-a",
+    "_raw_id": "2ff4b13d59714fe8bc48d4782f87c736",
+    "title": "Інвертор Deye SUN-8K-SG05LP1-EU-AM2-P",
+    "org": "ВІЙСЬКОВА ЧАСТИНА А 0742",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 48350.0,
+    "currency": "UAH",
+    "deadline": "2026-11-04",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/2ff4b13d59714fe8bc48d4782f87c736",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-04T21:50:51.506245"
+  },
+  {
+    "id": "UA-2026-11-04-006521-a",
+    "_raw_id": "dd5e9e1c1b974c5e8e2b3c75e87d02d1",
+    "title": "Гібридний інвертор",
+    "org": "Регіональний сервісний центр ГСЦ МВС в Харківській, Полтавській та Сумській областях (філія ГСЦ МВС) ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 73857.25,
+    "currency": "UAH",
+    "deadline": "2026-11-09",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/dd5e9e1c1b974c5e8e2b3c75e87d02d1",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-04T22:08:01.851375"
+  },
+  {
+    "id": "UA-2026-10-29-005480-a",
+    "_raw_id": "29cf225e94554696a7b1d1d88670aa55",
+    "title": "Акумуляторні батареї до ДБЖ, 25 шт.",
+    "org": "ДЕРЖАВНА КОМПАНІЯ \"УКРСПЕЦЕКСПОРТ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 31230.0,
+    "currency": "UAH",
+    "deadline": "2026-11-07",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/29cf225e94554696a7b1d1d88670aa55",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-04T22:08:19.887756"
+  },
+  {
+    "id": "UA-2026-11-04-007128-a",
+    "_raw_id": "e8e7faf798ed4fbebd4a86c3e9238268",
+    "title": "Комплект резервного живлення (інвертор Deye 6 кВт + АКБ Deye 5.12 кВтг (Deye6kW_5,12kWh))",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 3022 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 97200.0,
+    "currency": "UAH",
+    "deadline": "2026-11-13",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e8e7faf798ed4fbebd4a86c3e9238268",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-04T22:23:31.218023"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -28824,6 +28950,48 @@
     "fetched_at": "2026-11-04T13:31:35.322085"
   },
   {
+    "id": "UA-2026-11-04-004268-a",
+    "_raw_id": "df2955b096604371a8e423613aa4511f",
+    "title": "АКБ DEYE 5.1 кВт*г ",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ДАР\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 190699.8,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/df2955b096604371a8e423613aa4511f",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-04T21:13:01.465685"
+  },
+  {
+    "id": "UA-2026-10-27-015375-a",
+    "_raw_id": "1ff46fc548624188b09f6e0f21a47a80",
+    "title": "Інвертори 12 кВт #5",
+    "org": "Військова частина А5175",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 500000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-04",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/1ff46fc548624188b09f6e0f21a47a80",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-04T22:19:43.076623"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -42670,6 +42838,27 @@
     "fetched_at": "2026-11-04T13:21:35.117106"
   },
   {
+    "id": "UA-2026-11-04-004453-a",
+    "_raw_id": "1725fda9de9744309fb08ecc6bd6fae2",
+    "title": "Джерело безперебійного живлення",
+    "org": "Виконавчий комітет Смілянської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 37716.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/1725fda9de9744309fb08ecc6bd6fae2",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-04T21:21:40.895605"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -47446,5 +47635,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-11-02T13:39:31.695660"
+  },
+  {
+    "id": "UA-2026-11-04-004935-a",
+    "_raw_id": "f53f18f3f7f8474386f0dbecf8c5d7ea",
+    "title": "Сонячний інвертор для ДОК ДЖЕРЕЛО",
+    "org": "Комунальне підприємство \"Київжитлоспецексплуатація\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 110472.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31730000-2"
+    ],
+    "cpv": "31730000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/f53f18f3f7f8474386f0dbecf8c5d7ea",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-11-04T21:27:43.745420"
   }
 ]
