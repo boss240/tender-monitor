@@ -4123,7 +4123,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/7864277057ea4b60ac51365c2e4481aa",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-11-03T22:01:02.395965"
   },
@@ -9961,7 +9961,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/f09dff91c6d84dabb62a28024eb7cc75",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-03T22:05:13.899990"
   },
@@ -28588,7 +28588,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/a0d8625e358e4a388974c8d273106af3",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-03T21:08:29.294659"
   },
@@ -28609,7 +28609,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/7d9163e9ac62450f9fcc5dc6fbb46ed6",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-03T21:08:37.799055"
   },
@@ -28630,7 +28630,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/30dc8c3bab4a4ef69b4d6368fe182679",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-03T21:26:29.058433"
   },
@@ -28651,7 +28651,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/9fd08383841d4437ad829ce224d04ee5",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-03T21:30:44.477289"
   },
@@ -28672,7 +28672,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/4dc775b61415452ea4ef51ab98b9ec8b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-03T21:35:29.733147"
   },
@@ -28693,7 +28693,7 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/50a7b4474b77407581ed2facb748015a",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-03T21:40:08.191744"
   },
@@ -28714,9 +28714,72 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/b0fa8ea3ffbc4bec9259e25092b6e5ea",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-03T21:55:14.672004"
+  },
+  {
+    "id": "UA-2026-11-04-001600-a",
+    "_raw_id": "24edcbbeb3194c0ea92670339df9576e",
+    "title": "Інвертор та акамуляторні батареї",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО СКВИРСЬКОЇ МІСЬКОЇ РАДИ \"СКВИРСЬКИЙ МІСЬКИЙ ЦЕНТР ПЕРВИННОЇ МЕДИКО-САНІТАРНОЇ ДОПОМОГИ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 416666.0,
+    "currency": "UAH",
+    "deadline": "2026-11-20",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/24edcbbeb3194c0ea92670339df9576e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-04T12:54:03.507883"
+  },
+  {
+    "id": "UA-2026-10-30-008758-a",
+    "_raw_id": "1d9ade78ce0d495bb256b90dbffb8c8e",
+    "title": "Комплекти резервного живлення; Комплекти резервного живлення; Інвертор (перетворювач) DC-AC",
+    "org": "Військова Частина А5101",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 258000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-04",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/1d9ade78ce0d495bb256b90dbffb8c8e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-04T13:02:56.729490"
+  },
+  {
+    "id": "UA-2026-11-04-002363-a",
+    "_raw_id": "18f05c5b396f4202b317b7cb87b6474f",
+    "title": "Акумулятора VARTA RECHARGEABLE C 3000 mAh 2 BLI 2 (ES) код за ДК:021:2015:31440000-2 — «Акумуляторні батареї»",
+    "org": "Аварійно – рятувальний загін спеціального призначення Головного управління Державної служби України з надзвичайних ситуацій у Хмельницькій області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 59574.24,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/18f05c5b396f4202b317b7cb87b6474f",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-04T13:31:35.322085"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -42476,7 +42539,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/80f1985b51804000aff4206c1f780ce3",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-03T22:03:33.382240"
   },
@@ -42497,9 +42560,72 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/842bc26dfc12475984bbc90418e111f3",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-03T22:06:27.049466"
+  },
+  {
+    "id": "UA-2026-11-04-000880-a",
+    "_raw_id": "e17b1b94e00247f8b47a8b298e21e511",
+    "title": "Інвентор",
+    "org": "Управління з питань житлово-комунального господарства, транспорту і зв'язку, управління комунальною власністю, містобудування та архітектури Погребищенської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 199000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/e17b1b94e00247f8b47a8b298e21e511",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-04T12:31:50.423663"
+  },
+  {
+    "id": "UA-2026-10-29-005086-a",
+    "_raw_id": "2bf919efcd53444f88a3078812c89101",
+    "title": "Джерело альтернативного живлення",
+    "org": "Відділ освіти Рогатинської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 818541.67,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/2bf919efcd53444f88a3078812c89101",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-04T12:43:21.455520"
+  },
+  {
+    "id": "UA-2026-11-04-002386-a",
+    "_raw_id": "e6f7e6aef42f427980138dbadf252fec",
+    "title": "Джерело безперебійного живлення",
+    "org": "Відділ урядового фельд'єгерського зв'язку Державної служби спеціального зв'язку та захисту інформації України в місті Чернігові",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/e6f7e6aef42f427980138dbadf252fec",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-04T13:21:35.117106"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -43929,7 +44055,7 @@
     "cpv": "31680000-6",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/e7ac7534586c4fe6ab719d04fe0a56bf",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-11-03T21:57:16.194777"
   },
@@ -43950,7 +44076,7 @@
     "cpv": "09331000-8",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/52ef94756233412e9b41f897593dcb93",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-11-03T21:59:03.541152"
   },
