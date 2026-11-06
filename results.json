@@ -10428,6 +10428,69 @@
     "fetched_at": "2026-11-06T12:47:29.580357"
   },
   {
+    "id": "UA-2026-11-06-004273-a",
+    "_raw_id": "f45c56553f05482cbd66bbc832c1de42",
+    "title": "Комплект енергонезалежності гібридний сонячний інвертор ANENJI ANJ-4000W-24V-WIFI-AE та аккумулятор FelicityESS FLA24100WG2 24v 100Ah, 2.56kW, IP21, 6000Cycle ",
+    "org": "УПРАВЛІННЯ ОСВІТИ, МОЛОДІ ТА СПОРТУ СМІЛЯНСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 99000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/f45c56553f05482cbd66bbc832c1de42",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-06T20:57:29.931326"
+  },
+  {
+    "id": "UA-2026-11-06-006872-a",
+    "_raw_id": "19af5e14242643d6abca3f21f8b5eccc",
+    "title": "Акумуляторна батарея Deye SE-F16 Max-51.2V 16kWh",
+    "org": "Полтавська дитяча художня школа імені Святослава Пашинського",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 97400.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/19af5e14242643d6abca3f21f8b5eccc",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-06T21:44:29.808623"
+  },
+  {
+    "id": "UA-2026-11-06-006999-a",
+    "_raw_id": "4245bc72c1794ae3a232d8f11fe37299",
+    "title": "Гібридний однофазний інвертор Deye SUN-10K-SG02LP1-EU-AM3",
+    "org": "Полтавська дитяча художня школа імені Святослава Пашинського",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 82600.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/4245bc72c1794ae3a232d8f11fe37299",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-06T21:46:46.375465"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -29517,6 +29580,90 @@
     "fetched_at": "2026-11-06T13:13:49.038997"
   },
   {
+    "id": "UA-2026-10-21-010273-a",
+    "_raw_id": "9b8479b38802413391ec3266a82bf545",
+    "title": "31440000-2 Акумуляторні батареї",
+    "org": "ГОЛОВНИЙ ОБ'ЄДНАНИЙ ЕЛЕКТРОННО-КОМУНІКАЦІЙНИЙ ВУЗОЛ НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ (ВІЙСЬКОВА ЧАСТИНА 3077)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 58233.33,
+    "currency": "UAH",
+    "deadline": "2026-11-03",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/9b8479b38802413391ec3266a82bf545",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-06T20:53:03.188342"
+  },
+  {
+    "id": "UA-2026-10-20-010291-a",
+    "_raw_id": "0511183bd56c459baa3b71ebcb1f39e9",
+    "title": "Акумуляторні батареї Sparrow 6S6P Liion 29000 mAh або еквівалент",
+    "org": "Виконавчий комітет Володимирської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 144000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-05",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/0511183bd56c459baa3b71ebcb1f39e9",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-06T21:13:27.572865"
+  },
+  {
+    "id": "UA-2026-11-06-005778-a",
+    "_raw_id": "d02d8b123ff747a182cb1dc58458a197",
+    "title": "Акумулятор для рації Motorola R7, R7A на 3000 mAh з Type-C  або еквівалент",
+    "org": "військова частина 2197",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 141333.33,
+    "currency": "UAH",
+    "deadline": "2026-11-22",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/d02d8b123ff747a182cb1dc58458a197",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-06T21:22:53.270965"
+  },
+  {
+    "id": "UA-2026-11-06-005819-a",
+    "_raw_id": "476378adc5bb4e4a8f88147231e524d1",
+    "title": "Акумуляторні батареї",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"ОБЛАСНИЙ КЛІНІЧНИЙ ЦЕНТР ЕКСТРЕНОЇ МЕДИЧНОЇ ДОПОМОГИ ТА МЕДИЦИНИ КАТАСТРОФ ІВАНО-ФРАНКІВСЬКОЇ ОБЛАСНОЇ РАДИ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 103680.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/476378adc5bb4e4a8f88147231e524d1",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-06T21:23:28.407162"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -43572,6 +43719,90 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-06T12:24:10.860829"
+  },
+  {
+    "id": "UA-2026-10-19-013146-a",
+    "_raw_id": "0ec7e1ab5411465abd9ae40d22a76230",
+    "title": "Придбання сонячної електростанції для закладу освіти м. Дніпра зі встановленням - заходи з енергозбереження\n",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1096528.33,
+    "currency": "UAH",
+    "deadline": "2026-11-04",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/0ec7e1ab5411465abd9ae40d22a76230",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-06T20:49:32.917916"
+  },
+  {
+    "id": "UA-2026-10-19-013103-a",
+    "_raw_id": "4d179df3e68e46dc9f0d7cd4500871be",
+    "title": "Придбання сонячної електростанції для закладу освіти м. Дніпра зі встановленням - заходи з енергозбереження",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 1728784.17,
+    "currency": "UAH",
+    "deadline": "2026-11-04",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/4d179df3e68e46dc9f0d7cd4500871be",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-06T20:51:27.370934"
+  },
+  {
+    "id": "UA-2026-11-06-004184-a",
+    "_raw_id": "31cb8bebb3134db091da43382cad9d52",
+    "title": "джерела безперебійного живлення",
+    "org": "ПЕТРИКІВСЬКИЙ ВІДДІЛ ДЕРЖАВНОЇ КАЗНАЧЕЙСЬКОЇ СЛУЖБИ УКРАЇНИ  ДНІПРОПЕТРОВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 39800.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/31cb8bebb3134db091da43382cad9d52",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-06T20:57:56.626232"
+  },
+  {
+    "id": "UA-2026-10-23-015176-a",
+    "_raw_id": "fb4a0f0ec86e41138150913c558d8c6f",
+    "title": "Джерела безперебійного живлення (у комплекті)",
+    "org": "КОНЦЕРН РАДІОМОВЛЕННЯ, РАДІОЗВ'ЯЗКУ ТА ТЕЛЕБАЧЕННЯ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 400837.0,
+    "currency": "UAH",
+    "deadline": "2026-11-09",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/fb4a0f0ec86e41138150913c558d8c6f",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-06T21:52:05.069182"
   },
   {
     "id": "UA-2026-03-31-000589-a",
