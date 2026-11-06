@@ -4291,7 +4291,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/e322605764cb421bbf42f480c40c3245",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-11-05T22:39:35.793411"
   },
@@ -4312,7 +4312,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/fdcee58a4fbb434d808f9ae08271cd72",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-11-05T22:39:53.613658"
   },
@@ -10339,7 +10339,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/7e6aa2c8e9c14fc88aa8a2fade213f75",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-05T21:25:48.676769"
   },
@@ -10360,7 +10360,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/a565bb744b934f1aa3ff71868d15c89c",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-05T21:33:08.941488"
   },
@@ -10381,9 +10381,51 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/5974bb7cb7854485b8862299f1c948bb",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-05T22:22:47.915631"
+  },
+  {
+    "id": "UA-2026-11-06-001640-a",
+    "_raw_id": "c70a854e62fb451785e20c0bed19bfe6",
+    "title": "Гібридний інвертор (Код ДК 021:2015 31155000-7 – Інвертори)",
+    "org": "Військова частина А4942",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 40000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-11",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/c70a854e62fb451785e20c0bed19bfe6",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-06T12:33:01.833206"
+  },
+  {
+    "id": "UA-2026-11-03-013784-a",
+    "_raw_id": "fc62ce58e4234a3f9c1c5ec25c50cf34",
+    "title": "Інвертор (перетворювач) DC-AC Deye Sun",
+    "org": "ВІЙСЬКОВА ЧАСТИНА А5001",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 150048.57,
+    "currency": "UAH",
+    "deadline": "2026-11-06",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/fc62ce58e4234a3f9c1c5ec25c50cf34",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-06T12:47:29.580357"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -29323,7 +29365,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/ed42cabf0a57411da8fd045cf8a8bcdd",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-05T21:27:29.218413"
   },
@@ -29344,7 +29386,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/b3b5192d824e40b99bae2bf16b403532",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-05T21:43:03.439928"
   },
@@ -29365,7 +29407,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/ffe7a640232e4a4c8309e9071786e1e8",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-05T22:08:04.213205"
   },
@@ -29386,7 +29428,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/d297b3a99dcd4d37976169cfb1ef27a4",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-05T22:15:24.208961"
   },
@@ -29407,9 +29449,72 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/8c6f00db66434eaa8993a8b1b611d377",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-05T22:18:18.562672"
+  },
+  {
+    "id": "UA-2026-11-03-012881-a",
+    "_raw_id": "28a9020bece64a83bbe2651250301a4d",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "Комунальне некомерційне підприємство \"Обласний центр екcтреної медичної допомоги та медицини катастроф Черкаської обласної ради\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 120800.0,
+    "currency": "UAH",
+    "deadline": "2026-11-06",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/28a9020bece64a83bbe2651250301a4d",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-06T12:27:44.107477"
+  },
+  {
+    "id": "UA-2026-11-06-001689-a",
+    "_raw_id": "5aa82bff4f9643c486669bb7d71f3383",
+    "title": "Акумуляторні батареї",
+    "org": "Виконавчий комітет Кам’янець-Подільської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 34477.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/5aa82bff4f9643c486669bb7d71f3383",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-06T12:34:11.289479"
+  },
+  {
+    "id": "UA-2026-11-06-003427-a",
+    "_raw_id": "e3e8ad5507fd4241aa0561b1d1810b7a",
+    "title": "Аккумулятор LP LiFePO4 51,2V - 315 Ah (16128Wh) (BMS SP 200A/100А) RM RS485/CAN LCD BL ",
+    "org": "Військова частина А5100",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 4050000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-17",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/e3e8ad5507fd4241aa0561b1d1810b7a",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-06T13:13:49.038997"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -43358,7 +43463,7 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/603b66bdb7c64ba588fcb61f4d764f79",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-05T21:43:27.594013"
   },
@@ -43379,7 +43484,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/e49ed151cd4543a2ab42d69854dbe769",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-05T21:49:33.354171"
   },
@@ -43400,7 +43505,7 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/3e77e9e779e9435d93eaa8368a01c118",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-05T22:04:30.623327"
   },
@@ -43421,9 +43526,52 @@
     "cpv": "09332000-5",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/67ef1123a0804050b87eca43baf90b4a",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-05T22:17:48.531496"
+  },
+  {
+    "id": "UA-2026-10-13-013016-a",
+    "_raw_id": "7d9f44b20ffe4969bc40720594ce7ad0",
+    "title": "Система безперебійного живлення",
+    "org": "ВІДДІЛ ОСВІТИ ЗГУРІВСЬКОЇ СЕЛИЩНОЇ РАДИ БРОВАРСЬКОГО РАЙОНУ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 1656510.83,
+    "currency": "UAH",
+    "deadline": "2026-10-29",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/7d9f44b20ffe4969bc40720594ce7ad0",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-06T12:23:10.439012"
+  },
+  {
+    "id": "UA-2026-11-06-001286-a",
+    "_raw_id": "75f214de804f418c8b7ccbf0c1bf65b2",
+    "title": "Пристрій безперебійного живлення Europower PSW-EP2000WM12 + акумуляторна батарея LiFePo4 Matrix 12.8V-200Ah 2.56kWh, 521*240*220мм - 1 шт., Пристрій безперебійного живлення LogicPower LPL-W-PSW-1000VA PRO(700Вт) 5А/10А/15А/20А з правильною синусоїдою 12V + акумуляторна батарея LiFePo4 Dyness LR1.2 12.8V/100Ah 1.28kWh - 1 шт.",
+    "org": "ТЕРИТОРІАЛЬНЕ УПРАВЛІННЯ СЛУЖБИ СУДОВОЇ ОХОРОНИ У ЖИТОМИРСЬКІЙ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 60000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31158100-9",
+      "31158100-9"
+    ],
+    "cpv": "31158100-9",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/75f214de804f418c8b7ccbf0c1bf65b2",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-06T12:24:10.860829"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -48241,7 +48389,7 @@
     "cpv": "31320000-5",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/81d62701872548888a9a678ed0fc2fd9",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-11-05T22:26:15.585944"
   }
