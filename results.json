@@ -29680,7 +29680,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/958e066dce374316b8e7f88de453a67f",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-07T10:59:39.212114"
   },
@@ -29701,7 +29701,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/f368ea8e9dcd4e01ae2cab3edda4f9b4",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-07T11:09:13.442488"
   },
@@ -29722,7 +29722,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/6417cb7fa7a24f1c9db67e8a6dd11b50",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-07T11:09:27.152911"
   },
@@ -29743,7 +29743,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/95d6ad30cc47452481edbc764703a111",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-07T11:10:18.793578"
   },
@@ -29764,7 +29764,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/82167193557745b8abf78341332aa68e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-07T11:11:36.437540"
   },
@@ -29785,7 +29785,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/71a8889ed58843f3b493648965c70189",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-07T11:11:40.115340"
   },
@@ -43929,6 +43929,27 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-06T21:52:05.069182"
+  },
+  {
+    "id": "UA-2026-10-29-009603-a",
+    "_raw_id": "15d1d8b9f9944a95b980e6874f654839",
+    "title": "Пристрої безперебійного живлення Eaton (9E2000IR, 9E1000IR)",
+    "org": "в/ч А1349",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 460000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-07",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/15d1d8b9f9944a95b980e6874f654839",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-07T15:53:25.870637"
   },
   {
     "id": "UA-2026-03-31-000589-a",
