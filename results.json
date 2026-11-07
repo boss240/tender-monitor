@@ -10491,6 +10491,48 @@
     "fetched_at": "2026-11-06T21:46:46.375465"
   },
   {
+    "id": "UA-2026-11-03-014393-a",
+    "_raw_id": "4e30cb31814943d890df5d4697d984fb",
+    "title": "Акумуляторна батарея 6S3P",
+    "org": "ДЕРЖАВНА УСТАНОВА \"ЦЕНТР АВІАЦІЙНОГО ЗАБЕЗПЕЧЕННЯ НАЦІОНАЛЬНОЇ ПОЛІЦІЇ УКРАЇНИ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 27632000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-12",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/4e30cb31814943d890df5d4697d984fb",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-07T19:43:30.872723"
+  },
+  {
+    "id": "UA-2026-11-07-001124-a",
+    "_raw_id": "9d24da20c05c42c1ae8f46ee68130c7e",
+    "title": "Системи безперебійного живлення із застосуванням гібридного інверторного обладнання та акумуляторних систем накопичення електричної енергії у адміністративній будівлі за адресою: вул. Мацієвича, 6 у Солом’янському районі м. Києва\r\n\r\n\r\n",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"КЕРУЮЧА КОМПАНІЯ З ОБСЛУГОВУВАННЯ ЖИТЛОВОГО ФОНДУ СОЛОМ'ЯНСЬКОГО РАЙОНУ М. КИЄВА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 915000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-24",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/9d24da20c05c42c1ae8f46ee68130c7e",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-07T19:43:51.858236"
+  },
+  {
     "id": "UA-2026-03-20-007871-a",
     "_raw_id": "2081d6a87b5a4cc78c13301d8eb1115e",
     "title": "Інвертори подвійного перетворювання  згідно ДК 021:2015 код 31150000-2 Баласти для розрядних ламп чи трубок",
@@ -29790,6 +29832,69 @@
     "fetched_at": "2026-11-07T11:11:40.115340"
   },
   {
+    "id": "UA-2026-10-29-010832-a",
+    "_raw_id": "4e1a986741a14ea5a9949a69c5d58b3f",
+    "title": "Акумуляторна батарея SAMSUNG INR21700-50S 5000mAh",
+    "org": "Військова частина А5074",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 958485.0,
+    "currency": "UAH",
+    "deadline": "2026-11-07",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/4e1a986741a14ea5a9949a69c5d58b3f",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-07T19:41:31.762288"
+  },
+  {
+    "id": "UA-2026-11-07-001023-a",
+    "_raw_id": "9cd336f1d7504b7a91ff01c48c933680",
+    "title": "Акумуляторні батареї 6S1P 41Ah",
+    "org": " ВІЙСЬКОВА ЧАСТИНА А4599",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 860000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/9cd336f1d7504b7a91ff01c48c933680",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-07T19:42:07.925670"
+  },
+  {
+    "id": "UA-2026-11-07-001140-a",
+    "_raw_id": "27d1b300d40348b090dd6a09e1a1a12c",
+    "title": "Високовольтні акумуляторні батареї LogicPower з установкою",
+    "org": "Інститут загальної та неорганічної хімії ім. В.І.Вернадського НАН України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 237500.0,
+    "currency": "UAH",
+    "deadline": "2026-11-23",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/27d1b300d40348b090dd6a09e1a1a12c",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-07T19:44:06.912996"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -43947,9 +44052,31 @@
     "cpv": "31154000-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/15d1d8b9f9944a95b980e6874f654839",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-07T15:53:25.870637"
+  },
+  {
+    "id": "UA-2026-10-29-013641-a",
+    "_raw_id": "62f6b1d2756349adb290ef387c0f33b7",
+    "title": "Гібридний інвертор Solis S6-EH1P5K-L-PLUS та Акумуляторна батарея Leapton EL-A05",
+    "org": "Військова Частина А4604",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 672000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-07",
+    "cpvs": [
+      "31680000-6",
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/62f6b1d2756349adb290ef387c0f33b7",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-07T19:46:39.226549"
   },
   {
     "id": "UA-2026-03-31-000589-a",
