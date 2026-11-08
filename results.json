@@ -10507,7 +10507,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/4e30cb31814943d890df5d4697d984fb",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-07T19:43:30.872723"
   },
@@ -10528,7 +10528,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/9d24da20c05c42c1ae8f46ee68130c7e",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-07T19:43:51.858236"
   },
@@ -29848,7 +29848,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/4e1a986741a14ea5a9949a69c5d58b3f",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-07T19:41:31.762288"
   },
@@ -29869,7 +29869,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/9cd336f1d7504b7a91ff01c48c933680",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-07T19:42:07.925670"
   },
@@ -29890,9 +29890,30 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/27d1b300d40348b090dd6a09e1a1a12c",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-07T19:44:06.912996"
+  },
+  {
+    "id": "UA-2026-10-20-013079-a",
+    "_raw_id": "c76b71c12109402d962a9cc1cccf747c",
+    "title": "Інвертори",
+    "org": "ВИКОНАВЧИЙ КОМІТЕТ КАЛИНІВСЬКОЇ СЕЛИЩНОЇ РАДИ БРОВАРСЬКОГО РАЙОНУ КИЇВСЬКОЇ ОБЛАСТІ (ВИКОНКОМ КАЛИНІВСЬКОЇ СЕЛИЩНОЇ РАДИ)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 330683.33,
+    "currency": "UAH",
+    "deadline": "2026-11-05",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/c76b71c12109402d962a9cc1cccf747c",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-08T11:10:11.345017"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -44074,7 +44095,7 @@
     "cpv": "31680000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/62f6b1d2756349adb290ef387c0f33b7",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-07T19:46:39.226549"
   },
