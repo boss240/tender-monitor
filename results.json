@@ -29911,9 +29911,72 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/c76b71c12109402d962a9cc1cccf747c",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-08T11:10:11.345017"
+  },
+  {
+    "id": "UA-2026-11-08-000928-a",
+    "_raw_id": "bf42e9d7b42b43e8bd16f337d9aab74d",
+    "title": "Акумуляторні батареї (2 лоти)",
+    "org": "Військова частина А4438",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 2305683.0,
+    "currency": "UAH",
+    "deadline": "2026-11-17",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/bf42e9d7b42b43e8bd16f337d9aab74d",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-08T16:00:50.351300"
+  },
+  {
+    "id": "UA-2026-11-08-001043-a",
+    "_raw_id": "5f73563be25445d8b177508d2c728aa1",
+    "title": "ДК 021:2015 31440000-2 Акумуляторні батареї. Акамуляторна батарея на рідкому електроліті, яка використовується для запуску поршневих двигунів12V 225AH 1150A BUFFALO BULL",
+    "org": "Чемеровецький ліцей №1  Чемеровецької селищної ради Хмельницької області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 31800.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/5f73563be25445d8b177508d2c728aa1",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-08T16:02:26.992693"
+  },
+  {
+    "id": "UA-2026-11-05-009701-a",
+    "_raw_id": "ff301d5a4ec2440ca47c9198ffde97b3",
+    "title": "Акумулятор до рації Motorola R7 згідно з ДК 021:2015: 31440000-2 «Акумуляторні батареї»",
+    "org": "ВІЙСЬКОВА ЧАСТИНА А4122",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 450000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-14",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/ff301d5a4ec2440ca47c9198ffde97b3",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-08T16:03:19.770119"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -44098,6 +44161,27 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-07T19:46:39.226549"
+  },
+  {
+    "id": "UA-2026-11-08-001053-a",
+    "_raw_id": "ee0e6b6942784d51b1577a40d4496e07",
+    "title": "Комплект системи резервного живлення",
+    "org": "НАЦІОНАЛЬНЕ АГЕНТСТВО КВАЛІФІКАЦІЙ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 900000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-24",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/ee0e6b6942784d51b1577a40d4496e07",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-08T16:02:28.909189"
   },
   {
     "id": "UA-2026-03-31-000589-a",
