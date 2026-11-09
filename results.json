@@ -4333,9 +4333,72 @@
     "cpv": "31155000-7",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/615bbe354c51483e90dec69765504329",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-11-08T19:41:03.583251"
+  },
+  {
+    "id": "UA-2026-11-09-000331-a",
+    "_raw_id": "7211ca3c200441409c8ec2d7ca9668e6",
+    "title": "Акумуляторна батарея DEYE SE-F16 LiFePO4 LV 51.2V 314Ah 16kWh (SE-F16-С)",
+    "org": "ВИКОНАВЧИЙ КОМІТЕТ КОТЕЛЕВСЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 156600.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/7211ca3c200441409c8ec2d7ca9668e6",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-11-09T12:49:58.957213"
+  },
+  {
+    "id": "UA-2026-11-09-000381-a",
+    "_raw_id": "7cdd110f9bc448bd813fce16cb32e070",
+    "title": "Гібридний інвертор Deye SUN-20K-SG05LP3-EU-SM2",
+    "org": "ВИКОНАВЧИЙ КОМІТЕТ КОТЕЛЕВСЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 83916.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/7cdd110f9bc448bd813fce16cb32e070",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-11-09T12:53:19.461947"
+  },
+  {
+    "id": "UA-2026-11-09-002824-a",
+    "_raw_id": "a34f96d3946943a1aef1fd89aec65004",
+    "title": "4,2 кВт LiFePO4 комплект резервного живлення Інвертор Anenji WiFi + 1 акумулятор 24 V 100Ah Easun Power",
+    "org": "Відділ освіти Пірнівської сільської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 34000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/a34f96d3946943a1aef1fd89aec65004",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-11-09T14:10:47.409534"
   },
   {
     "id": "UA-2026-03-20-006846-a",
@@ -10552,6 +10615,27 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-07T19:43:51.858236"
+  },
+  {
+    "id": "UA-2026-11-06-012386-a",
+    "_raw_id": "3a32386d63b443b694f00bd19077fe72",
+    "title": "Гібридний інвертор SolaX Power X3-NEO-12K-LV",
+    "org": "Комунальне некомерційне підприємство \"Перегінська лікарня\" Перегінської селищної ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 99860.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/3a32386d63b443b694f00bd19077fe72",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-09T13:53:12.950622"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -30016,9 +30100,114 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/45a41f890a3c475b8f32b56e775b8bcc",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-08T19:36:45.112616"
+  },
+  {
+    "id": "UA-2026-11-09-000147-a",
+    "_raw_id": "4fbc0f504b474c7d9caff031192963b5",
+    "title": "ДБЖ 2000 ВА #20",
+    "org": "Військова частина А5175",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 160000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-17",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/4fbc0f504b474c7d9caff031192963b5",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-09T12:41:12.732834"
+  },
+  {
+    "id": "UA-2026-11-03-014692-a",
+    "_raw_id": "19a0cfffce314ab2961785589c90fabb",
+    "title": "Інвертор (перетворювач) DC-AC Інвертор гібридний Solis S6-EH3P50K-H HV-battery",
+    "org": "Іллінецький аграрний фаховий коледж",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 198765.0,
+    "currency": "UAH",
+    "deadline": "2026-11-06",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/19a0cfffce314ab2961785589c90fabb",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-09T12:50:42.437994"
+  },
+  {
+    "id": "UA-2026-10-26-009484-a",
+    "_raw_id": "95069766a06a442b91417302c27b62d1",
+    "title": "Акумулятор AGM 12V 200Ah",
+    "org": "Військова частина А4647",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 191486.0,
+    "currency": "UAH",
+    "deadline": "2026-11-03",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/95069766a06a442b91417302c27b62d1",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-09T13:14:30.395528"
+  },
+  {
+    "id": "UA-2026-11-09-000849-a",
+    "_raw_id": "533de40de5eb4d608a02837099f08c59",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "УПРАВЛІННЯ ОСВІТИ, КУЛЬТУРИ, СІМ'Ї, МОЛОДІ ТА СПОРТУ ВИКОНАВЧИХ ОРГАНІВ МАРАЗЛІЇВСЬКОЇ СІЛЬСЬКОЇ РАДИ БІЛГОРОД-ДНІСТРОВСЬКОГО РАЙОНУ ОДЕСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 240800.0,
+    "currency": "UAH",
+    "deadline": "2026-11-12",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/533de40de5eb4d608a02837099f08c59",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-09T13:36:58.896357"
+  },
+  {
+    "id": "UA-2026-11-09-002524-a",
+    "_raw_id": "e0320b07d68e424ba6ebbef538abbb74",
+    "title": "Акумулятор гелевий",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"СЛАВУТИЧ-ТЕПЛОМЕРЕЖІ\" СЛАВУТИЦЬКОЇ МІСЬКОЇ РАДИ ВИШГОРОДСЬКОГО РАЙОНУ КИЇВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 58320.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/e0320b07d68e424ba6ebbef538abbb74",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-09T14:03:10.506383"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -44226,6 +44415,48 @@
     "fetched_at": "2026-11-08T16:02:28.909189"
   },
   {
+    "id": "UA-2026-10-23-012313-a",
+    "_raw_id": "f99ec46c0392436da60bf96bb02a3f1a",
+    "title": "Джерело безперебійного живлення",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 2428",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 53305.0,
+    "currency": "UAH",
+    "deadline": "2026-11-09",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/f99ec46c0392436da60bf96bb02a3f1a",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-09T12:46:23.918812"
+  },
+  {
+    "id": "UA-2026-10-20-005907-a",
+    "_raw_id": "6aabb85d08eb45499544ffdec103b3b6",
+    "title": "Джерела безперебійного живлення",
+    "org": "Інститут демографії та досліджень якості  життя імені Михайла Птухи Національної академії наук України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 350000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-05",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/6aabb85d08eb45499544ffdec103b3b6",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-09T14:04:01.631206"
+  },
+  {
     "id": "UA-2026-03-31-000589-a",
     "_raw_id": "03c8f99b32854900b7b10271b8fcd93c",
     "title": "Генератор інверторний Könner&Söhnen KS 4500i",
@@ -49044,5 +49275,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-11-05T22:26:15.585944"
+  },
+  {
+    "id": "UA-2026-11-09-002082-a",
+    "_raw_id": "fd95f75fba3e437d960d4d85ef983629",
+    "title": "Придбання джерел резервного живлення, а саме Сонячна панель Rizen RSM96-11-450 BNDG (\t 09330000-1 - Сонячна енергія)",
+    "org": "Пірнівська сільська рада",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 62400.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/fd95f75fba3e437d960d4d85ef983629",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-11-09T13:57:46.496921"
   }
 ]
