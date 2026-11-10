@@ -195,6 +195,28 @@
     "fetched_at": "2026-07-24T06:46:57.918617"
   },
   {
+    "id": "UA-2026-11-05-012283-a",
+    "_raw_id": "1f6487928a49497086d4aec7a1879de2",
+    "title": "Системи резервного живлення (код 31150000-2 національного класифікатора України ДК 021:2015 «Єдиний закупівельний словник»)",
+    "org": "УПРАВЛІННЯ АДМІНІСТРАТИВНИМИ БУДИНКАМИ УПРАВЛІННЯ СПРАВАМИ АПАРАТУ ВЕРХОВНОЇ РАДИ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 6718823.54,
+    "currency": "UAH",
+    "deadline": "2026-11-21",
+    "cpvs": [
+      "31150000-2",
+      "31155000-7"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/1f6487928a49497086d4aec7a1879de2",
+    "is_new": true,
+    "score": 85,
+    "fetched_at": "2026-11-10T13:37:44.851097"
+  },
+  {
     "id": "UA-2026-03-20-009920-a",
     "_raw_id": "aebdb5ec5893401faea13af58d9813ae",
     "title": "ДК 021:2015 31150000-2 Баласти для розрядних ламп чи трубок (комплект: сонячний інвертор Deye SUN-20K-SG05LP3-EU-SM2, 20 кВт, 3-фазний або «еквівалент»;  акумуляторна батарея Deye SE-G5.1Pro-B LiFePO4 51,2V/100AH, 5120W*h або «еквівалент») для Лебединського закладу загальної середньої освіти І-ІІІ ступенів № 7 Лебединської міської ради Сумської області\n",
@@ -4417,7 +4439,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/c3488245567e4506ae2578348074be58",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-11-09T23:53:15.216889"
   },
@@ -10696,7 +10718,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/8168aa723329456aa4c0c7a7fcae95d2",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-10T00:21:33.627888"
   },
@@ -10717,9 +10739,30 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/1348c7101d684ad8b082a81f0d9826e9",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-10T00:29:39.324471"
+  },
+  {
+    "id": "UA-2026-11-10-000667-a",
+    "_raw_id": "e7793fba179c4cbd8a8832dab5cd0d82",
+    "title": "Гібридний інвертор SUN-12KSG05LP3-EU-SM2",
+    "org": "ВІДДІЛ КУЛЬТУРИ, СПОРТУ ТА ТУРИЗМУ КОТЕЛЕВСЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 62610.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/e7793fba179c4cbd8a8832dab5cd0d82",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-10T12:34:54.445685"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -30331,7 +30374,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/8a2b4899a4434065b10ec73a048d1db7",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-09T23:53:45.562573"
   },
@@ -30352,7 +30395,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/621dadfe9d244711a3282b95d227efe0",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-09T23:55:29.655464"
   },
@@ -30373,7 +30416,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/ca5bc55cf93849dba8d7289e9dd3ab68",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-09T23:55:42.885790"
   },
@@ -30394,7 +30437,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/917748cf56d14476897509d900864642",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-09T23:58:46.115644"
   },
@@ -30415,7 +30458,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/51fb162d62aa4465b122010ff85360c7",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-10T00:26:33.626432"
   },
@@ -30436,7 +30479,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/d1448ade804b4ec58f02512fb4a72f79",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-10T00:29:20.799360"
   },
@@ -30457,7 +30500,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/4e2b0ed566ba4ce9aa1db6e70e1284cc",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-10T00:43:57.881511"
   },
@@ -30478,7 +30521,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/b95d9ab91fd74e0897e368100e7b6260",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-10T00:44:46.750606"
   },
@@ -30499,9 +30542,93 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/f6d9ec72a3b34b469ece5531f794e532",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-10T00:50:06.708094"
+  },
+  {
+    "id": "UA-2026-11-05-015678-a",
+    "_raw_id": "89f164d08536473b81a3c177bf8b2832",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "Полтавський державний аграрний університет",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 50000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-10",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/89f164d08536473b81a3c177bf8b2832",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-10T12:17:34.772888"
+  },
+  {
+    "id": "UA-2026-11-05-012998-a",
+    "_raw_id": "3b5c7c34ee384f6ea8c3e4a1e5e12d70",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "Полтавський державний аграрний університет",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 40000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-10",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/3b5c7c34ee384f6ea8c3e4a1e5e12d70",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-10T12:48:58.792653"
+  },
+  {
+    "id": "UA-2026-11-10-001676-a",
+    "_raw_id": "2ce4a0ba9dbe43bb9086746e1964de25",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "Полтавський державний аграрний університет",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 60000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-13",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/2ce4a0ba9dbe43bb9086746e1964de25",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-10T13:02:11.600849"
+  },
+  {
+    "id": "UA-2026-11-10-002816-a",
+    "_raw_id": "ed0a348607474d268b0ab49b91da5011",
+    "title": "Гібридні інвертори",
+    "org": "ГОЛОВНИЙ ЦЕНТР ПІДГОТОВКИ ОСОБОВОГО СКЛАДУ ДЕРЖАВНОЇ ПРИКОРДОННОЇ СЛУЖБИ УКРАЇНИ ІМЕНІ ГЕНЕРАЛ-МАЙОРА ІГОРЯ МОМОТА(ВІЙСЬКОВА ЧАСТИНА 9930)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 441500.0,
+    "currency": "UAH",
+    "deadline": "2026-11-13",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/ed0a348607474d268b0ab49b91da5011",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-10T13:29:45.789047"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -44809,7 +44936,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/728409eb03044f778c6682b78d6b37cc",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-10T00:13:21.829066"
   },
@@ -44830,7 +44957,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/ed30d8d1683843328c790ea7b603d37f",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-10T00:30:02.850253"
   },
@@ -44851,9 +44978,72 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/f053c33f714c40f9aede717921d17b56",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-10T00:33:13.641469"
+  },
+  {
+    "id": "UA-2026-10-21-013767-a",
+    "_raw_id": "f7a3ec5d802e47169a1b3a570a86bc0d",
+    "title": "Трифазна гібридна система збереження енергії, трифазна гібридна система резервного живлення, джерело безперебійного живлення ",
+    "org": "Головне управління Національної поліції в Миколаївській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 1376666.67,
+    "currency": "UAH",
+    "deadline": "2026-11-10",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/f7a3ec5d802e47169a1b3a570a86bc0d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-10T12:17:14.623210"
+  },
+  {
+    "id": "UA-2026-10-23-009550-a",
+    "_raw_id": "972f3c57127d4a79af159559fe8f7040",
+    "title": "Комплект обладнання для забезпечення енергетичної стійкості Здолбунівського ліцею № 2 Здолбунівської міської ради Рівненської області зі встановленням та пусконалогоджувальними роботами",
+    "org": "Здолбунівський ліцей №2 Здолбунівської міської ради Рівненської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 1250000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-08",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/972f3c57127d4a79af159559fe8f7040",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-10T12:54:42.749144"
+  },
+  {
+    "id": "UA-2026-11-10-002258-a",
+    "_raw_id": "ec6a31ebda1c466fa68ac86f36f399ec",
+    "title": "Акамулятор   Eko Worthy 12/8 V 100 Ah  ",
+    "org": "Комунальне некомерційне підприємство \"Карлівська лікарня ім. Л.В. Радевича\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 44700.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/ec6a31ebda1c466fa68ac86f36f399ec",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-10T13:17:57.092496"
   },
   {
     "id": "UA-2026-03-31-000589-a",
