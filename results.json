@@ -4502,7 +4502,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/b8ec36c32c904f76ab608c3ae4c1b85d",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-11-11T13:13:24.968670"
   },
@@ -10886,7 +10886,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/596d6336679146a19ea297339e867b09",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-11T12:56:37.490683"
   },
@@ -10907,7 +10907,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/c60f4f26eead41bab8e388fbf7e48d68",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-11T13:14:04.948145"
   },
@@ -30962,9 +30962,30 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/90f677fb6ff44d8498140ed953c334e7",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-11T12:46:23.530103"
+  },
+  {
+    "id": "UA-2026-11-11-003351-a",
+    "_raw_id": "1de1cd0c39844deeb63a8cb6f78383e6",
+    "title": "Акумуляторна батарея",
+    "org": "Фінансове управління Таращанської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 85700.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/1de1cd0c39844deeb63a8cb6f78383e6",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-11T18:20:33.548754"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -45484,7 +45505,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/66375a3166a44df6a7511513be738512",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-11T12:18:10.297002"
   },
@@ -45505,7 +45526,7 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/a23db208c2374f8790f8dcbec3d10ff5",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-11T12:43:00.151653"
   },
@@ -45526,7 +45547,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/cb8d637b9c2141c79e91e3c2804c48f8",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-11T12:58:05.013442"
   },
