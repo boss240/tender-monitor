@@ -4507,6 +4507,27 @@
     "fetched_at": "2026-11-11T13:13:24.968670"
   },
   {
+    "id": "UA-2026-11-11-007058-a",
+    "_raw_id": "1c2ce33e456f48cfb1d6348068e13e38",
+    "title": "Комплект резервного електроживлення (гібридний інвертор та акумуляторна батарея) Джерела безперебійного живлення",
+    "org": "Комунальний заклад професійної (професійно-технічної) освіти «Київський професійний коледж будівництва і комунального господарства»",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 137569.99,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/1c2ce33e456f48cfb1d6348068e13e38",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-11-11T22:06:25.478943"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -10910,6 +10931,48 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-11T13:14:04.948145"
+  },
+  {
+    "id": "UA-2026-11-06-008733-a",
+    "_raw_id": "1b92e634490a4259b2efc0273fc35dd2",
+    "title": "Комплект резервного живлення Growatt 6 kW інвертор + батарея Dyness DL5.0C 5 kW (GW-6kW/5kWh-Dyness)",
+    "org": "УПРАВЛІННЯ СЛУЖБИ БЕЗПЕКИ УКРАЇНИ В ТЕРНОПІЛЬСЬКІЙ ОБЛАСТІ ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 132287.0,
+    "currency": "UAH",
+    "deadline": "2026-11-11",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/1b92e634490a4259b2efc0273fc35dd2",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-11T21:53:53.788780"
+  },
+  {
+    "id": "UA-2026-11-11-004688-a",
+    "_raw_id": "1ebe17fff33f4ee598803ec3816bf6ae",
+    "title": "Обладнання для реалізації публічного інвестиційного проекту Модернізація майстерень і лабораторій закладів професійної освіти (Комплект резервного живлення (Гібридний інвертор)",
+    "org": "Комунальний заклад професійної (професійно-технічної) освіти Київської обласної ради \"Васильківський професійний коледж\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 212500.0,
+    "currency": "UAH",
+    "deadline": "2026-11-16",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/1ebe17fff33f4ee598803ec3816bf6ae",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-11T22:11:08.465760"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -30983,9 +31046,51 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/1de1cd0c39844deeb63a8cb6f78383e6",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-11T18:20:33.548754"
+  },
+  {
+    "id": "UA-2026-11-11-009378-a",
+    "_raw_id": "51336aae811a4fc99f8198c81b07aeea",
+    "title": "ДБЖ Legrand Keor DK 3000VA 3000W , ДК 021:2015 - 31154000-0 Джерела безперебійного живлення",
+    "org": "ДЕРЖАВНА НАУКОВА УСТАНОВА \"ІНСТИТУТ ОСВІТНЬОЇ АНАЛІТИКИ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 62500.0,
+    "currency": "UAH",
+    "deadline": "2026-11-27",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/51336aae811a4fc99f8198c81b07aeea",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-11T23:03:51.818811"
+  },
+  {
+    "id": "UA-2026-11-11-009505-a",
+    "_raw_id": "50ab003be34843098e01f30f5a1f83da",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "Івано-Франківський регіональний центр оцінювання якості освіти",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 46000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-17",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/50ab003be34843098e01f30f5a1f83da",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-11T23:05:04.815155"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -45550,6 +45655,195 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-11T12:58:05.013442"
+  },
+  {
+    "id": "UA-2026-10-26-011965-a",
+    "_raw_id": "dfcc7259027b4accabd29fc34843e9c5",
+    "title": "Гібридна система зберігання електроенергії із монтажем для ТСЦ 6843 (м. Кам’янець-Подільський).",
+    "org": "Регіональний сервісний центр ГСЦ МВС в Хмельницькій, Тернопільській та Чернівецькій областях (філія ГСЦ МВС)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 333333.33,
+    "currency": "UAH",
+    "deadline": "2026-11-11",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/dfcc7259027b4accabd29fc34843e9c5",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-11T21:59:48.659809"
+  },
+  {
+    "id": "UA-2026-11-11-006610-a",
+    "_raw_id": "eaf801861912411e85a6593e838d43fa",
+    "title": "Повербанки з елементами електричного захисту",
+    "org": "Інститут ботаніки ім. М.Г. Холодного Національної академії наук України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 34500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/eaf801861912411e85a6593e838d43fa",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-11T22:04:40.048664"
+  },
+  {
+    "id": "UA-2026-11-11-006927-a",
+    "_raw_id": "efb49b8511f14d05b63a3c1b59429f40",
+    "title": "Система резервного живлення MARSTEK  VENUS-E 2500 Вт/5120 Вт",
+    "org": "КЗ \"Запорізький обласний спортивний ліцей\" Запорізької обласної ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 138000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/efb49b8511f14d05b63a3c1b59429f40",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-11T22:15:30.513620"
+  },
+  {
+    "id": "UA-2026-11-09-009778-a",
+    "_raw_id": "cf2dcb1017644862acb83d1809a18efd",
+    "title": "Система безперебійного живлення з доставкою, встановленням, підключенням та пусконалагодженням",
+    "org": "ЗАКЛАД ПІСЛЯДИПЛОМНОЇ ОСВІТИ \"ЦЕНТР ПІДВИЩЕННЯ КВАЛІФІКАЦІЇ СЛУЖБИ ЗАЙНЯТОСТІ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1532500.0,
+    "currency": "UAH",
+    "deadline": "2026-11-25",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/cf2dcb1017644862acb83d1809a18efd",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-11T22:15:32.716512"
+  },
+  {
+    "id": "UA-2026-11-11-007885-a",
+    "_raw_id": "8f890155757c48e88f6aa5b8ad0ba1ee",
+    "title": "Пристрій безперебійного живлення Vinga LCD 2000VA metall case (VPC-2000M)",
+    "org": "ДЕПАРТАМЕНТ АРХІТЕКТУРИ ТА МІСТОБУДУВАННЯ ЧЕРКАСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 41040.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/8f890155757c48e88f6aa5b8ad0ba1ee",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-11T22:25:48.844293"
+  },
+  {
+    "id": "UA-2026-11-11-008018-a",
+    "_raw_id": "10022e8740574b87844c56dd94ab3342",
+    "title": "Аккумулятор",
+    "org": "Барський відділ Державної казначейської служби України Вінницької області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 89600.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/10022e8740574b87844c56dd94ab3342",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-11T22:29:16.201528"
+  },
+  {
+    "id": "UA-2026-11-11-008514-a",
+    "_raw_id": "5dae4c5cae084e318a3ce3ad5bb6fc20",
+    "title": "Акмуляторні батареї",
+    "org": "Військова частина А0693",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1791000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/5dae4c5cae084e318a3ce3ad5bb6fc20",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-11T22:40:40.927009"
+  },
+  {
+    "id": "UA-2026-10-16-011991-a",
+    "_raw_id": "cd18459a3f834f82a72377c34e1f7740",
+    "title": "Система накопичення та перетворення електричної енергії (згідно специфікації)",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ІНФО-РАДА-ДНІПРО\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 515833.5,
+    "currency": "UAH",
+    "deadline": "2026-11-10",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/cd18459a3f834f82a72377c34e1f7740",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-11T22:57:14.348872"
+  },
+  {
+    "id": "UA-2026-11-06-008917-a",
+    "_raw_id": "a3a7236824f540169619e8843abfd69b",
+    "title": "Комплектувальні вироби для ремонту невиробничого обладнання: джерело безперебійного живлення для світлофорних об‘єктів з монтажем",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ТРАНСПОРТНА ІНФРАСТРУКТУРА МІСТА\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 2952891.33,
+    "currency": "UAH",
+    "deadline": "2026-11-22",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/a3a7236824f540169619e8843abfd69b",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-11T23:05:58.341846"
   },
   {
     "id": "UA-2026-03-31-000589-a",
