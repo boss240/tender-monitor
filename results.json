@@ -4565,7 +4565,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/2db7eb5a1f69428688fd0ed20d857fb5",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-11-12T22:05:36.485068"
   },
@@ -4586,7 +4586,7 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/c14e3b518a234faaae440f9abf7884f2",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-11-12T22:51:50.985859"
   },
@@ -11075,7 +11075,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/43c57aa74c044057ad629b6e9c1f7b60",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-12T22:14:30.895665"
   },
@@ -11096,9 +11096,51 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/e0204516063e4dc483c1b31987216ece",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-12T22:51:41.181358"
+  },
+  {
+    "id": "UA-2026-11-10-009761-a",
+    "_raw_id": "7319c44e64c74b99b83f871ebf141d15",
+    "title": "Гібридний інвертор",
+    "org": "Національний технічний університет \"Дніпровська політехніка\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 81666.67,
+    "currency": "UAH",
+    "deadline": "2026-11-13",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/7319c44e64c74b99b83f871ebf141d15",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-13T12:01:00.956916"
+  },
+  {
+    "id": "UA-2026-11-13-000921-a",
+    "_raw_id": "a82990176ce44a91b20492b76edb4413",
+    "title": "ДБЖ nJoy UPS 1000VA Echo Pro 1000",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"КІЛІЙСЬКИЙ ЦЕНТР ПЕРВИННОЇ МЕДИКО - САНІТАРНОЇ ДОПОМОГИ\" КІЛІЙСЬКОЇ МІСЬКОЇ РАДИ ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 48900.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/a82990176ce44a91b20492b76edb4413",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-13T12:23:55.846533"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -31256,9 +31298,30 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/e931a9a1ad5e48899238a895a337d5dc",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-12T22:36:03.927279"
+  },
+  {
+    "id": "UA-2026-11-13-001662-a",
+    "_raw_id": "ffd25abe0cc14a22a13bf76352e9a661",
+    "title": "Акумулятори",
+    "org": "Військова частина Т0430",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/ffd25abe0cc14a22a13bf76352e9a661",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-13T12:41:48.364149"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -46135,7 +46198,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/2a4274a90feb441b8352a199d2f8a577",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-12T21:47:25.671175"
   },
@@ -46156,7 +46219,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/f645728bf78b428993bbae9ca3ca40ad",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-12T22:12:31.836880"
   },
@@ -46177,7 +46240,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/545c5ece6ad34c238766773a1b1fadea",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-12T22:17:11.271810"
   },
@@ -46198,7 +46261,7 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/eb651c20ae1d4d278cc7bf4ec2846c6b",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-12T22:23:17.649271"
   },
@@ -46219,7 +46282,7 @@
     "cpv": "09332000-5",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/b56d83c26d914f2ea3f597f94b866523",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-12T22:24:49.162205"
   },
@@ -46240,9 +46303,72 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/5f4b111ae2f84b28a7666976bb8ae2bc",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-12T22:57:27.913074"
+  },
+  {
+    "id": "UA-2026-11-13-000852-a",
+    "_raw_id": "098d581d1eff40f18c2900a37a34c976",
+    "title": "Сонячна установка",
+    "org": "Комунальне підприємство Тростянецької міської ради \"Чисте Місто\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 197000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/098d581d1eff40f18c2900a37a34c976",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-13T12:26:30.882483"
+  },
+  {
+    "id": "UA-2026-11-13-002843-a",
+    "_raw_id": "b2f5e84cadaf43f180f9170c3d53eb78",
+    "title": "Джерело безперебійного живлення",
+    "org": "ІНСТИТУТ НАУКОВИХ ДОСЛІДЖЕНЬ З ЦИВІЛЬНОГО ЗАХИСТУ НАЦІОНАЛЬНОГО УНІВЕРСИТЕТУ ЦИВІЛЬНОГО ЗАХИСТУ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 99980.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/b2f5e84cadaf43f180f9170c3d53eb78",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-13T13:07:21.136628"
+  },
+  {
+    "id": "UA-2026-10-20-013247-a",
+    "_raw_id": "68b429b5c9f04f7eb525e6a8ec6a7d72",
+    "title": "Джерело резервного живлення (Комплект автономного енергопостачання)",
+    "org": "Виконавчий комітет Могилівської сільської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 460000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-05",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/68b429b5c9f04f7eb525e6a8ec6a7d72",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-13T13:10:27.167777"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -47714,7 +47840,7 @@
     "cpv": "31710000-6",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/ccfe42a01d034ee294993dde566e66e7",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-11-12T22:56:14.921086"
   },
@@ -47735,7 +47861,7 @@
     "cpv": "09331000-8",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/1996d1173b4842b4b62a6e7ed0c5d426",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-11-12T22:56:26.303667"
   },
@@ -51210,5 +51336,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-11-12T13:21:57.355462"
+  },
+  {
+    "id": "UA-2026-11-13-000842-a",
+    "_raw_id": "34633d42cab04ee292ce167b52fa75f2",
+    "title": "Система керування  Deye BOS-PDU-2 (BMS) для Deye BOS-G-Pack5.1",
+    "org": "Державний навчальний заклад \"Коршівський професійний аграрний ліцей\" ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 40590.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/34633d42cab04ee292ce167b52fa75f2",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-11-13T12:22:13.082194"
   }
 ]
