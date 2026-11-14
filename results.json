@@ -11159,7 +11159,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/106710b14bdf44d3a4a61a8f150aaed4",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-13T21:59:26.962116"
   },
@@ -11180,9 +11180,30 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/9dee313bf6ea4174b1402ac53450b47c",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-13T22:17:02.056979"
+  },
+  {
+    "id": "UA-2026-10-27-015338-a",
+    "_raw_id": "8823f1a0fd104c1d8d52a5311b47d063",
+    "title": "Стаціонарна акумуляторна батарея LiFePO4 номінальною енергоємністю не менше 5,12 кВт·год, номінальною напругою 51,2 В, ємністю не менше 100 А·год, із вбудованою BMS",
+    "org": "Дитячо-юнацька спортивна школа №26 міста Києва",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 257547.5,
+    "currency": "UAH",
+    "deadline": "2026-11-17",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/8823f1a0fd104c1d8d52a5311b47d063",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-14T11:18:35.902823"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -31382,7 +31403,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/d78442dd336348c89ff3f4cb1582e198",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-13T21:22:46.896633"
   },
@@ -31403,7 +31424,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/065a4368c5234c0c93e9b30034f797b1",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-13T21:51:41.902058"
   },
@@ -31424,7 +31445,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/4a1d383936f542f7bfb89495ac2e47f3",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-13T22:01:28.476372"
   },
@@ -31445,7 +31466,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/f0e771cd497845ca9e1d998a41f9aa2f",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-13T22:02:35.248031"
   },
@@ -31466,7 +31487,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/9041028c12be4634a0e426b6090ad855",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-13T22:10:13.996082"
   },
@@ -31487,7 +31508,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/e5adbf1cf4ad48148ecaaf2e1b4a980d",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-13T22:35:31.447765"
   },
@@ -31508,7 +31529,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/438122216de24fdea74de5201966211b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-13T22:38:50.405322"
   },
@@ -46576,7 +46597,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/3412d27363354028b27b85922ce786bb",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-13T22:17:15.609803"
   },
@@ -46597,7 +46618,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/921109071f444465a4d12242c2062465",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-13T22:29:04.001802"
   },
@@ -46618,9 +46639,51 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/3a0fd325face4d2197c2f939246166b3",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-13T22:37:12.657263"
+  },
+  {
+    "id": "UA-2026-10-29-006941-a",
+    "_raw_id": "543077d7ed1b45fda04ea28c5e33782b",
+    "title": "Обладнання та матеріали, необхідні для монтажу сонячної електростанції  (код ДК 021:2015 09330000-1- Сонячна енергія)",
+    "org": "УПРАВЛІННЯ ФІЗИЧНОЇ КУЛЬТУРИ І СПОРТУ МИКОЛАЇВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 243000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-14",
+    "cpvs": [
+      "09331200-0"
+    ],
+    "cpv": "09331200-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/543077d7ed1b45fda04ea28c5e33782b",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-14T11:25:28.698776"
+  },
+  {
+    "id": "UA-2026-11-11-014128-a",
+    "_raw_id": "35206c423ac0452cb9b71682a74c8a3d",
+    "title": "Комплекти резервного живлення",
+    "org": "Комунальний заклад \"Запорізька спеціальна загальноосвітня школа-інтернат \"Світанок\" ЗОР",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 494520.83,
+    "currency": "UAH",
+    "deadline": "2026-11-14",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/35206c423ac0452cb9b71682a74c8a3d",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-14T11:32:47.494964"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -48116,6 +48179,27 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-11-12T22:56:26.303667"
+  },
+  {
+    "id": "UA-2026-10-29-010552-a",
+    "_raw_id": "9520c4d83c174598ba6940e7322461ea",
+    "title": "Сонячна гібридна електростанція в складі: гібридні інвертори, контролери заряду, акумуляторні батареї, сонячні панелі з урахуванням витрат на монтаж, підключення та пусконалагодження",
+    "org": "Регіональний сервісний центр ГСЦ МВС у Вінницькій, Черкаській та Кіровоградській областях (філія ГСЦ МВС)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1166666.67,
+    "currency": "UAH",
+    "deadline": "2026-11-14",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/9520c4d83c174598ba6940e7322461ea",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-11-14T11:29:18.716876"
   },
   {
     "id": "UA-2026-03-20-008862-a",
@@ -51609,5 +51693,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-11-13T12:22:13.082194"
+  },
+  {
+    "id": "UA-2026-11-14-000309-a",
+    "_raw_id": "024d279ba1d9470f9349ec0ef4d984a3",
+    "title": "Гібридна сонячна електростанція 160 кВт з системою накопичення енергії 480 кВт·год на базі обладнання DEYE",
+    "org": "Військова частина А4896",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 4500000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-28",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/024d279ba1d9470f9349ec0ef4d984a3",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-11-14T11:30:13.320985"
   }
 ]
