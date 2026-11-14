@@ -11201,7 +11201,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/8823f1a0fd104c1d8d52a5311b47d063",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-14T11:18:35.902823"
   },
@@ -46660,7 +46660,7 @@
     "cpv": "09331200-0",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/543077d7ed1b45fda04ea28c5e33782b",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-14T11:25:28.698776"
   },
@@ -46681,9 +46681,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/35206c423ac0452cb9b71682a74c8a3d",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-14T11:32:47.494964"
+  },
+  {
+    "id": "UA-2026-11-04-007690-a",
+    "_raw_id": "5dd699f196ef41ee9da8c258cdd57e0f",
+    "title": "комплект обладнання електроживлення та складових для системи безперебійного електроживлення мереж спеціального призначення",
+    "org": "Орган державної влади Управління Державної служби спеціального зв'язку та захисту інформації України у Вінницькій області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 250000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-14",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/5dd699f196ef41ee9da8c258cdd57e0f",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-14T16:00:51.131841"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -48197,7 +48218,7 @@
     "cpv": "09330000-1",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/9520c4d83c174598ba6940e7322461ea",
-    "is_new": true,
+    "is_new": false,
     "score": 60,
     "fetched_at": "2026-11-14T11:29:18.716876"
   },
@@ -51711,7 +51732,7 @@
     "cpv": "09330000-1",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/024d279ba1d9470f9349ec0ef4d984a3",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-11-14T11:30:13.320985"
   }
