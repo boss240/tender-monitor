@@ -4607,7 +4607,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/e7c62c0e058145e68cc69c9896a0c6f9",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-11-14T20:07:40.272210"
   },
@@ -11243,7 +11243,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/d3a4c36da842461dabc1e16f3c430ed3",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-14T20:09:39.487469"
   },
@@ -31576,6 +31576,27 @@
     "fetched_at": "2026-11-13T22:38:50.405322"
   },
   {
+    "id": "UA-2026-11-15-000078-a",
+    "_raw_id": "dcd533acaf774515bd4a72a45bf5efb6",
+    "title": "Акумуляторні батареї для безпілотних літальних апаратів",
+    "org": "Військова частина А4123",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 175440.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/dcd533acaf774515bd4a72a45bf5efb6",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-15T11:48:41.558638"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -46765,7 +46786,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/258a1866b7224b81ac99b7d5107f7c47",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-14T20:10:10.808915"
   },
