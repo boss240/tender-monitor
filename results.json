@@ -4691,7 +4691,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/e32e486cefbe42b6b7255cad363dad36",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-11-17T23:57:54.730359"
   },
@@ -11537,9 +11537,51 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/db1f342c62234c31935b7d1c04271074",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-18T00:03:13.336226"
+  },
+  {
+    "id": "UA-2026-11-17-012910-a",
+    "_raw_id": "357fad4d70144b2abe83e49d48bb2335",
+    "title": "Акумулятор FelicityESS FLB48314TG1-H (Heating) 48v 314Ah, BMS 160A@16S, 16kW, до 16 parallel, CAN&RS485, IP65, 6000Cycles, 895*450*235mm, 121kg",
+    "org": "Виконком Шевченківської сільської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 97477.12,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/357fad4d70144b2abe83e49d48bb2335",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-18T13:02:35.275421"
+  },
+  {
+    "id": "UA-2026-11-18-000673-a",
+    "_raw_id": "b07a3f916b2e4306a48d5841380f577f",
+    "title": "гібридний інвертор",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"КЕРУЮЧА КОМПАНІЯ \"МІЙ ДІМ - БОРИСПІЛЬ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 32685.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/b07a3f916b2e4306a48d5841380f577f",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-18T13:07:37.966673"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -32201,7 +32243,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/fcb4b415a9294b07b2c56d1e3b283be2",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-17T23:05:58.128778"
   },
@@ -32222,7 +32264,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/0f7d2802fe164717938c10176b11445d",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-17T23:19:03.292758"
   },
@@ -32243,7 +32285,7 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/5e5107afc48f43b08dbaf11c94660917",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-17T23:36:21.397262"
   },
@@ -32264,7 +32306,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/af28e22e952c4406befa954abe90c9cf",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-17T23:37:12.505900"
   },
@@ -32285,7 +32327,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/879e0d2dc9f34dff973470cb3c9d4c72",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-17T23:48:54.304349"
   },
@@ -32306,9 +32348,114 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/7582bdf830504338bf98e65038937e30",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-17T23:49:24.675487"
+  },
+  {
+    "id": "UA-2026-11-18-000237-a",
+    "_raw_id": "16170c2ce4b34fc19bbe70d0f3fd79bd",
+    "title": "Акумуляторні батареї",
+    "org": "ЧЕРНІВЕЦЬКА МИТНИЦЯ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 54583.33,
+    "currency": "UAH",
+    "deadline": "2026-12-04",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/16170c2ce4b34fc19bbe70d0f3fd79bd",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-18T12:52:20.293203"
+  },
+  {
+    "id": "UA-2026-11-18-000431-a",
+    "_raw_id": "e4f7e4c356a04cb8a53525c6eaea86b6",
+    "title": "ДБЖ 450W/800VA, L-I, AVR, 4 x Schuko APC, BV800I-GR",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЗАПОРІЖРЕМСЕРВІС\" ЗАПОРІЗЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 53700.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/e4f7e4c356a04cb8a53525c6eaea86b6",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-18T12:59:16.238094"
+  },
+  {
+    "id": "UA-2026-11-17-012190-a",
+    "_raw_id": "d31dc3c46c264dea96958c5c772039e0",
+    "title": "установка зберігання електричної енергії",
+    "org": "ДЕРЖАВНИЙ ТОРГОВЕЛЬНО-ЕКОНОМІЧНИЙ УНІВЕРСИТЕТ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 11965509.17,
+    "currency": "UAH",
+    "deadline": "2026-12-03",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/d31dc3c46c264dea96958c5c772039e0",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-18T13:14:30.380501"
+  },
+  {
+    "id": "UA-2026-11-18-002047-a",
+    "_raw_id": "360c71977d4e4fb0966beefc979f05ac",
+    "title": "Cонячний інвертор Growatt SPF6000ESP 6000W",
+    "org": "ВІДДІЛ ОСВІТИ ДРАБІВСЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 46500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/360c71977d4e4fb0966beefc979f05ac",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-18T13:53:40.885695"
+  },
+  {
+    "id": "UA-2026-11-18-002215-a",
+    "_raw_id": "9680562a20e545f19cc8630e8839fd67",
+    "title": "Батарея LiFePo4 Ecоsolex LV 51.2V 100 Ah",
+    "org": "ВІДДІЛ ОСВІТИ ДРАБІВСЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 46000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/9680562a20e545f19cc8630e8839fd67",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-18T13:57:40.698612"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -47815,9 +47962,114 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/202d4f38b1e44392afde9965c8cf5dc2",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-17T23:09:26.401835"
+  },
+  {
+    "id": "UA-2026-11-13-009429-a",
+    "_raw_id": "0ee6a6bc2cd2451983d15c5200a2258a",
+    "title": "Джерело безперебійного живлення (у комплекті)",
+    "org": "СТРИЖАВСЬКА СЕЛИЩНА РАДА ВІННИЦЬКОГО РАЙОНУ ВІННИЦЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 471351.57,
+    "currency": "UAH",
+    "deadline": "2026-11-29",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/0ee6a6bc2cd2451983d15c5200a2258a",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-18T13:04:22.053679"
+  },
+  {
+    "id": "UA-2026-11-18-001841-a",
+    "_raw_id": "57d91acd81124b9db74402c858894a56",
+    "title": "Пристрій безперебійного живлення Vinga LCD 1200VA, 720W,",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО ОВІДІОПОЛЬСЬКОЇ СЕЛИЩНОЇ РАДИ \"ОВІДІОПОЛЬСЬКА ЛІКАРНЯ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 45200.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/57d91acd81124b9db74402c858894a56",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-18T13:50:01.722600"
+  },
+  {
+    "id": "UA-2026-11-02-005555-a",
+    "_raw_id": "0956774f8e0241c38ff698cc293a2abe",
+    "title": "Комплект обладнання для системи накопичення електричної енергії для                                    Закладу дошкільної освіти (ясла-садок) комбінованого типу № 196 м. Києва",
+    "org": "Управління освіти Голосіївської районної в місті Києві державної адміністрації",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 810658.33,
+    "currency": "UAH",
+    "deadline": "2026-11-18",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/0956774f8e0241c38ff698cc293a2abe",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-18T14:03:29.161397"
+  },
+  {
+    "id": "UA-2026-11-18-002655-a",
+    "_raw_id": "b4837e54800f43dfa648acfc298332d2",
+    "title": "АКБ Westa 6CT",
+    "org": "СЛОВЕЧАНСЬКА СІЛЬСЬКА РАДА",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 63400.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/b4837e54800f43dfa648acfc298332d2",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-18T14:13:26.242618"
+  },
+  {
+    "id": "UA-2026-10-26-005565-a",
+    "_raw_id": "6d66491547694182966c060fb3d4d0be",
+    "title": "Джерело безперебійного живлення.",
+    "org": "Департамент патрульної поліції",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 91373.26,
+    "currency": "UAH",
+    "deadline": "2026-11-12",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/6d66491547694182966c060fb3d4d0be",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-18T14:21:22.710907"
   },
   {
     "id": "UA-2026-03-31-000589-a",
