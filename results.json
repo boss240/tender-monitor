@@ -4822,6 +4822,27 @@
     "fetched_at": "2026-11-19T13:34:16.460073"
   },
   {
+    "id": "UA-2026-11-19-009732-a",
+    "_raw_id": "5e9cb6d06acb4780bd3e806e02f9bf2f",
+    "title": "Гібридний інвертор (hybrid) Deye SUN-6K-SG06LP1-EU-BM2 WiFi",
+    "org": "Національний заслужений академічний ансамбль танцю України імені П.Вірського",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 161831.27,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/5e9cb6d06acb4780bd3e806e02f9bf2f",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-11-19T23:21:31.907841"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -32878,6 +32899,48 @@
     "fetched_at": "2026-11-19T14:06:22.972983"
   },
   {
+    "id": "UA-2026-10-28-012239-a",
+    "_raw_id": "13441aabc78b4e26b94a8df1fde01a40",
+    "title": "Гібридні інвертори",
+    "org": "Департамент патрульної поліції",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 407693.33,
+    "currency": "UAH",
+    "deadline": "2026-11-13",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/13441aabc78b4e26b94a8df1fde01a40",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-19T22:40:01.089123"
+  },
+  {
+    "id": "UA-2026-11-03-007762-a",
+    "_raw_id": "5811df92964246dfa2466a22a245c4fd",
+    "title": "Інвертор та акамуляторні батареї",
+    "org": "КОМУНАЛЬНИЙ КОНЦЕРН \"ЦЕНТР КОМУНАЛЬНОГО СЕРВІСУ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 295416.67,
+    "currency": "UAH",
+    "deadline": "2026-11-19",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/5811df92964246dfa2466a22a245c4fd",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-19T22:49:53.342231"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -48655,9 +48718,114 @@
     "cpv": "31155000-7",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/19f1cf266b934eafb6dcdd4704b7cace",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-19T19:19:26.726148"
+  },
+  {
+    "id": "UA-2026-11-19-007752-a",
+    "_raw_id": "9a5dcd1d77d54608bdfd9bbe70935bd8",
+    "title": "Джерело безперебійного живлення (у комплекті)",
+    "org": "Комунальне некомерційне підприємство \"Центр первинної медико-санітарної допомоги Гатненської сільської ради\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 987733.33,
+    "currency": "UAH",
+    "deadline": "2026-12-06",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/9a5dcd1d77d54608bdfd9bbe70935bd8",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-19T22:39:40.268051"
+  },
+  {
+    "id": "UA-2026-11-19-008207-a",
+    "_raw_id": "cd04b973272844e68ef496b33827e6b2",
+    "title": "Джерело безперебійного живлення",
+    "org": "СТАРОВИЖІВСЬКА СЕЛИЩНА РАДА",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 115500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/cd04b973272844e68ef496b33827e6b2",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-19T22:50:15.600059"
+  },
+  {
+    "id": "UA-2026-11-18-018948-a",
+    "_raw_id": "508acfc786824207af9ac06ae0647826",
+    "title": "Сонячна гібридна електростанція (у комплекті: Сонячні панелі, Гібридний інвертор, Високовольтна акумуляторна система, Система кріплень сонячних панелей, Щит захисту АС/DC та Монтажний набір) з монтажем, налаштуванням та пусконалагодженням",
+    "org": "ДЕРЖАВНИЙ НАВЧАЛЬНИЙ ЗАКЛАД \"НІЖИНСЬКИЙ ПРОФЕСІЙНИЙ АГРАРНИЙ ЛІЦЕЙ ЧЕРНІГІВСЬКОЇ ОБЛАСТІ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 2078777.78,
+    "currency": "UAH",
+    "deadline": "2026-12-04",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/508acfc786824207af9ac06ae0647826",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-19T23:01:10.881277"
+  },
+  {
+    "id": "UA-2026-10-28-011308-a",
+    "_raw_id": "ce42ad8a00a048ae9ad0cfc94afed0a3",
+    "title": "Джерело безперебійного живлення (у комплекті )",
+    "org": "Дошкільний навчальний заклад  № 628 Державного управління справами",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 233333.33,
+    "currency": "UAH",
+    "deadline": "2026-11-13",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/ce42ad8a00a048ae9ad0cfc94afed0a3",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-19T23:06:15.361273"
+  },
+  {
+    "id": "UA-2026-11-19-010083-a",
+    "_raw_id": "23a83b0aebaf4c429c36310ca29eb815",
+    "title": "Батарея універсальна",
+    "org": "Інститут геологічних наук",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 46494.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/23a83b0aebaf4c429c36310ca29eb815",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-19T23:27:26.706123"
   },
   {
     "id": "UA-2026-03-31-000589-a",
