@@ -4775,7 +4775,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/b6defa12b957484f85eb041aface30fd",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-11-19T12:38:32.615331"
   },
@@ -4796,7 +4796,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/d7e224b6c1f149f6b8ab5c93d2e99e86",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-11-19T13:15:16.809581"
   },
@@ -4817,7 +4817,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/698c9bff51964103895e6730fe9ae7ca",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-11-19T13:34:16.460073"
   },
@@ -11768,7 +11768,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/3fb7b925a1944c6ea1ea062e6e4593b3",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-19T13:25:28.165598"
   },
@@ -11789,7 +11789,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/ec2371a26ca84d54ac5f76a316854809",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-19T13:46:28.418784"
   },
@@ -32768,7 +32768,7 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/01fd1515fd6440faa1a9502fdca02b04",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-19T13:20:12.393896"
   },
@@ -32789,7 +32789,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/fa1a3302e8494350aafb90efc062af23",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-19T13:41:06.901768"
   },
@@ -32810,7 +32810,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/97639d4dfa2c4f909b1d691a215fbfac",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-19T13:41:21.639650"
   },
@@ -32831,7 +32831,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/d401230626ef47b2a1ca96a8bd615d94",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-19T13:48:49.084171"
   },
@@ -32852,7 +32852,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/3171136e58074650b86e69df15441a9b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-19T13:58:04.395157"
   },
@@ -32873,7 +32873,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/3839adb1b40a48f3b01dc632439e848a",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-19T14:06:22.972983"
   },
@@ -48571,7 +48571,7 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/a7a65f4121604cee84fac78c96cab394",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-19T12:51:00.511748"
   },
@@ -48592,7 +48592,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/4e01af0312a546229f8dc9be03fe8ce2",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-19T12:57:52.069267"
   },
@@ -48613,7 +48613,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/e2f154bf9e724f888f5a944624886973",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-19T13:33:24.291294"
   },
@@ -48634,9 +48634,30 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/a9ae2418bc1e48de9c55e36c369b4a61",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-19T13:38:25.804886"
+  },
+  {
+    "id": "UA-2026-11-16-016392-a",
+    "_raw_id": "19f1cf266b934eafb6dcdd4704b7cace",
+    "title": "Комплект обладнання для забезпечення енергетичної стійкості Яремчанського ліцею №2 Яремчанської міської ради \nІвано-Франківської області\n",
+    "org": "ЯРЕМЧАНСЬКИЙ ЛІЦЕЙ №2 ЯРЕМЧАНСЬКОЇ МІСЬКОЇ РАДИ ІВАНО-ФРАНКІВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 1250015.0,
+    "currency": "UAH",
+    "deadline": "2026-12-02",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/19f1cf266b934eafb6dcdd4704b7cace",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-19T19:19:26.726148"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -53790,7 +53811,7 @@
     "cpv": "31730000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/1bb77595616a4380bd8f5ef471a6274c",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-11-19T12:36:07.551114"
   }
