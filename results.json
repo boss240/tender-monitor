@@ -33546,9 +33546,30 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/cbfab717464a45d0a3aabc31211db5a1",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-22T12:24:07.895791"
+  },
+  {
+    "id": "UA-2026-11-22-000699-a",
+    "_raw_id": "c1c098da578b4a96b2ad43aec94b885a",
+    "title": "Акумуляторні батареї",
+    "org": "Фонд соціального захисту осіб з iнвалідністю",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 51630.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/c1c098da578b4a96b2ad43aec94b885a",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-22T17:14:06.196108"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -49685,9 +49706,30 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/07bf1fb882f440cbb216e93b07e919f5",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-22T12:24:48.408513"
+  },
+  {
+    "id": "UA-2026-11-04-012801-a",
+    "_raw_id": "141669ff08e64ef6a734228dc3e11fa2",
+    "title": "Пристрої безперебійного живлення",
+    "org": "Національна академія Служби безпеки України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 336533.33,
+    "currency": "UAH",
+    "deadline": "2026-11-22",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/141669ff08e64ef6a734228dc3e11fa2",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-22T17:12:54.071336"
   },
   {
     "id": "UA-2026-03-31-000589-a",
