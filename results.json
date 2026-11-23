@@ -4986,9 +4986,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/7cc969e2af834602af9926ba22639b87",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-11-23T15:07:31.500790"
+  },
+  {
+    "id": "UA-2026-11-06-009826-a",
+    "_raw_id": "dd1a5b754b444e04b73f6f65759cc2ac",
+    "title": "Система накопичення енергії (у складі: гібридний інвертор, акумуляторні батареї, з урахуванням витрат на монтаж та пусконалагоджувальні роботи)",
+    "org": "Регіональний сервісний центр ГСЦ МВС у Вінницькій, Черкаській та Кіровоградській областях (філія ГСЦ МВС)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 250000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-23",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/dd1a5b754b444e04b73f6f65759cc2ac",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-11-23T21:00:56.797170"
   },
   {
     "id": "UA-2026-03-20-006846-a",
@@ -12063,9 +12084,51 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/27217045ff7e41dbb93837a98f80f2be",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-23T15:08:15.189865"
+  },
+  {
+    "id": "UA-2026-11-23-003661-a",
+    "_raw_id": "381e4479c0f64ac1ae1e8519aa5e1fe1",
+    "title": "Сонячний інвертор Deye SUN-8K-SG06LP1-EU-DM3",
+    "org": "Сошниківський ліцей Вороньківської сільської ради Бориспільського району Київської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 62448.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/381e4479c0f64ac1ae1e8519aa5e1fe1",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-23T21:06:52.595065"
+  },
+  {
+    "id": "UA-2026-11-20-011310-a",
+    "_raw_id": "917879a939f1410a9052d3839a720d5a",
+    "title": "УСТАНОВКА ЗБЕРІГАННЯ ЕЛЕКТРИЧНОЇ ЕНЕРГІЇ (КОД ДК 021:2015 31440000-2 АКУМУЛЯТОРНІ БАТАРЕЇ)",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ДНІПРОВОДОКАНАЛ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 30227500.0,
+    "currency": "UAH",
+    "deadline": "2026-12-06",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/917879a939f1410a9052d3839a720d5a",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-23T21:56:23.709453"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -33630,7 +33693,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/bce81234a6354871bafd33724ffc425d",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-23T15:02:09.229689"
   },
@@ -33651,7 +33714,7 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/dd6f17cbabd64c92aa6b82f2b317e353",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-23T15:08:49.791267"
   },
@@ -33672,7 +33735,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/f10e38577ce8481487b52c402e53f602",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-23T15:13:12.054581"
   },
@@ -33693,9 +33756,30 @@
     "cpv": "31440000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/00747113b2444f3fb4c891462161d1a9",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-23T15:33:45.811687"
+  },
+  {
+    "id": "UA-2026-11-23-006753-a",
+    "_raw_id": "91ea73bcc26c422eba26b82de531950e",
+    "title": "Акумулятор універсальний Hoco DB81A Apollo 50000mAh 65W Blak(6942007637756); Акумулятор універсальний Veger 56000mAh PD QC3.0 130W Blak(VG-W5001C); Акумулятор універсальний Voltero S50 50000mAh (6090537940980); Акумулятор універсальний Proove Giant 100W 40000mAh Blak(PBGI99320001); Акумулятор універсальний Hoco DB03 Max Centurion 100000mAh 65W Blak ",
+    "org": "Харківський національний  автомобільно-дорожній університет",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 67728.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/91ea73bcc26c422eba26b82de531950e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-23T22:00:40.153212"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -49874,7 +49958,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/3d07c243e150456a82b9b25fae7349d0",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-23T14:57:50.980128"
   },
@@ -49895,9 +49979,114 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/9a153ef8a79843a0b35d05a9c363e83e",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-23T15:07:55.076845"
+  },
+  {
+    "id": "UA-2026-11-04-008719-a",
+    "_raw_id": "a741022e548a428db39471e612726cb5",
+    "title": "Обладнання для гібридних систем енергозабезпечення/електроживлення",
+    "org": "Бучанська міська рада",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 333266.67,
+    "currency": "UAH",
+    "deadline": "2026-11-20",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/a741022e548a428db39471e612726cb5",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-23T21:13:26.100285"
+  },
+  {
+    "id": "UA-2026-11-16-005960-a",
+    "_raw_id": "4b59de17fa434db784dad62ff0f31d88",
+    "title": "Система безперебійного живлення з монтажем та пусконалагодженням на місці її безпосередньої експлуатації",
+    "org": "УКРАЇНСЬКИЙ ДЕРЖАВНИЙ УНІВЕРСИТЕТ НАУКИ І ТЕХНОЛОГІЙ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 268500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/4b59de17fa434db784dad62ff0f31d88",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-23T21:31:04.639209"
+  },
+  {
+    "id": "UA-2026-11-23-005627-a",
+    "_raw_id": "553bdbb6f91f4385a0d680efb46493d6",
+    "title": "Пристрій безперебійного живлення",
+    "org": "ІМІДЖЕВО-ВИДАВНИЧИЙ ЦЕНТР НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/553bdbb6f91f4385a0d680efb46493d6",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-23T21:37:04.844479"
+  },
+  {
+    "id": "UA-2026-11-23-006816-a",
+    "_raw_id": "40af05c3317d4e1fb2f292051f1511b1",
+    "title": "Система безперебійного живлення",
+    "org": "Територіальне управління Державної судової адміністрації України в Житомирській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 99985.6,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/40af05c3317d4e1fb2f292051f1511b1",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-23T22:10:01.950688"
+  },
+  {
+    "id": "UA-2026-11-23-007410-a",
+    "_raw_id": "30d8e11accf7480eb3bcefb56cb42742",
+    "title": "Комплект системи резервного живлення",
+    "org": "Опорний заклад освіти \"Боярський академічний ліцей ім. Євгена Коновальця\" Боярської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 199810.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/30d8e11accf7480eb3bcefb56cb42742",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-23T22:16:51.298519"
   },
   {
     "id": "UA-2026-03-31-000589-a",
