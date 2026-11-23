@@ -4970,6 +4970,27 @@
     "fetched_at": "2026-11-21T17:07:44.485005"
   },
   {
+    "id": "UA-2026-11-05-012403-a",
+    "_raw_id": "7cc969e2af834602af9926ba22639b87",
+    "title": "Система накопичення енергії (у складі: гібридний інвертор, акумуляторні батареї, з урахуванням витрат на монтаж та пусконалагоджувальні роботи)",
+    "org": "Регіональний сервісний центр ГСЦ МВС у Вінницькій, Черкаській та Кіровоградській областях (філія ГСЦ МВС)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 166666.67,
+    "currency": "UAH",
+    "deadline": "2026-11-23",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/7cc969e2af834602af9926ba22639b87",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-11-23T15:07:31.500790"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -12024,6 +12045,27 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-21T12:33:25.395462"
+  },
+  {
+    "id": "UA-2026-11-18-007391-a",
+    "_raw_id": "27217045ff7e41dbb93837a98f80f2be",
+    "title": "Гібридний інвертор, 1- фазний, 6 кВт",
+    "org": "Комунальне підприємство Вінницької Міської Ради \"Вінницяміськтеплоенерго\" ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 57375.0,
+    "currency": "UAH",
+    "deadline": "2026-11-23",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/27217045ff7e41dbb93837a98f80f2be",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-23T15:08:15.189865"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -33572,6 +33614,90 @@
     "fetched_at": "2026-11-22T17:14:06.196108"
   },
   {
+    "id": "UA-2026-11-23-001579-a",
+    "_raw_id": "bce81234a6354871bafd33724ffc425d",
+    "title": "Акумуляторна батарея модульна з підігрівом Dynnes Stack",
+    "org": "Градизька пожежно-рятувальна частина",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 193590.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/bce81234a6354871bafd33724ffc425d",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-23T15:02:09.229689"
+  },
+  {
+    "id": "UA-2026-11-12-015938-a",
+    "_raw_id": "dd6f17cbabd64c92aa6b82f2b317e353",
+    "title": "Акумуляторні батареї для електровозів серії ВЛ",
+    "org": "ПРИВАТНЕ АКЦІОНЕРНЕ ТОВАРИСТВО \"ЛЬВІВСЬКИЙ ЛОКОМОТИВОРЕМОНТНИЙ ЗАВОД\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 3162600.0,
+    "currency": "UAH",
+    "deadline": "2026-11-23",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/dd6f17cbabd64c92aa6b82f2b317e353",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-23T15:08:49.791267"
+  },
+  {
+    "id": "UA-2026-11-12-016899-a",
+    "_raw_id": "f10e38577ce8481487b52c402e53f602",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "Комунальне підприємство Міжнародний аеропорт \"Київ\" (Жуляни)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 123900.0,
+    "currency": "UAH",
+    "deadline": "2026-11-17",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/f10e38577ce8481487b52c402e53f602",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-23T15:13:12.054581"
+  },
+  {
+    "id": "UA-2026-11-23-002938-a",
+    "_raw_id": "00747113b2444f3fb4c891462161d1a9",
+    "title": "Акумуляторні батареї",
+    "org": "КОМУНАЛЬНИЙ НАВЧАЛЬНИЙ ЗАКЛАД \"ХІМІКО-ЕКОЛОГІЧНИЙ ЛІЦЕЙ\" ДНІПРОПЕТРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 219802.0,
+    "currency": "UAH",
+    "deadline": "2026-12-09",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/00747113b2444f3fb4c891462161d1a9",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-23T15:33:45.811687"
+  },
+  {
     "id": "UA-2026-03-11-009316-a",
     "_raw_id": "7fad1110eac241ee8d461dfe982b6d0e",
     "title": "СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 1, СИСТЕМИ БЕЗПЕРЕБІЙНОГО ЖИВЛЕННЯ ТИП 2",
@@ -49730,6 +49856,48 @@
     "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-22T17:12:54.071336"
+  },
+  {
+    "id": "UA-2026-11-23-001453-a",
+    "_raw_id": "3d07c243e150456a82b9b25fae7349d0",
+    "title": "Джерело безперебійного живлення",
+    "org": "Управління з фізичної культури та спорту Одеської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 59980.08,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/3d07c243e150456a82b9b25fae7349d0",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-23T14:57:50.980128"
+  },
+  {
+    "id": "UA-2026-11-06-009429-a",
+    "_raw_id": "9a153ef8a79843a0b35d05a9c363e83e",
+    "title": "комплект обладнання системи безперебійного живлення",
+    "org": "МИКОЛАЇВСЬКИЙ ФАХОВИЙ КОЛЕДЖ ЕКОНОМІКИ ТА ХАРЧОВИХ ТЕХНОЛОГІЙ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 375000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-23",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/9a153ef8a79843a0b35d05a9c363e83e",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-23T15:07:55.076845"
   },
   {
     "id": "UA-2026-03-31-000589-a",
