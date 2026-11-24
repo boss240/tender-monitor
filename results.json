@@ -5028,7 +5028,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/3f9a05fad3574519875d1e6a843bf3fe",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-11-24T14:52:26.111476"
   },
@@ -5049,9 +5049,30 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/f306071353a64ddd94564f6832ed86c6",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-11-24T15:07:52.960476"
+  },
+  {
+    "id": "UA-2026-11-24-004708-a",
+    "_raw_id": "945c675f214f4eaaa547e24b7cfdadb9",
+    "title": "Предмети довгострокового користування (придбання та встановлення джерел резервного живлення) а саме :Гібридний інвертор Deye SUN-6K-SG05LP1-EU-AM2-P, 48 В, 6000 Вт, 1 фаза (безперебійник, UPS, ДБЖ)",
+    "org": "Лубенська місцева пожежна охорона",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 45000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/945c675f214f4eaaa547e24b7cfdadb9",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-11-24T20:38:20.911272"
   },
   {
     "id": "UA-2026-03-20-006846-a",
@@ -12255,6 +12276,27 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-24T03:13:06.781789"
+  },
+  {
+    "id": "UA-2026-11-24-005785-a",
+    "_raw_id": "66eed9c50e6b42e4b3e755d5c05978fb",
+    "title": "предмети довгострокового користування (придбання та встановлення джерел резервного живлення), а саме: Акумуляторна батарея Deye SE-F5 PRO (PRO-C)",
+    "org": "Лубенська місцева пожежна охорона",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 100000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/66eed9c50e6b42e4b3e755d5c05978fb",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-24T20:57:42.340480"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -34029,7 +34071,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/31a21ba4bf924094adcb1c33dd835210",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-24T14:54:13.499409"
   },
@@ -34050,7 +34092,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/64fb593b9ef44d699b6b253eae01c201",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-24T15:17:42.547383"
   },
@@ -34071,7 +34113,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/c35ddde7656c44b2b1317069965eb63d",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-24T15:26:48.718014"
   },
@@ -34092,7 +34134,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/03ae83ef30bf43ada3a5945d4beda11b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-24T15:47:59.385415"
   },
@@ -34113,9 +34155,114 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/a41e6c008bf049a18f71734084e9c024",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-24T16:01:04.496903"
+  },
+  {
+    "id": "UA-2026-11-24-003638-a",
+    "_raw_id": "5836b7dd3d5643d682f720ecf6be5720",
+    "title": "Акумуляторна батарея 66 000 mAh Solid-State 6s ",
+    "org": "Військова частина А5039",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1984500.0,
+    "currency": "UAH",
+    "deadline": "2026-12-03",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/5836b7dd3d5643d682f720ecf6be5720",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-24T20:21:01.498253"
+  },
+  {
+    "id": "UA-2026-11-24-002928-a",
+    "_raw_id": "46d8bfa8efdc45acad2f99ba4a56d471",
+    "title": "Збірка акумуляторна 20S1P 60 000mAh, в кількості 1 (одна) штука, код ДК 021-2015: 31440000-2 «Акумуляторні батареї»  (1.132)",
+    "org": "Військова частина А4948",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 58700.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/46d8bfa8efdc45acad2f99ba4a56d471",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-24T20:26:59.642720"
+  },
+  {
+    "id": "UA-2026-11-24-004380-a",
+    "_raw_id": "543d95b17fe240c6816f55f3d675edaa",
+    "title": "31155000-7Інвертори",
+    "org": "Боремельська сільська рада",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 160000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/543d95b17fe240c6816f55f3d675edaa",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-24T20:32:29.350442"
+  },
+  {
+    "id": "UA-2026-11-24-004470-a",
+    "_raw_id": "dc7f31578f7b49f1a4aaaf1b2480c679",
+    "title": "31440000-2Акумуляторні батареї",
+    "org": "Боремельська сільська рада",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 115000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/dc7f31578f7b49f1a4aaaf1b2480c679",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-24T20:34:09.991502"
+  },
+  {
+    "id": "UA-2026-11-24-004573-a",
+    "_raw_id": "6597713408794fc18919a18eb0ecc200",
+    "title": "Акумуляторна батарея 190 Ah/ 12 V- 6 шт.",
+    "org": "5 ДПРЗ ГУ ДСНС України у Рівненській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 64800.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/6597713408794fc18919a18eb0ecc200",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-24T20:45:04.482570"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -50630,7 +50777,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/af472aef3df14e0bbe1197f5ee8512ac",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-24T15:22:21.816269"
   },
@@ -50651,7 +50798,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/fd26f65f29a54abf92e7bad09ddebd69",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-24T15:23:37.656302"
   },
@@ -50672,7 +50819,7 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/c59c514e8ea540478db12a01efe47747",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-24T15:42:54.715422"
   },
@@ -50693,9 +50840,72 @@
     "cpv": "09330000-1",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/32dfbdbd264c4013b5af73e0c5873c11",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-24T16:02:30.940067"
+  },
+  {
+    "id": "UA-2026-11-24-005090-a",
+    "_raw_id": "70e2627693824489861a67d3245864e6",
+    "title": "Джерело безперебійного живлення",
+    "org": "ГЛЕВАСЬКА СЕЛИЩНА РАДА",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 59998.33,
+    "currency": "UAH",
+    "deadline": "2026-12-10",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/70e2627693824489861a67d3245864e6",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-24T20:46:00.783586"
+  },
+  {
+    "id": "UA-2026-11-24-005369-a",
+    "_raw_id": "373eb3f880ec4faf8736ffe5c9fc7769",
+    "title": "Пристрій безперебійного живлення",
+    "org": "військова частина 2276 Національної гвардії України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 102000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/373eb3f880ec4faf8736ffe5c9fc7769",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-24T20:50:59.703230"
+  },
+  {
+    "id": "UA-2026-11-24-005454-a",
+    "_raw_id": "97388c153f0241d19f8c062ca24c3ab4",
+    "title": "комплект обладнання системи безперебійного живлення",
+    "org": "МИКОЛАЇВСЬКИЙ ФАХОВИЙ КОЛЕДЖ ЕКОНОМІКИ ТА ХАРЧОВИХ ТЕХНОЛОГІЙ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 375000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/97388c153f0241d19f8c062ca24c3ab4",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-24T20:53:12.059070"
   },
   {
     "id": "UA-2026-03-31-000589-a",
