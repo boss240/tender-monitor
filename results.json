@@ -5091,7 +5091,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/87d58702f4a84d17a3d44dd8833e37db",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-11-24T23:54:38.088344"
   },
@@ -5112,9 +5112,51 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/9b1a4ebb9d1f495db98839dcc475ab29",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-11-25T00:26:59.570556"
+  },
+  {
+    "id": "UA-2026-11-25-001850-a",
+    "_raw_id": "dad6884612f846d0850310cc66f3897b",
+    "title": "Акумуляторний блок SE-F5 Pro - 1 шт.\nГібридний інвертор (hybrid) Deye SUN-6K-SG06LP1-EU-BM2 WI-FI, 6кВт, однофазний - 1 шт.",
+    "org": "ВІДДІЛ ОСВІТИ ЛАДИЖИНСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 101790.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/dad6884612f846d0850310cc66f3897b",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-11-25T14:53:39.983119"
+  },
+  {
+    "id": "UA-2026-11-20-014701-a",
+    "_raw_id": "b13b2247bfbb4a3cadfc54e81c4894cd",
+    "title": "Гібридний інвертор Deye SUN-8K-SG05LP1-EU-AM2-P",
+    "org": "ВІЙСЬКОВА ЧАСТИНА А 0742",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 56128.9,
+    "currency": "UAH",
+    "deadline": "2026-11-25",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/b13b2247bfbb4a3cadfc54e81c4894cd",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-11-25T15:04:03.441992"
   },
   {
     "id": "UA-2026-03-20-006846-a",
@@ -12357,7 +12399,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/14244595b4834053836a95ea413902be",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-24T23:48:49.220733"
   },
@@ -12378,7 +12420,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/afe1981340944828a2716a3ccdf54cc1",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-24T23:56:10.857161"
   },
@@ -12399,9 +12441,30 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/e8d6db5bda4840c8a44af0939d40958f",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-25T00:43:21.461800"
+  },
+  {
+    "id": "UA-2026-11-20-003526-a",
+    "_raw_id": "ba8efa71958144818cd226102133a21b",
+    "title": "Інвертор гібридний Deye SUN-6K-SG05LP1-EU",
+    "org": "ОПОРНИЙ ЗАКЛАД ОСВІТИ \"СОФІЇВСЬКО-БОРЩАГІВСЬКИЙ ЛІЦЕЙ\" БОРЩАГІВСЬКОЇ СІЛЬСЬКОЇ РАДИ БУЧАНСЬКОГО РАЙОНУ КИЇВСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 46185.0,
+    "currency": "UAH",
+    "deadline": "2026-11-25",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/ba8efa71958144818cd226102133a21b",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-25T14:01:47.526085"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -34386,7 +34449,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/cd1be546690546d0b42dd4f33b870f45",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-24T23:49:51.916644"
   },
@@ -34407,7 +34470,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/e0c1a6cc674549a79aeec5833f754646",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-24T23:52:35.147722"
   },
@@ -34428,7 +34491,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/f4ae16c9b5b34a6aa3db204c5e27f51e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-25T00:01:49.542817"
   },
@@ -34449,7 +34512,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/d9277b3d55c64f329cce121313e7d7af",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-25T00:09:31.859387"
   },
@@ -34470,7 +34533,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/097b8394818a43cc86841ed95183e076",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-25T00:10:18.940473"
   },
@@ -34491,7 +34554,7 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/d703f89bb1b94ba4a713e956069a6c8b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-25T00:44:37.847157"
   },
@@ -34512,7 +34575,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/78eee0b5974040ba9f5c6c4785fad50e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-25T00:48:33.311748"
   },
@@ -34533,7 +34596,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/636d67313ff8405faf131fe096352612",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-25T00:50:10.623476"
   },
@@ -34554,9 +34617,114 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/b35755c544fd46d7b1afdde6218d72e9",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-25T00:52:39.847731"
+  },
+  {
+    "id": "UA-2026-11-25-001082-a",
+    "_raw_id": "7e6d5f33b0f04d9ba9d5795a9d440521",
+    "title": "Гібридні інвертори",
+    "org": "КП \"Борщагівка\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 199000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/7e6d5f33b0f04d9ba9d5795a9d440521",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-25T14:40:29.426631"
+  },
+  {
+    "id": "UA-2026-11-25-001434-a",
+    "_raw_id": "bfa46e116034437286f04f82d0df97a7",
+    "title": "Акумуляторні батареї",
+    "org": "КП \"Борщагівка\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 298999.98,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/bfa46e116034437286f04f82d0df97a7",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-25T14:48:50.659564"
+  },
+  {
+    "id": "UA-2026-11-18-004387-a",
+    "_raw_id": "79654aecf35d4972b78f2544b9906d86",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "військова частина А4051",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 191045.0,
+    "currency": "UAH",
+    "deadline": "2026-11-25",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/79654aecf35d4972b78f2544b9906d86",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-25T15:02:10.028025"
+  },
+  {
+    "id": "UA-2026-11-20-016241-a",
+    "_raw_id": "17a0dac7717645a998a7c8eef5da7e88",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "УКРАЇНСЬКИЙ ДЕРЖАВНИЙ УНІВЕРСИТЕТ НАУКИ І ТЕХНОЛОГІЙ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 30000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-25",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/17a0dac7717645a998a7c8eef5da7e88",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-25T15:03:53.773459"
+  },
+  {
+    "id": "UA-2026-11-19-015531-a",
+    "_raw_id": "cc7d81d0f68149b98798bf2c9d3f833f",
+    "title": "Інвертор (перетворювач) DC-AC",
+    "org": "ДЕРЖАВНЕ НЕКОМЕРЦІЙНЕ ТОВАРИСТВО \"ХАРКІВСЬКИЙ НАЦІОНАЛЬНИЙ\nАКАДЕМІЧНИЙ ТЕАТР ОПЕРИ ТА БАЛЕТУ ІМЕНІ М.В. ЛИСЕНКА\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 264262.22,
+    "currency": "UAH",
+    "deadline": "2026-11-24",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/cc7d81d0f68149b98798bf2c9d3f833f",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-25T15:12:07.616470"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -51218,7 +51386,7 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/c804cadc3a7a4f2483c140786623dc8a",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-24T23:55:59.208191"
   },
@@ -51239,7 +51407,7 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/f6a5c38cafaf4053bd6fa961259a49bc",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-24T23:59:12.334424"
   },
@@ -51260,7 +51428,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/d1f97613d6ae40e3b74881841f3960db",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-24T23:59:48.230960"
   },
@@ -51281,7 +51449,7 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/cdd3dba2c6834fa5935b5747467f4404",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-25T00:17:12.717722"
   },
@@ -51302,9 +51470,52 @@
     "cpv": "09331200-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/9d2390e740e44b4d971ef7a730cbdfd3",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-25T00:54:40.687931"
+  },
+  {
+    "id": "UA-2026-11-25-000943-a",
+    "_raw_id": "0b1b825bfbe44f53bf621848e05a19e6",
+    "title": "Сонячна установка потужністю 15кВтдля електрозабезпечення артезіанських свердловин №1, №787-3, №786 по вул. Столярського в м.Липовець, Вінницького району, Вінницької області",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЛИПОВЕЦЬВОДОКАНАЛ\" ЛИПОВЕЦЬКОЇ МІСЬКОЇ РАДИ ВІННИЦЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 545732.98,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/0b1b825bfbe44f53bf621848e05a19e6",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-25T14:30:43.032526"
+  },
+  {
+    "id": "UA-2026-11-11-013367-a",
+    "_raw_id": "9ef2471026634e339f0ecd63238b6855",
+    "title": "Гібридний інвертор Leapton H6000-LS2-G5 та Акумуляторна батарея Leapton EL-A05",
+    "org": "Військова Частина А4604",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 123000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-20",
+    "cpvs": [
+      "31680000-6",
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/9ef2471026634e339f0ecd63238b6855",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-25T14:47:05.998675"
   },
   {
     "id": "UA-2026-03-31-000589-a",
