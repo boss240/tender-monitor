@@ -5133,7 +5133,7 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/dad6884612f846d0850310cc66f3897b",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-11-25T14:53:39.983119"
   },
@@ -5154,7 +5154,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/b13b2247bfbb4a3cadfc54e81c4894cd",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-11-25T15:04:03.441992"
   },
@@ -12462,9 +12462,30 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/ba8efa71958144818cd226102133a21b",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-25T14:01:47.526085"
+  },
+  {
+    "id": "UA-2026-11-25-003439-a",
+    "_raw_id": "f61c6e11c49d42468d47fe45c628e5e7",
+    "title": "Гібридний сонячний інвертор Deye SUN-6K-SG06LP1-EU-BM2",
+    "org": "НОВОУКРАЇНСЬКА РАЙОННА ДЕРЖАВНА ЛІКАРНЯ ВЕТЕРИНАРНОЇ МЕДИЦИНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 100000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/f61c6e11c49d42468d47fe45c628e5e7",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-25T20:15:29.788262"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -34638,7 +34659,7 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/7e6d5f33b0f04d9ba9d5795a9d440521",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-25T14:40:29.426631"
   },
@@ -34659,7 +34680,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/bfa46e116034437286f04f82d0df97a7",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-25T14:48:50.659564"
   },
@@ -34680,7 +34701,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/79654aecf35d4972b78f2544b9906d86",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-25T15:02:10.028025"
   },
@@ -34701,7 +34722,7 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/17a0dac7717645a998a7c8eef5da7e88",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-25T15:03:53.773459"
   },
@@ -34722,9 +34743,93 @@
     "cpv": "31150000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/cc7d81d0f68149b98798bf2c9d3f833f",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-25T15:12:07.616470"
+  },
+  {
+    "id": "UA-2026-11-25-003253-a",
+    "_raw_id": "0a317638dd4b4766860ffd1b7370a2ca",
+    "title": "АКБ  LiFePO4 24V-90Ah (2304W) (SmarBMS JK BD6A 24S2P 120A (8-24S) 0.6 A акт.балансир+ВТ), корпус пластик,EVE LF90K\r\nАКБ  LiFePO4 24V-60Ah (1536W) (SmarBMS DALY 8-24S +1A акт.балансир+ВТ), корпус пластик,Eелементи 38121\r\nАКБ  LiFePO4 24V-125Ah (3200W) (SmarBMS JK BD6A 24S 12PC  120A (8-24S) 0.6  акт.бал+ВТ + CAN+інтерфейсн.плата) Lishen125, корпус\r\n",
+    "org": "КНП \"Карлівський ЦПМСД\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 124619.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/0a317638dd4b4766860ffd1b7370a2ca",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-25T20:09:00.817419"
+  },
+  {
+    "id": "UA-2026-11-25-003495-a",
+    "_raw_id": "c5e529db238c452c89bba986e1cd2723",
+    "title": "Акамулятор Deye SE-F5 Pro",
+    "org": "НОВОУКРАЇНСЬКА РАЙОННА ДЕРЖАВНА ЛІКАРНЯ ВЕТЕРИНАРНОЇ МЕДИЦИНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 92000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/c5e529db238c452c89bba986e1cd2723",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-25T20:15:27.057948"
+  },
+  {
+    "id": "UA-2026-11-25-003562-a",
+    "_raw_id": "5773ee50d80048669242d7ef99d7fe53",
+    "title": "Акамулятор Must LiFePO4 LP1600-48100 48V 100Ah",
+    "org": "НОВОУКРАЇНСЬКА РАЙОННА ДЕРЖАВНА ЛІКАРНЯ ВЕТЕРИНАРНОЇ МЕДИЦИНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 47000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/5773ee50d80048669242d7ef99d7fe53",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-25T20:15:27.912495"
+  },
+  {
+    "id": "UA-2026-11-25-003378-a",
+    "_raw_id": "fe6309dc6c164a4ca6b3076631ca1608",
+    "title": "Гібридний сонячний інвертор Must PV19-6048 EXP 48В 6 кВт",
+    "org": "НОВОУКРАЇНСЬКА РАЙОННА ДЕРЖАВНА ЛІКАРНЯ ВЕТЕРИНАРНОЇ МЕДИЦИНИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 33000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/fe6309dc6c164a4ca6b3076631ca1608",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-25T20:15:28.788597"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -51491,7 +51596,7 @@
     "cpv": "09332000-5",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/0b1b825bfbe44f53bf621848e05a19e6",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-25T14:30:43.032526"
   },
@@ -51513,9 +51618,30 @@
     "cpv": "31680000-6",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/9ef2471026634e339f0ecd63238b6855",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-25T14:47:05.998675"
+  },
+  {
+    "id": "UA-2026-11-03-008184-a",
+    "_raw_id": "227659b4f0f340efb45c5aff9378443f",
+    "title": "Комплект автономного електроживлення для системи відеоспостереження, код за ЄЗС ДК 021:2015 09330000-1 «Сонячна енергія»",
+    "org": "ВІЙСЬКОВА ЧАСТИНА 2253",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 952939.2,
+    "currency": "UAH",
+    "deadline": "2026-11-19",
+    "cpvs": [
+      "09332000-5"
+    ],
+    "cpv": "09332000-5",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/227659b4f0f340efb45c5aff9378443f",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-25T20:07:34.479699"
   },
   {
     "id": "UA-2026-03-31-000589-a",
