@@ -5238,7 +5238,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/52f49e7b7ceb4a71a1477d7e7021df6c",
-    "is_new": true,
+    "is_new": false,
     "score": 80,
     "fetched_at": "2026-11-26T20:12:39.311589"
   },
@@ -12717,6 +12717,27 @@
     "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-26T15:11:55.524161"
+  },
+  {
+    "id": "UA-2026-11-26-012295-a",
+    "_raw_id": "c01e9f6e41ee4ae1b47b57fdd7d377e1",
+    "title": "Гібридний інвертор",
+    "org": "Комунальне виробниче підприємство \"Теплоенерго\"м. Горішні Плавні\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 211008.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/c01e9f6e41ee4ae1b47b57fdd7d377e1",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-27T00:35:55.934830"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -35184,7 +35205,7 @@
     "cpv": "31154000-0",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/8ca201700afe44288ac8746f694dd66f",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-26T20:04:04.017092"
   },
@@ -35205,9 +35226,93 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/02a1b1ace5f049688853724b839c403b",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-26T20:08:45.283094"
+  },
+  {
+    "id": "UA-2026-11-26-010000-a",
+    "_raw_id": "0c6adbf209e24d64851d0b14e0be1ca4",
+    "title": "Інвертор ",
+    "org": "Радомишльський опорний ліцей №2  Житомирської області ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 97774.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/0c6adbf209e24d64851d0b14e0be1ca4",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-26T23:43:05.083922"
+  },
+  {
+    "id": "UA-2026-11-20-011146-a",
+    "_raw_id": "6d54ed0bfcc04eab8790f9f878b727cf",
+    "title": "ФОТОЕЛЕКТРИЧНИЙ МОДУЛЬ (КОД ДК 021:2015 09330000-1 - СОНЯЧНА ЕНЕРГІЯ)",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ДНІПРОВОДОКАНАЛ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 10396150.0,
+    "currency": "UAH",
+    "deadline": "2026-12-06",
+    "cpvs": [
+      "09331200-0"
+    ],
+    "cpv": "09331200-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/6d54ed0bfcc04eab8790f9f878b727cf",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-26T23:46:56.355420"
+  },
+  {
+    "id": "UA-2026-11-26-012073-a",
+    "_raw_id": "eb2e1f4bb6204f0db4c6992b5d5bb355",
+    "title": "Акумуляторна батарея 12V-9Ah; Акумуляторна батарея 12V 18Ач ; 31440000-2 Акумуляторні батареї ",
+    "org": "ОБЛАСНЕ КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"МИКОЛАЇВОБЛТЕПЛОЕНЕРГО\" ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 82032.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/eb2e1f4bb6204f0db4c6992b5d5bb355",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-27T00:32:28.957831"
+  },
+  {
+    "id": "UA-2026-11-13-015111-a",
+    "_raw_id": "4a1623f13d7f4e309ddd98d84e5d871e",
+    "title": "Акумуляторна батарея 6S3P",
+    "org": "ДЕРЖАВНА УСТАНОВА \"ЦЕНТР АВІАЦІЙНОГО ЗАБЕЗПЕЧЕННЯ НАЦІОНАЛЬНОЇ ПОЛІЦІЇ УКРАЇНИ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 4165000.0,
+    "currency": "UAH",
+    "deadline": "2026-11-24",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/4a1623f13d7f4e309ddd98d84e5d871e",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-27T00:35:03.127437"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -52270,9 +52375,72 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/4d9deb2a22814d08ab0b63c26100d1a1",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-26T20:04:28.392046"
+  },
+  {
+    "id": "UA-2026-11-26-009630-a",
+    "_raw_id": "770d6275118e4685b1f7f81fae7fd6da",
+    "title": "Батарея",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"РЖИЩІВСЬКИЙ МІСЬКИЙ ЦЕНТР ПЕРВИННОЇ МЕДИКО-САНІТАРНОЇ ДОПОМОГИ\" РЖИЩІВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 33400.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/770d6275118e4685b1f7f81fae7fd6da",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-26T23:38:49.281251"
+  },
+  {
+    "id": "UA-2026-11-26-012043-a",
+    "_raw_id": "6864f07b9cda4904bab5aef0e9527609",
+    "title": "Фотовольтаїчні двосторонні модулі",
+    "org": "НАЦІОНАЛЬНИЙ ТЕХНІЧНИЙ УНІВЕРСИТЕТ УКРАЇНИ \"КИЇВСЬКИЙ ПОЛІТЕХНІЧНИЙ ІНСТИТУТ ІМЕНІ ІГОРЯ СІКОРСЬКОГО\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Solar",
+    "amount": 43950.0,
+    "currency": "UAH",
+    "deadline": "2026-12-12",
+    "cpvs": [
+      "09331200-0"
+    ],
+    "cpv": "09331200-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/6864f07b9cda4904bab5aef0e9527609",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-27T00:30:16.352256"
+  },
+  {
+    "id": "UA-2026-11-26-012528-a",
+    "_raw_id": "422639f6b97b4b19a13042d1ab2f83b3",
+    "title": "джерела безперебійного живлення",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"ЖАШКІВСЬКА БАГАТОПРОФІЛЬНА ЛІКАРНЯ\" ЖАШКІВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 96577.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/422639f6b97b4b19a13042d1ab2f83b3",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-27T00:45:07.865885"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -57599,5 +57767,26 @@
     "is_new": false,
     "score": 55,
     "fetched_at": "2026-11-26T14:41:42.906305"
+  },
+  {
+    "id": "UA-2026-11-26-010212-a",
+    "_raw_id": "d1cc252ec1884044b152711b151417c1",
+    "title": "Металева стійка для встановлення кластеру літійно-іонних акумуляторних батарей та блоку управління та високовольтний блок управління ",
+    "org": "Радомишльський опорний ліцей №2  Житомирської області ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 93042.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/d1cc252ec1884044b152711b151417c1",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-11-26T23:47:59.090998"
   }
 ]
