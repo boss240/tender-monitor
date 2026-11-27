@@ -12735,9 +12735,30 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/c01e9f6e41ee4ae1b47b57fdd7d377e1",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-27T00:35:55.934830"
+  },
+  {
+    "id": "UA-2026-11-27-000580-a",
+    "_raw_id": "c7a547ccc1ba49d08e205f6292b91ceb",
+    "title": "Джерела резервного живлення (АКБ 12 V 280 Ah ANTPower (LiFePO4) 3,8 кВт/ч) (ДК 021:2015 31440000-2 - Акумуляторні батареї)",
+    "org": "Виконавчий комітет Троїцької сільської ради Павлоградського району Дніпропетровської області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 145600.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/c7a547ccc1ba49d08e205f6292b91ceb",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-27T13:51:18.562589"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -35247,7 +35268,7 @@
     "cpv": "31155000-7",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/0c6adbf209e24d64851d0b14e0be1ca4",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-26T23:43:05.083922"
   },
@@ -35268,7 +35289,7 @@
     "cpv": "09331200-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6d54ed0bfcc04eab8790f9f878b727cf",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-26T23:46:56.355420"
   },
@@ -35289,7 +35310,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/eb2e1f4bb6204f0db4c6992b5d5bb355",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-27T00:32:28.957831"
   },
@@ -35310,9 +35331,93 @@
     "cpv": "31440000-2",
     "status": "urgent",
     "url": "https://prozorro.gov.ua/tender/4a1623f13d7f4e309ddd98d84e5d871e",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-27T00:35:03.127437"
+  },
+  {
+    "id": "UA-2026-11-23-003503-a",
+    "_raw_id": "36cd6898f14a420b9206b7c8bd14007a",
+    "title": "Акумуляторні батареї та блок керування",
+    "org": "Військова частина А2772",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 310000.0,
+    "currency": "UAH",
+    "deadline": "2026-12-02",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/36cd6898f14a420b9206b7c8bd14007a",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-27T13:56:59.986687"
+  },
+  {
+    "id": "UA-2026-11-24-019166-a",
+    "_raw_id": "4d7de741fafb49ecb2fc3ce20a76243d",
+    "title": "Інвертор гібридний SUN-6KSG06LP1-EU-BM2",
+    "org": "ЗАКЛАД ЗАГАЛЬНОЇ СЕРЕДНЬОЇ ОСВІТИ \"ПРИЛИМАНСЬКИЙ ЛІЦЕЙ\" АВАНГАРДІВСЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 35266.0,
+    "currency": "UAH",
+    "deadline": "2026-11-27",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/4d7de741fafb49ecb2fc3ce20a76243d",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-27T14:18:37.943262"
+  },
+  {
+    "id": "UA-2026-11-27-002454-a",
+    "_raw_id": "20c49fff187a4b4a986a9283251a82c0",
+    "title": "Інвертор гібридний",
+    "org": "НАЦІОНАЛЬНИЙ УНІВЕРСИТЕТ КОРАБЛЕБУДУВАННЯ ІМЕНІ АДМІРАЛА МАКАРОВА",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 63500.0,
+    "currency": "UAH",
+    "deadline": "2026-12-02",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/20c49fff187a4b4a986a9283251a82c0",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-27T14:42:02.931070"
+  },
+  {
+    "id": "UA-2026-11-27-002867-a",
+    "_raw_id": "af9f1c6988cc47b9bca556ffc0f92134",
+    "title": "Гібридний сонячний інвертор PowMr",
+    "org": "ДЕРЖАВНА УСТАНОВА НАЦІОНАЛЬНЕ ВІЙСЬКОВЕ МЕМОРІАЛЬНЕ КЛАДОВИЩЕ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 39998.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/af9f1c6988cc47b9bca556ffc0f92134",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-27T14:47:13.908051"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -52396,7 +52501,7 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/770d6275118e4685b1f7f81fae7fd6da",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-26T23:38:49.281251"
   },
@@ -52417,7 +52522,7 @@
     "cpv": "09331200-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/6864f07b9cda4904bab5aef0e9527609",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-27T00:30:16.352256"
   },
@@ -52438,9 +52543,30 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/422639f6b97b4b19a13042d1ab2f83b3",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-27T00:45:07.865885"
+  },
+  {
+    "id": "UA-2026-11-10-016541-a",
+    "_raw_id": "ae19230acd4c4f9cb5220a943962f2b3",
+    "title": "Джерело безперебійного живлення для комутаційної шафи на 13,5 кВт",
+    "org": "Управління забезпечення Оперативно-рятувальної служби цивільного захисту Державної служби України з надзвичайних ситуацій",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 245933.33,
+    "currency": "UAH",
+    "deadline": "2026-11-26",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/ae19230acd4c4f9cb5220a943962f2b3",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-27T14:22:29.573975"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -57785,8 +57911,29 @@
     "cpv": "31680000-6",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/d1cc252ec1884044b152711b151417c1",
-    "is_new": true,
+    "is_new": false,
     "score": 55,
     "fetched_at": "2026-11-26T23:47:59.090998"
+  },
+  {
+    "id": "UA-2026-11-09-012628-a",
+    "_raw_id": "17e677a7dff84fdda4a08a54a2f3cfe7",
+    "title": "Інвертори гібридні",
+    "org": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТР ОРГАНІЗАЦІЇ ДОРОЖНЬОГО РУХУ\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 208316.67,
+    "currency": "UAH",
+    "deadline": "2026-11-25",
+    "cpvs": [
+      "31680000-6"
+    ],
+    "cpv": "31680000-6",
+    "status": "urgent",
+    "url": "https://prozorro.gov.ua/tender/17e677a7dff84fdda4a08a54a2f3cfe7",
+    "is_new": true,
+    "score": 55,
+    "fetched_at": "2026-11-27T13:54:45.453124"
   }
 ]
