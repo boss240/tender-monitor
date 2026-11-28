@@ -5243,6 +5243,69 @@
     "fetched_at": "2026-11-26T20:12:39.311589"
   },
   {
+    "id": "UA-2026-11-27-009372-a",
+    "_raw_id": "63962c006f654b188cc3db13719d7bf7",
+    "title": "Гібридний інвертор DEYE",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"ЦЕНТР ПЕРВИННОЇ МЕДИКО-САНІТАРНОЇ ДОПОМОГИ\" ЧУПАХІВСЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 132000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/63962c006f654b188cc3db13719d7bf7",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-11-27T23:26:04.728448"
+  },
+  {
+    "id": "UA-2026-11-27-009243-a",
+    "_raw_id": "e007bf2bd807406ba7402f8f6cfdac9d",
+    "title": "Акумуляторна батарея SE-F16-C Deye (LifePO4 51.2V 314Ah 16.0 kWh) (згідно коду ДК 021:2015: 31440000-2 Акумуляторні батареї)",
+    "org": "Комунальне підприємство \"Каштан\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 113553.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/e007bf2bd807406ba7402f8f6cfdac9d",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-11-27T23:28:38.080321"
+  },
+  {
+    "id": "UA-2026-11-27-011454-a",
+    "_raw_id": "eb35e54612ef4289b320e8e61bcbd1d2",
+    "title": "Система автономного живлення у складі: гібридний інвертор, акумуляторні батареї та блок керування акумуляторними батареями",
+    "org": "Головне управління Національної поліції в Миколаївській області",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 441518.0,
+    "currency": "UAH",
+    "deadline": "2026-12-13",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/eb35e54612ef4289b320e8e61bcbd1d2",
+    "is_new": true,
+    "score": 80,
+    "fetched_at": "2026-11-28T00:07:47.764074"
+  },
+  {
     "id": "UA-2026-03-20-006846-a",
     "_raw_id": "afc69645f8b84b56a20532dbdde78f56",
     "title": "Код ДК 021:2015: код ДК 021:2015:31440000-2: Акумуляторні батареї (Акумуляторна батарея Deye RW-M6-1-B 51.2V 120AH)",
@@ -12777,9 +12840,72 @@
     "cpv": "31150000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/2cf011cd51df4b08b8be47d634419a96",
-    "is_new": true,
+    "is_new": false,
     "score": 75,
     "fetched_at": "2026-11-27T19:54:58.642838"
+  },
+  {
+    "id": "UA-2026-11-27-009153-a",
+    "_raw_id": "ea20d2d3af3d45d8bdb75669a5d3df70",
+    "title": "Акумуляторний модуль Dyness PowerBrick",
+    "org": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"ЦЕНТР ПЕРВИННОЇ МЕДИКО-САНІТАРНОЇ ДОПОМОГИ\" ЧУПАХІВСЬКОЇ СЕЛИЩНОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 98000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/ea20d2d3af3d45d8bdb75669a5d3df70",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-27T23:22:08.602275"
+  },
+  {
+    "id": "UA-2026-11-27-011038-a",
+    "_raw_id": "6b152467e5b241d39c16155cbea18800",
+    "title": "Інвертор гібридний Deye SUN-6K-SG06LP1-EU-BM2",
+    "org": "БОЛГРАДСЬКА МІСЬКА РАДА ОДЕСЬКОЇ ОБЛАСТІ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 142733.33,
+    "currency": "UAH",
+    "deadline": "2026-12-02",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/6b152467e5b241d39c16155cbea18800",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-28T00:02:39.565789"
+  },
+  {
+    "id": "UA-2026-11-26-015940-a",
+    "_raw_id": "e479edff3f4a4653a7820454ec0f6db5",
+    "title": "Гібридний інвертор 6 KW",
+    "org": "Дитяча музична школа с.Щасливе Пристоличної сільської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Inverter",
+    "amount": 78444.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31155000-7"
+    ],
+    "cpv": "31155000-7",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/e479edff3f4a4653a7820454ec0f6db5",
+    "is_new": true,
+    "score": 75,
+    "fetched_at": "2026-11-28T00:03:47.608190"
   },
   {
     "id": "UA-2026-03-20-007871-a",
@@ -35457,9 +35583,51 @@
     "cpv": "31440000-2",
     "status": "new",
     "url": "https://prozorro.gov.ua/tender/b8ce1dc97b4748488cfe2e2457e3fcdb",
-    "is_new": true,
+    "is_new": false,
     "score": 70,
     "fetched_at": "2026-11-27T20:05:07.770358"
+  },
+  {
+    "id": "UA-2026-11-27-009994-a",
+    "_raw_id": "576381feb9d84083abd8cbfa6322f7da",
+    "title": "31440000-2 — Акумуляторні батареї\n",
+    "org": "АТ \"Чернівціобленерго\"",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 892236.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31440000-2"
+    ],
+    "cpv": "31440000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/576381feb9d84083abd8cbfa6322f7da",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-27T23:37:18.321659"
+  },
+  {
+    "id": "UA-2026-11-20-015617-a",
+    "_raw_id": "4e66610458894110a179c9dff7a1a351",
+    "title": "Система безперебійного живлення (код 31150000-2 національного класифікатора України ДК 021:2015 \"Єдиний закупівельний словник\")",
+    "org": "Управління справами Апарату Верховної Ради України",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 16150000.0,
+    "currency": "UAH",
+    "deadline": "2026-12-07",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/4e66610458894110a179c9dff7a1a351",
+    "is_new": true,
+    "score": 70,
+    "fetched_at": "2026-11-27T23:39:31.398507"
   },
   {
     "id": "UA-2026-03-11-009316-a",
@@ -52627,7 +52795,7 @@
     "cpv": "31154000-0",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/33e9020f91f2426d9ad80cef4b4c79ce",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-27T19:57:47.711179"
   },
@@ -52648,9 +52816,114 @@
     "cpv": "31150000-2",
     "status": "active",
     "url": "https://prozorro.gov.ua/tender/9d554c8e826b46c6a27c7f24b1402501",
-    "is_new": true,
+    "is_new": false,
     "score": 65,
     "fetched_at": "2026-11-27T19:58:50.661117"
+  },
+  {
+    "id": "UA-2026-11-26-020146-a",
+    "_raw_id": "c6c2b6d6d7474e48b6da456979865c67",
+    "title": "Джерело безперебійного живлення",
+    "org": "Центр превентивної медицини Державного управління справами",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 33000.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/c6c2b6d6d7474e48b6da456979865c67",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-27T23:24:31.815463"
+  },
+  {
+    "id": "UA-2026-11-27-009743-a",
+    "_raw_id": "a6935fdf48b84c26a6ba19092ac62031",
+    "title": "Джерела безперебійного живлення",
+    "org": "Комунальне некомерційне підприємство \"Путивльська міська лікарня\"  Путивльської міської ради",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 38500.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/a6935fdf48b84c26a6ba19092ac62031",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-27T23:40:16.975149"
+  },
+  {
+    "id": "UA-2026-11-26-019925-a",
+    "_raw_id": "7ff935071d724562bb5b39a14196c0e3",
+    "title": "Комплект обладнання у складі: фотоелектричні модулі, гібридний інвертор, модуль управління BMS, акумуляторна батарея ",
+    "org": "ЛІЦЕЙ №20 ІВАНО-ФРАНКІВСЬКОЇ МІСЬКОЇ РАДИ",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1444492.0,
+    "currency": "UAH",
+    "deadline": "2026-12-12",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/7ff935071d724562bb5b39a14196c0e3",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-28T00:01:53.690876"
+  },
+  {
+    "id": "UA-2026-11-27-012168-a",
+    "_raw_id": "8040df29f6e94a0eb721b63921061800",
+    "title": "3apядна станція EcoFlow DELTA 3 2000 Air  (EFD3A2000-EU) \n",
+    "org": "Харківський національний економічний університет імені Семена Кузнеця",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "Other",
+    "amount": 50997.0,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31150000-2"
+    ],
+    "cpv": "31150000-2",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/8040df29f6e94a0eb721b63921061800",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-28T00:18:58.959155"
+  },
+  {
+    "id": "UA-2026-11-27-012284-a",
+    "_raw_id": "f138ae2dfb0d444dacd5dd7b6431d70c",
+    "title": "Джерело ( пристрій) безперебійного живлення",
+    "org": "НАВЧАЛЬНО-МЕТОДИЧНИЙ ЦЕНТР ЦИВІЛЬНОГО ЗАХИСТУ ТА БЕЗПЕКИ ЖИТТЄДІЯЛЬНОСТІ МІСТА КИЄВА",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 50500.2,
+    "currency": "UAH",
+    "deadline": "",
+    "cpvs": [
+      "31154000-0"
+    ],
+    "cpv": "31154000-0",
+    "status": "new",
+    "url": "https://prozorro.gov.ua/tender/f138ae2dfb0d444dacd5dd7b6431d70c",
+    "is_new": true,
+    "score": 65,
+    "fetched_at": "2026-11-28T00:22:26.833913"
   },
   {
     "id": "UA-2026-03-31-000589-a",
@@ -54209,6 +54482,27 @@
     "is_new": false,
     "score": 60,
     "fetched_at": "2026-11-24T02:44:42.177741"
+  },
+  {
+    "id": "UA-2026-11-27-010720-a",
+    "_raw_id": "d9facae8e4a9446191c24f8007554ec2",
+    "title": "Сонячна гібридна електростанція (у складі: гібридні інвертори, контролери заряду, акумуляторні батареї, сонячні панелі та інше з урахуванням витрат на монтаж та пусконалагодження)",
+    "org": "Регіональний сервісний центр ГСЦ МВС у Вінницькій, Черкаській та Кіровоградській областях (філія ГСЦ МВС)",
+    "source": "prozorro",
+    "platform": "prozorro",
+    "type": "BESS",
+    "amount": 1409915.56,
+    "currency": "UAH",
+    "deadline": "2026-12-14",
+    "cpvs": [
+      "09330000-1"
+    ],
+    "cpv": "09330000-1",
+    "status": "active",
+    "url": "https://prozorro.gov.ua/tender/d9facae8e4a9446191c24f8007554ec2",
+    "is_new": true,
+    "score": 60,
+    "fetched_at": "2026-11-27T23:54:40.375454"
   },
   {
     "id": "UA-2026-03-20-008862-a",
